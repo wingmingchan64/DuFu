@@ -10272,4 +10272,5 @@
 十二年來多戰場，天威已息陣堂堂。
 神靈漢代中興主，功業汾陽異姓王。
 
-This page is created by a program and is updated after major changes in the source files.
+=====================================================
+This page is created by a program and is updated after major changes in the source text files.
