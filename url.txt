@@ -16,8 +16,14 @@ https://www.zdic.net/
 教育部重編國語辭典修訂本
 https://dict.revised.moe.edu.tw/search.jsp?md=1
 
+粵音資料集叢
+https://jyut.net/
+
 粵語審音配詞字庫
 https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/
+
+正讀™？點讀！──香港正音(正讀)觀察
+https://cantonesestandard.wordpress.com/tag/%E7%B2%B5%E9%9F%B3%E5%B9%B3%E4%BB%84%E5%85%A5%E9%96%80/
 
 漢字→廣東話/粵語拼音轉換工具
 https://hongkongvision.com/tool/cc_py_conv_zh
