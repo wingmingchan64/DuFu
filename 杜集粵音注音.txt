@@ -260,11 +260,11 @@ gang3 sik1 zoeng1 gwan1 syu6, bei1 fung1 jat6 mou6 do1
 
 =====================================================
 
-0053 臨邑舍弟書至，苦雨，黃河泛溢
-隄防之患，簿領所憂，
-因寄此詩，用寬其意
+0053 臨邑舍弟書至，苦雨，黃河泛溢，
 lam4 jap1 se3 dai6 syu1 zi3, fu2 jyu5, wong4 ho4 faan6 jat6,
+隄防之患，簿領所憂，
 tai4 fong4 zi1 waan6, bou6 ling5 so2 jau1, 
+因寄此詩，用寬其意
 jan1 gei3 ci2 si1, jung6 fun1 kei4 ji3
 
 二儀積風雨，百谷漏波濤。
@@ -321,18 +321,18 @@ koek3 ji2 tin1 ngaai4 diu3, jau4 nang4 zai3 geoi6 ngou4
 =====================================================
 
 0059 天寶初，南曹小司寇舅，
-於我太夫人堂下，壘土爲山，
-一匱盈尺，以代彼朽木，
-承諸焚香瓷甌，甌甚安矣。
-旁植慈竹，蓋茲數峯，嶔岑嬋娟，
-宛有塵外數致。乃不知興之所至，
-而作是詩
 tin1 bou2 co1, naam4 cou4 siu2 si1 kau3 kau5, 
+於我太夫人堂下，壘土爲山，
 jyu1 ngo5 taai3 fu1 jan4 tong4 haa6, leoi5 tou2 wai4 saan1,
+一匱盈尺，以代彼朽木，
 jat1 gwai6 jing4 cek3, ji5 doi6 bei2 nau2 muk6, 
+承諸焚香瓷甌，甌甚安矣。
 sing4 zyu1 fan4 hoeng1 ci4 au1, au1 sam6 on1 ji5. 
+旁植慈竹，蓋茲數峯，嶔岑嬋娟，
 pong4 zik6 ci4 zuk1, goi3 zi1 sou3 fung1, jam1 sam4 sim4 gyun1, 
+宛有塵外數致。乃不知興之所至，
 jyun2 jau5 can4 ngoi6 sou3 zi3. naai5 bat1 zi1 hing3 zi1 so2 zi3, 
+而作是詩
 ji4 zok3 si6 si1
 
 一匱功盈尺，三峯意出羣。
@@ -392,6 +392,30 @@ jat1 gin3 nang4 king1 zo6, heoi1 waai4 zi2 oi3 coi4
 jim4 ce1 seoi1 bun6 kei3, ming4 si6 hon3 ting4 loi4
 平平平仄仄，平仄仄平平
 灰韻。
+
+=====================================================
+
+0068 夜宴左氏莊
+je6 jin3 zo2 si6 zong1
+
+風林纖月落，衣露淨琴張。
+fung1 lam4 cim1 jyut6 lok6, ji1 lou6 zing6 kam4 zoeng1
+平平平仄仄，平仄仄平平
+-----------------------------------------------------
+暗水流花徑，春星帶草堂。
+am3 seoi2 lau4 faa1 ging3, ceon1 sing1 daai3 cou2 tong4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+檢書燒燭短，看劍引杯長。
+gim2 syu1 siu1 zuk1 dyun2, hon3 gim3 jan5 bui1 coeng4
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+詩罷聞吳詠，扁舟意不忘。
+si1 baa6 man4 ng4 wing6, pin1 zau1 ji3 bat1 mong4
+平仄平平仄，平平仄仄平
+陽韻。
+
+落，入聲。徑，去聲。短，上聲。三仄輪用。
 
 =====================================================
 
