@@ -34,4 +34,7 @@ https://cantonesestandard.wordpress.com/tag/%E7%B2%B5%E9%9F%B3%E5%B9%B3%E4%BB%84
 漢字→廣東話/粵語拼音轉換工具
 https://hongkongvision.com/tool/cc_py_conv_zh
 
+港式粵語筆記簿
+https://speechnotes.co/yue/
+
 
