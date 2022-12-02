@@ -25,8 +25,14 @@ https://dict.revised.moe.edu.tw/search.jsp?md=1
 成語典
 https://dict.idioms.moe.edu.tw/search.jsp
 
+異體字字典
+https://dict.variants.moe.edu.tw/variants/rbt/query_by_phonetic_tiles.rbt
+
 粵音資料集叢
 https://jyut.net/
+
+粵音檢字法
+https://cantonese.mrpinyin.net/search02.php
 
 搜韻
 https://sou-yun.cn/QR.aspx
