@@ -28,6 +28,9 @@ https://dict.idioms.moe.edu.tw/search.jsp
 異體字字典
 https://dict.variants.moe.edu.tw/variants/rbt/query_by_phonetic_tiles.rbt
 
+新華字典
+https://zidian.gushici.net/
+
 粵音資料集叢
 https://jyut.net/
 
