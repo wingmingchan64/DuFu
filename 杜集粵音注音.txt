@@ -47,13 +47,13 @@ tai4 zoeng1 si6 jan2 geoi1 ji6 sau2
 ceon1 saan1 mou4 bun6 duk6 soeng1 kau4, fat6 muk6 zang1 zang1 saan1 gang3 jau1
 平平平仄仄平平，仄仄平平平仄平
 -----------------------------------------------------
-澗道餘寒歷冰雪，石門斜日到林丘。
+澗道餘寒歷冰雪，石門斜日到林丘。（出句特定平仄）
 gaan3 dou6 jyu4 hon4 lik6 bing1 syut3, sek6 mun4 ce4 jat6 dou3 lam4 jau1
 仄仄平平仄平仄，仄平平仄仄平平
 -----------------------------------------------------
 不貪夜識金銀氣，遠害朝看麋鹿遊。
 bat1 taam1 je6 sik1 gam1 ngan4 hei3, jyun5 hoi6 ziu1 hon1 mei4 luk6 jau4
-仄平仄仄平平仄，仄仄平平平仄平（出句特定平仄）
+仄平仄仄平平仄，仄仄平平平仄平
 -----------------------------------------------------
 乘興杳然迷出處，對君疑是泛虛舟。（尤韻）
 sing4 hing3 miu5 jin4 mai4 ceot1 cyu5/cyu3, deoi3 gwan1 ji4 si6 faan6 heoi1 zau1
@@ -3869,6 +3869,29 @@ tin1 jyu5 cing1 soeng1 zing6, gung1 tong4 suk1 mou6 pei1
 晚酣留客舞，鳧舄共差池。（支韻）
 maan5 ham4 lau4 haak3 mou5, fu4 sik1 gung6 caa1 ci4
 仄平平仄仄，平仄仄平平
+
+=====================================================
+
+0631 白水明府舅宅喜雨
+baak6 seoi2 ming4 fu2 kau5 zaak6 hei2 jyu5
+
+吾舅政如此，古人誰復過。
+ng4 kau5 zing3 jyu4 ci2, gu2 jan4 seoi4 fuk6 gwo1
+平仄仄平仄，仄平平仄平
+-----------------------------------------------------
+碧山晴又濕，白水雨偏多。
+bik1 saan1 cing4 jau6 sap1, baak6 seoi2 jyu5 pin1 do1
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+精禱旣不昧，歡娛將謂何？
+zing1 tou2 gei3 bat1 mui6, fun1 jyu4 zoeng1 wai6 ho4
+平仄仄仄仄，平平平仄平
+-----------------------------------------------------
+湯年旱頗甚，今日醉絃歌。（歌韻）
+tong1 nin4 hon5 po1 sam6, gam1 jat6 zeoi3 jin4 go1
+平平仄平仄，平仄仄平平（出句特定平仄）
+
+頗，平聲。
 
 =====================================================
 
