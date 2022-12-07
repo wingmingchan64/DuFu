@@ -47,9 +47,9 @@ tai4 zoeng1 si6 jan2 geoi1 ji6 sau2
 ceon1 saan1 mou4 bun6 duk6 soeng1 kau4, fat6 muk6 zang1 zang1 saan1 gang3 jau1
 平平平仄仄平平，仄仄平平平仄平
 -----------------------------------------------------
-澗道餘寒歷冰雪，石門斜日到林丘。（出句特定平仄）
+澗道餘寒歷冰雪，石門斜日到林丘。
 gaan3 dou6 jyu4 hon4 lik6 bing1 syut3, sek6 mun4 ce4 jat6 dou3 lam4 jau1
-仄仄平平仄平仄，仄平平仄仄平平
+仄仄平平仄平仄，仄平平仄仄平平（出句特定平仄）
 -----------------------------------------------------
 不貪夜識金銀氣，遠害朝看麋鹿遊。
 bat1 taam1 je6 sik1 gam1 ngan4 hei3, jyun5 hoi6 ziu1 hon1 mei4 luk6 jau4
@@ -711,7 +711,7 @@ ceon1 zau2 bui1 nung4 fu2 paak3 bok6, bing1 zoeng1 wun2 bik1 maa5 nou5 hon4
 -----------------------------------------------------
 誤疑茅堂過江麓，已入風磴霾雲端。
 ng6 ji4 maau4 tong4 gwo3 gong1 luk1, ji5 jap6 fung1 dang3 maai4 wan4 dyun1
-仄平平平仄平仄，仄仄平仄平平平
+仄平平平仄平仄，仄仄平仄平平平（出句特定平仄）
 -----------------------------------------------------
 自是秦樓壓鄭谷，時聞雜佩聲珊珊。
 zi6 si6 ceon4 lau4 aat3 zeng6 guk1, si4 man4 zaap6 pui3 seng1 saan1 saan1
@@ -2564,7 +2564,7 @@ sau2 zi6 ji4 pou4 lau5, gaa1 coi4 zuk1 dou6 loeng4
 -----------------------------------------------------
 看君用幽意，白日到羲皇。（陽韻）
 hon1 gwan1 jung6 jau1 ji3, baak6 jat6 dou3 hei1 wong4
-平平仄平仄，仄仄仄平平
+平平仄平仄，仄仄仄平平（出句特定平仄）
 
 其五
 
@@ -2574,7 +2574,7 @@ dou3 ci2 jing1 soeng4 suk1, soeng1 lau4 ho2 pun3 nin4
 -----------------------------------------------------
 蹉跎暮容色，悵望好林泉。
 co1 to4 mou6 jung4 sik1, coeng3 mong6 hou2 lam4 cyun4
-平平仄平仄，仄仄仄平平
+平平仄平仄，仄仄仄平平（出句特定平仄）
 -----------------------------------------------------
 何日霑微祿，歸山買薄田。
 ho4 jat6 zim1 mei4 luk6, gwai1 saan1 maai5 bok6 tin4
@@ -3439,7 +3439,7 @@ gam1 doi6 kei4 leon4 gok3, ho4 jan4 dai6 jat1 gung1
 -----------------------------------------------------
 君王自神武，駕馭必英雄。
 gwan1 wong4 zi6 san4 mou5, gaa3 jyu6 bit1 jing1 hung4
-平平仄平仄，仄仄仄平平
+平平仄平仄，仄仄仄平平（出句特定平仄）
 -----------------------------------------------------
 開府當朝傑，論兵邁古風。
 hoi1 fu2 dong1 ciu4 git6, leon4 bing1 maai6 gu2 fung1
@@ -3511,7 +3511,7 @@ gwan1 si6 lau4 syun1 co2, hang4 gaan1 sik1 leoi5 mung4
 -----------------------------------------------------
 防身一長劍，將欲倚崆峒。（東韻）
 fong4 san1 jat1 coeng4 gim3, zoeng1 juk6 ji2 hung1 tung4
-平平仄平仄，平仄仄平平
+平平仄平仄，平仄仄平平（出句特定平仄）
 
 =====================================================
 
@@ -4597,6 +4597,27 @@ jan1 bei1 zung1 lam4 si6, mei6 tyut3 zung3 jyu4 fuk1
 -----------------------------------------------------
 舉頭向蒼天，安得騎鴻鵠？（沃韻）
 geoi2 tau4 hoeng3 cong1 tin1, on1 dak1 ke4 hung4 guk1
+
+=====================================================
+
+0733 月夜
+jyut6 je6
+
+今夜鄜州月，閨中只獨看。
+gam1 je6 fu1 zau1 jyut6, gwai1 zung1 zi2 duk6 hon1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+遙憐小兒女，未解憶長安。
+jiu4 lin4 siu2 ji4 neoi5, mei6 gaai2 jik1 coeng4 on1
+平平仄平仄，仄仄仄平平（出句特定平仄）
+-----------------------------------------------------
+香霧雲鬟濕，清輝玉臂寒。
+hoeng1 mou6 wan4 waan4 sap1, cing1 fai1 juk6 bei3 hon4
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+何時倚虛幌，雙照淚痕乾。
+ho4 si4 ji2 heoi1 fong2, soeng1 ziu3 leoi6 han4 gon1
+平平仄平仄，平仄仄平平（出句特定平仄）
 
 =====================================================
 
