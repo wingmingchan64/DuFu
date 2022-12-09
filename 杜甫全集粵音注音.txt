@@ -2777,7 +2777,7 @@ pong4 se3 po2 seon4 pok3, so2 seoi1 jik6 ji6 kau4
 隔屋喚西家，借問有酒不？
 gaak3 uk1 wun6 sai1 gaa1, ze3 man6 jau5 zau2 fau4
 -----------------------------------------------------
-墻頭過濁醪，展席俯長流。
+牆頭過濁醪，展席俯長流。
 coeng4 tau4 gwo3 zuk6 lou4, zin2 zik6 fu2 coeng4 lau4
 -----------------------------------------------------
 清風左右至，客意已驚秋。
@@ -5095,7 +5095,7 @@ jaa5 fuk6 ho2 lin4 jan4, fu1 ji4 geoi6 lei4 zou2
 濁醪必在眼，盡醉攄懷抱。
 zuk6 lou4 bit1 zoi6 ngaan5, zeon6 zeoi3 syu1 waai4 pou5
 -----------------------------------------------------
-紅稠屋角花，碧委墻隅草。
+紅稠屋角花，碧委牆隅草。
 hung4 cau4 uk1 gok3 faa1, bik1 wai2 coeng4 jyu4 cou2
 -----------------------------------------------------
 親賓縱談謔，喧鬧慰衰老。
@@ -5809,6 +5809,27 @@ zoeng1 gwan1 zyun1 caak3 loek6, mok6 fu2 sing6 coi4 loeng4
 近賀中興主，神兵動朔方。（陽韻）
 gan6 ho6 zung1 hing1 zyu2, san4 bing1 dung6 sok3 fong1
 仄仄平平仄，平平仄仄平
+
+=====================================================
+
+0899 奉贈嚴八閣老
+fung6 zang6 jim4 baat3 gok3 lou5
+
+扈聖登黃閣，明公獨妙年。
+wu6 sing3 dang1 wong4 gok3, ming4 gung1 duk6 miu6 nin4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+蛟龍得雲雨，雕鶚在秋天。
+gaau1 lung4 dak1 wan4 jyu5, diu1 ngok6 zoi6 cau1 tin1
+平平仄平仄，平仄仄平平（出句特定平仄）
+-----------------------------------------------------
+客禮容疏放，官曹可接聯。
+haak3 lai5 jung4 so1 fong3, gun1 cou4 ho2 zip3 lyun4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+新詩句句好，應任老夫傳。（先韻）
+san1 si1 geoi3 geoi3 hou2, jing1 jam6 lou5 fu1 cyun4
+平平仄仄仄，平仄仄平平
 
 =====================================================
 
