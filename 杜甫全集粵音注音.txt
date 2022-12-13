@@ -180,7 +180,7 @@ zo6 deoi3 jin4 jan4 zau2, mun4 ting1 zoeng2 ze2 geoi1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 相邀愧泥濘，騎馬到階除。（魚韻）
-soeng1 jiu1 kwai5 nai4 ning6, ke4 maa5 dou3 gaai1 ceoi4
+soeng1 jiu1 kwai5 nai4 ning6, kei4 maa5 dou3 gaai1 ceoi4
 平平仄平仄，平仄仄仄平（出句特定平仄）
 
 魚韻「車」讀ㄐㄩ，geoi1。濘，去聲。
@@ -827,7 +827,7 @@ waai4 wong4 mun4 jau5 haak3, zung1 bat1 kwai5 syun1 dang1
 jam2 zung1 baat3 sin1 go1
 
 知章騎馬似乘船，眼花落井水底眠。
-zi1 zoeng1 ke4 maa5 ci5 sing4 syun4, ngaan5 faa1 lok6 zing2 seoi2 dai2 min4
+zi1 zoeng1 kei4 maa5 ci5 sing4 syun4, ngaan5 faa1 lok6 zing2 seoi2 dai2 min4
 -----------------------------------------------------
 汝陽三斗始朝天，道逢麴車口流涎，
 jyu5 joeng4 saam1 dau2 ci2 ciu4 tin1, dou6 fung4 kuk1 ce1 hau2 lau4 jin4
@@ -1065,7 +1065,7 @@ wun2 cuk1 tai4 gou1 jyu4 baak6 tit3, gaau1 ho4 gei2 cuk1 cang4 bing1 lit6
 ng5 faa1 saan3 zok3 wan4 mun5 san1, maan6 lei5 fong1 hon1 hon6 lau4 hyut3
 -----------------------------------------------------
 長安壯兒不敢騎，走過掣電傾城知。（支韻）
-coeng4 on1 zong3 ji4 bat1 gam2 ke4, zau2 gwo3 zai3 din6 king1 sing4 zi1
+coeng4 on1 zong3 ji4 bat1 gam2 kei4, zau2 gwo3 zai3 din6 king1 sing4 zi1
 -----------------------------------------------------
 青絲絡頭爲君老，何由卻出橫門道。（皓韻）
 cing1 si1 lok3 tau4 wai6 gwan1 lou5, ho4 jau4 koek3 ceot1 waang4 mun4 dou6
@@ -1685,7 +1685,7 @@ zi3 gwan1 jiu4 seon3 soeng6, zoi3 si2 fung1 zuk6 seon4
 ci2 ji3 ging2 siu1 tiu4, hang4 go1 fei1 jan2 leon4
 -----------------------------------------------------
 騎驢十三載，旅食京華春。
-ke4 lou4 sap6 saam1 zoi3, leoi5 sik6 ging1 waa4 ceon1
+kei4 lou4 sap6 saam1 zoi3, leoi5 sik6 ging1 waa4 ceon1
 -----------------------------------------------------
 朝扣富兒門，暮隨肥馬塵。
 ziu1 kau3 fu3 ji4 mun4, mou6 ceoi4 fei4 maa5 can4
@@ -2121,7 +2121,7 @@ zek3 sau2 ho2 jit6 sai3 zyut6 leon4, san6 mok6 gan6 cin4 sing4 soeng3 can1
 gwik1 gwok3 fu1 jan4
 
 虢國夫人承主恩，平明騎馬入宮門。
-gwik1 gwok3 fu1 jan4 sing4 zyu2 jan1, ping4 ming4 ke4 maa5 jap6 gung1 mun4
+gwik1 gwok3 fu1 jan4 sing4 zyu2 jan1, ping4 ming4 kei4 maa5 jap6 gung1 mun4
 -----------------------------------------------------
 卻嫌脂粉涴顏色，淡掃蛾眉朝至尊。（元韻）
 koek3 jim4 zi1 fan2 wo3 ngaan4 sik1, daam6 sou3 ngo4 mei4 ziu1 zi3 zyun1
@@ -3381,7 +3381,7 @@ hei2 zi1 ji6 mat6 tung4 zing1 hei3, seoi1 mei6 sing4 lung4 jik6 jau5 san4
 =====================================================
 
 0549 天育驃騎歌
-tin1 juk6 biu1 kei4 go1
+tin1 juk6 biu1 kei3 go1
 
 吾聞天子之馬走千里，今之畫圖無乃是。
 ng4 man4 tin1 zi2 zi1 maa5 zau2 cin1 lei5, gam1 zi1 waa6 tou4 mou4 naai5 si6
@@ -3530,7 +3530,7 @@ hei3 gaan2 zeng6 gwong2 man4 kin4 gim1 cing4 sou1 si1 jip6 jyun4 ming4
 gwong2 man4 dou3 gun1 se3, hai6 maa5 tong4 gaai1 haa6
 -----------------------------------------------------
 醉則騎馬歸，頗遭官長罵。（禡韻）
-zeoi3 zak1 ke4 maa5 gwai1, po2 zou1 gun1 zoeng2 maa6
+zeoi3 zak1 kei4 maa5 gwai1, po2 zou1 gun1 zoeng2 maa6
 -----------------------------------------------------
 垂名四十年，坐客寒無氊。
 seoi4 ming4 sei3 sap6 nin4, zo6 haak3 hon4 mou4 zin1
@@ -3787,7 +3787,7 @@ ping4 sang1 lau4 bui3 tou4 ceon2 ceon2, coeng4 on1 siu3 nin4 hei3 juk6 zeon2
 ngai6 hau4 gwat1 sung2 zing1 song2 gan2, waa4 ngok6 fung1 zim1 gin3 cau1 zeon2
 -----------------------------------------------------
 星纏寶鉸金盤陀，夜騎天駟超天河。
-sing1 cin4 bou2 gaau2 gam1 pun4 to4, je6 ke4 tin1 si3 ciu1 tin1 ho4
+sing1 cin4 bou2 gaau2 gam1 pun4 to4, je6 kei4 tin1 si3 ciu1 tin1 ho4
 -----------------------------------------------------
 攙搶熒惑不敢動，翠蕤雲旓相蕩摩。（歌韻）
 caam1 coeng2 jing4 waak6 bat1 gam2 dung6, ceoi3 jeoi6 wan4 saau1 soeng1 dong6 mo1
@@ -4604,7 +4604,7 @@ pou2 tin1 mou4 cyun1 loeng4, juk6 zai3 jyun6 seoi2 suk1
 jan1 bei1 zung1 lam4 si6, mei6 tyut3 zung3 jyu4 fuk1
 -----------------------------------------------------
 舉頭向蒼天，安得騎鴻鵠？（沃韻）
-geoi2 tau4 hoeng3 cong1 tin1, on1 dak1 ke4 hung4 guk1
+geoi2 tau4 hoeng3 cong1 tin1, on1 dak1 kei4 hung4 guk1
 
 =====================================================
 
@@ -4653,7 +4653,7 @@ bei1 cing1 baan2
 ngo5 gwan1 cing1 baan2 zoi6 dung1 mun4, tin1 hon4 jam2 maa5 taai3 baak6 fat1
 -----------------------------------------------------
 黃頭奚兒日向西，數騎彎弓敢馳突。
-wong4 tau4 hai4 ji4 jat6 hoeng3 sai1, sou3 ke4 waan1 gung1 gam2 ci4 dat6
+wong4 tau4 hai4 ji4 jat6 hoeng3 sai1, sou3 kei3 waan1 gung1 gam2 ci4 dat6
 -----------------------------------------------------
 山雪河冰野蕭飋，青是烽煙白人骨。
 saan1 syut3 ho4 bing1 je5 siu1 sat1, cing1 si6 fung1 jin1 baak6 jan4 gwat1
@@ -4788,7 +4788,7 @@ cing1 wai6 dung1 lau4 gim3 gok3 sam1, heoi3 zyu6 bei2 ci2 mou4 siu1 sik1
 jan4 sang1 jau5 cing4 leoi6 zim1 jik1, gong1 seoi2 gong1 faa1 hei2 zung1 gik6
 -----------------------------------------------------
 黃昏胡騎塵滿城，欲往城南忘南北！（職韻）
-wong4 fan1 wu4 kei4 can4 mun5 sing4, juk6 wong5 sing4 naam4 mong4 naam4 bak1
+wong4 fan1 wu4 kei3 can4 mun5 sing4, juk6 wong5 sing4 naam4 mong4 naam4 bak1
 
 =====================================================
 
