@@ -6310,7 +6310,7 @@ kei4 wong4 jyun6 zo6 seon6, kei4 zuk6 sin6 ci4 dat6
 sung3 bing1 ng5 cin1 jan4, keoi1 maa5 jat1 maan6 pat1
 -----------------------------------------------------
 此輩少爲貴，四方服勇決。（屑韻）
-ci2 bui3 siu2 wai4 gwai3, sei3 fong1 fuk6 jung5 kyut3
+ci2 bui3 siu2/siu3 wai4 gwai3, sei3 fong1 fuk6 jung5 kyut3
 -----------------------------------------------------
 所用皆鷹騰，破敵過箭疾。（質韻）
 so2 jung6 gaai1 jing1 tang4, po3 dik6 gwo3 zin3 zat6
@@ -6365,6 +6365,8 @@ jyun4 ling4 gu3 jau5 san4, sou3 saa2 sou3 bat1 kyut3
 -----------------------------------------------------
 煌煌太宗業，樹立甚宏達。（曷韻）
 wong4 wong4 taai3 zung1 jip6, syu6 lap6 sam6 wang4 daat6
+
+少爲貴之少有歧義，多少之少讀 siu2，少壯之少讀 siu3。
 
 =====================================================
 
@@ -7050,6 +7052,9 @@ gaan1 naan4 fu2 han6 faan4 soeng1 ban3, lou5 dou2 san1 ting4 zuk6 zau2 bui1
 亦知行不逮，苦恨耳多聾。
 
 應，平聲，以避犯孤平。
+
+=====================================================
+
 
 ﻿=====================================================
 
