@@ -64,4 +64,13 @@ https://hongkongvision.com/tool/cc_py_conv_zh
 港式粵語筆記簿
 https://speechnotes.co/yue/
 
+github
+https://github.com/buluzhai/dataset/tree/master/%E6%9D%9C%E7%94%AB
+
+曹慕樊：杜诗字义、修辞丛记
+http://www.aisixiang.com/data/139219.html
+曹慕樊：数秋天
+https://m.aisixiang.com/data/138837.html
+http://www.aisixiang.com/zhuanti/217.html
+
 
