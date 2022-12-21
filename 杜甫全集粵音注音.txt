@@ -2345,7 +2345,7 @@ jan4 sat6 bat1 ji6 zi1, gang3 seoi1 san6 kei4 ji4
 十年出幕府，自可持旌麾。
 sap6 nin4 ceot1 mok6 fu2, zi6 ho2 ci4 zing1 fai1
 -----------------------------------------------------
-此行既特達，足以慰所思。
+此行旣特達，足以慰所思。
 ci2 hang4 gei3 dak6 daat6, zuk1 ji5 wai3 so2 si1
 -----------------------------------------------------
 男兒功名遂，亦在老大時。
@@ -2877,7 +2877,7 @@ jyun6 tang4 luk6 cek3 maa5, bui3 joek6 gu1 zing1 hung4
 劃見公子面，超然歡笑同。
 waak6 gin3 gung1 zi2 min6, ciu1 jin4 fun1 siu3 tung4
 -----------------------------------------------------
-奮飛既胡越，局促傷樊籠。
+奮飛旣胡越，局促傷樊籠。
 fan5 fei1 gei3 wu4 jyut6, guk6 cuk1 soeng1 faan4 lung4
 -----------------------------------------------------
 一飯四五起，憑軒心力窮。
@@ -4428,7 +4428,7 @@ tou4 kung4 gin3 gaau1 taai3, sai3 gang2 bei1 lou6 sap1
 東風吹春冰，泱莽后土濕。
 dung1 fung1 ceoi1 ceon1 bing1, joeng1 mong5 hau6 tou2 sap1
 -----------------------------------------------------
-念君惜羽翮，既飽更思戢。
+念君惜羽翮，旣飽更思戢。
 nim6 gwan1 sik1 jyu5 hat6, gei3 baau2 gang3 si1 cap1
 -----------------------------------------------------
 莫作翻雲鶻，聞呼向禽急。（緝韻）
