@@ -509,7 +509,7 @@ jik6 jau5 loeng4 sung3 jau4, fong1 kei4 sap6 jiu4 cou2
 0079 陪李北海宴歷下亭
 pui4 lei5 bak1 hoi2 jin3 lik6 haa6 ting4
 
-東藩駐皁蓋，北渚淩青荷。
+東藩駐皁蓋，北渚凌青荷。
 dung1 faan4 zyu3 zou6 goi3, bak1 zyu2 ling4 cing1 ho4
 -----------------------------------------------------
 海右此亭古，濟南名士多。
@@ -601,7 +601,7 @@ jap6 mun4 gou1 hing3 faat3, si6 lap6 siu2 tung4 cing1
 落景聞寒杵，屯雲對古城。
 lok6 jing2 man4 hon4 cyu5, tyun4 wan4 deoi3 gu2 sing4
 -----------------------------------------------------
-向來吟《橘頌》，誰欲討蓴羹？
+向來吟《橘頌》，誰欲討蓴羹。
 hoeng3 loi4 jam4 gwat1 zung6, seoi4 juk6 tou2 seon4 gang1
 -----------------------------------------------------
 不願論簪笏，悠悠滄海情。（庚韻）
@@ -618,10 +618,9 @@ zang6 lei5 baak6
 cau1 loi4 soeng1 gu3 soeng6 piu1 pung4, mei6 zau6 daan1 saa1 kwai5 got3 hung4
 平平平仄仄平平，仄仄平平仄仄平
 -----------------------------------------------------
-痛飲狂歌空度日，飛揚跋扈爲誰雄？
+痛飲狂歌空度日，飛揚跋扈爲誰雄？（東韻）
 tung3 jam2 kong4 go1 hung1 dou6 jat6, fei1 joeng4 bat6 wu6 wai6 seoi4 hung4
 仄仄平平平仄仄，平平仄仄仄平平
-東韻。
 
 =====================================================
 
@@ -640,10 +639,9 @@ gang3 cam4 gaa1 syu6 zyun6, bat1 mong6/mong4 gok3 gung1 si1
 syu6 hot3 fung1 soeng1 jap6, waan4 daan1 jat6 jyut6 ci4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-未因乘興去，空有鹿門期。
+未因乘興去，空有鹿門期。（支韻）
 mei6 jan1 sing4 hing3 heoi3, hung1 jau5 luk6 mun4 kei4
 仄平平仄仄，平仄仄平平
-支韻。
 
 忘，去聲。
 
@@ -664,10 +662,9 @@ cing1 san1 jyu5 hoi1 fu2, zeon3 jat6 baau6 caam1 gwan1
 wai6 bak1 ceon1 tin1 syu6, gong1 dung1 jat6 mou6 wan4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-何時一尊酒，重與細論文。
+何時一尊酒，重與細論文。（文韻）
 平平仄平仄，平仄仄平平（出句特定平仄）
 ho4 si4 jat1 zeon1 zau2, cung4 jyu5 sai3 leon4 man4
-文韻。
 
 思，去聲。庾，上聲。鮑，去聲。論，平聲。
 
@@ -720,10 +717,9 @@ ceon1 zau2 bui1 nung4 fu2 paak3 bok6, bing1 zoeng1 wun2 bik1 maa5 nou5 hon4
 ng6 ji4 maau4 tong4 gwo3 gong1 luk1, ji5 jap6 fung1 dang3 maai4 wan4 dyun1
 仄平平平仄平仄，仄仄平仄平平平（出句特定平仄）
 -----------------------------------------------------
-自是秦樓壓鄭谷，時聞雜佩聲珊珊。
+自是秦樓壓鄭谷，時聞雜佩聲珊珊。（寒韻）
 zi6 si6 ceon4 lau4 aat3 zeng6 guk1, si4 man4 zaap6 pui3 seng1 saan1 saan1
 仄仄平平仄仄仄，平平仄仄平平平
-寒韻。
 
 =====================================================
 
@@ -900,11 +896,11 @@ jau5 mei5 sang1 jan4 git6, jau4 loi4 zik1 dak1 mun4
 hon3 ciu4 sing4 soeng3 hai6, loeng4 jat6 dai3 wong4 syun1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
-蘊藉爲郎久，魁梧秉哲尊。
+蘊藉爲郎久，魁梧秉哲尊。（元韻）
 wan3 zik6 wai4 long4 gau2, fui1 ng4 bing2 zit3 zyun1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-詞華傾後輩，風雅藹孤騫。
+詞華傾後輩，風雅藹孤騫。（先韻）
 ci4 waa4 king1 hau6 bui3, fung1 ngaa5 oi2 gu1 hin1
 平平平仄仄，平仄仄平平
 -----------------------------------------------------
@@ -928,10 +924,9 @@ zi3 gwan1 si4 ji5 maan5, waai4 gu2 ji3 hung1 cyun4
 zung1 saan3 saan1 joeng4 dyun3, jyu4 gung1 je5 guk1 cyun1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-寧紆長者轍，歸老任乾坤。
+寧紆長者轍，歸老任乾坤。（元韻）
 ning4 jyu1 zoeng2 ze2 cit3, gwai1 lou5 jam6 gon1 kwan1
 平平仄仄仄，平仄仄平平
-元韻。騫，先韻。
 
 =====================================================
 
@@ -1046,7 +1041,7 @@ si1 hoeng1 jyu4 tou2 sat1, naan4 syut3 zuk1 gai1 jung1
 0167 高都護驄馬行
 gou1 dou1 wu6 cung1 maa5 hang4
 
-安西都護胡青驄，聲價歘然來向東。
+安西都護胡青驄，聲價欻然來向東。
 on1 sai1 dou1 wu6 wu4 cing1 cung1, sing1 gaa3 fat1 jin4 loi4 hoeng3 dung1
 -----------------------------------------------------
 此馬臨陣久無敵，與人一心成大功。（東韻）
@@ -1314,7 +1309,7 @@ lok6 jau4 gu2 jyun4 zeot6 sam1 song2 jin1 min4 bik1 cou2 cai1 cai1 zoeng2
 公子華筵勢最高，秦川對酒平如掌。
 gung1 zi2 waa4 jin4 sai3 zeoi3 gou1, ceon4 cyun1 deoi3 zau2 ping4 jyu4 zoeng2
 -----------------------------------------------------
-長生木瓢示真率，更調鞍馬狂歡賞。
+長生木瓢示眞率，更調鞍馬狂歡賞。
 coeng4 sang1 muk6 piu4 si6 zan1 seot1, gang3 tiu4 on1 maa5 kong4 fun1 soeng2
 -----------------------------------------------------
 青春波浪芙蓉園，白日雷霆夾城仗。
@@ -1354,7 +1349,7 @@ soeng6 hon3 wong4 sang1 pou5 ci2 waai4, zoi6 jyu1 fu2 jaa5 ho4 jau4 sin6
 且遇王生慰疇昔，素知賤子甘貧賤。(霰韻)
 ce2 jyu6 wong4 sang1 wai3 cau4 sik1, sou3 zi1 zin6 zi2 gam1 pan4 zin6
 -----------------------------------------------------
-酷見凍餒不足恥，多病沉年苦無健。(願韻)
+酷見凍餒不足耻，多病沉年苦無健。(願韻)
 huk6 gin3 dung3 noi5/neoi5 bat1 zuk1 ci2, do1 beng6 cam4 nin4 fu2 mou4 gin6
 -----------------------------------------------------
 王生怪我顏色惡，答云伏枕艱難徧。
@@ -1363,7 +1358,7 @@ wong4 sang1 gwaai3 ngo5 ngaan4 sik1 ok3, daap3 wan4 fuk6 zam2 gaan1 naan4 pin3
 瘧癘三秋孰可忍，寒熱百日相交戰。
 joek6 lai6 saam1 cau1 suk6 ho2 jan2, hon4 jit6 baak3 jat6 soeng1 gaau1 zin3
 -----------------------------------------------------
-頭白眼暗坐有胝，肉黃皮皺命如綫。
+頭白眼暗坐有胝，肉黃皮皺命如線。
 tau4 baak6 ngaan5 am3 zo6 jau5 dai1/zi1, juk6 wong4 pei4 zau3 ming6 jyu4 sin3
 -----------------------------------------------------
 惟生哀我未平復，爲我力致美肴膳。
@@ -2079,7 +2074,7 @@ lai6 jan4 hang4
 三月三日天氣新，長安水邊多麗人。
 saam1 jyut6 saam1 jat6 tin1 hei3 san1, coeng4 on1 seoi2 bin1 do1 lai6 jan4
 -----------------------------------------------------
-態濃意遠淑且真，肌理細膩骨肉勻。
+態濃意遠淑且眞，肌理細膩骨肉勻。
 taai3 nung4 ji3 jyun5 suk6 ce2 zan1, gei1 lei5 sai3 nei6 gwat1 juk6 wan4
 -----------------------------------------------------
 繡羅衣裳照暮春，蹙金孔雀銀麒麟。
@@ -2476,7 +2471,7 @@ jat6 dek6 taai3 cong1 ng5 sing1 mai5, si4 fu6 zeng6 lou5 tung4 kam1 kei4
 得錢卽相覓，沽酒不復疑。
 dak1 cin4 zik1 soeng1 mik6, gu1 zau2 bat1 fau6 ji4
 -----------------------------------------------------
-忘形到爾汝，痛飲真吾師。（支韻）
+忘形到爾汝，痛飲眞吾師。（支韻）
 mong4 jing4 dou3 ji5 jyu5, tung3 jam2 zan1 ng4 si1
 -----------------------------------------------------
 清夜沉沉動春酌，燈前細雨簷花落。
@@ -2516,7 +2511,7 @@ dou2 ji1 waan4 ming6 gaa3, gou1 zam2 naai5 ng4 lou4
 faa1 to5 ang1 saau1 dip6, kai1 hyun1 caat3 can3 jyu4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-重來休沐地，真作野人居。（魚韻）
+重來休沐地，眞作野人居。（魚韻）
 cung4 loi4 jau1 muk6 dei6, zan1 zok3 je5 jan4 geoi1
 平平平仄仄，平仄仄平平
 
@@ -3137,7 +3132,7 @@ ping4 faan6 mou4 jau1 jat6, tou4 jam1 soeng2 gau6 hai4
 ceoi1 heoi1 jan4 so2 sin6, tang4 joek6 si6 jing4 kwai4
 平平平仄仄，平仄仄平平
 -----------------------------------------------------
-碧海真難涉，青雲不可梯。
+碧海眞難涉，青雲不可梯。
 bik1 hoi2 zan1 naan4 sip3, cing1 wan4 bat1 ho2 tai1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
@@ -3209,7 +3204,7 @@ wing5 jyu5 ou3 keoi1 gu3, cyun1 jyun4 fan1 miu5 ming4
 居然赤縣立，臺榭爭岧亭。
 geoi1 jin4 cek3 jyun6 lap6, toi4 ze6 zang1 tiu4 ting4
 -----------------------------------------------------
-官屬果稱是，聲華真可聽。
+官屬果稱是，聲華眞可聽。
 gun1 suk6 gwo2 cing1 si6, seng1 waa4 zan1 ho2 ting1
 -----------------------------------------------------
 王劉美竹潤，裴李春蘭馨。
@@ -3282,7 +3277,7 @@ ciu3 jin4 zo6 ngo5 tin1 mou5 haa6, ji5 bin1 ji5 ci5 man4 cing1 jyun4
 反思前夜風雨急，乃是蒲城鬼神入。
 faan2 si1 cin4 je6 fung1 jyu5 gap1, naai5 si6 pou4 sing4 gwai2 san4 jap6
 -----------------------------------------------------
-元氣淋漓障猶濕，真宰上訴天應泣。
+元氣淋漓障猶濕，眞宰上訴天應泣。
 jyun4 hei3 lam4 lei4 zoeng3 jau4 sap1, zan1 zoi2 soeng6 sou3 tin1 jing1 jap1
 -----------------------------------------------------
 野亭春還雜花遠，漁翁暝踏孤舟立。（緝韻）
@@ -3404,7 +3399,7 @@ seoi6 ling6 daai6 nou4 zi6 tin1 juk6, bit6 joeng5 kei3 zi2 lin4 san4 zeon3
 當時四十萬匹馬，張公歎其材盡下。（馬韻）
 dong1 si4 sei3 sap6 maan6 pat1 maa5, zoeng1 gung1 taan3 kei4 coi4 zeon6 haa6
 -----------------------------------------------------
-故獨寫真傳世人，見之座右久更新。（眞韻）
+故獨寫眞傳世人，見之座右久更新。（眞韻）
 gu3 duk6 se2 zan1 cyun4 sai3 jan4, gin3 zi1 zo6 jau6 gau2 gang1 san1
 -----------------------------------------------------
 年多物化空形影，嗚呼健步無由騁。（梗韻）
@@ -6780,7 +6775,7 @@ gwan2 zik1 cang4 mou4 jat1 zi6 bou2, heoi2 san1 kwai5 bei2 soeng1 naam4 gam1
 
 南使宜天馬，由來萬匹强。
 浮雲連陣没，秋草遍山長。
-聞說真龍種，仍殘老驌驦。
+聞說眞龍種，仍殘老驌驦。
 哀鳴思戰鬬，迥立向蒼蒼。
 
 其六
@@ -6842,7 +6837,7 @@ gwan2 zik1 cang4 mou4 jat1 zi6 bou2, heoi2 san1 kwai5 bei2 soeng1 naam4 gam1
 其十四
 
 萬古仇池穴，潛通小有天。
-神魚人不見，福地語真傳。
+神魚人不見，福地語眞傳。
 近接西南境，長懷十九泉。
 何時一茅屋，送老白雲邊。
 
@@ -6883,7 +6878,7 @@ gwan2 zik1 cang4 mou4 jat1 zi6 bou2, heoi2 san1 kwai5 bei2 soeng1 naam4 gam1
 
 其二十
 
-唐堯真自聖，野老復何知！
+唐堯眞自聖，野老復何知！
 tong4 jiu4 zan1 zi6 sing3, je5 lou5 fuk6 ho4 zi1
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
