@@ -1,6 +1,8 @@
 異體字的處理
 
-我的選擇，大多出於個人喜好，沒甚麼特別的理由。
+我的選擇，大多出於個人喜好，沒甚麼特別的理由。另見：
+https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E7%95%B0%E9%AB%94%E5%AD%97.php
+
 
 2. 值改作値。
 2. 内改作內。
