@@ -1,5 +1,5 @@
 
-望嶽
+0003 望嶽
 mong6 ngok6
 
 岱宗夫如何？齊魯青未了。
@@ -23,7 +23,7 @@ wui6 dong1 ling4 zyut6 ding2, jat1 laam5 zung3 saan1 siu2
 =====================================================
 
 
-登兗州城樓
+0008 登兗州城樓
 dang1 jin5 zau1 sing4 lau4
 
 東郡趨庭日，南樓縱目初。
@@ -51,7 +51,7 @@ cung4 loi4 do1 gu2 ji3, lam4 tiu3 duk6 cau4 cyu4
 =====================================================
 
 
-題張氏隱居二首
+0013 題張氏隱居二首
 tai4 zoeng1 si6 jan2 geoi1 ji6 sau2
 
 其一
@@ -138,7 +138,7 @@ cin4 cyun1 saan1 lou6 him2, gwai1 zeoi3 mui5 mou4 sau4
 =====================================================
 
 
-劉九法曹鄭瑕丘石門宴集
+0022 劉九法曹鄭瑕丘石門宴集
 lau4 gau2 faat3 cou4 zeng6 haa4 jau1 sek6 mun4 jin3 zaap6
 
 秋水清無底，蕭然淨客心。
@@ -168,7 +168,7 @@ maan5 loi4 waang4 ceoi3 hou2, wang4 haa6 jik6 lung4 jam4
 =====================================================
 
 
-與任城許主簿遊南池
+0025 與任城許主簿遊南池
 jyu5 jam4 sing4 heoi2 zyu2 bou6 jau4 naam4 ci4
 
 秋水通溝洫，城隅進小船。
@@ -198,7 +198,7 @@ san4 ziu1 gong3 baak6 lou6, jiu4 jik1 gau6 cing1 zin1
 =====================================================
 
 
-對雨書懷走邀許主簿
+0027 對雨書懷走邀許主簿
 deoi3 jyu5 syu1 waai4 zau2 jiu1 heoi2 zyu2 bou6
 
 東岳雲峯起，溶溶滿太虛。
@@ -229,7 +229,7 @@ soeng1 jiu1 kwai5 nai4 ning6, kei4 maa5 dou3 gaai1 ceoi4
 =====================================================
 
 
-巳上人茅齋
+0030 巳上人茅齋
 zi6 soeng6 jan4 maau4 zaai1
 
 巳公茅屋下，可以賦新詩。
@@ -266,7 +266,7 @@ hung1 tim2 heoi2 seon1 bui3, naan4 cau4 zi1 deon6 ci4
 =====================================================
 
 
-房兵曹胡馬
+0034 房兵曹胡馬
 
 胡馬大宛名，鋒稜瘦骨成。
 wu4 maa5 daai6 jyun1 ming4, fung1 ling4 sau3 gwat1 sing4
@@ -294,7 +294,7 @@ hiu1 tang4 jau5 jyu4 ci2, maan6 lei5 ho2 waang4 hang4
 =====================================================
 
 
-畫鷹
+0038 畫鷹
 waak6 jing1
 
 素練風霜起，蒼鷹畫作殊。
@@ -324,7 +324,7 @@ ho4 dong1 gik1 faan4 niu5, mou4 hyut3 saa2 ping4 mou4
 =====================================================
 
 
-遊龍門奉先寺
+0042 遊龍門奉先寺
 jau4 lung4 mun4 fung6 sin1 zi6
 
 已從招提遊，更宿招提境。
@@ -348,7 +348,7 @@ juk6 gaau3 man4 san4 zung1, ling6 jan4 faat3 sam1 sing2
 =====================================================
 
 
-過宋員外之問舊莊
+0048 過宋員外之問舊莊
 gwo3 sung3 jyun4 ngoi6 zi1 man6 gau6 zong1
 
 宋公舊池館，零落首陽阿。
@@ -496,7 +496,7 @@ wai4 naam4 zoeng1 hin3 sau6， gaai1 hei3 jat6 fan1 wan1
 =====================================================
 
 
-李監宅二首
+0062 李監宅二首
 lei5 gaam3 zaak6 ji6 sau2
 
 其一
@@ -551,7 +551,7 @@ jim4 ce1 seoi1 bun6 kei3, ming4 si6 hon3 ting4 loi4
 =====================================================
 
 
-夜宴左氏莊
+0068 夜宴左氏莊
 je6 jin3 zo2 si6 zong1
 
 風林纖月落，衣露淨琴張。
@@ -581,10 +581,10 @@ si1 baa6 man4 ng4 wing6, pin1 zau1 ji3 bat1 mong4
 =====================================================
 
 
-龍門
+0073 龍門
 lung4 mun4
 
-龍門橫野斷，驛樹出城來。
+0073 龍門橫野斷，驛樹出城來。
 lung4 mun4 waang4 je5 dyun6, jik6 syu6 ceot1 sing4 loi4
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
@@ -611,7 +611,7 @@ soeng1 jyut6 zing1 tou4 soeng6, sang1 ngaai4 zeon6 gei2 wui4
 =====================================================
 
 
-贈李白
+0076 贈李白
 zang6 lei5 baak6
 
 二年客東都，所歷厭機巧。
@@ -646,7 +646,7 @@ jik6 jau5 loeng4 sung3 jau4, fong1 kei4 sap6 jiu4 cou2
 =====================================================
 
 
-陪李北海宴歷下亭
+0079 陪李北海宴歷下亭
 pui4 lei5 bak1 hoi2 jin3 lik6 haa6 ting4
 
 東藩駐皁蓋，北渚凌青荷。
@@ -681,7 +681,7 @@ gwai3 zin6 keoi1 mat6 jik6, cung4 gung1 naan4 cung4 gwo1
 =====================================================
 
 
-同李太守登歷下古城員外新亭
+0084 同李太守登歷下古城員外新亭
 tung4 lei5 taai3 sau3 dang1 lik6 haa6 gu2 sing4 jyun4 ngoi6 san1 ting4
 
 新亭結構罷，隱見清湖陰。
@@ -715,7 +715,7 @@ bat1 zo2 pung4 bat1 hing3, dak1 gim1 loeng4 fu2 jam4
 =====================================================
 
 
-暫如臨邑，至㟙山湖亭，奉懷李員外，率爾成興
+0092 暫如臨邑，至㟙山湖亭，奉懷李員外，率爾成興
 zaam6 jyu4 lam4 jap1, zi3 zaak6 saan1 wu4 ting4, fung6 waai4 lei5 jyun4 ngoi6, seot1 ji5 sing4 hing3
 
 野亭逼湖水，歇馬高林間。
@@ -747,7 +747,7 @@ oi2 oi2 sang1 wan4 mou6, wai4 jing1 cuk1 gaa3 waan4
 =====================================================
 
 
-與李十二白同尋范十隱居
+0095 與李十二白同尋范十隱居
 jyu5 lei5 sap6 ji6 baak6 tung4 cam4 faan6 sap6 jan2 geoi1
 
 李侯有佳句，往往似陰鏗。
@@ -799,7 +799,7 @@ bat1 jyun6 leon4 zaam1 fat1, jau4 jau4 cong1 hoi2 cing4
 =====================================================
 
 
-贈李白
+0099 贈李白
 zang6 lei5 baak6
 
 秋來相顧尚飄蓬，未就丹砂愧葛洪。
@@ -818,7 +818,7 @@ tung3 jam2 kong4 go1 hung1 dou6 jat6, fei1 joeng4 bat6 wu6 wai6 seoi4 hung4
 =====================================================
 
 
-冬日有懷李白
+0103 冬日有懷李白
 dung1 jat6 jau5 waai4 lei5 baak6
 
 寂寞書齋裏，終朝獨爾思。
@@ -848,7 +848,7 @@ mei6 jan1 sing4 hing3 heoi3, hung1 jau5 luk6 mun4 kei4
 =====================================================
 
 
-春日憶李白
+0107 春日憶李白
 ceon1 jat6 jik1 lei5 baak6
 
 白也詩無敵，飄然思不羣。
@@ -881,7 +881,7 @@ ho4 si4 jat1 zeon1 zau2, cung4 jyu5 sai3 leon4 man4
 =====================================================
 
 
-送孔巢父謝病歸遊江東兼呈李白
+0111 送孔巢父謝病歸遊江東兼呈李白
 sung3 hung2 caau4 fu2 ze6 bing6 gwai1 jau4 gong1 dung1 gim1 cing4 lei5 baak6]
 
 巢父掉頭不肯住，東將入海隨煙霧。
@@ -929,7 +929,7 @@ naam4 cam4 jyu5 jyut6 gin3 lei5 baak6, dou6 fu2 man6 seon3 gam1 ho4 jyu4
 =====================================================
 
 
-鄭駙馬宅宴洞中
+0120 鄭駙馬宅宴洞中
 zeng6 fu6 maa5 zaak6 jin3 dung6 zung1
 
 主家陰洞細煙霧，留客夏簟清琅玕。
@@ -959,7 +959,7 @@ zi6 si6 ceon4 lau4 aat3 zeng6 guk1, si4 man4 zaap6 pui3 seng1 saan1 saan1
 =====================================================
 
 
-贈特進汝陽王二十二韻
+0126 贈特進汝陽王二十二韻
 zang6 dak6 zeon3 jyu5 joeng4 wong4 ji6 sap6 ji6 wan5
 
 特進羣公表，天人夙德升。
@@ -1080,7 +1080,7 @@ waai4 wong4 mun4 jau5 haak3, zung1 bat1 kwai5 syun1 dang1
 =====================================================
 
 
-飲中八仙歌
+0136 飲中八仙歌
 jam2 zung1 baat3 sin1 go1
 
 知章騎馬似乘船，眼花落井水底眠。
@@ -1151,7 +1151,7 @@ ziu1 seoi6 ng5 dau2 fong1 coek3 jin4, gou1 taam4 hung4 bin6 ging1 sei3 jin4
 =====================================================
 
 
-今夕行
+0144 今夕行
 gam1 zik6 hang4
 
 今夕何夕歲云徂，更長燭明不可孤。
@@ -1182,7 +1182,7 @@ gwan1 mok6 siu3 lau4 ngai6 cung4 loi4 bou3 ji1 jyun6, gaa1 mou4 daam1 daam3 syu1
 =====================================================
 
 
-贈比部蕭郎中十兄
+0148 贈比部蕭郎中十兄
 zang6 bei2 bou6 siu1 long4 zung1 sap6 hing1
 
 有美生人傑，由來積德門。
@@ -1242,7 +1242,7 @@ ning4 jyu1 zoeng2 ze2 cit3, gwai1 lou5 jam6 gon1 kwan1
 =====================================================
 
 
-故武衞將軍挽歌三首
+0152 故武衞將軍挽歌三首
 gu3 mou5 wai6 zoeng1 gwan1 waan5 go1 saam1 sau2
 
 其一
@@ -1318,7 +1318,7 @@ mou4 jau4 dou2 hung4 loek6, daai6 syu6 jat6 siu1 siu1
 =====================================================
 
 
-奉寄河南韋尹丈人
+0161 奉寄河南韋尹丈人
 fung6 gei3 ho4 naam4 wai4 wan5 zoeng6 jan4
 
 有客傳河尹，逢人問孔融。
@@ -1378,7 +1378,7 @@ si1 hoeng1 jyu4 tou2 sat1, naan4 syut3 zuk1 gai1 jung1
 =====================================================
 
 
-高都護驄馬行
+0167 高都護驄馬行
 gou1 dou1 wu6 cung1 maa5 hang4
 
 安西都護胡青驄，聲價欻然來向東。
@@ -1425,7 +1425,7 @@ cing1 si1 lok3 tau4 wai6 gwan1 lou5, ho4 jau4 koek3 ceot1 waang4 mun4 dou6
 =====================================================
 
 
-冬日洛城北謁玄元皇帝廟
+0173 冬日洛城北謁玄元皇帝廟
 dung1 jat6 lok3 sing4 bak1 jit3 jyun4 jyun4 wong4 dai3 miu6
 
 配極玄都閟，憑高禁禦長。
@@ -1504,7 +1504,7 @@ guk1 san4 jyu4 bat1 sei2, joeng5 zyut3 gang3 ho4 hoeng1
 
 =====================================================
 
-0184 行次昭陵
+0184 0184 行次昭陵
 hang4 ci3 ciu1 ling4
 
 舊俗疲庸主，羣雄問獨夫。
@@ -1560,7 +1560,7 @@ zik6 liu4 hoi1 gwok3 jat6, lau4 han6 mun5 saan1 jyu4
 
 =====================================================
 
-0199 重經昭陵
+0199 0199 重經昭陵
 cung4 ging1 ciu1 ling4
 
 草昧英雄起，謳歌歷數歸。
@@ -1590,7 +1590,7 @@ zoi3 kwai1 cung4 paak3 lou6, waan4 gin3 ng5 wan4 fei1
 
 =====================================================
 
-0204 贈翰林張四學士
+0204 0204 贈翰林張四學士
 zang6 hon6 lam4 zoeng1 sei3 hok6 si6
 
 翰林逼華蓋，鯨力破滄溟。
@@ -1628,7 +1628,7 @@ tong2 jik1 saan1 joeng4 wui6, bei1 go1 zoi6 jat1 ting1
 
 =====================================================
 
-0209 贈韋左丞丈濟
+0209 0209 贈韋左丞丈濟
 zang6 wai4 zo2 sing4 zoeng6 zai3
 
 左轄頻虛位，今年得舊儒。
@@ -1676,7 +1676,7 @@ gwan1 nang4 mei4 gam2 gik1, jik6 zuk1 wai3 zeon1 mou4
 
 =====================================================
 
-0214 樂遊園歌
+0214 0214 樂遊園歌
 lok6 jau4 jyun4 go1
 
 樂遊古園崒森爽，煙緜碧草萋萋長。
@@ -1714,7 +1714,7 @@ ci2 san1 jam2 baa6 mou4 gwai1 cyu3, duk6 lap6 cong1 mong4 zi6 wing6 si1
 
 =====================================================
 
-0223 病後過王倚飲贈歌
+0223 0223 病後過王倚飲贈歌
 bing6 hau6 gwo3 wong4 ji2 jam2 zang6 go1
 
 麟角鳳觜世莫識，煎膠續弦奇自見。
@@ -1764,7 +1764,7 @@ daan6 si2 caan4 nin4 baau2 hek3 faan6, zi2 jyun6 mou4 si6 coeng4 soeng1 gin3
 
 =====================================================
 
-0229 兵車行
+0229 0229 兵車行
 bing1 geoi1 hang4
 
 車轔轔，馬蕭蕭，
@@ -1824,7 +1824,7 @@ san1 gwai2 faan4 jyun1 gau6 gwai2 huk1, tin1 jam1 jyu5 sap1 seng1 zau1 zau1
 
 =====================================================
 
-0241 前出塞九首
+0241 0241 前出塞九首
 cin4 ceot1 sak1 gau2 sau2
 
 其一
@@ -1960,7 +1960,7 @@ zoeng6 fu1 sei3 fong1 zi3, on1 ho2 ci4 gu3 kung4
 
 =====================================================
 
-0262 投簡咸華兩縣諸子
+0262 0262 投簡咸華兩縣諸子
 tau4 gaan2 haam4 waa4 loeng5 jyun6 zyu1 zi2
 
 赤縣官曹擁材傑，軟裘快馬當冰雪。
@@ -1987,7 +1987,7 @@ gwan1 bat1 gin3 hung1 coeng4 jat6 sik1 maan5, ci2 lou5 mou4 seng1 leoi6 seoi4 hy
 
 =====================================================
 
-0266 杜位宅守歲
+0266 0266 杜位宅守歲
 dou6 wai6 zaak6 sau2 seoi3
 
 守歲阿戎家，椒盤已頌花。
@@ -2011,7 +2011,7 @@ seoi4 nang4 gang3 keoi1 cuk1, laan6 zeoi3 si6 sang1 ngaai4
 
 =====================================================
 
-0271 玄都壇歌寄元逸人
+0271 0271 玄都壇歌寄元逸人
 jyun4 dou1 taan4 go1 gei3 jyun4 jat6 jan4
 
 故人昔隱東蒙峯，已佩含景蒼精龍。（冬韻）
@@ -2035,7 +2035,7 @@ tit3 so2 gou1 seoi4 bat1 ho2 paan1, zi3 san1 fuk1 dei6 ho4 siu1 song2
 
 =====================================================
 
-0276 奉贈韋左丞丈二十二韻
+0276 0276 奉贈韋左丞丈二十二韻
 fung6 zang6 wai4 zo2 sing4 zoeng6 ji6 sap6 ji6 wan5
 
 紈袴不餓死，儒冠多誤身。
@@ -2107,7 +2107,7 @@ baak6 au1 mut6 hou6 dong6, maan6 lei5 seoi4 nang4 seon4
 
 =====================================================
 
-0288 奉留贈集賢院崔于二學士
+0288 0288 奉留贈集賢院崔于二學士
 fung6 lau4 zang6 zaap6 jin4 jyun6 ceoi1 jyu1 ji6 hok6 si6
 
 昭代將垂白，途窮乃叫閽。
@@ -2143,7 +2143,7 @@ mau6 cing1 saam1 fu3 zoi6, naan4 seot6 ji6 gung1 jan1
 
 =====================================================
 
-0295 同諸公登慈恩寺塔
+0295 0295 同諸公登慈恩寺塔
 tung4 zyu1 gung1 dang1 ci4 jan1 zi6 taap3
 
 高標跨蒼穹，烈風無時休。
@@ -2198,7 +2198,7 @@ gwan1 hon3 ceoi4 joeng4 ngaan6, gok3 jau5 dou6 loeng4 mau4
 
 =====================================================
 
-0305 曲江三章章五句
+0305 0305 曲江三章章五句
 kuk1 gong1 saam1 zoeng1 zoeng1 ng5 geoi3
 
 其一
@@ -2237,7 +2237,7 @@ dyun2 ji1 pat1 maa5 ceoi4 lei5 gwong2, hon3 se6 maang5 fu2 zung1 caan4 nin4
 
 =====================================================
 
-0311 敬贈鄭諫議十韻
+0311 0311 敬贈鄭諫議十韻
 ging3 zang6 zeng6 gaan3 ji5 sap6 wan5
 
 諫官非不達，詩義早知名。
@@ -2285,7 +2285,7 @@ gwan1 gin3 tou4 kung4 huk1, ji4 jau1 jyun2 bou6 bing1
 
 =====================================================
 
-0317 貧交行
+0317 0317 貧交行
 pan4 gaau1 hang4
 
 翻手作雲覆手雨，紛紛輕薄何須數。
@@ -2297,7 +2297,7 @@ gwan1 bat1 gin3 gun2 baau6 pan4 si4 gaau1, ci2 dou6 gam1 jan4 hei3 jyu4 tou2
 
 =====================================================
 
-0319 白絲行
+0319 0319 白絲行
 baak6 si1 hang4
 
 繰絲須長不須白，越羅蜀錦金粟尺。
@@ -2329,7 +2329,7 @@ gwan1 bat1 gin3 coi4 si6 kap1 jan5 naan4, hung2 geoi6 hei3 gyun1 jan2 gei1 leoi5
 
 =====================================================
 
-0326 送韋書記赴安西
+0326 0326 送韋書記赴安西
 sung3 wai4 syu1 gei3 fu6 on1 sai1
 
 夫子欻通貴，雲泥相望懸。
@@ -2351,7 +2351,7 @@ juk6 fau4 gong1 hoi2 heoi3, ci2 bit6 ji3 cong1 jin4
 
 =====================================================
 
-0328 奉贈鮮于京兆二十韻
+0328 0328 奉贈鮮于京兆二十韻
 fung6 zang6 sin1 jyu4 ging1 siu6 ji6 sap6 wan5
 
 王國稱多士，賢良復幾人。
@@ -2439,7 +2439,7 @@ jau5 jyu4 sau4 ngo6 sei2, zou2 maan5 bou3 ping4 zeon1
 
 =====================================================
 
-0338 石硯詩
+0338 0338 石硯詩
 sek6 jin6 si1
 
 平公今詩伯，秀發吾所羨。
@@ -2477,7 +2477,7 @@ zi3 jyu1 daan1 cing1 dei6, zi1 jyu5 ceoi4 gu3 min5
 
 =====================================================
 
-0342 麗人行
+0342 0342 麗人行
 lai6 jan4 hang4
 
 三月三日天氣新，長安水邊多麗人。
@@ -2522,10 +2522,10 @@ zek3 sau2 ho2 jit6 sai3 zyut6 leon4, san6 mok6 gan6 cin4 sing4 soeng3 can1
 
 =====================================================
 
-0353 虢國夫人
+0353 0353 虢國夫人
 gwik1 gwok3 fu1 jan4
 
-虢國夫人承主恩，平明騎馬入宮門。
+0353 虢國夫人承主恩，平明騎馬入宮門。
 gwik1 gwok3 fu1 jan4 sing4 zyu2 jan1, ping4 ming4 kei4 maa5 jap6 gung1 mun4
 -----------------------------------------------------
 卻嫌脂粉涴顏色，淡掃蛾眉朝至尊。（元韻）
@@ -2534,7 +2534,7 @@ koek3 jim4 zi1 fan2 wo3 ngaan4 sik1, daam6 sou3 ngo4 mei4 ziu1 zi3 zyun1
 
 =====================================================
 
-0356 陪鄭廣文遊何將軍山林十首
+0356 0356 陪鄭廣文遊何將軍山林十首
 pui4 zeng6 gwong2 man4 jau4 ho4 zoeng1 gwan1 saan1 lam4 sap6 sau2
 
 其一
@@ -2720,7 +2720,7 @@ kei4 jing1 jyu5 pang4 hou2, fung1 jyu5 jik6 loi4 gwo1
 
 =====================================================
 
-0388 送高三十五書記
+0388 0388 送高三十五書記
 sung3 gou1 saam1 sap6 ng5 syu1 gei3
 
 崆峒小麥熟，且願休王師。
@@ -2776,7 +2776,7 @@ bin1 sing4 jau5 jyu4 lik6, zou2 gei3 cung4 gwan1 si1
 
 =====================================================
 
-0396 九日曲江
+0396 0396 九日曲江
 gau2 jat6 kuk1 gong1
 
 綴席茱萸好，浮舟菡萏衰。
@@ -2798,7 +2798,7 @@ maan5 loi4 gou1 hing3 zeon6, jiu4 dong6 guk1 faa1 kei4
 
 =====================================================
 
-0400 贈陳二補闕
+0400 0400 贈陳二補闕
 zang6 can4 ji6 bou2 kyut3
 
 世儒多汩沒，夫子獨聲名。
@@ -2820,7 +2820,7 @@ zi6 dou3 cing1 ming4 leoi5, jau1 hon1 baak6 faat3 sang1
 
 =====================================================
 
-0403 送張二十參軍赴蜀州，因呈楊五侍御
+0403 0403 送張二十參軍赴蜀州，因呈楊五侍御
 sung3 zoeng1 ji6 sap6 caam1 gwan1 fu6 suk6 zau1, jan1 cing4 joeng4 ng5 si6 jyu6
 
 好去張公子，通家別恨添。
@@ -2842,7 +2842,7 @@ wong4 waa4 ng4 sin6 cyu3, jyu1 jyu5 ding6 mou4 jim4
 
 =====================================================
 
-0406 寄高三十五書記
+0406 0406 寄高三十五書記
 gei3 gou1 saam1 sap6 ng5 syu1 gei3
 
 歎惜高生老，新詩日又多。
@@ -2864,7 +2864,7 @@ man4 gwan1 ji5 zyu1 fat1, ce2 dak1 wai3 co1 to4
 
 =====================================================
 
-0409 醉時歌
+0409 0409 醉時歌
 zeoi3 si4 go1
 
 諸公衮衮登臺省，廣文先生官獨冷。（梗韻）
@@ -2912,7 +2912,7 @@ bat1 seoi1 man4 ci2 ji3 caam2 cong3, sang1 cin4 soeng1 jyu6 ce2 haam4 bui1
 
 =====================================================
 
-0419 重過何氏五首
+0419 0419 重過何氏五首
 cung4 gwo3 ho4 si6 ng5 sau2
 
 其一
@@ -3008,7 +3008,7 @@ si1 jau4 hung2 bat1 seoi6, baa2 zau2 ji3 mong4 jin4
 
 =====================================================
 
-0434 城西陂泛舟
+0434 0434 城西陂泛舟
 sing4 sai1 bei1 faan6 zau1
 
 青蛾皓齒在樓船，橫笛短簫悲遠天。
@@ -3032,7 +3032,7 @@ bat1 jau5 siu2 zau1 nang4 dong6 zoeng2, baak3 wu4 no4 sung3 zau2 jyu4 cyun4
 
 =====================================================
 
-0438 陪諸貴公子丈八溝攜妓納涼，晚際遇雨二首
+0438 0438 陪諸貴公子丈八溝攜妓納涼，晚際遇雨二首
 pui4 zyu1 gwai3 gung1 zi2 zoeng6 baat3 gau1 kwai4 gei6 naap6 loeng4, maan5 zai3 jyu6 jyu5 ji6 sau2
 
 其一
@@ -3074,7 +3074,7 @@ gwai1 lou6 faan1 siu1 saap3, bei1 tong4 ng5 jyut6 cau1
 
 =====================================================
 
-0443 渼陂行
+0443 0443 渼陂行
 mei5 bei1 hang4
 
 岑參兄弟皆好奇，攜我遠來遊渼陂。
@@ -3124,7 +3124,7 @@ siu3 zong3 gei2 si4 noi6 lou5 ho4, hoeng3 loi4 oi1 lok6 ho4 kei4 do1
 
 =====================================================
 
-0452 與鄠縣源大少府宴渼陂
+0452 0452 與鄠縣源大少府宴渼陂
 jyu5 wu6 jyun6 jyun4 daai6 siu3 fu2 jin3 mei5 bei1
 
 應爲西陂好，金錢罄一餐。
@@ -3146,7 +3146,7 @@ zyu2 jan4 cing4 laan6 maan6, ci4 daap3 ceoi3 long4 gon1
 
 =====================================================
 
-0456 渼陂西南臺
+0456 0456 渼陂西南臺
 mei5 bei1 sai1 naam4 toi4
 
 高臺面蒼陂，六月風日冷。
@@ -3189,7 +3189,7 @@ cung4 ci2 geoi6 pin1 zau1, mei4 nin4 zuk6 cing1 ging2
 =====================================================
 
 
-0462 夏日李公見訪
+0462 0462 夏日李公見訪
 haa6 jat6 lei5 gung1 gin3 fong2
 
 遠林暑氣薄，公子過我遊。
@@ -3229,7 +3229,7 @@ jyu6 hung2 zoen1 zung1 zeon6, gang3 hei2 wai6 gwan1 mau4
 
 =====================================================
 
-0465 秋雨歎三首
+0465 0465 秋雨歎三首
 cau1 jyu5 taan3 saam1 sau2
 
 其一
@@ -3281,7 +3281,7 @@ cau1 loi4 mei6 cang4 gin3 baak6 jat6, nai4 wu1 hau6 tou2 ho4 si4 gon1
 =====================================================
 
 
-0476 苦雨奉寄隴西公兼呈王徵士
+0476 0476 苦雨奉寄隴西公兼呈王徵士
 fu2 jyu5 fung6 gei3 lung5 sai1 gung1 gim1 cing4 wong4 zing1 si6
 
 今秋乃淫雨，仲月來寒風。
@@ -3336,7 +3336,7 @@ gwaa3 zik6 diu3 cyun1 zoeng3, jin1 zi1 cing1 hing3 zung1
 
 =====================================================
 
-0481 送裴二虬作尉永嘉
+0481 0481 送裴二虬作尉永嘉
 sung3 pui4 ji6 kau4 zok3 wai3 wing5 gaa1
 
 孤嶼亭何處，天涯水氣中。
@@ -3359,7 +3359,7 @@ bin2 zau1 ng4 ji5 geoi6, baa2 diu3 doi6 cau1 fung1
 =====================================================
 
 
-0484 九日寄岑參
+0484 0484 九日寄岑參
 gau2 jat6 gei3 sam4 sam1
 
 出門復入門，雨腳但如舊。
@@ -3415,7 +3415,7 @@ coi2 coi2 wong4 gam1 faa1, ho4 jau4 mun5 ji1 zau6
 =====================================================
 
 
-0490 歎庭前甘菊花
+0490 0490 歎庭前甘菊花
 taan3 ting4 cin4 gam1 guk1 faa1
 
 簷前甘菊移時晚，青蘂重陽不堪摘。
@@ -3476,7 +3476,7 @@ tou4 waai4 gung3 gung1 hei2, saap3 saap3 ban3 mou4 cong1
 
 =====================================================
 
-0499 崔駙馬山亭宴集
+0499 0499 崔駙馬山亭宴集
 ceoi1 fu6 maa5 saan1 ting4 jin3 zaap6
 
 蕭史幽栖地，林間踏鳳毛。
@@ -3498,7 +3498,7 @@ cing1 cau1 do1 jin3 wui6, zung1 jat6 kwan3 hoeng1 lou4
 
 =====================================================
 
-0501 示從孫濟
+0501 0501 示從孫濟
 si6 cung4 syun1 zai3
 
 平明跨驢出，未知適誰門。
@@ -3537,7 +3537,7 @@ mat6 sau6 ngoi6 jim4 caai1, tung4 sing3 gu2 so2 deon1
 
 =====================================================
 
-0506 奉贈太常張卿垍二十韻
+0506 0506 奉贈太常張卿垍二十韻
 fung6 zang6 taai3 soeng4 zoeng1 hing1 gei6 ji6 sap6 wan5
 
 方丈三韓外，崑崙萬國西。
@@ -3626,7 +3626,7 @@ gei2 si4 pui4 jyu5 lip6, jing1 zi2 diu3 wong4 kai1
 
 =====================================================
 
-0515 橋陵詩三十韻因呈縣內諸官
+0515 0515 橋陵詩三十韻因呈縣內諸官
 kiu4 ling4 si1 saam1 sap6 wan5 jan1 cing4 jyun6 noi6 zyu1 gun1
 
 先帝昔晏駕，茲山朝百靈。
@@ -3724,7 +3724,7 @@ ho4 dong1 baai2 zuk6 leoi6, hou6 dong6 sing4 cong1 ming4
 
 =====================================================
 
-0527 奉先劉少府新畫山水障歌
+0527 0527 奉先劉少府新畫山水障歌
 fung6 sin1 lau4 siu3 fu2 san1 waak6 saan1 seoi2 zoeng3 go1
 
 堂上不合生楓樹，怪底江山起煙霧。
@@ -3786,7 +3786,7 @@ ng4 duk6 wu4 wai4 zoi6 nai4 zi2, cing1 haai4 bou3 mat6 cung4 ci2 ci2
 
 =====================================================
 
-0536 贈獻納使起居田舍人
+0536 0536 贈獻納使起居田舍人
 zang6 hin3 naap6 si3 hei2 geoi1 tin4 se3 jan4
 
 獻納司存雨露邊，地分清切任才賢。
@@ -3808,7 +3808,7 @@ joeng4 hung4 gang3 jau5 ho4 dung1 fu3, wai4 doi6 ceoi1 heoi1 sung3 soeng5 tin1
 
 =====================================================
 
-0541 沙苑行
+0541 0541 沙苑行
 saa1 jyun2 hang4
 
 君不見左輔白沙如白水，繚以周牆百餘里。
@@ -3852,7 +3852,7 @@ hei2 zi1 ji6 mat6 tung4 zing1 hei3, seoi1 mei6 sing4 lung4 jik6 jau5 san4
 
 =====================================================
 
-0549 天育驃騎歌
+0549 0549 天育驃騎歌
 tin1 juk6 biu1 kei3 go1
 
 吾聞天子之馬走千里，今之畫圖無乃是。
@@ -3890,7 +3890,7 @@ jyu4 gam1 hei2 mou4 jiu5 niu5 jyu5 waa4 lau4, si4 mou4 wong4 loeng4 baak3 lok6 s
 
 =====================================================
 
-0557 贈田九判官
+0557 0557 贈田九判官
 zang6 tin4 gau2 pun3 gun1
 
 崆峒使節上青霄，河隴降王款聖朝。
@@ -3912,7 +3912,7 @@ fai1 haa6 laai6 gwan1 coi4 bing6 jap6, duk6 nang4 mou4 ji3 hoeng3 jyu4 ciu4
 
 =====================================================
 
-0563 投贈哥舒開府翰二十韻
+0563 0563 投贈哥舒開府翰二十韻
 tau4 zang6 go1 syu1 hoi1 fu2 hon6 ji6 sap6 wan5
 
 今代騏驎閣，何人第一功。
@@ -3998,7 +3998,7 @@ fong4 san1 jat1 coeng4 gim3, zoeng1 juk6 ji2 hung1 tung4
 
 =====================================================
 
-0576 戲簡鄭廣文虔兼呈蘇司業源明
+0576 0576 戲簡鄭廣文虔兼呈蘇司業源明
 hei3 gaan2 zeng6 gwong2 man4 kin4 gim1 cing4 sou1 si1 jip6 jyun4 ming4
 
 廣文到官舍，繫馬堂階下。
@@ -4016,7 +4016,7 @@ laai6 jau5 sou1 si1 jip6, si4 si4 jyu5 zau2 cin4
 
 =====================================================
 
-0581 上韋左相二十韻
+0581 0581 上韋左相二十韻
 soeng5 wai4 zo2 soeng3 ji6 sap6 wan5
 
 鳳曆軒轅紀，龍飛四十春。
@@ -4102,7 +4102,7 @@ wai6 gung1 go1 ci2 kuk1, tai3 leoi6 zoi6 ji1 gan1
 
 =====================================================
 
-0592 夜聽許十誦詩愛而有作
+0592 0592 夜聽許十誦詩愛而有作
 je62 ting1 heoi2 sap6 zung6 si1 oi3 ji4 jau5 zok3
 
 許生五臺賓，業白出石壁。
@@ -4138,7 +4138,7 @@ gwan1 ji3 jan4 mok6 zi1, jan4 gaan1 je6 liu4 gwik1
 
 =====================================================
 
-0598 醉歌行
+0598 0598 醉歌行
 zeoi3 go1 hang4
 
 陸機二十作文賦，汝更小年能綴文。
@@ -4180,7 +4180,7 @@ naai5 zi1 pan4 zin6 bit6 gang3 fu2, tan1 sing1 zaak6 zuk6 tai3 leoi6 ling4
 
 =====================================================
 
-0605 陪李金吾花下飲
+0605 0605 陪李金吾花下飲
 pui4 lei5 gam1 ng4 faa1 haa6 jam2
 
 勝地初相引，徐行得自娛。
@@ -4202,7 +4202,7 @@ zeoi3 gwai1 jing1 faan6 je6, ho2 paa3 lei5 gam1 ng4
 
 =====================================================
 
-0608 驄馬行
+0608 0608 驄馬行
 cung1 maa5 hang4
 
 鄧公馬癖人共知，初得花驄大宛種。
@@ -4246,7 +4246,7 @@ gan6 man4 haa6 ziu3 hyun1 dou1 jap1, hang2 si2 kei4 leon4 dei6 soeng6 hang4
 
 =====================================================
 
-0615 魏將軍歌
+0615 0615 魏將軍歌
 ngai6 zoeng1 gwan1 go1
 
 將軍昔著從事衫，鐵馬馳突重兩銜。
@@ -4287,7 +4287,7 @@ maan6 seoi3 cin1 cau1 fung6 ming4 zyu2, lam4 gong1 zit3 si6 on1 zuk1 sou2
 
 =====================================================
 
-0622 送蔡希魯都尉還隴右因寄高三十五書記
+0622 0622 送蔡希魯都尉還隴右因寄高三十五書記
 sung3 coi3 hei1 lou5 dou1 wai3 waan4 lung5 jau6 jan1 gei3 gou1 saam1 sap6 ng5 syu1 gei3
 
 蔡子勇成癖，彎弓西射胡。
@@ -4342,7 +4342,7 @@ jan1 gwan1 man6 siu1 sik1, hou2 zoi6 jyun2 jyun4 jyu4
 
 =====================================================
 
-0627 九日楊奉先會白水崔明府
+0627 0627 九日楊奉先會白水崔明府
 gau2 jat6 joeng4 fung6 sin1 wui6 baak6 seoi2 ceoi1 ming4 fu2
 
 今日潘懷縣，同時陸浚儀。
@@ -4364,7 +4364,7 @@ maan5 ham4 lau4 haak3 mou5, fu4 sik1 gung6 caa1 ci4
 
 =====================================================
 
-0631 白水明府舅宅喜雨
+0631 0631 白水明府舅宅喜雨
 baak6 seoi2 ming4 fu2 kau5 zaak6 hei2 jyu5
 
 吾舅政如此，古人誰復過。
@@ -4388,7 +4388,7 @@ tong1 nin4 hon5 po1 sam6, gam1 jat6 zeoi3 jin4 go1
 
 =====================================================
 
-0633 官定後戲贈
+0633 0633 官定後戲贈
 gun1 ding6 hau6 hei3 zang6
 
 不作河西尉，淒涼爲折腰。
@@ -4410,7 +4410,7 @@ gu3 saan1 gwai1 hing3 zeon6, wui4 sau2 hoeng3 fung1 biu1
 
 =====================================================
 
-0636 後出塞五首
+0636 0636 後出塞五首
 hau6 ceot1 coi3 ng5 sau2
 
 其一
@@ -4519,7 +4519,7 @@ ok3 ming4 hang6 tyut3 min5, kung4 lou5 mou4 ji4 syun1
 
 =====================================================
 
-0652 去矣行
+0652 0652 去矣行
 heoi3 ji5 hang4
 
 君不見韝上鷹，一飽則飛掣。
@@ -4539,7 +4539,7 @@ mei6 si3 nong4 zung1 syun1 juk6 faat3, ming4 ziu1 ce2 jap6 laam4 tin4 saan1
 
 =====================================================
 
-0656 奉同郭給事湯東靈湫作
+0656 0656 奉同郭給事湯東靈湫作
 fung6 tung4 gwok3 kap1 si6 tong1 dung1 ling4 zau1 zok3
 
 東山氣濛鴻，宮殿居上頭。
@@ -4605,7 +4605,7 @@ hou6 go1 luk6 seoi2 kuk1, cing1 zyut6 ting1 ze2 sau4
 
 =====================================================
 
-0668 自京赴奉先縣詠懷五百字
+0668 0668 自京赴奉先縣詠懷五百字
 zi6 ging1 fu6 fung6 sin1 jyun6 wing6 waai4 ng5 baak3 zi6
 
 杜陵有布衣，老大意轉拙。（屑韻）
@@ -4761,7 +4761,7 @@ jau1 dyun1 cai4 zung1 naam4, hung6 dung6 bat1 ho2 zyut3
 
 =====================================================
 
-0695 蘇端薛復筵簡薛華醉歌
+0695 0695 蘇端薛復筵簡薛華醉歌
 sou1 dyun1 sit3 fuk6 jin4 gaan2 sit3 waa4 zeoi3 go1
 
 文章有神交有道，端復得之名譽早。
@@ -4811,7 +4811,7 @@ jyu4 ho4 bat1 jam2 ling6 sam1 oi1
 
 =====================================================
 
-0703 晦日尋崔戢李封
+0703 0703 晦日尋崔戢李封
 fui3 jat6 cam4 ceoi1 cap1 lei5 fung1
 
 朝光入甕牖，尸寢驚弊裘。
@@ -4879,7 +4879,7 @@ zuk6 lou4 jau5 miu6 lei5, syu3 jung6 wai3 cam4 fau4
 
 =====================================================
 
-0710 送率府程錄事還鄕
+0710 0710 送率府程錄事還鄕
 sung3 leot6 fu2 cing4 luk6 si6 waan4 hoeng1
 
 鄙夫行衰謝，抱病昏妄集。
@@ -4930,7 +4930,7 @@ mok6 zok3 faan1 wan4 gwat1, man4 fu1 hoeng3 kam4 gap1
 
 =====================================================
 
-0715 白水縣崔少府十九翁高齋三十韻
+0715 0715 白水縣崔少府十九翁高齋三十韻
 baak6 seoi2 jyun6 ceoi1 siu3 fu2 sap6 gau2 jung1 gou1 zaai1 saam1 sap6 wan5
 
 客從南縣來，浩蕩無與適。（陌韻）
@@ -5028,7 +5028,7 @@ saam1 taan3 zau2 sik6 pong4, ho4 jau4 ci5 ping4 sik1
 
 =====================================================
 
-0725 三川觀水漲二十韻
+0725 0725 三川觀水漲二十韻
 saam1 cyun1 gun1 seoi2 zoeng3 ji6 sap6 wan5
 
 我經華原來，不復見平陸。（屋韻）
@@ -5103,7 +5103,7 @@ geoi2 tau4 hoeng3 cong1 tin1, on1 dak1 kei4 hung4 guk1
 
 =====================================================
 
-0733 月夜
+0733 0733 月夜
 jyut6 je6
 
 今夜鄜州月，閨中只獨看。
@@ -5125,7 +5125,7 @@ ho4 si4 ji2 heoi1 fong2, soeng1 ziu3 leoi6 han4 gon1
 
 =====================================================
 
-0737 悲陳陶
+0737 0737 悲陳陶
 bei1 can4 tou4
 
 孟冬十郡良家子，血作陳陶澤中水。
@@ -5143,7 +5143,7 @@ dou1 jan4 wui4 min6 hoeng3 bak1 tai4, jat6 je6 gang3 mong6 gun1 gwan1 zi3
 
 =====================================================
 
-0742 悲青坂
+0742 0742 悲青坂
 bei1 cing1 baan2
 
 我軍青坂在東門，天寒飲馬太白窟。
@@ -5161,10 +5161,10 @@ jin1 dak1 fu6 syu1 jyu5 ngo5 gwan1, jan2 doi6 ming4 nin4 mok6 cong1 cyut3
 
 =====================================================
 
-0745 避地
+0745 0745 避地
 bei6 dei6
 
-避地歲時晚，竄身筋骨勞。
+0745 避地歲時晚，竄身筋骨勞。
 bei6 dei6 seoi3 si4 maan5, cyun3 san1 gan1 gwat1 lou4
 -----------------------------------------------------
 詩書遂牆壁，奴僕且旌旄。
@@ -5179,7 +5179,7 @@ san4 jiu4 gau6 tin1 haa6, wui6 gin3 ceot1 sing1 sou1
 
 =====================================================
 
-0748 對雪
+0748 0748 對雪
 deoi3 syut3
 
 戰哭多新鬼，愁吟獨老翁。
@@ -5201,7 +5201,7 @@ sou3 zau1 siu1 sik1 dyun6, sau4 co5 zeng3 syu1 hung1
 
 =====================================================
 
-0752 元日
+0752 0752 元日
 jyun4 jat6
 
 近聞韋氏妹，迎在漢鍾離。
@@ -5223,7 +5223,7 @@ bat1 gin3 ciu4 zing3 si3, tai4 han4 mun5 min6 seoi4
 
 =====================================================
 
-0755 塞蘆子
+0755 0755 塞蘆子
 sak1 lou4 zi2
 
 五城何迢迢？迢迢隔河水。
@@ -5241,7 +5241,7 @@ wui4 loek6 daai6 fong1 loi4, ngaau4 haam4 goi3 heoi1 ji5
 延州秦北戶，關防猶可倚。
 jin4 zau1 ceon4 bak1 wu6, gwaan1 fong4 jau4 ho2 ji2
 -----------------------------------------------------
-焉得一萬人，疾驅塞蘆子。
+0755 焉得一萬人，疾驅塞蘆子。
 jin1 dak1 jat1 maan6 jan4, zat6 keoi1 sak1 lou4 zi2
 -----------------------------------------------------
 岐有薛大夫，旁制山賊起。
@@ -5259,7 +5259,7 @@ seoi4 nang4 giu3 dai3 fan1 , wu4 hang4 cuk1 jyu4 gwai2
 
 =====================================================
 
-0760 哀江頭
+0760 0760 哀江頭
 oi1 gong1 tau4
 
 少陵野老吞聲哭，春日潛行曲江曲。
@@ -5295,7 +5295,7 @@ wong4 fan1 wu4 kei3 can4 mun5 sing4, juk6 wong5 sing4 naam4 mong4 naam4 bak1
 
 =====================================================
 
-0771 哀王孫
+0771 0771 哀王孫
 oi1 wong4 syun1
 
 長安城頭頭白烏，夜飛延秋門上呼。
@@ -5345,7 +5345,7 @@ oi1 zoi1 wong4 syun1 san6 mat6 so1, ng5 ling4 gaai1 hei3 mou4 si4 mou4
 
 =====================================================
 
-0779 春望
+0779 0779 春望
 ceon1 mong6
 
 國破山河在，城春草木深。
@@ -5369,7 +5369,7 @@ baak6 tau4 sou1 gang3 dyun2, wan4 juk6 bat1 sing1 zaam1
 
 =====================================================
 
-0783 得舍弟消息二首
+0783 0783 得舍弟消息二首
 dak1 se3 dai6 siu1 sik1 ji6 sau2
 
 其一
@@ -5411,7 +5411,7 @@ loeng5 ging1 saam1 sap6 hau2, seoi1 zoi6 ming6 jyu4 si1
 
 =====================================================
 
-0786 憶幼子
+0786 0786 憶幼子
 jik1 jau3 zi2
 
 驥子春猶隔，鶯歌暖正繁。
@@ -5433,7 +5433,7 @@ jik1 keoi4 sau4 zi2 seoi6, zek3 bui3 fu2 cing4 hin1
 
 =====================================================
 
-0789 一百五日夜對月
+0789 0789 一百五日夜對月
 jat1 baak3 ng5 jat6 je6 deoi3 jyut6
 
 無家對寒食，有淚如金波。
@@ -5455,7 +5455,7 @@ ngau4 neoi5 maan6 sau4 si3, cau1 kei4 jau4 dou6 ho4
 
 =====================================================
 
-0794 遣興
+0794 0794 遣興
 hin2 hing3
 
 驥子好男兒，前年學語時。
@@ -5485,7 +5485,7 @@ tong2 gwai1 min5 soeng1 sat1, gin3 jat6 gam2 ci4 ci4
 
 =====================================================
 
-0797 大雲寺贊公房四首
+0797 0797 大雲寺贊公房四首
 daai6 wan4 zi6 zaan3 gung1 fong4 sei3 sau2
 
 其一
@@ -5591,7 +5591,7 @@ gan6 gung1 jyu4 baak6 syut3, zap1 jit6 faan4 ho4 jau5
 
 =====================================================
 
-0809 雨過蘇端
+0809 0809 雨過蘇端
 jyu5 gwo3 sou1 dyun1
 
 雞鳴風雨交，久旱雨亦好。
@@ -5629,7 +5629,7 @@ cai1 nou4 gaak3 gwan1 leoi5, but6 hei3 bat1 ji5 dou6
 
 =====================================================
 
-0813 喜晴
+0813 0813 喜晴
 hei2 cing4
 
 皇天久不雨，旣雨晴亦佳。
@@ -5677,7 +5677,7 @@ jin1 nang4 hok6 zung3 hau2, deot1 deot1 hung1 zi1 ze1
 
 =====================================================
 
-0819 鄭駙馬池臺喜遇鄭廣文同飲
+0819 0819 鄭駙馬池臺喜遇鄭廣文同飲
 zeng6 fu6 maa5 ci4 toi4 hei2 jyu6 zeng6 gwong2 man4 tung4 jam2
 
 不謂生戎馬，何知共酒杯。
@@ -5701,7 +5701,7 @@ lau4 lin4 ceon1 je6 mou5, leoi6 lok6 koeng5 pui4 wui4
 
 =====================================================
 
-0824 喜達行在所三首
+0824 0824 喜達行在所三首
 hei2 daat6 hang4 zoi6 so2 saam1 sau2
 
 其一
@@ -5761,7 +5761,7 @@ gam1 ziu1 hon3 se5 zik1, san1 sou2 zung1 hing1 nin4
 
 =====================================================
 
-0833 送樊二十三侍御赴漢中判官
+0833 0833 送樊二十三侍御赴漢中判官
 sung3 faan4 ji6 sap6 saam1 si6 jyu6 fu6 hon3 zung1 pun3 gun1
 
 威弧不能弦，自爾無寧歲。
@@ -5827,7 +5827,7 @@ ngo5 mou4 hong1 fuk6 zi1, liu4 juk6 cung4 ci2 sai6
 
 =====================================================
 
-0841 述懷一首
+0841 0841 述懷一首
 seot6 waai4 jat1 sau2
 
 去年潼關破，妻子隔絕久。
@@ -5883,7 +5883,7 @@ cam4 si1 fun1 wui6 cyu3, hung2 zok3 kung4 duk6 sau2
 
 =====================================================
 
-0848 送長孫九侍御赴武威判官
+0848 0848 送長孫九侍御赴武威判官
 sung3 zoeng2 syun1 gau2 si6 jyu6 fu6 mou5 wai1 pun3 gun1
 
 驄馬新鑿蹄，銀鞍被來好。
@@ -5933,7 +5933,7 @@ sai1 gik6 cyu5 jik6 king1, jyu4 ho4 zing3 kung4 hou6
 
 =====================================================
 
-0853 送從弟亞赴河西判官
+0853 0853 送從弟亞赴河西判官
 sung3 cung4 dai6 aa3 fu6 ho4 sai1 pun3 gun1
 
 南風作秋聲，殺氣薄炎熾。
@@ -5999,7 +5999,7 @@ lung4 jam4 wui4 kei4 tau4, gaap3 fu6 doi6 so2 zi3
 
 =====================================================
 
-0861 送韋十六評事充同谷郡防禦判官
+0861 0861 送韋十六評事充同谷郡防禦判官
 sung3 wai5 sap6 luk6 ping4 si6 cung1 tung4 guk1 gwan6 fong4 jyu6 pun3 gun1
 
 昔沒賊中時，潛與子同遊。
@@ -6077,7 +6077,7 @@ tai4 si1 dak1 sau3 geoi3, zaat3 hon6 si4 soeng1 tau4
 
 =====================================================
 
-0868 得家書
+0868 0868 得家書
 dak1 gaa1 syu1
 
 去憑遊客寄，來爲附家書。
@@ -6115,10 +6115,10 @@ nung4 si6 hung1 saan1 leoi5, gyun3 jin4 zung1 ho6 co4
 
 =====================================================
 
-0871 月
+0871 0871 月
 jyut6
 
-天上秋期近，人間月影清。
+0871 天上秋期近，人間月影清。
 tin1 soeng6 cau1 kei4 gan6, jan4 gaan1 jyut6 jing2 cing1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
@@ -6137,7 +6137,7 @@ gon1 gwo1 zi1 mun5 dei6, jau1 ziu3 gwok3 sai1 jing4
 
 =====================================================
 
-0875 ﻿奉送郭中丞兼太僕卿充隴右節度使三十韻
+0875 0875 ﻿奉送郭中丞兼太僕卿充隴右節度使三十韻
 fung6 sung3 gwok3 zung1 sing4 gim1 taai3 buk6 hing1 cung1 lung5 jau6 zit3 dou6 si3 saam1 sap6 wan5
 
 詔發西山將，秋屯隴右兵。
@@ -6265,7 +6265,7 @@ on1 bin1 jing4 wu6 zung6, mok6 zok3 hau6 gung1 ming4
 
 =====================================================
 
-0890 送楊六判官使西蕃
+0890 0890 送楊六判官使西蕃
 sung3 joeng4 luk6 pun3 gun1 si3 sai1 faan4
 
 送遠秋風落，西征海氣寒。
@@ -6321,7 +6321,7 @@ gwai1 loi4 kyun4 ho2 ceoi2, gau2 maan6 jat1 ziu1 tyun4
 
 =====================================================
 
-0896 送靈州李判官
+0896 0896 送靈州李判官
 sung3 ling4 zau1 lei5 pun3 gun1
 
 羯胡腥四海，回首一茫茫。
@@ -6343,7 +6343,7 @@ gan6 ho6 zung1 hing1 zyu2, san4 bing1 dung6 sok3 fong1
 
 =====================================================
 
-0899 奉贈嚴八閣老
+0899 0899 奉贈嚴八閣老
 fung6 zang6 jim4 baat3 gok3 lou5
 
 扈聖登黃閣，明公獨妙年。
@@ -6365,7 +6365,7 @@ san1 si1 geoi3 geoi3 hou2, jing1 jam6 lou5 fu1 cyun4
 
 =====================================================
 
-0902 留別賈嚴二閣老兩院補闕
+0902 0902 留別賈嚴二閣老兩院補闕
 lau4 bit6 gaa2 jim4 ji6 gok3 lou5 loeng5 jyun6 bou2 kyut3
 
 田園須暫往，戎馬惜離羣。
@@ -6389,7 +6389,7 @@ saan1 lou6 si4 ceoi1 gok3, no4 ham1 cyu3 cyu3 man4
 
 =====================================================
 
-0904 九成宮
+0904 0904 九成宮
 gau2 sing4 gung1
 
 蒼山入百里，崖斷如杵臼。
@@ -6433,7 +6433,7 @@ tin1 wong4 sau2 taai3 baak6, zyu3 maa5 gang3 sou1 sau2
 
 =====================================================
 
-0909 徒步歸行
+0909 0909 徒步歸行
 tou4 bou6 gwai1 hang4
 
 明公壯年値時危，經濟實籍英雄姿。
@@ -6459,7 +6459,7 @@ cai1 zi2 saan1 zung1 huk1 hoeng3 tin1, seoi1 gung1 lik1 soeng6 zeoi1 fung1 biu1
 
 =====================================================
 
-0912 玉華宮
+0912 0912 玉華宮
 juk6 waa4 gung1
 
 溪迴松風長，蒼鼠竄古瓦。
@@ -6491,7 +6491,7 @@ jim5 jim5 zing1 tou4 gaan1, seoi4 si6 zoeng2 nin4 ze2
 
 =====================================================
 
-0917 晚行口號
+0917 0917 晚行口號
 maan5 hang4 hau2 hou6
 
 三川不可到，歸路晚山稠。
@@ -6513,7 +6513,7 @@ jyun5 kwai5 loeng4 gong1 zung2, waan4 gaa1 soeng6 hak1 tau4
 
 =====================================================
 
-0922 獨酌成詩
+0922 0922 獨酌成詩
 duk6 zoek3 sing4 si1
 
 燈花何太喜，酒綠正相親。
@@ -6535,7 +6535,7 @@ fu2 bei6 mei4 gun1 bok3, dai1 tau4 kwai5 je5 jan4
 
 =====================================================
 
-0925 彭衙行
+0925 0925 彭衙行
 paang4 ngaa4 hang4
 
 憶昔避賊初，北走經險艱。
@@ -6612,7 +6612,7 @@ ho4 dong1 jau5 ci3 ling4, fei1 heoi3 do6 ji5 cin4
 
 =====================================================
 
-0934 羌村三首
+0934 0934 羌村三首
 goeng1 cyun1 saam1 sau2
 
 其一
@@ -6684,13 +6684,13 @@ go1 baa6 joeng5 tin1 taan3, sei3 zo6 leoi6 zung3 waang4
 
 =====================================================
 
-0943 北征
+0943 0943 北征
 bak1 zing1
 
 皇帝二載秋，閏八月初吉。
 wong4 dai3 ji6 zoi3 cau1, jeon6 baat3 jyut6 co1 gat1
 -----------------------------------------------------
-杜子將北征，蒼茫問家室。
+0943 杜子將北征，蒼茫問家室。
 dou6 zi2 zoeng1 bak1 zing1, cong1 mong4 man6 gaa1 sat1
 -----------------------------------------------------
 維時遭艱虞，朝野少暇日。
@@ -6902,7 +6902,7 @@ wong4 wong4 taai3 zung1 jip6, syu6 lap6 sam6 wang4 daat6
 
 =====================================================
 
-0972 喜聞官軍已臨賊寇二十韻
+0972 0972 喜聞官軍已臨賊寇二十韻
 hei2 man4 gun1 gwan1 ji5 lam4 caak3 kau3 ji6 sap6 wan5
 
 胡虜潛京縣，官軍擁賊壕。
@@ -6990,7 +6990,7 @@ gaa1 gaa1 maai6 caai1 cyun3, zi2 doi6 hin3 ceon1 lou4
 
 =====================================================
 
-0979 收京三首
+0979 0979 收京三首
 sau1 ging1 saam1 sau2
 
 其一
@@ -7078,10 +7078,10 @@ bin6 jyu5 sin1 sang1 jing1 wing5 kyut3, gau2 cung4 cyun4 lou6 zeon6 gaau1 kei4
 
 =====================================================
 
-0994 臘日
+0994 0994 臘日
 laap6 jat6
 
-臘日常年暖尚遙，今年臘日凍全消。
+0994 臘日常年暖尚遙，今年臘日凍全消。
 laap6 jat6 soeng4 nin4 nyun5 soeng6 jiu4, gam1 nin4 laap6 jat6 dung3 cyun4 siu1
 仄仄平平仄仄平，平平仄仄仄平平
 -----------------------------------------------------
@@ -7100,7 +7100,7 @@ hau2 zi1 min6 joek6 ceoi4 jan1 zaak6, ceoi3 gun2 ngan4 aang1 haa6 gau2 siu1
 
 =====================================================
 
-0998 奉和賈至舍人早朝大明宮
+0998 0998 奉和賈至舍人早朝大明宮
 fung6 wo4 gaa2 zi3 se3 jan4 zou2 ciu4 daai6 ming4 gung1
 
 五夜漏聲催曉箭，九重春色醉仙桃。
@@ -7122,7 +7122,7 @@ juk6 zi1 sai3 zoeng2 si1 leon4 mei5, ci4 soeng6 jyu1 gam1 jau5 fung6 mou4
 
 =====================================================
 
-1006 奉答岑參補闕見贈
+1006 1006 奉答岑參補闕見贈
 fung6 daap3 sam4 sam1 bou2 kyut3 gin3 zang6
 
 窈窕清禁闥，罷朝歸不同。
@@ -7146,7 +7146,7 @@ gu3 jan4 dak1 gaai1 geoi3, duk6 zang6 baak6 tau4 jung1
 
 =====================================================
 
-1009 奉贈王中允維
+1009 1009 奉贈王中允維
 fung6 zang6 wong4 zung1 wan5 wai4
 
 中允聲名久，如今契闊深。
@@ -7168,7 +7168,7 @@ kung4 sau4 jing1 jau5 zok3, si3 zung6 baak6 tau4 jam4
 
 =====================================================
 
-1013 宣政殿退朝晚出左掖
+1013 1013 宣政殿退朝晚出左掖
 syun1 zing3 din6 teoi3 ciu4 maan5 ceot1 zo2 jik6
 
 天門日射黃金牓，春殿晴曛赤羽旗。
@@ -7190,7 +7190,7 @@ si6 san4 wun6 bou6 gwai1 cing1 so2, teoi3 sik6 cung4 jung4 ceot1 mui5 ci4
 
 =====================================================
 
-1017 紫宸殿退朝口號
+1017 1017 紫宸殿退朝口號
 zi2 san4 din6 teoi3 ciu4 hau2 hou4
 
 戶外昭容紫袖垂，雙瞻御座引朝儀。
@@ -7212,7 +7212,7 @@ gung1 zung1 mui5 ceot1 gwai1 dung1 saang2, wui6 sung3 kwai4 lung4 zaap6 fung6 ci
 
 =====================================================
 
-1021 春宿左省
+1021 1021 春宿左省
 ceon1 suk1 zo2 saang2
 
 花隱掖垣暮，啾啾栖鳥過。
@@ -7236,7 +7236,7 @@ ming4 ziu1 jau5 fung1 si6, sou3 man6 je6 jyu4 ho4
 
 =====================================================
 
-1025 晚出左掖
+1025 1025 晚出左掖
 maan5 ceot1 zo2 jik6
 
 晝刻傳呼淺，春旗簇仗齊。
@@ -7259,7 +7259,7 @@ bei6 jan4 fan4 gaan3 cou2, kei4 maa5 juk6 gai1 cai1
 =====================================================
 
 
-1028 題省中院壁
+1028 1028 題省中院壁
 tai4 saang2 zung1 jyun6 bik1
 
 掖垣竹埤梧十尋，洞門對霤常陰陰。
@@ -7290,7 +7290,7 @@ gwan2 zik1 cang4 mou4 jat1 zi6 bou2, heoi2 san1 kwai5 bei2 soeng1 naam4 gam1
 =====================================================
 
 
-1034 送賈閣老出汝州
+1034 1034 送賈閣老出汝州
 sung3 gaa2 gok3 lou5 ceot1 jyu5 zau1
 
 西掖梧桐樹，空留一院陰。
@@ -7320,7 +7320,7 @@ jan4 sang1 ng5 maa5 gwai3, mok6 sau6 ji6 mou4 cam1
 =====================================================
 
 
-1037 送翰林張司馬南海勒碑
+1037 1037 送翰林張司馬南海勒碑
 sung3 hon6 lam4 zoeng1 si1 maa5 naam4 hoi2 lak6 bei1
 
 冠冕通南極，文章落上台。
@@ -7348,7 +7348,7 @@ bat1 zi1 cong1 hoi2 soeng6, tin1 hin2 gei2 si4 wui4
 =====================================================
 
 
-1040 曲江陪鄭八丈南史飲
+1040 1040 曲江陪鄭八丈南史飲
 kuk1 gong1 pui4 zeng6 baat3 zoeng6 naam4 si2 jam2
 
 雀啄江頭黃柳花，鵁鶄鸂鶒滿晴沙。
@@ -7379,7 +7379,7 @@ zoeng6 jan4 man4 lik6 jau4 koeng4 gin6, hei2 bong6 cing1 mun4 hok6 zung3 gwaa1
 =====================================================
 
 
-1045 曲江二首
+1045 1045 曲江二首
 kuk1 gong1 ji6 sau2
 
 其一
@@ -7660,7 +7660,7 @@ cyun4 jyu5 fung1 gwong1 gung6 lau4 zyun2, zaam6 si4 soeng1 soeng2 mok6 soeng1 wa
 
 =====================================================
 
-1405 秦州雜詩二十首
+1405 1405 秦州雜詩二十首
 
 其一
 
@@ -7822,7 +7822,7 @@ wai6 bou3 jin1 hang4 gau6, ziu1 liu4 zoi6 jat1 zi1
 
 =====================================================
 
-1475 天末懷李白
+1475 1475 天末懷李白
 
 涼風起天末，君子意如何？
 平平仄平仄，平仄仄平平（出句特定平仄）
@@ -8468,7 +8468,7 @@ wai6 bou3 jin1 hang4 gau6, ziu1 liu4 zoi6 jat1 zi1
 
 =====================================================
 
-2383 赴青城縣出成都寄陶、王二少尹
+2383 2383 赴青城縣出成都寄陶、王二少尹
 
 老恥妻孥笑，貧嗟出入勞。
 客情投異縣，詩態憶吾曹。
@@ -9558,7 +9558,7 @@ wai6 bou3 jin1 hang4 gau6, ziu1 liu4 zoi6 jat1 zi1
 
 =====================================================
 
-3428 旅夜書懷
+3428 3428 旅夜書懷
 leoi5 je6 syu1 waai4
 
 細草微風岸，危檣獨夜舟。
@@ -9870,7 +9870,7 @@ piu1 piu1 ho4 so2 ci5, tin1 dei6 jat1 saa1 au1
 
 =====================================================
 
-3789 秋興八首
+3789 3789 秋興八首
 cau1 hing3 baat3 sau2
 
 其一
@@ -10634,7 +10634,7 @@ hon4 ji1 cyu3 cyu3 ceoi1 dou1 cek3, baak6 dai3 sing4 gou1 gap1 mou6 zam1
 
 =====================================================
 
-5092 登高
+5092 5092 登高
 dang1 gou1
 
 風急天高猿嘯哀，渚清沙白鳥飛迴。
@@ -10727,7 +10727,7 @@ gaan1 naan4 fu2 han6 faan4 soeng1 ban3, lou5 dou2 san1 ting4 zuk6 zau2 bui1
 
 =====================================================
 
-5143 獨坐二首
+5143 5143 獨坐二首
 
 其一
 
