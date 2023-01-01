@@ -1647,11 +1647,12 @@ gwan1 nang4 mei4 gam2 gik1, jik6 zuk1 wai3 zeon1 mou4
 〚8.1.4〛几（ㄐㄧ，gei1/gei2），古上聲字。
 
 =====================================================
-0214 0214 樂遊園歌
+
+0214 樂遊園歌
 lok6 jau4 jyun4 go1
 
 樂遊古園崒森爽，煙緜碧草萋萋長。
-lok6 jau4 gu2 jyun4 zeot6 sam1 song2 jin1 min4 bik1 cou2 cai1 cai1 zoeng2
+lok6 jau4 gu2 jyun4 zeot6 sam1 song2, jin1 min4 bik1 cou2 cai1 cai1 zoeng2
 -----------------------------------------------------
 公子華筵勢最高，秦川對酒平如掌。
 gung1 zi2 waa4 jin4 sai3 zeoi3 gou1, ceon4 cyun1 deoi3 zau2 ping4 jyu4 zoeng2
@@ -1665,7 +1666,7 @@ cing1 ceon1 bo1 long6 fu4 jung4 jyun4, baak6 jat6 leoi4 ting4 gaap3 sing4 zoeng6
 閶闔晴開詄蕩蕩，曲江翠幕排銀牓。
 coeng1 hap6 cing4 hoi1 dit6 dong6 dong6, kuk1 gong1 ceoi3 mok6 paai4 ngan4 bong2
 -----------------------------------------------------
-拂水低徊舞袖翻，緣雲清切歌聲上。（養韻）
+拂水低徊舞袖翻，緣雲清切歌聲上。
 fat1 seoi2 dai1 wui4 mou5 zau6 faan1, jyun4 wan4 cing1 cit3 go1 seng1 soeng5
 -----------------------------------------------------
 卻憶年年人醉時，只今未醉已先悲。
@@ -1677,13 +1678,27 @@ sou3 hang1 baak6 faat3 naa5 paau1 dak1, baak3 fat6 sam1 bui1 jik6 bat1 ci4
 聖朝已知賤士醜，一物自荷皇天慈。
 sing3 ciu4 ji5 zi1 zin6 si6 cau2, jat1 mat6 zi6 ho6 wong4 tin1 ci4
 -----------------------------------------------------
-此身飲罷無歸處，獨立蒼茫自詠詩。（支韻）
+此身飲罷無歸處，獨立蒼茫自詠詩。
 ci2 san1 jam2 baa6 mou4 gwai1 cyu3, duk6 lap6 cong1 mong4 zi6 wing6 si1
 
-仗，古上聲字。
+〚3.1.7〛爽：養韻
+〚3.2.7〛長：養韻
+〚4.2.7〛掌：養韻
+〚5.2.7〛賞：養韻
+〚6.2.7〛仗：養韻
+〚7.2.7〛牓：養韻
+〚8.2.7〛上：養韻
+〚9.1.7〛時：支韻
+〚9.2.7〛悲：支韻
+〚10.2.7〛辭：支韻
+〚11.2.7〛慈：支韻
+〚12.2.7〛詩：支韻
+
+〚6.2.7〛仗，古上聲字。
 
 =====================================================
-0223 0223 病後過王倚飲贈歌
+
+0223 病後過王倚飲贈歌
 bing6 hau6 gwo3 wong4 ji2 jam2 zang6 go1
 
 麟角鳳觜世莫識，煎膠續弦奇自見。
@@ -1692,10 +1707,10 @@ leon4 gok3 fung6 zi1 sai3 mok6 sik1, zin1 gaau1 zuk6 jin4 kei4 zi6 gin3
 尚看王生抱此懷，在於甫也何由羨。
 soeng6 hon3 wong4 sang1 pou5 ci2 waai4, zoi6 jyu1 fu2 jaa5 ho4 jau4 sin6
 -----------------------------------------------------
-且遇王生慰疇昔，素知賤子甘貧賤。(霰韻)
+且遇王生慰疇昔，素知賤子甘貧賤。
 ce2 jyu6 wong4 sang1 wai3 cau4 sik1, sou3 zi1 zin6 zi2 gam1 pan4 zin6
 -----------------------------------------------------
-酷見凍餒不足耻，多病沉年苦無健。(願韻)
+酷見凍餒不足耻，多病沉年苦無健。
 huk6 gin3 dung3 noi5/neoi5 bat1 zuk1 ci2, do1 beng6 cam4 nin4 fu2 mou4 gin6
 -----------------------------------------------------
 王生怪我顏色惡，答云伏枕艱難徧。
@@ -1725,13 +1740,31 @@ gu3 jan4 cing4 ji6 maan5 seoi4 ci5, ling6 ngo5 sau2 goek3 hing1 juk6 syun4
 老馬爲駒信不虛，當時得意況深眷。
 lou5 maa5 wai4 keoi1 seon3 bat1 heoi1, dong1 si4 dak1 ji3 fong3 sam1 gyun3
 -----------------------------------------------------
-但使殘年飽喫飯，只願無事長相見。(霰韻)
+但使殘年飽喫飯，只願無事長相見。
 daan6 si2 caan4 nin4 baau2 hek3 faan6, zi2 jyun6 mou4 si6 coeng4 soeng1 gin3
 
-旋，去聲。除健屬願韻外，其他皆屬霰韻。
+〚3.2.7〛見：霰韻
+〚4.2.7〛羨：霰韻
+〚5.2.7〛賤：霰韻
+〚6.2.7〛健：願韻
+〚7.2.7〛徧：霰韻
+〚8.2.7〛戰：霰韻
+〚9.2.7〛線：霰韻
+〚10.2.7〛膳：霰韻
+〚11.2.7〛饌：霰韻
+〚12.2.7〛練：霰韻
+〚13.2.7〛宴：霰韻
+〚14.2.7〛旋：霰韻
+〚15.2.7〛眷：霰韻
+〚16.2.7〛見：霰韻
+
+〚14.2.7〛旋，去聲。
+〚3.2〛、〚16.2〛重「見」韻。
+除「健」屬願韻外，其他韻腳皆屬霰韻。
 
 =====================================================
-0229 0229 兵車行
+
+0229 兵車行
 bing1 geoi1 hang4
 
 車轔轔，馬蕭蕭，
@@ -1743,53 +1776,78 @@ hang4 jan4 gung1 zin3 gok3 zoi6 jiu1
 耶娘妻子走相送，塵埃不見咸陽橋。
 je4 noeng4 cai1 zi2 zau2 soeng1 sung3, can4 oi1 bat1 gin3 haam4 joeng4 kiu4
 -----------------------------------------------------
-牽衣頓足攔道哭，哭聲直上干雲霄！（蕭韻）
+牽衣頓足攔道哭，哭聲直上干雲霄！
 hin1 ji1 deon6 zuk1 laan4 dou6 huk1, huk1 seng1 zik6 soeng5 gon1 wan4 siu1
 -----------------------------------------------------
-道傍過者問行人，行人但云點行頻。（眞韻）
+道傍過者問行人，行人但云點行頻。
 dou6 pong4 gwo3 ze2 man6 hang4 jan4, hang4 jan4 daan6 wan4 dim2 hang4 pan4
 -----------------------------------------------------
 或從十五北防河，便至四十西營田。
 waak6 cung4 sap6 ng5 bak1 fong4 ho4, bin6 zi3 sei3 sap6 sai1 jing4 tin4
 -----------------------------------------------------
-去時里正與裹頭，歸來頭白還戍邊！（先韻）
+去時里正與裹頭，歸來頭白還戍邊！
 heoi3 si4 lei5 zing3 jyu5 gwo2 tau4, gwai1 loi4 tau4 baak6 waan4 syu3 bin1
 -----------------------------------------------------
 邊庭流血成海水，武皇開邊意未已！
 bin1 ting4 lau4 hyut3 sing4 hoi2 seoi2, mou5 wong4 hoi1 bin1 ji3 mei6 ji5
 -----------------------------------------------------
-君不聞漢家山東二百州，千村萬落生荆杞。（紙韻）
+君不聞漢家山東二百州，千村萬落生荆杞。
 gwan1 bat1 man4 hon3 gaa1 saan1 dung1 ji6 baak3 zau1, cin1 cyun1 maan6 lok6 sang1 ging1 gei2
 -----------------------------------------------------
 縱有健婦把鋤犂，禾生隴畝無東西。
 zung3 jau5 gin6 fu5 baa2 co4 lai4, wo4 sang1 lung5 mau5 mou4 dung1 sai1
 -----------------------------------------------------
-況復秦兵耐苦戰，被驅不異犬與雞。（齊韻）
+況復秦兵耐苦戰，被驅不異犬與雞。
 fong3 fuk6 ceon4 bing1 noi6 fu2 zin3, bei6 keoi1 bat1 ji6 hyun2 jyu5 gai1
 -----------------------------------------------------
-長者雖有問，役夫敢伸恨？（問，問韻；恨，願韻）
+長者雖有問，役夫敢伸恨？
 zoeng2 ze2 seoi1 jau5 man6, jik6 fu1 gam2 san1 han6
 -----------------------------------------------------
 且如今年冬，未休關西卒。
 ce2 jyu4 gam1 nin4 dung1, mei6 jau1 gwaan1 sai1 zeot1
 -----------------------------------------------------
-縣官急索租，租稅從何出？（質韻）
+縣官急索租，租稅從何出？
 jyun6 gun1 gap1 saak3 zou1, zou1 seoi3 cung4 ho4 ceot1
 -----------------------------------------------------
 信知生男惡，反是生女好；
 seon3 zi1 sang1 naam4 ok3, faan2 si6 sang1 neoi5 hou2
 -----------------------------------------------------
-生女猶是嫁比鄰，生男埋沒隨百草！（皓韻）
+生女猶是嫁比鄰，生男埋沒隨百草！
 sang1 neoi5 jau4 si6 gaa3 bei3 leon4, sang1 naam4 maai4 mut6 ceoi4 baak3 cou2
 -----------------------------------------------------
 君不見青海頭，古來白骨無人收。
 gwan1 bat1 gin3 cing1 hoi2 tau4, gu2 loi4 baak6 gwat1 mou4 jan4 sau1
 -----------------------------------------------------
-新鬼煩寃舊鬼哭，天陰雨濕聲啾啾！（尤韻）
+新鬼煩寃舊鬼哭，天陰雨濕聲啾啾！
 san1 gwai2 faan4 jyun1 gau6 gwai2 huk1, tin1 jam1 jyu5 sap1 seng1 zau1 zau1
 
+〚3.2.3〛蕭：蕭韻
+〚4.1.7〛腰：蕭韻
+〚5.2.7〛橋：蕭韻
+〚6.2.7〛霄：蕭韻
+〚7.1.7〛人：眞韻
+〚7.2.7〛頻：眞韻
+〚8.2.7〛田：先韻
+〚9.2.7〛邊：先韻
+〚10.1.7〛水：紙韻
+〚10.2.7〛已：紙韻
+〚11.2.7〛杞：紙韻
+〚12.1.7〛犂：齊韻
+〚12.2.7〛西：齊韻
+〚13.2.7〛雞：齊韻
+〚14.1.5〛問：問韻
+〚14.2.5〛恨：願韻
+〚15.2.5〛卒：質韻
+〚16.2.5〛出：質韻
+〚17.2.5〛好：皓韻
+〚18.2.7〛草：皓韻
+〚19.1.6〛頭：尤韻
+〚19.2.7〛收：尤韻
+〚20.2.7〛啾：尤韻
+
 =====================================================
-0241 0241 前出塞九首
+
+0241 前出塞九首
 cin4 ceot1 sak1 gau2 sau2
 
 其一
@@ -1803,7 +1861,7 @@ gung1 gaa1 jau5 cing4 kei4, mong4 ming6 jing1 wo6 lo4]。
 君已富土境，開邊一何多。
 gwan1 ji5 fu3 tou2 ging2, hoi1 bin1 jat1 ho4 do1
 -----------------------------------------------------
-棄絕父母恩，吞聲行負戈。（歌韻）
+棄絕父母恩，吞聲行負戈。
 hei3 zyut6 fu6 mou5 jan1, tan1 seng1 hang4 fu6 gwo1
 
 其二
@@ -1817,7 +1875,7 @@ gwat1 juk6 jan1 hei2 dyun6, naam4 ji4 sei2 mou4 si4
 走馬脫轡頭，手中挑青絲。
 zau2 maa5 tyut3 bei3 tau4, sau2 zung1 tiu1 cing1 si1
 -----------------------------------------------------
-捷下萬仞岡，俯身試搴旗。（支韻）
+捷下萬仞岡，俯身試搴旗。
 zit6 haa6 maan6 jan6 gong1, fu2 san1 si3 hin1 kei4
 
 其三
@@ -1831,7 +1889,7 @@ juk6 hing1 coeng4 dyun6 sing1, sam1 seoi5 lyun6 ji5 gau2
 丈夫誓許國，憤惋復何有。
 zoeng6 fu1 sai6 heoi2 gwok3, fan5 wun2 fuk6 ho4 jau5
 -----------------------------------------------------
-功名圖騏驎，戰骨當速朽。(有韻）
+功名圖騏驎，戰骨當速朽。
 gung1 ming4 tou4 kei4 leon4, zin3 gwat1 dong1 cuk1 nau2
 
 其四
@@ -1845,7 +1903,7 @@ sang1 sei2 hoeng3 cin4 heoi3, bat1 lou4 lei6 nou6 can1/zan1
 路逢相識人，附書與六親。
 lou6 fung4 soeng1 sik1 jan4, fu6 syu1 jyu5 luk6 can1
 -----------------------------------------------------
-哀哉兩決絕，不復同苦辛。（眞韻）
+哀哉兩決絕，不復同苦辛。
 oi1 zoi1 loeng5 kyut3 zyut6, bat1 fau6 tung4 fu2 san1
 
 其五
@@ -1859,13 +1917,13 @@ gwan1 zung1 ji6 fu2 lok6, zyu2 zoeng1 ning4 zeon6 man4
 隔河見胡騎，倐忽數百羣。
 gaak3 ho4 gin3 wu4 kei3, suk1 fat1 sou3 baak3 kwan4
 -----------------------------------------------------
-我始爲奴僕，幾時樹功勳。（文韻）
+我始爲奴僕，幾時樹功勳。
 ngo5 ci2 wai4 nou4 buk6, gei2 si4 syu6 gung1 fan1
 
 其六
 
 挽弓當挽強，用箭當用長。
-waan5 gung1 dong1 waan5 koeng4 jung6 zin3 dong1 jung6 coeng4
+waan5 gung1 dong1 waan5 koeng4, jung6 zin3 dong1 jung6 coeng4
 -----------------------------------------------------
 射人先射馬，擒寇先擒王。
 se6 jan4 sin1 se6 maa5, kam4 kau3 sin1 kam4 wong4
@@ -1873,13 +1931,13 @@ se6 jan4 sin1 se6 maa5, kam4 kau3 sin1 kam4 wong4
 殺人亦有限，列國自有疆。
 saat3 jan4 jik6 jau5 haan6, lit6 gwok3 zi6 jau5 goeng1
 -----------------------------------------------------
-苟能制侵陵，豈在多殺傷！（陽韻）
-gik1 nang4 zai3 cam1 ling4, hei2 zoi6 do1 saat3 soeng1]！
+苟能制侵陵，豈在多殺傷！
+gau2 nang4 zai3 cam1 ling4, hei2 zoi6 do1 saat3 soeng1
 
 其七
 
 驅馬天雨雪，軍行入高山。
-keoi1 maa5 tin1 jyu6 syut3, gwan1 haang4 jap6 gou1 saan1
+keoi1 maa5 tin1 jyu6 syut3, gwan1 hang4 jap6 gou1 saan1
 -----------------------------------------------------
 徑危抱寒石，指落曾冰間。
 ging3 ngai4 pou5 hon4 sek6, zi2 lok6 cang4 bing1 gaan1
@@ -1887,8 +1945,8 @@ ging3 ngai4 pou5 hon4 sek6, zi2 lok6 cang4 bing1 gaan1
 已去漢月遠，何時築城還。
 ji5 heoi3 hon3 jyut6 jyun5, ho4 si4 zuk1 sing4 waan4
 -----------------------------------------------------
-浮雲暮南征，可望不可攀。（删韻）
-fau4 wan4 mou6 naam4 zing1], ho2 mong6 bat1 ho2 paan1
+浮雲暮南征，可望不可攀。
+fau4 wan4 mou6 naam4 zing1, ho2 mong6 bat1 ho2 paan1
 
 其八
 
@@ -1901,7 +1959,7 @@ hung4 gim3 sei3 ng5 dung6, bei2 gwan1 wai4 ngo5 ban1
 虜其名王歸，繫頸授轅門。
 lou5 kei4 ming4 wong4 gwai1, hai6 geng2 sau6 jyun4 mun4
 -----------------------------------------------------
-潛身備行列，一勝何足論。（元韻）
+潛身備行列，一勝何足論。
 cim4 san1 bei6 hong4 lit6, jat1 sing3 ho4 zuk1 leon4
 
 其九
@@ -1915,15 +1973,54 @@ zung3 jan4 gwai3 gau2 dak1, juk6 jyu5 sau1 leoi4 tung4
 中原有鬬爭，況在狄與戎。
 zung1 jyun4 jau5 dau3 zang1, fong3 zoi6 dik6 jyu5 jung4
 -----------------------------------------------------
-丈夫四方志，安可辭固窮。（東韻）
+丈夫四方志，安可辭固窮。
 zoeng6 fu1 sei3 fong1 zi3, on1 ho2 ci4 gu3 kung4
 
-復字二見，義異，音亦異。
-騎，名詞，去聲。
-雨，動詞，去聲。
+〚1:5.2.5〛河：歌韻
+〚1:6.2.5〛羅：歌韻
+〚1:7.2.5〛多：歌韻
+〚1:8.2.5〛戈：歌韻
+〚2:12.2.5〛欺：支韻
+〚2:13.2.5〛時：支韻
+〚2:14.2.5〛絲：支韻
+〚2:15.2.5〛旗：支韻
+〚3:19.2.5〛手：有韻
+〚3:20.2.5〛久：有韻
+〚3:21.2.5〛有：有韻
+〚3:22.2.5〛朽：有韻
+〚4:26.2.5〛身：眞韻
+〚4:27.2.5〛嗔：眞韻
+〚4:28.2.5〛親：眞韻
+〚4:28.2.5〛親：眞韻
+〚5:33.2.5〛軍：文韻
+〚5:34.2.5〛聞：文韻
+〚5:35.2.5〛羣：文韻
+〚5:36.2.5〛勳：文韻
+〚6:40.1.5〛強：陽韻
+〚6:40.2.5〛長：陽韻
+〚6:41.2.5〛王：陽韻
+〚6:42.2.5〛疆：陽韻
+〚6:43.2.5〛傷：陽韻
+〚7:47.2.5〛山：删韻
+〚7:48.2.5〛間：删韻
+〚7:49.2.5〛還：删韻
+〚7:50.2.5〛攀：删韻
+〚8:54.2.5〛昏：元韻
+〚8:55.2.5〛奔：元韻
+〚8:56.2.5〛門：元韻
+〚8:57.2.5〛論：元韻
+〚9:61.2.5〛功：東韻
+〚9:62.2.5〛同：東韻
+〚9:63.2.5〛戎：東韻
+〚9:64.2.5〛窮：東韻
+
+復字二見（〚3:21.2.3〛、〚4:29.2.2〛），義異，音亦異。
+〚5:35.1.5〛騎，名詞，去聲。
+〚7:47.1.4〛雨，動詞，去聲。
 
 =====================================================
-0262 0262 投簡咸華兩縣諸子
+
+0262 投簡咸華兩縣諸子
 tau4 gaan2 haam4 waa4 loeng5 jyun6 zyu1 zi2
 
 赤縣官曹擁材傑，軟裘快馬當冰雪。
@@ -1936,7 +2033,7 @@ coeng4 on1 fu2 hon4 seoi4 duk6 bei1, dou6 ling4 je5 lou5 gwat1 juk6 zit3
 naam4 saan1 dau6 miu4 zou2 fong1 wai3, cing1 mun4 gwaa1 dei6 san1 dung3 lit6
 -----------------------------------------------------
 鄕里兒童項領成，朝廷故舊禮數絕。
-hoeng1 lei5 ji4 tung4 hong6 ling5 sing4, ziu1 ting4 gu3/gu2 gau6 lai5 sou3 zyut6
+hoeng1 lei5 ji4 tung4 hong6 ling5 sing4, ziu1 ting4 gu3 gau6 lai5 sou3 zyut6
 -----------------------------------------------------
 自然棄擲與時異，況乃疏頑臨事拙。
 zi6 jin4 hei3 zaak6 jyu5 si4 ji6, fong3 naai5 so1 waan4 lam4 si6 zyut3
@@ -1944,11 +2041,21 @@ zi6 jin4 hei3 zaak6 jyu5 si4 ji6, fong3 naai5 so1 waan4 lam4 si6 zyut3
 飢臥動卽向一旬，弊衣何啻聯百結。
 gei1 ngo6 dung6 zik1 hoeng3 jat1 ceon4, bai6 ji1 ho4 ci3 lyun4 baak3 git3
 -----------------------------------------------------
-君不見空牆日色晚，此老無聲淚垂血。(屑韻）
+君不見空牆日色晚，此老無聲淚垂血。
 gwan1 bat1 gin3 hung1 coeng4 jat6 sik1 maan5, ci2 lou5 mou4 seng1 leoi6 seoi4 hyut3
 
+〚3.1.7〛傑：屑韻
+〚3.2.7〛雪：屑韻
+〚3.2.7〛雪：屑韻
+〚5.2.7〛裂：屑韻
+〚6.2.7〛絕：屑韻
+〚7.2.7〛拙：屑韻
+〚8.2.7〛結：屑韻
+〚9.2.7〛血：屑韻
+
 =====================================================
-0266 0266 杜位宅守歲
+
+0266 杜位宅守歲
 dou6 wai6 zaak6 sau2 seoi3
 
 守歲阿戎家，椒盤已頌花。
@@ -1963,11 +2070,15 @@ hap6 zaam1 hyun1 lik1 maa5, lit6 geoi6 saan3 lam4 aa1
 sei3 sap6 ming4 ziu1 gwo3, fei1 tang4 mou6 ging2 ce4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-誰能更拘束，爛醉是生涯。（麻韻）
+誰能更拘束，爛醉是生涯。
 seoi4 nang4 gang3 keoi1 cuk1, laan6 zeoi3 si6 sang1 ngaai4
 平平仄平仄，仄仄仄平平（出句特定平仄）
 
-阿，平聲。
+〚3.1.5〛家：麻韻
+〚3.2.5〛花：麻韻
+〚4.2.5〛鴉：麻韻
+〚5.2.5〛斜：麻韻
+〚6.2.5〛涯：麻韻
 
 =====================================================
 0271 0271 玄都壇歌寄元逸人
