@@ -1,7 +1,7 @@
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0003 望嶽
+望嶽
 mong6 ngok6
 
 岱宗夫如何？齊魯青未了。
@@ -27,7 +27,7 @@ wui6 dong1 ling4 zyut6 ding2, jat1 laam5 zung3 saan1 siu2
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0008 登兗州城樓
+登兗州城樓
 dang1 jin5 zau1 sing4 lau4
 
 東郡趨庭日，南樓縱目初。
@@ -57,7 +57,7 @@ cung4 loi4 do1 gu2 ji3, lam4 tiu3 duk6 cau4 cyu4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0013 題張氏隱居二首
+題張氏隱居二首
 tai4 zoeng1 si6 jan2 geoi1 ji6 sau2
 
 其一
@@ -148,7 +148,7 @@ cin4 cyun1 saan1 lou6 him2, gwai1 zeoi3 mui5 mou4 sau4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0022 劉九法曹鄭瑕丘石門宴集
+劉九法曹鄭瑕丘石門宴集
 lau4 gau2 faat3 cou4 zeng6 haa4 jau1 sek6 mun4 jin3 zaap6
 
 秋水清無底，蕭然淨客心。
@@ -181,7 +181,7 @@ maan5 loi4 waang4 ceoi3 hou2, wang4 haa6 jik6 lung4 jam4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0025 與任城許主簿遊南池
+與任城許主簿遊南池
 jyu5 jam4 sing4 heoi2 zyu2 bou6 jau4 naam4 ci4
 
 秋水通溝洫，城隅進小船。
@@ -214,7 +214,7 @@ san4 ziu1 gong3 baak6 lou6, jiu4 jik1 gau6 cing1 zin1
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0027 對雨書懷走邀許主簿
+對雨書懷走邀許主簿
 deoi3 jyu5 syu1 waai4 zau2 jiu1 heoi2 zyu2 bou6
 
 東岳雲峯起，溶溶滿太虛。
@@ -248,7 +248,7 @@ soeng1 jiu1 kwai5 nai4 ning6, kei4 maa5 dou3 gaai1 ceoi4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0030 巳上人茅齋
+巳上人茅齋
 zi6 soeng6 jan4 maau4 zaai1
 
 巳公茅屋下，可以賦新詩。
@@ -288,7 +288,7 @@ hung1 tim2 heoi2 seon1 bui3, naan4 cau4 zi1 deon6 ci4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0034 房兵曹胡馬
+房兵曹胡馬
 
 胡馬大宛名，鋒稜瘦骨成。
 wu4 maa5 daai6 jyun1 ming4, fung1 ling4 sau3 gwat1 sing4
@@ -318,7 +318,7 @@ hiu1 tang4 jau5 jyu4 ci2, maan6 lei5 ho2 waang4 hang4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0038 畫鷹
+畫鷹
 waak6 jing1
 
 素練風霜起，蒼鷹畫作殊。
@@ -351,7 +351,7 @@ ho4 dong1 gik1 faan4 niu5, mou4 hyut3 saa2 ping4 mou4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0042 遊龍門奉先寺
+遊龍門奉先寺
 jau4 lung4 mun4 fung6 sin1 zi6
 
 已從招提遊，更宿招提境。
@@ -377,7 +377,7 @@ juk6 gaau3 man4 san4 zung1, ling6 jan4 faat3 sam1 sing2
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0048 過宋員外之問舊莊
+過宋員外之問舊莊
 gwo3 sung3 jyun4 ngoi6 zi1 man6 gau6 zong1
 
 宋公舊池館，零落首陽阿。
@@ -411,7 +411,7 @@ gang3 sik1 zoeng1 gwan1 syu6, bei1 fung1 jat6 mou6 do1
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0053 臨邑舍弟書至，苦雨，黃河泛溢，
+臨邑舍弟書至，苦雨，黃河泛溢，
 lam4 jap1 se3 dai6 syu1 zi3, fu2 jyu5, wong4 ho4 faan6 jat6,
 隄防之患，簿領所憂，
 tai4 fong4 zi1 waan6, bou6 ling5 so2 jau1, 
@@ -489,7 +489,7 @@ koek3 ji2 tin1 ngaai4 diu3, jau4 nang4 zai3 geoi6 ngou4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0059 天寶初，南曹小司寇舅，
+天寶初，南曹小司寇舅，
 tin1 bou2 co1, naam4 cou4 siu2 si1 kau3 kau5, 
 於我太夫人堂下，壘土爲山，
 jyu1 ngo5 taai3 fu1 jan4 tong4 haa6, leoi5 tou2 wai4 saan1,
@@ -534,7 +534,7 @@ wai4 naam4 zoeng1 hin3 sau6， gaai1 hei3 jat6 fan1 wan1
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0062 李監宅二首
+李監宅二首
 lei5 gaam3 zaak6 ji6 sau2
 
 其一
@@ -592,7 +592,7 @@ jim4 ce1 seoi1 bun6 kei3, ming4 si6 hon3 ting4 loi4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0068 夜宴左氏莊
+夜宴左氏莊
 je6 jin3 zo2 si6 zong1
 
 風林纖月落，衣露淨琴張。
@@ -625,7 +625,7 @@ si1 baa6 man4 ng4 wing6, pin1 zau1 ji3 bat1 mong4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0073 龍門
+龍門
 lung4 mun4
 
 龍門橫野斷，驛樹出城來。
@@ -658,7 +658,7 @@ soeng1 jyut6 zing1 tou4 soeng6, sang1 ngaai4 zeon6 gei2 wui4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0076 贈李白
+贈李白
 zang6 lei5 baak6
 
 二年客東都，所歷厭機巧。
@@ -696,7 +696,7 @@ jik6 jau5 loeng4 sung3 jau4, fong1 kei4 sap6 jiu4 cou2
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0079 陪李北海宴歷下亭
+陪李北海宴歷下亭
 pui4 lei5 bak1 hoi2 jin3 lik6 haa6 ting4
 
 東藩駐皁蓋，北渚凌青荷。
@@ -734,7 +734,7 @@ gwai3 zin6 keoi1 mat6 jik6, cung4 gung1 naan4 cung4 gwo1
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0084 同李太守登歷下古城員外新亭
+同李太守登歷下古城員外新亭
 tung4 lei5 taai3 sau3 dang1 lik6 haa6 gu2 sing4 jyun4 ngoi6 san1 ting4
 
 新亭結構罷，隱見清湖陰。
@@ -771,10 +771,8 @@ bat1 zo2 pung4 bat1 hing3, dak1 gim1 loeng4 fu2 jam4
 陳永明《杜甫全集粵音注音》
 
 【注音】
-0092 暫如臨邑，至㟙山湖亭，
-zaam6 jyu4 lam4 jap1, zi3 zaak6 saan1 wu4 ting4, 
-奉懷李員外，率爾成興
-fung6 waai4 lei5 jyun4 ngoi6, seot1 ji5 sing4 hing3
+暫如臨邑，至㟙山湖亭，奉懷李員外，率爾成興
+zaam6 jyu4 lam4 jap1, zi3 zaak6 saan1 wu4 ting4, fung6 waai4 lei5 jyun4 ngoi6, seot1 ji5 sing4 hing3
 
 野亭逼湖水，歇馬高林間。
 je5 ting4 bik1 wu4 seoi2, hit3 maa5 gou1 lam4 gaan1
@@ -805,51 +803,86 @@ oi2 oi2 sang1 wan4 mou6, wai4 jing1 cuk1 gaa3 waan4
 
 =====================================================
 
-0095 與李十二白同尋范十隱居
+陳永明《杜甫全集粵音注音》
+
+【注音】
+與李十二白同尋范十隱居
 jyu5 lei5 sap6 ji6 baak6 tung4 cam4 faan6 sap6 jan2 geoi1
 
 李侯有佳句，往往似陰鏗。
 lei5 hau4 jau5 gaai1 geoi3, wong5 wong5 ci5 jam1 hang1
+仄平仄平仄，仄仄仄平平
 -----------------------------------------------------
 余亦東蒙客，憐君如弟兄。
 jyu4 jik6 dung1 mung4 haak3, lin4 gwan1 jyu4 dai6 hing1
+平仄平平仄，平平平仄平
 -----------------------------------------------------
 醉眠秋共被，攜手日同行。
 zeoi3 min4 cau1 gung6 pei5, kwai4 sau2 jat6 tung4 hang4
+仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 更想幽期處，還尋北郭生。
 gang3 soeng2 jau1 kei4 cyu3, waan4 cam4 bak1 gwok3 sang1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 入門高興發，侍立小童清。
 jap6 mun4 gou1 hing3 faat3, si6 lap6 siu2 tung4 cing1
+仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 落景聞寒杵，屯雲對古城。
 lok6 jing2 man4 hon4 cyu5, tyun4 wan4 deoi3 gu2 sing4
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 向來吟《橘頌》，誰欲討蓴羹。
 hoeng3 loi4 jam4 gwat1 zung6, seoi4 juk6 tou2 seon4 gang1
+仄平平仄仄，平仄仄平平
 -----------------------------------------------------
-不願論簪笏，悠悠滄海情。（庚韻）
+不願論簪笏，悠悠滄海情。
 bat1 jyun6 leon4 zaam1 fat1, jau4 jau4 cong1 hoi2 cing4
+仄仄平平仄，平平平仄平
 
-論，平聲。
+【韻部】
+〚3.2.5〛鏗：庚韻
+〚4.2.5〛兄：庚韻
+〚5.2.5〛行：庚韻
+〚6.2.5〛生：庚韻
+〚7.2.5〛清：庚韻
+〚8.2.5〛城：庚韻
+〚9.2.5〛羹：庚韻
+〚10.2.5〛情：庚韻
+
+【補充説明】
+〚10.1.3〛論，平聲。
+此詩非五排，然句多合律，且一韻到底，故標出平仄。
+〚5〛、〚8〛、〚9〛，對句。
 
 =====================================================
 
-0099 贈李白
+陳永明《杜甫全集粵音注音》
+
+【注音】
+贈李白
 zang6 lei5 baak6
 
 秋來相顧尚飄蓬，未就丹砂愧葛洪。
 cau1 loi4 soeng1 gu3 soeng6 piu1 pung4, mei6 zau6 daan1 saa1 kwai5 got3 hung4
 平平平仄仄平平，仄仄平平仄仄平
 -----------------------------------------------------
-痛飲狂歌空度日，飛揚跋扈爲誰雄？（東韻）
+痛飲狂歌空度日，飛揚跋扈爲誰雄？
 tung3 jam2 kong4 go1 hung1 dou6 jat6, fei1 joeng4 bat6 wu6 wai6 seoi4 hung4
 仄仄平平平仄仄，平平仄仄仄平平
 
+【韻部】
+〚3.1.7〛蓬：東韻
+〚3.2.7〛洪：東韻
+〚4.2.7〛雄：東韻
+
 =====================================================
 
-0103 冬日有懷李白
+陳永明《杜甫全集粵音注音》
+
+【注音】
+冬日有懷李白
 dung1 jat6 jau5 waai4 lei5 baak6
 
 寂寞書齋裏，終朝獨爾思。
@@ -864,16 +897,26 @@ gang3 cam4 gaa1 syu6 zyun6, bat1 mong6/mong4 gok3 gung1 si1
 syu6 hot3 fung1 soeng1 jap6, waan4 daan1 jat6 jyut6 ci4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-未因乘興去，空有鹿門期。（支韻）
+未因乘興去，空有鹿門期。
 mei6 jan1 sing4 hing3 heoi3, hung1 jau5 luk6 mun4 kei4
 仄平平仄仄，平仄仄平平
 
-忘，去聲。
+【韻部】
+〚3.2.5〛思：支韻
+〚4.2.5〛詩：支韻
+〚5.2.5〛遲：支韻
+〚6.2.5〛期：支韻
+
+【補充説明】
+〚4.2.2〛忘，去聲。
 
 =====================================================
 
-0107 春日憶李白
-ceon1 jat6 jik1 lei5 baak6]
+陳永明《杜甫全集粵音注音》
+
+【注音】
+春日憶李白
+ceon1 jat6 jik1 lei5 baak6
 
 白也詩無敵，飄然思不羣。
 baak6 jaa5 si1 mou4 dik6, piu1 jin4 si3 bat1 kwan4
@@ -887,15 +930,28 @@ cing1 san1 jyu5 hoi1 fu2, zeon3 jat6 baau6 caam1 gwan1
 wai6 bak1 ceon1 tin1 syu6, gong1 dung1 jat6 mou6 wan4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-何時一尊酒，重與細論文。（文韻）
-平平仄平仄，平仄仄平平（出句特定平仄）
+何時一尊酒，重與細論文。
 ho4 si4 jat1 zeon1 zau2, cung4 jyu5 sai3 leon4 man4
+平平仄平仄，平仄仄平平（出句特定平仄）
 
-思，去聲。庾，上聲。鮑，去聲。論，平聲。
+【韻部】
+〚3.2.5〛羣：文韻
+〚4.2.5〛軍：文韻
+〚5.2.5〛雲：文韻
+〚6.2.5〛文：文韻
+
+【補充説明】
+〚3.2.3〛思，去聲。
+〚4.1.3〛庾，上聲。
+〚4.2.3〛鮑，去聲。
+〚6.2.4〛論，平聲。
 
 =====================================================
 
-0111 送孔巢父謝病歸遊江東兼呈李白
+陳永明《杜甫全集粵音注音》
+
+【注音】
+送孔巢父謝病歸遊江東兼呈李白
 sung3 hung2 caau4 fu2 ze6 bing6 gwai1 jau4 gong1 dung1 gim1 cing4 lei5 baak6]
 
 巢父掉頭不肯住，東將入海隨煙霧。
@@ -913,25 +969,44 @@ pung4 loi4 zik1 neoi5 wui4 wan4 geoi1, zi2 dim2 heoi1 mou4 si6 zing1 lou6
 自是君身有仙骨，世人那得知其故。
 zi6 si6 gwan1 san1 jau5 sin1 gwat1, sai3 jan4 naa5 dak1 zi1 kei4 gu3
 -----------------------------------------------------
-惜君只欲苦死留，富貴何如草頭露。（遇韻）
+惜君只欲苦死留，富貴何如草頭露。
 sik1 gwan1 zi2 juk6 fu2 sei2 lau4, fu3 gwai3 ho4 jyu4 cou2 tau4 lou6
 -----------------------------------------------------
 蔡侯靜者意有餘，清夜置酒臨前除。
-coi3 hau4 zing6 ze2 ji3 jau5 jyu4, cing1 je6/je2 zi3 zau2 lam4 cin4 ceoi4
+coi3 hau4 zing6 ze2 ji3 jau5 jyu4, cing1 je6 zi3 zau2 lam4 cin4 ceoi4
 -----------------------------------------------------
 罷琴惆悵月照席，幾歲寄我空中書？
 baa6 kam4 cau4 coeng3 jyut6 ziu3 zik6, gei2 seoi3 gei3 ngo5 hung1 zung1 syu1
 -----------------------------------------------------
-南尋禹穴見李白，道甫問信今何如？（魚韻）
+南尋禹穴見李白，道甫問信今何如？
 naam4 cam4 jyu5 jyut6 gin3 lei5 baak6, dou6 fu2 man6 seon3 gam1 ho4 jyu4
+
+【韻部】
+〚3.1.7〛住：遇韻
+〚3.2.7〛霧：遇韻
+〚4.2.7〛樹：遇韻
+〚5.2.7〛暮：遇韻
+〚6.2.7〛路：遇韻
+〚7.2.7〛故：遇韻
+〚8.2.7〛露：遇韻
+〚9.1.7〛餘：魚韻
+〚9.2.7〛除：魚韻
+〚10.2.7〛書：魚韻
+〚11.2.7〛如：魚韻
+
+【補充説明】
+〚9.1.7〛餘，轉韻處出句押韻。
 
 =====================================================
 
-0120 鄭駙馬宅宴洞中
+陳永明《杜甫全集粵音注音》
+
+【注音】
+鄭駙馬宅宴洞中
 zeng6 fu6 maa5 zaak6 jin3 dung6 zung1
 
 主家陰洞細煙霧，留客夏簟清琅玕。
-zyu2 gaa1 jam1 dung6 sai3 jin1 mou6,lau4 haak3 haa6 tim5 cing1 long4 gon1
+zyu2 gaa1 jam1 dung6 sai3 jin1 mou6, lau4 haak3 haa6 tim5 cing1 long4 gon1
 仄平平仄仄平仄，平仄仄仄平平平
 -----------------------------------------------------
 春酒杯濃琥珀薄，冰漿碗碧瑪瑙寒。
@@ -942,13 +1017,25 @@ ceon1 zau2 bui1 nung4 fu2 paak3 bok6, bing1 zoeng1 wun2 bik1 maa5 nou5 hon4
 ng6 ji4 maau4 tong4 gwo3 gong1 luk1, ji5 jap6 fung1 dang3 maai4 wan4 dyun1
 仄平平平仄平仄，仄仄平仄平平平（出句特定平仄）
 -----------------------------------------------------
-自是秦樓壓鄭谷，時聞雜佩聲珊珊。（寒韻）
+自是秦樓壓鄭谷，時聞雜佩聲珊珊。
 zi6 si6 ceon4 lau4 aat3 zeng6 guk1, si4 man4 zaap6 pui3 seng1 saan1 saan1
 仄仄平平仄仄仄，平平仄仄平平平
 
+【韻部】
+〚3.2.7〛玕：寒韻
+〚4.2.7〛寒：寒韻
+〚5.2.7〛端：寒韻
+〚6.2.7〛珊：寒韻
+
+【補充説明】
+此詩多拗句。
+
 =====================================================
 
-0126 贈特進汝陽王二十二韻
+陳永明《杜甫全集粵音注音》
+
+【注音】
+贈特進汝陽王二十二韻
 zang6 dak6 zeon3 jyu5 joeng4 wong4 ji6 sap6 ji6 wan5
 
 特進羣公表，天人夙德升。
@@ -972,7 +1059,7 @@ sin1 lai5 loi4 fau4 ngai5, kei4 mou4 waak6 ci3 jing1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 清關塵不雜，中使日相乘。
-cing1 gwaan1 can4 bat1 zaap6, zung1 si5 jat6 soeng1 sing4
+cing1 gwaan1 can4 bat1 zaap6, zung1 si3 jat6 soeng1 sing4
 平平平仄仄，平仄仄平平
 -----------------------------------------------------
 晚節嬉遊簡，平居孝義稱。
@@ -1020,7 +1107,7 @@ faa1 jyut6 kung4 jau4 jin3, jim4 tin1 bei6 wat1 zing1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 硯寒金井水，簷動玉壺冰。
-jin6 hon4 gam1 zeng2 seoi2, jim4 dung6 juk6 wu4 bing1
+jin6 hon4 gam1 zing2 seoi2, jim4 dung6 juk6 wu4 bing1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 瓢飲唯三徑，巖栖在百層。
@@ -1038,13 +1125,41 @@ hung4 bou2 ning4 cyun4 bei3, daan1 tai1 syu3 ho2 ling4
 淮王門有客，終不愧孫登。
 waai4 wong4 mun4 jau5 haak3, zung1 bat1 kwai5 syun1 dang1
 平平平仄仄，平仄仄平平
-蒸韻。
 
-忘，去聲。蠡，平聲
+【韻部】
+〚3.2.5〛升：蒸韻
+〚4.2.5〛鵬：蒸韻
+〚5.2.5〛興：蒸韻
+〚6.2.5〛憑：蒸韻
+〚7.2.5〛鷹：蒸韻
+〚8.2.5〛乘：蒸韻
+〚9.2.5〛稱：蒸韻
+〚10.2.5〛陵：蒸韻
+〚11.2.5〛能：蒸韻
+〚12.2.5〛騰：蒸韻
+〚13.2.5〛朋：蒸韻
+〚14.2.5〛矜：蒸韻
+〚15.2.5〛膺：蒸韻
+〚16.2.5〛勝：蒸韻
+〚17.2.5〛澄：蒸韻
+〚18.2.5〛燈：蒸韻
+〚19.2.5〛蒸：蒸韻
+〚20.2.5〛冰：蒸韻
+〚21.2.5〛層：蒸韻
+〚22.2.5〛澠：蒸韻
+〚23.2.5〛凌：蒸韻
+〚24.2.5〛登：蒸韻
+
+【補充説明】
+〚13.2.1〛忘，去聲。
+〚22.1.3〛蠡，平聲。
 
 =====================================================
 
-0136 飲中八仙歌
+陳永明《杜甫全集粵音注音》
+
+【注音】
+飲中八仙歌
 jam2 zung1 baat3 sin1 go1
 
 知章騎馬似乘船，眼花落井水底眠。
@@ -1083,18 +1198,46 @@ zoeng1 juk1 saam1 bui1 cou2 sing3 cyun4, tyut3 mou6 lou6 ding2 wong4 gung1 cin4,
 揮毫落紙如雲煙。
 fai1 hou4 lok6 zi2 jyu4 wan4 jin1
 -----------------------------------------------------
-焦遂五斗方卓然，高談雄辯驚四筵。（先韻）
+焦遂五斗方卓然，高談雄辯驚四筵。
 ziu1 seoi6 ng5 dau2 fong1 coek3 jin4, gou1 taam4 hung4 bin6 ging1 sei3 jin4
 
+【韻部】
+〚3.1.7〛船：先韻
+〚3.2.7〛眠：先韻
+〚4.1.7〛天：先韻
+〚4.2.7〛涎：先韻
+〚5.1.7〛泉：先韻
+〚6.1.7〛錢：先韻
+〚6.2.7〛川：先韻
+〚7.1.7〛賢：先韻
+〚8.1.7〛年：先韻
+〚8.2.7〛天：先韻
+〚9.1.7〛前：先韻
+〚10.1.7〛前：先韻
+〚10.2.7〛禪：先韻
+〚11.1.7〛篇：先韻
+〚11.2.7〛眠：先韻
+〚12.1.7〛船：先韻
+〚12.2.7〛仙：先韻
+〚13.1.7〛傳：先韻
+〚13.2.7〛前：先韻
+〚14.1.7〛煙：先韻
+〚15.1.7〛然：先韻
+〚15.2.7〛筵：先韻
+
+【補充説明】
 柏梁體。
 
 =====================================================
 
-0144 今夕行
+陳永明《杜甫全集粵音注音》
+
+【注音】
+今夕行
 gam1 zik6 hang4
 
 今夕何夕歲云徂，更長燭明不可孤。
-gam1 zik6 ho4 zik6 seoi3 wan4 cou4, gang1 coeng4 zuk1 ming4 bat1 ho2
+gam1 zik6 ho4 zik6 seoi3 wan4 cou4, gang1 coeng4 zuk1 ming4 bat1 ho2 gu1
 -----------------------------------------------------
 咸陽客舍一事無，相與博塞爲歡娛。
 haam4 joeng4 haak3 se3 jat1 si6 mou4, soeng1 jyu5 bok3 coi3 wai4 fun1 jyu4 
@@ -1102,15 +1245,28 @@ haam4 joeng4 haak3 se3 jat1 si6 mou4, soeng1 jyu5 bok3 coi3 wai4 fun1 jyu4
 馮陵大叫呼五白，袒跣不肯成梟盧。
 fung4 ling4 daai6 giu3 fu1 ng5 baak6, taan2 sin2 bat1 hang2 sing4 hiu1 lou4
 -----------------------------------------------------
-英雄有時亦如此，邂逅豈卽非良圖。（虞韻）
+英雄有時亦如此，邂逅豈卽非良圖。
 jing1 hung4 jau5 si4 jik6 jyu4 ci2, haai5 hau6 hei2 zik1 fei1 loeng4 tou4
 -----------------------------------------------------
-君莫笑劉毅從來布衣願，家無儋石輸百萬。（願韻）
+君莫笑劉毅從來布衣願，家無儋石輸百萬。
 gwan1 mok6 siu3 lau4 ngai6 cung4 loi4 bou3 ji1 jyun6, gaa1 mou4 daam1 daam3 syu1 baak3 maan6
+
+【韻部】
+〚3.1.7〛徂：虞韻
+〚3.2.7〛孤：虞韻
+〚4.1.7〛無：虞韻
+〚4.2.7〛娛：虞韻
+〚5.2.7〛盧：虞韻
+〚6.2.7〛圖：虞韻
+〚7.1.10〛願：願韻
+〚7.2.7〛萬：願韻
 
 =====================================================
 
-0148 贈比部蕭郎中十兄
+陳永明《杜甫全集粵音注音》
+
+【注音】
+贈比部蕭郎中十兄
 zang6 bei2 bou6 siu1 long4 zung1 sap6 hing1
 
 有美生人傑，由來積德門。
@@ -1121,11 +1277,11 @@ jau5 mei5 sang1 jan4 git6, jau4 loi4 zik1 dak1 mun4
 hon3 ciu4 sing4 soeng3 hai6, loeng4 jat6 dai3 wong4 syun1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
-蘊藉爲郎久，魁梧秉哲尊。（元韻）
+蘊藉爲郎久，魁梧秉哲尊。
 wan3 zik6 wai4 long4 gau2, fui1 ng4 bing2 zit3 zyun1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-詞華傾後輩，風雅藹孤騫。（先韻）
+詞華傾後輩，風雅藹孤騫。
 ci4 waa4 king1 hau6 bui3, fung1 ngaa5 oi2 gu1 hin1
 平平平仄仄，平仄仄平平
 -----------------------------------------------------
@@ -1149,13 +1305,31 @@ zi3 gwan1 si4 ji5 maan5, waai4 gu2 ji3 hung1 cyun4
 zung1 saan3 saan1 joeng4 dyun3, jyu4 gung1 je5 guk1 cyun1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-寧紆長者轍，歸老任乾坤。（元韻）
+寧紆長者轍，歸老任乾坤。
 ning4 jyu1 zoeng2 ze2 cit3, gwai1 lou5 jam6 gon1 kwan1
 平平仄仄仄，平仄仄平平
 
+【韻部】
+〚3.2.5〛門：元韻
+〚4.2.5〛孫：元韻
+〚5.2.5〛尊：元韻
+〚6.2.5〛騫：先韻
+〚7.2.5〛論：元韻
+〚8.2.5〛昆：元韻
+〚9.2.5〛奔：元韻
+〚10.2.5〛存：元韻
+〚11.2.5〛村：元韻
+〚12.2.5〛坤：元韻
+
+【補充説明】
+〚6.2.5〛騫，唯一先韻字。
+
 =====================================================
 
-0152 故武衞將軍挽歌三首
+陳永明《杜甫全集粵音注音》
+
+【注音】
+故武衞將軍挽歌三首
 gu3 mou5 wai6 zoeng1 gwan1 waan5 go1 saam1 sau2
 
 其一
@@ -1172,7 +1346,7 @@ zong3 fu1 si1 gam2 kyut3, oi1 ziu3 sik1 zing1 ling4
 wong4 ze2 gam1 mou4 zin3, syu1 sang1 ji5 lak6 ming4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-封侯意疏闊，編簡爲誰青。（青韻）
+封侯意疏闊，編簡爲誰青。
 fung1 hau4 ji3 so1 fut3, pin1 gaan2  wai6 seoi4 cing1
 平平仄平仄，平仄仄平平（出句特定平仄）
 
@@ -1190,7 +1364,7 @@ cim1 fung1 hang4 hip3 seon6, maang5 sai6 sat1 hiu1 tang4
 cek3 jyu5 cin1 fu1 sin6, wong4 ho4 sap6 jyut6 bing1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-橫行沙漠外，神速至今稱。（蒸韻）
+橫行沙漠外，神速至今稱。
 waang4 hang4 saa1 mok6 ngoi6, san4 cuk1 zi3 gam1 cing1
 平平平仄仄，平仄仄平平
 
@@ -1208,15 +1382,33 @@ lou6 jan4 fan1 jyu6 jap1, tin1 ji3 saap3 fung1 biu1
 bou6 kuk1 zing1 jing4 jeoi6, hung1 nou4 hei3 bat1 giu1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-無由覩雄略，大樹日蕭蕭。（蕭韻）
+無由覩雄略，大樹日蕭蕭。
 mou4 jau4 dou2 hung4 loek6, daai6 syu6 jat6 siu1 siu1
 平平仄平仄，仄仄仄平平（出句特定平仄）
 
-雨，去聲。
+【韻部】
+〚1:5.2.5〛星：青韻
+〚1:6.2.5〛靈：青韻
+〚1:7.2.5〛銘：青韻
+〚1:8.2.5〛青：青韻
+〚2:12.2.5〛能：蒸韻
+〚2:13.2.5〛騰：蒸韻
+〚2:14.2.5〛冰：蒸韻
+〚2:15.2.5〛稱：蒸韻
+〚3:19.2.5〛遙：蕭韻
+〚3:20.2.5〛飈：蕭韻
+〚3:21.2.5〛驕：蕭韻
+〚3:22.2.5〛蕭：蕭韻
+
+【補充説明】
+〚3:20.1.4〛雨，去聲。
 
 =====================================================
 
-0161 奉寄河南韋尹丈人
+陳永明《杜甫全集粵音注音》
+
+【注音】
+奉寄河南韋尹丈人
 fung6 gei3 ho4 naam4 wai4 wan5 zoeng6 jan4
 
 有客傳河尹，逢人問孔融。
@@ -1255,11 +1447,24 @@ mau6 caam4 zi1 gai3 zi2, zan1 hip3 siu3 joeng4 hung4
 pun4 cok3 san4 ming4 geoi6, au1 go1 dak1 ji6 fung1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-尸鄕餘土室，難說祝雞翁。（東韻）
+尸鄕餘土室，難說祝雞翁。
 si1 hoeng1 jyu4 tou2 sat1, naan4 syut3 zuk1 gai1 jung1
 平平平仄仄，平仄仄平平
 
-首聯對仗。
+【韻部】
+〚3.2.5〛融：東韻
+〚4.2.5〛東：東韻
+〚5.2.5〛風：東韻
+〚6.2.5〛窮：東韻
+〚7.2.5〛洪：東韻
+〚8.2.5〛蓬：東韻
+〚9.2.5〛空：東韻
+〚10.2.5〛雄：東韻
+〚11.2.5〛豐：東韻
+〚12.2.5〛翁：東韻
+
+【補充説明】
+〚3〛首聯對仗。
 
 =====================================================
 
@@ -1593,16 +1798,16 @@ wai4 sang1 oi1 ngo5 mei6 ping4 fuk6, wai4 ngo5 lik6 zi3 mei5 ngaau4 sin6
 hin2 jan4 hoeng3 si5 se1 hoeng1 gang1, wun6 fu5 ceot1 fong4 can1 zi6 zaan6
 -----------------------------------------------------
 長安冬葅酸且綠，金城土酥淨如練。
-coeng4 on1 dung1 zeoi1 syun1 ce2 luk6， gam1 sing4 tou2 sou1 zing6 jyu4 lin6
+coeng4 on1 dung1 zeoi1 syun1 ce2 luk6, gam1 sing4 tou2 sou1 zing6 jyu4 lin6
 -----------------------------------------------------
 兼求畜豪且割鮮，密沽斗酒諧終宴。
-gim1 kau4 cuk1 hou4 ce2 got3 sin1， mat6 gu1 dau2 zau2 haai4 zung1 jin3
+gim1 kau4 cuk1 hou4 ce2 got3 sin1, mat6 gu1 dau2 zau2 haai4 zung1 jin3
 -----------------------------------------------------
 故人情義晚誰似，令我手腳輕欲旋。
-gu3 jan4 cing4 ji6 maan5 seoi4 ci5， ling6 ngo5 sau2 goek3 hing1 juk6 syun4
+gu3 jan4 cing4 ji6 maan5 seoi4 ci5, ling6 ngo5 sau2 goek3 hing1 juk6 syun4
 -----------------------------------------------------
 老馬爲駒信不虛，當時得意況深眷。
-lou5 maa5 wai4 keoi1 seon3 bat1 heoi1，dong1 si4 dak1 ji3 fong3 sam1 gyun3
+lou5 maa5 wai4 keoi1 seon3 bat1 heoi1, dong1 si4 dak1 ji3 fong3 sam1 gyun3
 -----------------------------------------------------
 但使殘年飽喫飯，只願無事長相見。(霰韻)
 daan6 si2 caan4 nin4 baau2 hek3 faan6, zi2 jyun6 mou4 si6 coeng4 soeng1 gin3
@@ -2444,7 +2649,7 @@ zeon6 nim1 syu1 zik6 maai6, loi4 man6 ji5 dung1 gaa1
 其五
 
 剩水滄江破，殘山碣石開。
-zing6 seoi2 cong1 gong1 po3, caan4 saan1 kit3 sek6 hoi1
+sing6 seoi2 cong1 gong1 po3, caan4 saan1 kit3 sek6 hoi1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 綠垂風折笋，紅綻雨肥梅。
@@ -3946,7 +4151,7 @@ tou4 ze6 bat1 zi1 ng4, fung1 sou1 gung6 teoi1 gik1
 zi2 lyun4 zi6 ciu1 ngai6, ceoi3 bok3 seoi4 zin2 tek1
 -----------------------------------------------------
 君意人莫知，人間夜寥闃。（錫韻）
-gwan1 ji3 jan4 mok6 zi1, jan4 gaan1 je6/je2 liu4 gwik1
+gwan1 ji3 jan4 mok6 zi1, jan4 gaan1 je6 liu4 gwik1
 
 =====================================================
 
@@ -6975,7 +7180,7 @@ bat1 cam2 ting1 gam1 joek6, jan1 fung1 soeng2 juk6 o1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 明朝有封事，數問夜如何？（歌韻）
-ming4 ziu1 jau5 fung1 si6, sou3 man6 je6/je2 jyu4 ho4
+ming4 ziu1 jau5 fung1 si6, sou3 man6 je6 jyu4 ho4
 平平仄平仄，仄仄仄平平
 
 過，平聲。
