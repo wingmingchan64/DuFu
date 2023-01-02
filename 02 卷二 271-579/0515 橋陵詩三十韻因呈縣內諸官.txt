@@ -33,7 +33,10 @@
 =====================================================
 〚〛
 =粵====================================================
-0515 橋陵詩三十韻因呈縣內諸官
+陳永明《杜甫全集粵音注音》
+
+【注音】
+橋陵詩三十韻因呈縣內諸官
 kiu4 ling4 si1 saam1 sap6 wan5 jan1 cing4 jyun6 noi6 zyu1 gun1
 
 先帝昔晏駕，茲山朝百靈。
@@ -109,7 +112,7 @@ taai3 si2 hau6 fu4 jing2, wong4 kiu4 ceoi4 hok6 ling4
 ciu4 ji4 haan6 siu1 hon3, haak3 si3 wui4 lam4 gwing1
 -----------------------------------------------------
 轗軻辭下杜，飄颻陵濁涇。
-ham2 ho2 ci4 haa6 dou6， piu1 jiu4 ling4 zuk6 ging1
+ham2 ho2 ci4 haa6 dou6, piu1 jiu4 ling4 zuk6 ging1
 -----------------------------------------------------
 諸生舊短褐，旅泛一浮萍。
 zyu1 sang1 gau6 dyun2 hot3, leoi5 faan6 jat1 fau4 ping4
@@ -123,9 +126,13 @@ zyu2 jan4 nim6 lou5 maa5, haai6 cyu5 jung4 cau1 jing4
 流寓理豈愜，窮愁醉未醒。
 lau4 jyu6 lei5 hei2 hip3, kung4 sau4 zeoi3 mei6 sing1
 -----------------------------------------------------
-何當擺俗累，浩蕩乘滄溟。（靑韻）
+何當擺俗累，浩蕩乘滄溟。
 ho4 dong1 baai2 zuk6 leoi6, hou6 dong6 sing4 cong1 ming4
 
+【韻部】
+：靑韻
+
+【補充説明】
 此詩對仗工整，詩韻單一，類五排，然不協詩律。
 =====================================================
 蕭滌非主編《杜甫全集校注》1.515
