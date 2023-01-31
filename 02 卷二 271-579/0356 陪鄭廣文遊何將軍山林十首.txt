@@ -33,7 +33,7 @@
 剩水滄江破，殘山碣石開。
 綠垂風折笋，紅綻雨肥梅。
 銀甲彈箏用，金魚換酒來。
-興移無洒埽，隨意坐莓苔。
+興移無灑掃，隨意坐莓苔。
 
 其六
 
@@ -164,7 +164,7 @@ luk6 seoi4 fung1 zit3 seon2, hung4 zaan6 jyu5 fei4 mui4
 ngan4 gaap3 taan4 zang1 jung6, gam1 jyu4 wun6 zau2 loi4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-興移無洒埽，隨意坐莓苔。
+興移無灑掃，隨意坐莓苔。
 hing3 ji4 mou4 saa2 sou3, ceoi4 ji3 zo6 mui4 toi4
 仄平平仄仄，平仄仄平平
 
@@ -319,6 +319,7 @@ zi2 jing1 jyu5 pang4 hou2, fung1 jyu5 jik6 loi4 gwo1
 〖沒馬〗没馬
 〖藏蛇〗藏虵
 〖迹未賒〗跡未賒
+〖灑掃〗洒埽
 〖綠垂〗緑垂
 〖換酒〗换酒
 〖臥簟〗卧簟
