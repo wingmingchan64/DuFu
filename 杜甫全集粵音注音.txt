@@ -102,6 +102,9 @@ cin4 cyun1 saan1 lou6 him2, gwai1 zeoi3 mui5 mou4 sau4
 〚2:14.2.5〛求：尤韻
 〚2:15.2.5〛愁：尤韻
 
+〚1:〛七律
+〚2:〛五律
+
 〚1:6.1.6〛冰，讀平聲，不讀去聲。施鴻保曰：「『澗道餘寒歷冰雪』，今按此
 拗句也。公詩七律拗句，凡第六字應仄而用平者，其第五字必用仄。」「此句第五字本應
 用平，因第六字冰是平，故改用歷字仄聲，作拗句也。」
@@ -2068,7 +2071,7 @@ hoeng1 lei5 ji4 tung4 hong6 ling5 sing4, ziu1 ting4 gu3 gau6 lai5 sou3 zyut6
 自然棄擲與時異，況乃疏頑臨事拙。
 zi6 jin4 hei3 zaak6 jyu5 si4 ji6, fong3 naai5 so1 waan4 lam4 si6 zyut3
 -----------------------------------------------------
-飢臥動卽向一旬，弊衣何啻聯百結。
+飢臥動卽向一旬，敝衣何啻聯百結。
 gei1 ngo6 dung6 zik1 hoeng3 jat1 ceon4, bai6 ji1 ho4 ci3 lyun4 baak3 git3
 -----------------------------------------------------
 君不見空牆日色晚，此老無聲淚垂血。
@@ -5542,7 +5545,7 @@ jyu4 ho4 bat1 jam2 ling6 sam1 oi1
 0703 晦日尋崔戢李封
 fui3 jat6 cam4 ceoi1 cap1 lei5 fung1
 
-朝光入甕牖，尸寢驚弊裘。
+朝光入甕牖，尸寢驚敝裘。
 ziu1 gwong1 jap6 ung3 jau5, si1 cam2 ging1 bai6 kau4
 -----------------------------------------------------
 起行視天宇，春氣漸和柔。
@@ -5856,7 +5859,7 @@ je5 kwong3 tin1 cing1 mou4 zin3 sing1, sei3 maan6 ji6 gwan1 tung4 jat6 sei2
 羣胡歸來血洗箭，仍唱胡歌飲都市。
 kwan4 wu4 gwai1 loi4 hyut3 sai2 zin3, jing4 coeng3 wu4 go1 jam2 dou1 si5
 -----------------------------------------------------
-都人迴面向北啼，日夜更望官軍至。（紙韻）
+都人回面向北啼，日夜更望官軍至。（紙韻）
 dou1 jan4 wui4 min6 hoeng3 bak1 tai4, jat6 je6 gang3 mong6 gun1 gwan1 zi3
 
 =====================================================
@@ -5993,7 +5996,7 @@ ming4 mau4 hou6 ci2 gam1 ho4 zoi6, hyut3 wu1 jau4 wan4 gwai1 bat1 dak1
 清渭東流劍閣深，去住彼此無消息！
 cing1 wai6 dung1 lau4 gim3 gok3 sam1, heoi3 zyu6 bei2 ci2 mou4 siu1 sik1
 -----------------------------------------------------
-人生有情淚沾臆，江水江花豈終極？
+人生有情淚霑臆，江水江花豈終極？
 jan4 sang1 jau5 cing4 leoi6 zim1 jik1, gong1 seoi2 gong1 faa1 hei2 zung1 gik6
 -----------------------------------------------------
 黃昏胡騎塵滿城，欲往城南忘南北！（職韻）
@@ -6421,7 +6424,7 @@ sang1 waan4 gam1 jat6 si6, haan4 dou6 zaam6 si4 jan4
 si1 dai6 zoeng1 co1 dou2, naam4 joeng4 hei3 ji5 san1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-喜心翻倒極，嗚咽淚沾巾。（眞韻）
+喜心翻倒極，嗚咽淚霑巾。（眞韻）
 hei2 sam1 faan1 dou2 gik6, wu1 jit3 leoi6 zim1 gan1
 仄平平仄仄，平仄仄平平
 
