@@ -59,7 +59,7 @@ tai4 zoeng1 si6 jan2 geoi1 ji6 sau2
 其一
 
 春山無伴獨相求，伐木丁丁山更幽。
-ceon1 saan1 mou4 bun6 duk6 soeng1 kau4, fat6 muk6 zang1 zang1 saan1 gang3 jau1
+ceon1 saan1 mou4 bun6 duk6 soeng1 kau4, fat6 muk6 zang1/zaang1 zang1/zaang1 saan1 gang3 jau1
 平平平仄仄平平，仄仄平平平仄平
 -----------------------------------------------------
 澗道餘寒歷冰雪，石門斜日到林丘。
@@ -81,7 +81,7 @@ zi1 zi2 si4 soeng1 gin3, jiu1 jan4 maan5 hing3 lau4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 霽潭鱣發發，春草鹿呦呦。
-zai3 taam4 zin1 but6 but6, ceon1 cou2 luk6 jau1 jau1
+zai3 taam4 zin1 but3/but6 but3/but6, ceon1 cou2 luk6 jau1 jau1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 杜酒偏勞勸，張梨不外求。
@@ -358,6 +358,9 @@ juk6 gaau3 man4 san4 zung1, ling6 jan4 faat3 sam1 sing2
 〚6.2.5〛省：梗韻
 
 五古
+
+1. 伽（ke4）藍
+2. 蘭若（je5）
 
 =====================================================
 
@@ -3864,7 +3867,7 @@ coi2 coi2 wong4 gam1 faa1, ho4 jau4 mun5 ji1 zau6
 0490 歎庭前甘菊花
 taan3 ting4 cin4 gam1 guk1 faa1
 
-簷前甘菊移時晚，青蘂重陽不堪摘。
+簷前甘菊移時晚，青蕊重陽不堪摘。
 jim4 cin4 gam1 guk1 ji4 si4 maan5, cing1 jeoi5 cung4 joeng4 bat1 ham1 zaak6
 -----------------------------------------------------
 明日蕭條醉盡醒，殘花爛漫開何益。
@@ -5364,7 +5367,7 @@ ci3 juk6 gaai1 coeng4 jing1, jyu6 jin3 fei1 dyun2 hot3
 tung4 ting4 so2 fan1 baak6, bun2 zi6 hon4 neoi5 ceot1
 -----------------------------------------------------
 鞭撻其夫家，聚斂貢城闕。
-bin1 taat3 kei4 fu1 gaa1, zeoi6 lim5 gung3 sing4 kyut3
+bin1 taat3 kei4 fu1 gaa1, zeoi6 lim6/lim5 gung3 sing4 kyut3
 -----------------------------------------------------
 聖人筐篚恩，實欲邦國活。
 sing3 jan4 hong1 fei2 jan1, sat6 juk6 bong1 gwok3 wut6
@@ -5436,7 +5439,7 @@ fu2 zik1 jau4 syun1 san1, ping4 jan4 gu3 sou1 sit3
 mak6 si1 sat1 jip6 tou4, jan1 nim6 jyun5 syu3 zeot1
 -----------------------------------------------------
 憂端齊終南，澒洞不可掇！
-jau1 dyun1 cai4 zung1 naam4, hung6 dung6 bat1 ho2 zyut3
+jau1 dyun1 cai4 zung1 naam4, hung6 tung4 bat1 ho2 zyut3
 
 〚3.2.5〛拙：屑韻
 〚4.2.5〛契：屑韻
@@ -5491,6 +5494,10 @@ jau1 dyun1 cai4 zung1 naam4, hung6 dung6 bat1 ho2 zyut3
 
 1. 四質、五物、六月、七曷、八黠、九屑。
 2. 嵽嵲，疊韻詞。
+
+五古
+
+
 
 =====================================================
 0695 0695 蘇端薛復筵簡薛華醉歌
@@ -6283,6 +6290,8 @@ gei3 mei6 min5 gei1 bun6, si4 loi4 hei3 ban1 zau2
 gan6 gung1 jyu4 baak6 syut3, zap1 jit6 faan4 ho4 jau5
 
 後，上聲。
+听（yín，jan5）
+狺（ngan4）
 
 =====================================================
 0809 0809 雨過蘇端
@@ -6486,7 +6495,7 @@ mok6 fu2 zyut3 gaan3 gun1, ciu4 ting4 mou4 ci2 lai6
 至尊方旰食，仗爾布嘉惠。
 zi3 zyun1 fong1 gon3 sik6, zoeng6 ji5 bou3 gaa1 wai6
 -----------------------------------------------------
-補闕暮徵入，柱史晨征憇。
+補闕暮徵入，柱史晨征憩。
 bou2 kyut3 mou6 zing1 jap6, cyu5 si2 san4 zing1 hei3
 -----------------------------------------------------
 正當艱難時，實藉長久計。
@@ -7332,11 +7341,12 @@ cing2 ai6 fu6 lou5 go1, gaan1 naan4 kwai5 sam1 cing4
 go1 baa6 joeng5 tin1 taan3, sei3 zo6 leoi6 zung3 waang4
 
 =====================================================
+
 0943 0943 北征
 bak1 zing1
 
 皇帝二載秋，閏八月初吉。
-wong4 dai3 ji6 zoi3 cau1, jeon6 baat3 jyut6 co1 gat1
+wong4 dai3 ji6 zoi2 cau1, jeon6 baat3 jyut6 co1 gat1
 -----------------------------------------------------
 0943 杜子將北征，蒼茫問家室。
 dou6 zi2 zoeng1 bak1 zing1, cong1 mong4 man6 gaa1 sat1
@@ -7420,7 +7430,7 @@ tung4 gwaan1 baak3 maan6 si1, wong5 ze2 saan3 ho4 cyut3
 seoi6 ling6 bun3 ceon4 man4, caan4 hoi6 wai4 ji6 mat6
 -----------------------------------------------------
 況我墮胡塵，及歸盡華髮。（月韻）
-fong3 ngo5 do6 wu4 can4, kap6 gwai1 zeon6 waa4 faat3
+fong3 ngo5 do6 wu4 can4, kap6 gwai1 zeon6 waa4/faa1 faat3
 -----------------------------------------------------
 經年至茅屋，妻子衣百結。（屑韻）
 ging1 nin4 zi3 maau5 uk1, cai1 zi2 ji1 baak3 git3
@@ -7545,7 +7555,20 @@ jyun4 ling4 gu3 jau5 san4, sou3 saa2 sou3 bat1 kyut3
 煌煌太宗業，樹立甚宏達。（曷韻）
 wong4 wong4 taai3 zung1 jip6, syu6 lap6 sam6 wang4 daat6
 
+〚3.2.5〛吉：質韻
+〚4.2.5〛室：質韻
+〚5.2.5〛日：質韻
+〚6.2.5〛蓽：質韻
+〚7.2.5〛出：質韻
+〚8.2.5〛失：質韻
+〚9.2.5〛勿：物韻
+
+
 少爲貴之少有歧義，多少之少讀 siu2，少壯之少讀 siu3。
+
+五古
+
+
 
 =====================================================
 0972 0972 喜聞官軍已臨賊寇二十韻
