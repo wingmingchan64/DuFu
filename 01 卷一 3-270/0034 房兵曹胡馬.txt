@@ -32,11 +32,11 @@ zuk1 pai1 soeng1 ji5 zeon3, fung1 jap6 sei3 tai4 hing1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 所向無空闊，眞堪託死生。
-so2 hoeng3 mou4 hung1 fut3, zan1 ham1 tok3 sei2 sang1
+so2 hoeng3 mou4 hung1 fut3, zan1 ham1 tok3 sei2 sang1/saang1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 驍騰有如此，萬里可橫行。
-hiu1 tang4 jau5 jyu4 ci2, maan6 lei5 ho2 waang4 hang4
+hiu1 tang4 jau5 jyu4 ci2, maan6 lei5 ho2 waang4 hang4/haang4
 平平仄平仄，仄仄仄平平（出句特定平仄）
 
 【韻部】
@@ -45,6 +45,15 @@ hiu1 tang4 jau5 jyu4 ci2, maan6 lei5 ho2 waang4 hang4
 〚4.2.5〛輕：庚韻
 〚5.2.5〛生：庚韻
 〚6.2.5〛行：庚韻
+
+【體裁】
+五律
+
+【補充説明】
+五律首句押韻，比較少見。
+
+〚5.2.5〛「生」有文（sang1）、白（saang1）二讀。
+〚6.2.5〛庚韻之「行」有文（hang4）、白（haang4）二讀。「行」亦屬陽韻，讀 hong4。
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》1.34
 
