@@ -17,20 +17,9 @@
 陳永明《杜甫全集粵音注音》
 
 【注音】
-天寶初，南曹小司寇舅，
-tin1 bou2 co1, naam4 cou4 siu2 si1 kau3 kau5, 
-於我太夫人堂下，壘土爲山，
-jyu1 ngo5 taai3 fu1 jan4 tong4 haa6, leoi5 tou2 wai4 saan1,
-一匱盈尺，以代彼朽木，
-jat1 gwai6 jing4 cek3, ji5 doi6 bei2 nau2 muk6, 
-承諸焚香瓷甌，甌甚安矣。
-sing4 zyu1 fan4 hoeng1 ci4 au1, au1 sam6 on1 ji5. 
-旁植慈竹，蓋茲數峯，嶔岑嬋娟，
-pong4 zik6 ci4 zuk1, goi3 zi1 sou3 fung1, jam1 sam4 sim4 gyun1, 
-宛有塵外數致。乃不知興之所至，
-jyun2 jau5 can4 ngoi6 sou3 zi3. naai5 bat1 zi1 hing3 zi1 so2 zi3, 
-而作是詩
-ji4 zok3 si6 si1
+天寶初，南曹小司寇舅，於我太夫人堂下，壘土爲山，一匱盈尺，以代彼朽木，承諸焚香瓷甌，甌甚安矣。旁植慈竹，蓋茲數峯，嶔岑嬋娟，宛有塵外數致。乃不知興之所至，而作是詩
+
+tin1 bou2 co1, naam4 cou4 siu2 si1 kau3 kau5, jyu1 ngo5 taai3 fu1 jan4 tong4 haa6, leoi5 tou2 wai4 saan1, jat1 gwai6 jing4 cek3, ji5 doi6 bei2 nau2 muk6, sing4 zyu1 fan4 hoeng1 ci4 au1, au1 sam6 on1 ji5. pong4 zik6 ci4 zuk1, goi3 zi1 sou3 fung1, jam1 sam4 sim4 gyun1, jyun2 jau5 can4 ngoi6 sou3 zi3. naai5 bat1 zi1 hing3 zi1 so2 zi3, ji4 zok3 si6 si1
 
 一匱功盈尺，三峯意出羣。
 jat1 gwai6 gung1 jing4 cek3, saam1 fung1 ji3 ceot1 kwan4
@@ -53,6 +42,9 @@ wai4 naam4 zoeng1 hin3 sau6， gaai1 hei3 jat6 fan1 wan1
 〚4.2.5〛雲：文韻
 〚5.2.5〛分：文韻
 〚6.2.5〛氳：文韻
+
+【體裁】
+五律
 
 【補充說明】
 〚3〛首聯對仗。
