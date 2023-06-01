@@ -69,6 +69,8 @@ https://speechnotes.co/yue/
 
 github
 https://github.com/buluzhai/dataset/tree/master/%E6%9D%9C%E7%94%AB
+https://github.com/rime-aca/corpus/blob/master/%E5%85%A8%E5%94%90%E8%A9%A9/%E5%8D%B7216-234%20%20%E6%9D%9C%E7%94%AB.txt
+
 
 曹慕樊：杜诗字义、修辞丛记
 http://www.aisixiang.com/data/139219.html
