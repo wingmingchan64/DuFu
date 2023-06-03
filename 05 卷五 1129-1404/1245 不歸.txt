@@ -1,6 +1,6 @@
 1245 不歸
 
-河間尚征伐，汝骨在空城。
+河間尙征伐，汝骨在空城。
 從弟人皆有，終身恨不平。
 數金憐俊邁，總角愛聰明。
 面上三年土，春風草又生。
@@ -12,7 +12,7 @@
 fau2/fau4/pei1/dan2/bat1/fu1 gwei1/gwai1 
 
 
-河間尚征伐，汝骨在空城
+河間尙征伐，汝骨在空城
 ho4 gaan3/gaan1 soeng4/soeng6/soeng3 zing1 faat6/fat6, nei5/jyu5 gwu2/gwat1 zoi6 hung3/hung2/hung1 seng4/sing4 
 從弟人皆有，終身恨不平
 sung1/zung6/zung1/cung4/zung2/zung3/cung6 tai5/dai6 jan4/jan5 gaai1 jau6/jau5, zung1 gyun1/san1 han6 fau2/fau4/pei1/dan2/bat1/fu1 peng4/ping4/pin4/ping6 
@@ -30,12 +30,13 @@ min6 soeng5/saang3/soeng6 saam3/saam1/saam6 nin4 tou2, ceon1 fung3/fung2/fung1 c
 蕭滌非主編《杜甫全集校注》3.1245
 
 【異文、夾注】
+〖尙〗尚
 〖總角愛聰明〗緫角愛聦明
 =全====================================================
 《全唐詩》7.2423,PDF7.202,《御製全唐詩》2556
 
 【異文、夾注】
-〖河間尚征伐〗河間尚征[一作戰]伐
+〖河間尙征伐〗河間尙征[一作戰]伐
 〖春風草又生〗春[一作秋]風草[一作吹]又生
 =奭====================================================
 王嗣奭《杜臆》

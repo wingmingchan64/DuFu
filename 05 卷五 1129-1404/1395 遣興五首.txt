@@ -18,7 +18,7 @@
 
 漆有用而割，膏以明自煎。
 蘭摧白露下，桂折秋風前。
-府中羅舊尹，沙道尚依然。
+府中羅舊尹，沙道尙依然。
 赫赫蕭京兆，今爲時所憐。
 
 其四
@@ -78,7 +78,7 @@ gwei1/gwai1 loi6/lai4/loi4 jyun6/jyun4/hyun4 loeng2/loeng6/loeng3/loeng5 long4, 
 cit3/cat1/caat1 jau6/jau5 jung6/ung6 nang4/ji4 got3, gou3/gou1 ji5 ming4 zi6 zin3/zin1 
 蘭摧白露下，桂折秋風前
 laan4 ceoi4/ceoi1/zo3/zeoi4 baak6/baak3 lau6/lou6 haa5/haa2/haa6, gwei3/gwai3 zip3/zit3 cau1 fung3/fung2/fung1 cin4 
-府中羅舊尹，沙道尚依然
+府中羅舊尹，沙道尙依然
 fu2 zung3/zung1 lo4 gau6 wan5, saa3/saa1 dou6/dou5 soeng4/soeng6/soeng3 ji1/ji2 jin4 
 赫赫蕭京兆，今爲時所憐
 hak1/gwik1/haak3/haak1/nik1 hak1/gwik1/haak3/haak1/nik1 siu1 jyun4/ging1 ziu6/siu6/ziu3, gam1 wai6/wai4 si4 so2 leon6/lin4 
@@ -126,6 +126,7 @@ gwan1 hon1/hon3 suk1/cuk1/syu3 fok3/fok6/bok3 heoi2/heoi3/keoi1, jik6 dak1 gwei1
 〖爲〗為
 〖腳〗脚
 〖強〗强
+〖尙〗尚
 =全====================================================
 《全唐詩》7.2290,PDF7.69,《御製全唐詩》2410
 

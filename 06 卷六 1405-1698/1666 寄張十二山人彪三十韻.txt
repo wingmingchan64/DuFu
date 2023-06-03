@@ -23,11 +23,11 @@
 肘後符應驗，囊中藥未陳。
 旅懷殊不愜，良覿渺無因。
 自古皆悲恨，浮生有屈伸。
-此邦今尚武，何處且依仁。
+此邦今尙武，何處且依仁。
 鼓角凌天籟，關山信月輪。
 官場羅鎭磧，賊火近洮岷。
 蕭瑟論兵地，蒼茫鬬將辰。
-大軍多處所，餘孽尚紛綸。
+大軍多處所，餘孽尙紛綸。
 高興知籠鳥，斯文起獲麟。
 窮秋正搖落，回首望松筠。
 =粵====================================================
@@ -84,7 +84,7 @@ zau2/zaau2 hau5/hau6 wu4/fu4 jing3/jing1 nim6/jim6/wun6, nong4 zung3/zung1 joek6
 leoi5 waai4 soe4/syu4 fau2/fau4/pei1/dan2/bat1/fu1 haap6/hip3/hip6, loeng4 dik6 miu5 mo4/mou5/mou4 jan1 
 自古皆悲恨，浮生有屈伸
 zi6 gwu2/gu2 gaai1 bei1 han6, pou4/fau4 sang1/saang1 jau6/jau5 gwat6/wat1/fat1 san1 
-此邦今尚武，何處且依仁
+此邦今尙武，何處且依仁
 ci2 bong1/bing1 gam1 soeng4/soeng6/soeng3 mou5, ho6/ho4 cyu2/syu3/cyu3 zeoi1/cou4/ceoi6/ce2 ji1/ji2 ngan4/jan4 
 鼓角凌天籟，關山信月輪
 gwu2/gu2 luk6/gok2/gok3 ling4 tin1 laai6, waan1/gwaan1 saan1 san1/seon1/seon3 jyut6 leon4 
@@ -92,7 +92,7 @@ gwu2/gu2 luk6/gok2/gok3 ling4 tin1 laai6, waan1/gwaan1 saan1 san1/seon1/seon3 jy
 gwun1/gun1/gyun1 coeng4 lo4 zan3 zaak3/zik1/zaat3, cak6/caak3/caak6/zak6 fo2 kan5/gan3/gei3/gan6 jiu4/tou1/tou4 man4 
 蕭瑟論兵地，蒼茫鬬將辰
 siu1 sat1 leon4/leon1/leon6 bing1 dei6, cong2/cong1 mong4 dau3 zoeng3/coeng1/zoeng1 san4 
-大軍多處所，餘孽尚紛綸
+大軍多處所，餘孽尙紛綸
 taai3/daai6 gwan1 do1 cyu2/syu3/cyu3 so2, jyu4 jip6/jit3/nip6/nit6/jit6 soeng4/soeng6/soeng3 fan1 gwaan1/gwan1/leon4 
 高興知籠鳥，斯文起獲麟
 gou1 hing3/hing1/jan6 zi3/zi1 lung5/lung2/lung4 diu2/niu5, si1 man6/man1/man4 hei2 waai4/wok3/waak6/wok6/waa6 leon4 
@@ -118,6 +118,8 @@ kung4 cau1 zing1/zeng3/zing2/zing3 jiu4 laai6/lok1/lok6, wui6/wui4 sau3/sau2 mon
 〖卽〗即
 〖鎭〗鎮
 〖搖〗摇
+〖今尙武〗今尚武
+〖尙紛綸〗尚紛綸
 =全====================================================
 《全唐詩》7.2429,PDF7.208,《御製全唐詩》2562
 
@@ -133,7 +135,7 @@ kung4 cau1 zing1/zeng3/zing2/zing3 jiu4 laai6/lok1/lok6, wui6/wui4 sau3/sau2 mon
 〖源水不離秦〗源[一作湍]水不離[一作知。一作流。]秦
 〖結草卽河濱〗結草卽[一作欲]河濱
 〖旅懷殊不愜〗旅[一作放]懷殊不愜
-〖此邦今尚武〗此邦今[一作全]尚武
+〖此邦今尙武〗此邦今[一作全]尙武
 〖關山信月輪〗關山信[一作倚]月輪
 〖官場羅鎭磧〗官場[一作壕]羅鎭[一作錦]磧
 〖蕭瑟論兵地〗蕭索論兵[一作功]地

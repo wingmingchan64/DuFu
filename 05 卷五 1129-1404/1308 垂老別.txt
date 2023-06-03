@@ -14,7 +14,7 @@
 憶昔少壯日，遲迴竟長歎。
 萬國盡征戍，烽火被岡巒。
 積屍草木腥，流血川原丹。
-何鄕爲樂土？安敢尚盤桓！
+何鄕爲樂土？安敢尙盤桓！
 棄絕蓬室居，塌然摧肺肝。
 =粵====================================================
 陳永明《杜甫全集粵音注音》
@@ -52,7 +52,7 @@ jik1 cok3/sik1 siu3/siu2 zong1/zong3 mik6/jat6, zi6/ci3/zi3/ci4 wui4 ging6/ging2
 maan6 gwok3 zeon6 zing1 seot1/syu3, fung1 fo2 bei6/pei1/pei5/pai1 gong1 lyun4 
 積屍草木腥，流血川原丹
 zi3/zik1 si1 cou2 muk6 sing1/seng1, lau4 hyut3 cyun1 jyun5/jyun4 daan1 
-何鄕爲樂土，安敢尚盤桓
+何鄕爲樂土，安敢尙盤桓
 ho6/ho4 hoeng3/hoeng1 wai6/wai4 lok6/ngaau6/ngou6/ngok6 tou2, ngon1/on1 gam2 soeng4/soeng6/soeng3 pun4 wun4/jyun4 
 棄絕蓬室居，塌然摧肺肝
 hei3 zyut3/zyut6/cyut6 fung4/pung4 sat1 gei1/geoi1, dap1/taap3 jin4 ceoi4/ceoi1/zo3/zeoi4 fai3/pui3 gon1 
@@ -76,6 +76,7 @@ hei3 zyut3/zyut6/cyut6 fung4/pung4 sat1 gei1/geoi1, dap1/taap3 jin4 ceoi4/ceoi1/
 〖迴〗廻
 〖鄕爲〗鄉為
 〖棄絕〗弃絶
+〖尙〗尚
 =全====================================================
 《全唐詩》7.2284,PDF7.63,《御製全唐詩》2403
 

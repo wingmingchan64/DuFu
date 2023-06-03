@@ -7,7 +7,7 @@
 已喜皇威清海岱，常思仙仗過崆峒。
 三年笛裏關山月，萬國兵前草木風。
 成王功大心轉小，郭相謀深古來少。
-司徒清鑒懸明鏡，尚書氣與秋天杳。
+司徒清鑒懸明鏡，尙書氣與秋天杳。
 二三豪俊爲時出，整頓乾坤濟時了。
 東走無復憶鱸魚，南飛覺有安巢鳥。
 青春復隨冠冕入，紫禁正耐煙花繞。
@@ -46,7 +46,7 @@ ji3/ji5 hei3/ci3/hei2 wong4 wai1 ceng1/cing1 hoi2 doi6, soeng4 si3/soi1/si1/si6 
 saam3/saam1/saam6 nin4 dek2/dik6/dek6 leoi5/lei5 waan1/gwaan1 saan1 jyut6, maan6 gwok3 bing1 cin4 cou2 muk6 fung3/fung2/fung1 
 成王功大心轉小，郭相謀深古來少
 seng4/cing4/sing4 wong6/wong4 gung1 taai3/daai6 sam1 zyun3/zyun2 siu2, kwok3/gwik1/gwok3 soeng3/soeng2/soeng1 maau4/mau4 sam1 gwu2/gu2 loi6/lai4/loi4 siu3/siu2 
-司徒清鑒懸明鏡，尚書氣與秋天杳
+司徒清鑒懸明鏡，尙書氣與秋天杳
 si1 tou4 ceng1/cing1 gaam3/haam6 jyun6/jyun4/hyun4 ming4 ging3/geng3, soeng4/soeng6/soeng3 syu1 hei3 jyu6/jyu4/jyu5 cau1 tin1 jiu2/miu5 
 二三豪俊爲時出，整頓乾坤濟時了
 ji6/ji3 saam3/saam1/saam6 hou4 zeon3 wai6/wai4 si4 ceoi3/ceot1, zing2/zeng2 duk6/deon3/deon6 gon1/kin4 kwan1 zai2/zai3 si4 liu2/laa2/liu5 
@@ -97,7 +97,7 @@ ngon1/on1 dak1 zong1/zong3 si6 waan2/waan1/waan5 tin1 ho4, zeng6/zing6 sin2/sai2
 成王：指太子李俶，收復兩京的主帥。轉小：轉而變得小心謹慎。
 郭相：郭子儀。
 司徒：指檢校司徒李光弼。清鑑：識見明察。李光弼治軍嚴，曾預料史思明詐降，終久必反，故説他清鑑懸明鏡。
-尚書：指兵部尚書王思禮。氣：氣度。秋天杳：形容如秋空般明朗高遠。
+尙書：指兵部尙書王思禮。氣：氣度。秋天杳：形容如秋空般明朗高遠。
 二三豪俊：指李俶、郭子儀、李光弼等。為時出：應運而生。
 濟時：救濟時危。了：完畢。
 “東走”句：翻用西晉張翰的話，意謂現在不必像張翰那樣避亂，可以放心做官了。《世説新語》：“張翰見秋風起，因思吳中菰菜羮、鱸魚膾，曰‘人生貴得適意爾，何能羈宦數千裏，以要名爵’，遂命駕便歸。”
@@ -140,6 +140,7 @@ ngon1/on1 dak1 zong1/zong3 si6 waan2/waan1/waan5 tin1 ho4, zeng6/zing6 sin2/sai2
 〖顚〗顛
 〖蒙〗䝉
 〖旣〗既
+〖尙〗尚
 =全====================================================
 《全唐詩》7.2278,PDF7.57,《御製全唐詩》2397
 
@@ -154,7 +155,7 @@ ngon1/on1 dak1 zong1/zong3 si6 waan2/waan1/waan5 tin1 ho4, zeng6/zing6 sin2/sai2
 〖成王功大心轉小〗成王[廣平王俶]功大心轉小
 〖郭相謀深古來少〗郭相[中書令郭子儀]謀深[一作猷]古來少
 〖司徒清鑒懸明鏡〗司徒[李光弼加檢校司徒]清鑒懸明鏡
-〖尚書氣與秋天杳〗尚書[王思禮遷兵部尚書]氣與秋天杳
+〖尙書氣與秋天杳〗尙書[王思禮遷兵部尙書]氣與秋天杳
 〖南飛覺有安巢鳥〗南飛覺有安巢[一作枝]鳥
 〖紫禁正耐煙花繞〗紫禁[一作駕]正耐煙花繞
 〖鶴駕通霄鳳輦備〗鶴禁通霄鳳輦備

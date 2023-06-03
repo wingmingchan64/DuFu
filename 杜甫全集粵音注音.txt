@@ -538,7 +538,7 @@ lei5 gaam3 zaak6 ji6 sau2
 
 其一
 
-尚覺王孫貴，豪家意頗濃。
+尙覺王孫貴，豪家意頗濃。
 soeng6 gok3 wong4 syun1 gwai3, hou4 gaa1 ji3 po2 nung4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
@@ -823,7 +823,7 @@ bat1 jyun6 leon4 zaam1 fat1, jau4 jau4 cong1 hoi2 cing4
 0099 贈李白
 zang6 lei5 baak6
 
-秋來相顧尚飄蓬，未就丹砂愧葛洪。
+秋來相顧尙飄蓬，未就丹砂愧葛洪。
 cau1 loi4 soeng1 gu3 soeng6 piu1 pung4, mei6 zau6 daan1 saa1 kwai5 got3 hung4
 平平平仄仄平平，仄仄平平仄仄平
 -----------------------------------------------------
@@ -1326,7 +1326,7 @@ fung6 gei3 ho4 naam4 wai4 wan5 zoeng6 jan4
 jau5 haak3 cyun4 ho4 wan5, fung4 jan4 man6 hung2 jung4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-青囊仍隱逸，章甫尚西東。
+青囊仍隱逸，章甫尙西東。
 cing1 nong4 jing4 jan2 jat6, zoeng1 fu2 soeng6 sai1 dung1
 平平平仄仄，平仄仄平平
 -----------------------------------------------------
@@ -1767,7 +1767,7 @@ bing6 hau6 gwo3 wong4 ji2 jam2 zang6 go1
 麟角鳳觜世莫識，煎膠續弦奇自見。
 leon4 gok3 fung6 zi1 sai3 mok6 sik1, zin1 gaau1 zuk6 jin4 kei4 zi6 gin3
 -----------------------------------------------------
-尚看王生抱此懷，在於甫也何由羨。
+尙看王生抱此懷，在於甫也何由羨。
 soeng6 hon3 wong4 sang1 pou5 ci2 waai4, zoi6 jyu1 fu2 jaa5 ho4 jau4 sin6
 -----------------------------------------------------
 且遇王生慰疇昔，素知賤子甘貧賤。
@@ -2241,7 +2241,7 @@ jin1 nang4 sam1 joeng2 joeng2, zi2 si6 zau2 cyun4 cyun4
 今欲東入海，卽將西去秦。
 gam1 juk6 dung1 jap6 hoi2, zik1 zoeng1 sai1 heoi3 ceon4
 -----------------------------------------------------
-尚憐終南山，回首清渭濱。
+尙憐終南山，回首清渭濱。
 soeng6 lin4 zung1 naam4 saan1, wui4 sau2 cing1 wai6 ban1
 -----------------------------------------------------
 常擬報一飯，況懷辭大臣。
@@ -4176,7 +4176,7 @@ hung1 loeng4 cuk1 waa6 gik1, jam1 zeng2 haau1 tung4 ping4
 中使日夜繼，惟王心不寧。
 zung1 si3 jat6 je6 gai3, wai4 wong4 sam1 bat1 ning4
 -----------------------------------------------------
-豈徒䘏備享，尚謂求無形。
+豈徒䘏備享，尙謂求無形。
 hei2 tou4 seot1 bei6 hoeng2, soeng6 wai6 kau4 mou4 jing4
 -----------------------------------------------------
 孝理敦國政，神凝推道經。
@@ -6252,7 +6252,7 @@ sai3 jyun5 cing1 si1 lei5, gwong1 ming4 baak6 dip6 gan1
 深藏供老宿，取用及吾身。
 sam1 cong4 gung1 lou5 suk1, ceoi2 jung6 kap6 ng4 san1
 -----------------------------------------------------
-自顧轉無趣，交情何尚新。
+自顧轉無趣，交情何尙新。
 zi6 gu3 zyun2 mou4 ceoi3, gaau1 cing4 ho4 soeng6 san1
 -----------------------------------------------------
 道林才不世，惠遠德過人。（眞韻）
@@ -6504,7 +6504,7 @@ ji6 ging1 haam6 mei6 sau1, sei3 gik6 ngo5 dak1 zai3
 蕭索漢水清，緬通淮湖稅。
 siu1 sok3 hon3 seoi2 cing1, min5 tung1 waai4 wu4 seoi3
 -----------------------------------------------------
-使者紛星散，王綱尚旒綴。
+使者紛星散，王綱尙旒綴。
 si3 ze2 fan1 sing1 saan3, wong4 gong1 soeng6 lau4 zeoi3
 -----------------------------------------------------
 南伯從事賢，君行立談際。
@@ -6640,7 +6640,7 @@ zeon1 cin4 sat1 si1 lau4, sak1 soeng6 dak1 gwok3 bou2
 皇天悲送遠，雲雨白浩浩。
 wong4 tin1 bei1 sung3 jyun5, wan4 jyu5 baak6 hou6 hou6
 -----------------------------------------------------
-東郊尚烽火，朝野色枯槁。
+東郊尙烽火，朝野色枯槁。
 dung1 gaau1 soeng6 fung1 fo2, ziu1 je5 sik1 fu1 gou2
 -----------------------------------------------------
 西極柱亦傾，如何正穹昊！（晧韻）
@@ -6673,7 +6673,7 @@ jing3 deoi3 jyu4 zyun2 jyun4, so1 tung1 loek6 man4 zi6
 經綸皆新語，足以正神器。
 ging1 leon4 gaai1 san1 jyu5, zuk1 ji5 zing3 san4 hei3
 -----------------------------------------------------
-宗廟尚爲灰，君臣俱下淚。
+宗廟尙爲灰，君臣俱下淚。
 zung1 miu6 soeng6 wai4 fui1, gwan1 san4 keoi1 haa6 leoi6
 -----------------------------------------------------
 崆峒地無軸，青海天軒輊。
@@ -6884,7 +6884,7 @@ gu2 loi4 jyu1 ji6 wik6, zan3 zing6 si6 zyun1 zing1
 jin1 gai3 ban1 fung1 ci2, zau1 ceon4 zuk1 haai5 king4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-中原何慘黷，餘孽尚縱橫。
+中原何慘黷，餘孽尙縱橫。
 zung1 jyun4 ho4 caam2 duk6, jyu4 jit6 soeng6 zung3 waang4
 平平平仄仄，平仄仄平平
 -----------------------------------------------------
@@ -7114,7 +7114,7 @@ fong1 zoi1 ceoi4 gaa1 dai3, zai3 ci2 gam1 teoi4 nau2
 向使國不亡，焉爲巨唐有。
 hoeng3 si3 gwok3 bat1 mong4, jin1 wai4 geoi6 tong4 jau5
 -----------------------------------------------------
-雖無新增修，尚置官居守。
+雖無新增修，尙置官居守。
 seoi1 mou4 san1 zang1 sau1, soeng6 zi3 gun1 geoi1 sau2
 -----------------------------------------------------
 巡非瑤水遠，迹是雕牆後。
@@ -7198,7 +7198,7 @@ lok6 ngaan6 fau4 hon4 seoi2, gei1 wu1 zaap6 syu3 lau4
 si5 ciu4 gam1 jat6 ji6, song3 lyun6 gei2 si4 jau1
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
-遠愧梁江總，還家尚黑頭。（尤韻）
+遠愧梁江總，還家尙黑頭。（尤韻）
 jyun5 kwai5 loeng4 gong1 zung2, waan4 gaa1 soeng6 hak1 tau4
 仄仄平平仄，平平仄仄平
 
@@ -7510,7 +7510,7 @@ faan1 si1 zoi6 caak3 sau4, gam1 sau6 zaap6 lyun6 kut3
 新歸且慰意，生理焉得說？（屑韻）
 san1 gwai1 ce2 wai3 ji3, sang1 lei5 jin1 dak1 syut3
 -----------------------------------------------------
-至尊尚蒙塵，幾日休練卒？（月韻）
+至尊尙蒙塵，幾日休練卒？（月韻）
 zi3 zyun1 soeng6 mung4 can4, gei2 jat6 jau1 lin6 zeot1
 -----------------------------------------------------
 仰看天色改，旁覺祅氣豁。（曷韻）
@@ -7629,7 +7629,7 @@ ng5 jyun4 hung1 bik1 leoi5, baat3 seoi2 saan3 fung1 tou4
 gam1 jat6 hon1 tin1 ji3, jau4 wan4 taai3 ji5 cou4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-乞降那更得，尚詐莫徒勞。
+乞降那更得，尙詐莫徒勞。
 hat1 hong4 no4 gang3 dak1, soeng6 zaa3 mok6 tou4 lou4
 仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
@@ -7771,7 +7771,7 @@ bin6 jyu5 sin1 sang1 jing1 wing5 kyut3, gau2 cung4 cyun4 lou6 zeon6 gaau1 kei4
 0994 0994 臘日
 laap6 jat6
 
-0994 臘日常年暖尚遙，今年臘日凍全消。
+0994 臘日常年暖尙遙，今年臘日凍全消。
 laap6 jat6 soeng4 nin4 nyun5 soeng6 jiu4, gam1 nin4 laap6 jat6 dung3 cyun4 siu1
 仄仄平平仄仄平，平平仄仄仄平平
 -----------------------------------------------------

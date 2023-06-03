@@ -6,7 +6,7 @@
 官高何足論，不得收骨肉。
 世情惡衰歇，萬事隨轉燭。
 夫婿輕薄兒，新人美如玉。
-合昏尚知時，鴛鴦不獨宿。
+合昏尙知時，鴛鴦不獨宿。
 但見新人笑，那聞舊人哭。
 在山泉水清，出山泉水濁。
 侍婢賣珠迴，牽蘿補茅屋。
@@ -32,7 +32,7 @@ gwun1/gun1/gyun1 gou1 ho6/ho4 zeoi3/zeoi6/zuk3/zuk1 leon4/leon1/leon6, fau2/fau4
 sai3 cing4/ceng4 ok3/wu1/ngok3/wu3/jyu3/jyu1 ceoi1/so1/seoi1 hit3/hot3, maan6 si6 ceoi4 zyun3/zyun2 zuk1 
 夫婿輕薄兒，新人美如玉
 fu4/fu1 sai2/sai3 heng1/hing3/hing1 bok3/bok6/pok3 ngai4/ji1/ji4, san1 jan4/jan5 mei5 jyu4 suk1/juk6 
-合昏尚知時，鴛鴦不獨宿
+合昏尙知時，鴛鴦不獨宿
 gap3/ho4/gaap3/hap6 fan1 soeng4/soeng6/soeng3 zi3/zi1 si4, jin1/jyun1 joeng1 fau2/fau4/pei1/dan2/bat1/fu1 duk6 sau3/suk1 
 但見新人笑，那聞舊人哭
 daan6 jin6/gin3/hin3 san1 jan4/jan5 siu3, no4/no1/naa1/no5/no6/naa6/naa3/naa5/naa2 man6/man4 gau6 jan4/jan5 huk1 
@@ -68,6 +68,7 @@ tin1 hon4 ceoi3 zau6 bok3/bok6/pok3, mik6/jat6 mou6 kei1/ji2 sau1 zuk1
 〖關中昔喪敗〗關中昔喪敗[一作亂]
 〖夫婿輕薄兒〗夫壻輕薄兒
 〖新人美如玉〗新人已[一作美]如玉
+〖尙〗尚
 〖侍婢賣珠迴〗侍婢賣珠回
 〖摘花不插髮〗摘花不插髮。[一作髻。一作鬢。]*
 〖采柏動盈掬〗采柏動盈匊[一作握]

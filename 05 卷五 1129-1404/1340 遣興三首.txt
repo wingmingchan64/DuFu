@@ -5,7 +5,7 @@
 下馬古戰場，四顧但茫然。
 風悲浮雲去，黃葉墜我前。
 朽骨穴螻蟻，又爲蔓草纏。
-故老行歎息，今人尚開邊。
+故老行歎息，今人尙開邊。
 漢虜互勝負，封疆不常全。
 安得廉頗將，三軍同晏眠。
 
@@ -23,7 +23,7 @@
 豐年孰云遲？甘澤不在早。
 耕田秋雨足，禾黍已映道。
 春苗九月交，顏色同日老。
-勸汝衡門士，勿悲尚枯槁。
+勸汝衡門士，勿悲尙枯槁。
 時來展材力，先後無醜好。
 但訝鹿皮翁，忘機對芳草。
 =粵====================================================
@@ -44,7 +44,7 @@ haa5/haa2/haa6 maa5 gwu2/gu2 zin3 coeng4, si3/sei3 gwu3/gu3 daan6 mong4 jin4
 fung3/fung2/fung1 bei1 pou4/fau4 wan4 heoi2/heoi3/keoi1, wong4 sip3/jip6 zeoi6/seoi6 ngo5 cin4 
 朽骨穴螻蟻，又爲蔓草纏
 jau2/hau2/nau2 gwu2/gwat1 jyut6/hyut6 lau4 ngai5, jau6 wai6/wai4 maan4/maan6 cou2 zin6/cin4 
-故老行歎息，今人尚開邊
+故老行歎息，今人尙開邊
 gwu3/gu3/geoi3 lou5 hang6/hong4/haang4/hong6/hong5/hang4 taan1/taan3 sak1/sik1, gam1 jan4/jan5 soeng4/soeng6/soeng3 hoi1 bin1 
 漢虜互勝負，封疆不常全
 hon3 lou5/lu5 wu6 sing1/sing3 fu6, fung1 goeng1 fau2/fau4/pei1/dan2/bat1/fu1 soeng4 cyun4 
@@ -80,7 +80,7 @@ fung1 nin4 suk6 wan4 zi6/ci3/zi3/ci4, gam1 sik1/zaak6/zak6 fau2/fau4/pei1/dan2/b
 gang1/gaang1 tin4 cau1 jyu6/jyu3/jyu5 zeoi3/zeoi6/zuk3/zuk1, wo4 syu2 ji3/ji5 joeng2/jeng2/jing2 dou6/dou5 
 春苗九月交，顏色同日老
 ceon1 miu4 gau2/kau4 jyut6 gaau1, ngaan4 sik1 tung4 mik6/jat6 lou5 
-勸汝衡門士，勿悲尚枯槁
+勸汝衡門士，勿悲尙枯槁
 hyun3 nei5/jyu5 waang4/haang4/hang4 mun4 si6, mut6/mat6 bei1 soeng4/soeng6/soeng3 gu1/kwu1/fu1 gou2 
 時來展材力，先後無醜好
 si4 loi6/lai4/loi4 zin2 coi4 lik6, sin3/sin1 hau5/hau6 mo4/mou5/mou4 cau2/zaau2 hou3/hou2 
@@ -96,6 +96,8 @@ daan6 ngaa6 luk2/luk3/luk6 pei2/pei4 jung1, mong6/mong4 gi1/gei1 deoi2/deoi3 fon
 蕭滌非主編《杜甫全集校注》3.1340
 
 【異文、夾注】
+〖尙開邊〗尚開邊
+〖尙枯槁〗尚枯槁
 〖黃葉〗黄葉
 〖爲〗為
 〖顏〗颜
@@ -109,10 +111,10 @@ daan6 ngaa6 luk2/luk3/luk6 pei2/pei4 jung1, mong6/mong4 gi1/gei1 deoi2/deoi3 fon
 〖高秋登寒山〗高秋登塞[一作寒]山
 〖鄴中事反覆〗鄴中事反覆[一作何蕭條]
 〖豐年孰云遲〗豐年孰[一作旣。一作亦。]云遲
-〖勿悲尚枯槁〗忽悲尚枯槁
+〖勿悲尙枯槁〗忽悲尙枯槁
 〖忘機對芳草〗忘機對芳[一作荒。一作芝。]草
 
-1. 忽悲尚枯槁，《御製全唐詩》忽作勿。
+1. 忽悲尙枯槁，《御製全唐詩》忽作勿。
 
 =奭====================================================
 王嗣奭《杜臆》
