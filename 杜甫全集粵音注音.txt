@@ -69,7 +69,7 @@ bat1 taam1 je6 sik1 gam1 ngan4 hei3, jyun5 hoi6 ziu1 hon1 mei4 luk6 jau4
 仄平仄仄平平仄，仄仄平平平仄平
 -----------------------------------------------------
 乘興杳然迷出處，對君疑是泛虛舟
-sing4 hing3 miu5 jin4 mai4 ceot1 cyu5/cyu3, deoi3 gwan1 ji4 si6 faan6 heoi1 zau1
+sing4 hing3 jiu2/miu5 jin4 mai4 ceot1 cyu5/cyu3, deoi3 gwan1 ji4 si6 faan3 heoi1 zau1
 平仄仄平平仄仄，仄平平仄仄平平
 
 其二
@@ -104,6 +104,7 @@ cin4 cyun1 saan1 lou6 him2, gwai1 zeoi3 mui5 mou4 sau4
 〚2:〛五律
 
 〚1:6.1.6〛冰，讀平聲，不讀去聲。施鴻保曰：「『澗道餘寒歷冰雪』，今按此拗句也。公詩七律拗句，凡第六字應仄而用平者，其第五字必用仄。」「此句第五字本應用平，因第六字冰是平，故改用歷字仄聲，作拗句也。」
+〚1:8.1.3〛「杳」字，jiu2 爲本讀，miu5 爲習讀。下只標本讀。
 〚1:8.1.7〛「處」字可有兩讀。「行藏」義之「處」讀上聲（cyu5），用「桃源」典之「處」讀去聲（cyu3）。
 
 
@@ -219,9 +220,9 @@ soeng1 jiu1 kwai5 nai4 ning6, kei4/ke4 maa5 dou3 gaai1 ceoi4
 五律
 
 〚5.2.2〛聽，可平可仄，此處讀平聲。
-〚5.2.5〛魚韻之「車」讀 geoi1（文讀）。讀 ce1 之「車」屬麻韻。除了照顧押韻，「車」的讀音一般會標成 geoi1。
+〚5.2.5〛魚韻之「車」讀 geoi1（文讀）。讀 ce1 之「車」屬麻韻。除了照顧押韻，「車」的讀音一般只標成 geoi1。
 〚6.1.5〛濘，去聲。
-〚6.2.1〛騎，kei4 爲文讀，ke4 爲白讀。
+〚6.2.1〛騎，動詞，kei4 爲文讀，ke4 爲白讀。下只標文讀。
 
 =====================================================
 
@@ -390,7 +391,7 @@ gang3 sik1 zoeng1 gwan1 syu6, bei1 fung1 jat6 mou6 do1
 =====================================================
 
 0053 臨邑舍弟書至，苦雨，黃河泛溢，隄防之患，簿領所憂，因寄此詩，用寬其意
-lam4 jap1 se3 dai6 syu1 zi3, fu2 jyu5, wong4 ho4 faan6 jat6, tai4 fong4 zi1 waan6, bou6 ling5 so2 jau1, jan1 gei3 ci2 si1, jung6 fun1 kei4 ji3
+lam4 jap1 se3 dai6 syu1 zi3, fu2 jyu5, wong4 ho4 faan3 jat6, tai4 fong4 zi1 waan6, bou6 ling5 so2 jau1, jan1 gei3 ci2 si1, jung6 fun1 kei4 ji3
 
 二儀積風雨，百谷漏波濤。
 ji6 ji4 zik1 fung1 jyu5, baak3 guk1 lau6 bo1 tou4
@@ -401,7 +402,7 @@ man4 dou6 hung4 ho4 caak3, jiu4 lin4 cong1 hoi2 gou1
 平仄平平仄，平平平仄平
 -----------------------------------------------------
 職司憂悄悄，郡國訴嗷嗷。
-zik1 si1 jau1 ciu3 ciu3, gwan6 gwok3 sou3 ngou4 ngou4
+zik1 si1 jau1 ciu2 ciu2, gwan6 gwok3 sou3 ngou4 ngou4
 仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 舍弟卑栖邑，防川領簿曹。
@@ -433,7 +434,7 @@ baak6 uk1 lau4 gu1 syu6, cing1 tin1 sat1 maan6 sau1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 吾衰同泛梗，利涉想蟠桃。
-ng4 seoi1 tung4 faan6 gang2, lei6 sip3 soeng2 pun4 tou4
+ng4 seoi1 tung4 faan3 gang2, lei6 sip3 soeng2 pun4 tou4
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
 卻倚天涯釣，猶能掣巨鼇。
