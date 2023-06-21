@@ -10,7 +10,7 @@
 栖遑分半菽，浩蕩逐流萍。
 俗態猶猜忌，祅氛忽杳冥。
 獨慚投漢閣，俱議哭秦庭。
-遠蜀祗無補，囚梁亦固扃。
+遠蜀祇無補，囚梁亦固扃。
 華夷相混合，宇宙一羶腥。
 帝力收三統，天威總四溟。
 舊都俄望幸，清廟肅惟馨。
@@ -58,7 +58,7 @@ cai1 wong4 fan6/fan3/fan1 bun3 suk6, hou6 dong6/dong2 dik6/zuk6 lau4 ping4
 zuk6 taai3/daai3 jau4 caai1 gei6/gei3, hin1/tin1/jiu2/jiu1 fan1 fat1 jiu2/miu5 ming4/ming5 
 獨慚投漢閣，俱議哭秦庭
 duk6 caam4 tau4 hon3 gok3, geoi1/geoi6/keoi1 ji6/ji5 huk1 ceon4 ting3/ting4 
-遠蜀祗無補，囚梁亦固扃
+遠蜀祇無補，囚梁亦固扃
 jyun6/jyun3/jyun5 suk6 zi2/zi1 mo4/mou5/mou4 bou2, cau4 loeng4 jik6 gwu3/gu3/geoi3 gwing2/kwing1/gwing1 
 華夷相混合，宇宙一羶腥
 waa6/faa1/waa4/waa1 ji4 soeng3/soeng2/soeng1 wan4/gwan2/wan6/kwan2/gwan1 gap3/ho4/gaap3/hap6, jyu5 zau6 jat1 saan1/zin1 sing1/seng1 
@@ -110,6 +110,7 @@ cau1 fung3/fung2/fung1 dung6 waan1/gwaan1 coi3/soi3/sak1, gou1 ngo6 soeng2 ji4 j
 【異文、夾注】
 〖尙〗尚
 〖別來頭倂白〗别來頭併白
+〖祇〗祗
 〖慚〗慙
 〖宮〗宫
 〖誰定握青萍〗誰定握青萍[劍名]
@@ -127,7 +128,7 @@ cau1 fung3/fung2/fung1 dung6 waan1/gwaan1 coi3/soi3/sak1, gou1 ngo6 soeng2 ji4 j
 〖俗態猶猜忌〗俗態猶猜忌[一作忍]
 〖祅氛忽杳冥〗祅氛忽[一作遂]杳冥
 〖俱議哭秦庭〗俱[一作但]議哭秦庭
-〖遠蜀祗無補〗還蜀祗無補[一作益]
+〖遠蜀祇無補〗還蜀祇無補[一作益]
 〖雜種雖高壘〗雜種雖[一作難]高壘[一作壁]
 〖官忝趨栖鳳〗官忝趨棲鳳
 〖朝回歎聚螢〗朝回歎[一作欲]聚螢
