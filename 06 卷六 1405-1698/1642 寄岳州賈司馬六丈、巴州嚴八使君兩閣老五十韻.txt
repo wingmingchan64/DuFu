@@ -110,7 +110,7 @@ jan1 wing4 tung4 baai3/bai3 sau2, ceoi3/ceot1 jap6 zeoi6/zeoi3 ceoi4 gin1
 maan5 zoek6/zoek3/cyu5/zyu3 waa6/faa1/waa4/waa1 tong4 zeoi3, hon4 cung4/cung5/cung3/zung6/tung4/zung3 sau3 bei6/pei1/pei5/pai1 min4 
 轡齊兼秉燭，書枉滿懷牋
 bei3/bei6 zi1/zaai1/zai6/cai4/ci4 gim1 bing2 zuk1, syu1 wong2 mun6/mun5 waai4 zin1 
-每覺昇元輔，深期列大賢
+每覺升元輔，深期列大賢
 mui6/mui5 gaau3/gok3/gau3/gaau4 sing1 jyun4 fu6, sam1 gei1/kei4 laat6/lit6 taai3/daai6 jin4/jin6/hin4 
 秉鈞方咫尺，鎩翮再聯翩
 bing2 gwan1 fong1 zi2 ce2/ce1/cik3/cik1/cek3/cik6/cek6, saai3/saa1/saat3 gaak3/hat6/lik6/jik6 zoi3 lyun4 pin1 
@@ -172,6 +172,7 @@ jyu4 gung1 zeon6 hung4 zeon3, zi3 zoi6 bit1/bit3 tan4/tang4 hin1
 〖鄕黨〗鄉黨
 〖眾〗衆
 〖昏〗昬
+〖升〗昇
 〖迹〗跡
 〖他鄕〗他鄉
 〖侶〗侣
@@ -192,7 +193,6 @@ jyu4 gung1 zeon6 hung4 zeon3, zi3 zoi6 bit1/bit3 tan4/tang4 hin1
 〖春得水衡錢〗春得[一作給]水衡錢
 〖宮莎軟勝綿〗宮莎[一作花]軟勝綿
 〖出入最隨肩〗出入[一作處]最隨肩
-〖每覺昇元輔〗每覺升元輔
 〖禁掖朋從改〗禁掖朋從改[一作換]
 〖青蒲甘受戮〗青蒲甘受[一作就]戮
 〖諸生老伏虔〗諸生老伏[一作服]虔
