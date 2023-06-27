@@ -1420,7 +1420,7 @@ cing1 si1 lok3 tau4 wai6 gwan1 lou5, ho4 jau4 koek3 ceot1 waang4 mun4 dou6
 〚10.1.7〛老：皓韻
 〚10.2.7〛道：皓韻
 
-〚10.2.7〛道，《唐韻》上聲字，與老同屬皓韻部。
+〚10.2.7〛道，《唐韻》上聲字，與「老」同屬皓韻。
 
 =====================================================
 
@@ -1909,6 +1909,10 @@ san1 gwai2 faan4 jyun1 gau6 gwai2 huk1, tin1 jam1 jyu5 sap1 seng1 zau1 zau1
 〚19.1.6〛頭：尤韻
 〚19.2.7〛收：尤韻
 〚20.2.7〛啾：尤韻
+
+七古
+
+1. 臨洮（tou4）
 
 =====================================================
 
@@ -2502,8 +2506,8 @@ faan1 sau2 zok3 wan4 fuk1 sau2 jyu5, fan1 fan1 hing1 bok6 ho4 seoi1 sou2
 君不見管鮑貧時交，此道今人棄如土。
 gwan1 bat1 gin3 gun2 baau6 pan4 si4 gaau1, ci2 dou6 gam1 jan4 hei3 jyu4 tou2
 
-〚3.2.7〛數：麌韻
 〚3.1.7〛雨：麌韻
+〚3.2.7〛數：麌韻
 〚4.2.7〛土：麌韻
 
 〚3.2.7〛「數」押麌韻，當讀上聲。
@@ -3828,6 +3832,8 @@ gwaa3 zik6 diu3 cyun1 zoeng3, jin1 zi1 cing1 hing3 zung1
 〚13.2.5〛翁：東韻
 〚14.2.5〛終：東韻
 
+1. 瑀（jyu5）
+
 =====================================================
 
 0481 送裴二虯作尉永嘉
@@ -4053,6 +4059,8 @@ mat6 sau6 ngoi6 jim4 caai1, tung4 sing3 gu2 so2 deon1
 〚11.2.5〛飱：元韻
 〚12.2.5〛論：元韻
 〚13.2.5〛敦：元韻
+
+1. 迤邐（lei5）。又邐迤（le2 he3）。
 
 =====================================================
 
@@ -4488,7 +4496,7 @@ seoi6 ling6 daai6 nou4 zi6 tin1 juk6, bit6 joeng5 kei3 zi2 lin4 san4 zeon3
 dong1 si4 sei3 sap6 maan6 pat1 maa5, zoeng1 gung1 taan3 kei4 coi4 zeon6 haa6
 -----------------------------------------------------
 故獨寫眞傳世人，見之座右久更新。
-gu3 duk6 se2 zan1 cyun4 sai3 jan4, gin3 zi1 zo6 jau6 gau2 gang1 san1
+gu3 duk6 se2 zan1 cyun4 sai3 jan4, jin6 zi1 zo6 jau6 gau2 gang3 san1
 -----------------------------------------------------
 年多物化空形影，嗚呼健步無由騁。
 nin4 do1 mat6 faa3 hung1 jing4 jing2, wu1 fu1 gin6 bou6 mou4 jau4 cing2
