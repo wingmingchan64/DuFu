@@ -7373,7 +7373,7 @@ jyu4 gam1 zuk1 zam1 zoek3, ce2 jung6 wai3 ci4 mou6
 
 其三
 
-羣雞正亂叫，客至雞鬬爭。
+羣雞正亂叫，客至雞鬥爭。
 kwan4 gai1 zing3 lyun6 giu3, haak3 zi3 gai1 dau3 zang1
 -----------------------------------------------------
 驅雞上樹木，始聞叩柴荆。
@@ -8926,7 +8926,7 @@ gim1 zoeng3/coeng1/zoeng1 lou5 tang4 zoeng6, pou4/fu4 nei5/jyu5 zeoi3 co1 seng2/
 =====================================================
 
 1216 閿鄕姜七少府設鱠戲贈長歌
-man4 hoeng3/hoeng1 goeng1 cat1/caat1 siu3/siu2 fu2 cit3 kwui2/kui3/gwui2/kui2/fui2/gui2 fu1/fai1/hei3/hei1 zang6 zoeng2/zoeng6/coeng4 go1 
+man4 hoeng1 goeng1 cat1 siu3 fu2 cit3 kui2 fu1/fai1/hei3/hei1 zang6 zoeng2/zoeng6/coeng4 go1 
 
 
 姜侯設鱠當嚴冬，昨日今日皆天風
@@ -8935,7 +8935,7 @@ goeng1 hau6/hau4 cit3 kwui2/kui3/gwui2/kui2/fui2/gui2 dong3/dong2/dong1 jim4 dun
 ho4 dung3 mei6 jyu4 fau2/fau4/pei1/dan2/bat1/fu1 jik6/ji6 dak1, cou3/zok3/zok6/cou6 bing1 hung3/hung2 cam2/cam1 ho4 baa3/mak6/baak3 gung1 
 饔人受魚鮫人手，洗魚磨刀魚眼紅
 jung1 jan4/jan5 sau6 jyu4 gaau1 jan4/jan5 sau2, sin2/sai2 jyu4 mo6/mo4 dou1 jyu4 ngaan5/han2 gung1/hung4 
-無聲細下飛碎雪，有骨已剁觜春葱
+無聲細下飛碎雪，有骨已剁觜春蔥
 mo4/mou5/mou4 seng1/sing1 sai3 haa5/haa2/haa6 fei1 seoi3 syut3, jau6/jau5 gwu2/gwat1 ji3/ji5 doek3/doe3/do3/do2 zi1/zeoi1/zeoi2 ceon1 cung1 
 偏勸腹腴愧年少，軟炊香飯緣老翁
 pin3/pin1 hyun3 fuk1 jyu4/wu4 kwai5/kwei3/kwai3 nin4 siu3/siu2, jyun5 ceoi1/ceoi3 hoeng1 faan5/faan6 jyun6/jyun4/tyun5 lou5 jung1 
@@ -10065,7 +10065,7 @@ naa1/naa4/naam4 si3/sai2/si2 ji4 tin1 maa5, jau4/au4 loi6/lai4/loi4 maan6 pat1/m
 pou4/fau4 wan4 lin4 zaan6/zan6 mut6, cau1 cou2 bin3/pin3 saan1 zoeng2/zoeng6/coeng4 
 聞說眞龍種，仍殘老驌驦
 man6/man4 seoi3/jyut6/syut3 zan1 cung2/lung4/pong4 zung3/zung2, jing4 caan4 lou5 suk1 soeng1 
-哀鳴思戰鬬，迥立向蒼蒼
+哀鳴思戰鬥，迥立向蒼蒼
 ngoi1/ngai1/oi1 ming4 si3/soi1/si1/si6 zin3 dau3, gwing2 laap6/lap6 hoeng3 cong2/cong1 cong2/cong1 
 
 
@@ -11263,7 +11263,7 @@ si5/ci5 jyu5/ji5 gwun1/gun1/gyun1 jing4 gwei3/gwai3, cin4 jin4/jin6/hin4 meng6/m
 zyu1 hau6/hau4 fei1 hei3 baak6/zaak6, bun3 cik3/cek3/cik1/sik3/sek3/sik1/ci3 ji3/ji5 ngou4 coeng4 
 詩好幾時見，書成無信將
 si1 hou3/hou2 gei1/gei3/gei2/kei4 si4 jin6/gin3/hin3, syu1 seng4/cing4/sing4 mo4/mou5/mou4 san1/seon1/seon3 zoeng3/coeng1/zoeng1 
-男兒行處是，客子鬬身強
+男兒行處是，客子鬥身強
 naam4 ngai4/ji1/ji4 hang6/hong4/haang4/hong6/hong5/hang4 cyu2/syu3/cyu3 si6, haak3 zi2 dau3 gyun1/san1 koeng5/goeng6/koeng3/koeng4/koeng6/goeng5 
 羈旅推賢聖，沉綿抵咎殃
 gei1 leoi5 ceoi1/teoi1 jin4/jin6/hin4 sing3, zam6/cam4/taam4/sam2 min4 zi2/dai2 gou1/gau3 joeng1 
@@ -11478,7 +11478,7 @@ ci2 bong1/bing1 gam1 soeng4/soeng6/soeng3 mou5, ho6/ho4 cyu2/syu3/cyu3 zeoi1/cou
 gwu2/gu2 luk6/gok2/gok3 ling4 tin1 laai6, waan1/gwaan1 saan1 san1/seon1/seon3 jyut6 leon4 
 官場羅鎭磧，賊火近洮岷
 gwun1/gun1/gyun1 coeng4 lo4 zan3 zaak3/zik1/zaat3, cak6/caak3/caak6/zak6 fo2 kan5/gan3/gei3/gan6 jiu4/tou1/tou4 man4 
-蕭瑟論兵地，蒼茫鬬將辰
+蕭瑟論兵地，蒼茫鬥將辰
 siu1 sat1 leon4/leon1/leon6 bing1 dei6, cong2/cong1 mong4 dau3 zoeng3/coeng1/zoeng1 san4 
 大軍多處所，餘孽尙紛綸
 taai3/daai6 gwan1 do1 cyu2/syu3/cyu3 so2, jyu4 jip6/jit3/nip6/nit6/jit6 soeng4/soeng6/soeng3 fan1 gwaan1/gwan1/leon4 
