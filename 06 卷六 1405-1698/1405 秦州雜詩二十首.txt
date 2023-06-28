@@ -33,7 +33,7 @@
 南使宜天馬，由來萬匹強。
 浮雲連陣沒，秋草遍山長。
 聞說眞龍種，仍殘老驌驦。
-哀鳴思戰鬬，迥立向蒼蒼。
+哀鳴思戰鬥，迥立向蒼蒼。
 
 其六
 
@@ -215,7 +215,7 @@ naa1/naa4/naam4 si3/sai2/si2 ji4 tin1 maa5, jau4/au4 loi6/lai4/loi4 maan6 pat1/m
 pou4/fau4 wan4 lin4 zaan6/zan6 mut6, cau1 cou2 bin3/pin3 saan1 zoeng2/zoeng6/coeng4 
 聞說眞龍種，仍殘老驌驦
 man6/man4 seoi3/jyut6/syut3 zan1 cung2/lung4/pong4 zung3/zung2, jing4 caan4 lou5 suk1 soeng1 
-哀鳴思戰鬬，迥立向蒼蒼
+哀鳴思戰鬥，迥立向蒼蒼
 ngoi1/ngai1/oi1 ming4 si3/soi1/si1/si6 zin3 dau3, gwing2 laap6/lap6 hoeng3 cong2/cong1 cong2/cong1 
 
 
@@ -442,6 +442,7 @@ wai6 bou3 jyun1 hang4 gau6, ziu1 liu4 zoi6 jat1 zi1
 〖靜〗静
 〖槪〗概
 〖強〗强
+〖鬥〗鬬
 〖沒〗没
 〖眞龍〗真龍
 〖黃鵠〗黄鵠
@@ -465,6 +466,7 @@ wai6 bou3 jyun1 hang4 gau6, ziu1 liu4 zoi6 jat1 zi1
 〖山空鳥鼠秋〗山空[一作通]鳥鼠[鳥鼠同穴。故名。在渭源縣西。]秋
 〖秦州城北寺〗秦州山[一作城]北寺
 〖勝迹隗囂宮〗勝跡[一作傳是]隗囂宮
+〖鬥〗鬬
 〖苔蘚山門古〗苔蘚山門古[一作故]
 〖馬驕珠汗落〗馬驕珠[一作朱]汗落
 〖胡舞白題斜〗胡舞白蹄[一作題]斜。[白題國。以白堊其首。舞則頭偏。故云。]*

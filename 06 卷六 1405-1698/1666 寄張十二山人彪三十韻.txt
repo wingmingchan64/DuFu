@@ -26,7 +26,7 @@
 此邦今尙武，何處且依仁。
 鼓角凌天籟，關山信月輪。
 官場羅鎭磧，賊火近洮岷。
-蕭瑟論兵地，蒼茫鬬將辰。
+蕭瑟論兵地，蒼茫鬥將辰。
 大軍多處所，餘孽尙紛綸。
 高興知籠鳥，斯文起獲麟。
 窮秋正搖落，回首望松筠。
@@ -90,7 +90,7 @@ ci2 bong1/bing1 gam1 soeng4/soeng6/soeng3 mou5, ho6/ho4 cyu2/syu3/cyu3 zeoi1/cou
 gwu2/gu2 luk6/gok2/gok3 ling4 tin1 laai6, waan1/gwaan1 saan1 san1/seon1/seon3 jyut6 leon4 
 官場羅鎭磧，賊火近洮岷
 gwun1/gun1/gyun1 coeng4 lo4 zan3 zaak3/zik1/zaat3, cak6/caak3/caak6/zak6 fo2 kan5/gan3/gei3/gan6 jiu4/tou1/tou4 man4 
-蕭瑟論兵地，蒼茫鬬將辰
+蕭瑟論兵地，蒼茫鬥將辰
 siu1 sat1 leon4/leon1/leon6 bing1 dei6, cong2/cong1 mong4 dau3 zoeng3/coeng1/zoeng1 san4 
 大軍多處所，餘孽尙紛綸
 taai3/daai6 gwan1 do1 cyu2/syu3/cyu3 so2, jyu4 jip6/jit3/nip6/nit6/jit6 soeng4/soeng6/soeng3 fan1 gwaan1/gwan1/leon4 
@@ -120,6 +120,7 @@ kung4 cau1 zing1/zeng3/zing2/zing3 jiu4 laai6/lok1/lok6, wui6/wui4 sau3/sau2 mon
 〖搖〗摇
 〖今尙武〗今尚武
 〖尙紛綸〗尚紛綸
+〖鬥〗鬬
 =全====================================================
 《全唐詩》7.2429,PDF7.208,《御製全唐詩》2562
 
@@ -141,6 +142,7 @@ kung4 cau1 zing1/zeng3/zing2/zing3 jiu4 laai6/lok1/lok6, wui6/wui4 sau3/sau2 mon
 〖蕭瑟論兵地〗蕭索論兵[一作功]地
 〖斯文起獲麟〗斯文起[一作豈]獲麟
 〖回首望松筠〗回首望松[一作湘]筠
+〖鬥〗鬬
 =奭====================================================
 王嗣奭《杜臆》
 =錢====================================================
