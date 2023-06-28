@@ -2039,7 +2039,7 @@ cung4 gwan1 sap6 nin4 jyu4, nang4 mou4 fan1 cyun3 gung1
 眾人貴苟得，欲語羞雷同。
 zung3 jan4 gwai3 gau2 dak1, juk6 jyu5 sau1 leoi4 tung4
 -----------------------------------------------------
-中原有鬬爭，況在狄與戎。
+中原有鬥爭，況在狄與戎。
 zung1 jyun4 jau5 dau3 zang1, fong3 zoi6 dik6 jyu5 jung4
 -----------------------------------------------------
 丈夫四方志，安可辭固窮。
@@ -2086,6 +2086,7 @@ zoeng6 fu1 sei3 fong1 zi3, on1 ho2 ci4 gu3 kung4
 復字二見（〚3:21.2.3〛、〚4:29.2.2〛），義異，音亦異。
 〚5:35.1.5〛騎，名詞，去聲。
 〚7:47.1.4〛雨，動詞，去聲。
+〚9:63.1.4〛鬥，諸書多作鬬，不從。鬬原義爲遇。
 
 =====================================================
 
@@ -3686,7 +3687,7 @@ coeng4 tau4 gwo3 zuk6 lou4, zin2 zik6 fu2 coeng4 lau4
 清風左右至，客意已驚秋。
 cing1 fung1 zo2 jau6 zi3, haak3 ji3 ji5 ging1 cau1
 -----------------------------------------------------
-巢多眾鳥鬬，葉密鳴蟬稠。
+巢多眾鳥鬥，葉密鳴蟬稠。
 caau4 do1 zung3 niu5 dau3, jip6 mat6 ming4 sim4 cau4
 -----------------------------------------------------
 苦遭此物聒，孰謂吾廬幽。
@@ -4428,7 +4429,7 @@ jyun2 zung1 loi4 pan5 saam1 cin1 pat1, fung1 cou2 cing1 cing1 hon4 bat1 sei2
 食之豪健西域無，每歲攻駒冠邊鄙。
 sik6 zi1 hou4 gin6 sai1 wik6 mou4, mui5 seoi3 gung1 keoi1 gun3 bin1 pei2
 -----------------------------------------------------
-王有虎臣司苑門，入門天廐皆雲屯。
+王有虎臣司苑門，入門天廏皆雲屯。
 wong4 jau5 fu2 san4 si1 jyun2 mun4, jap6 mun4 tin1 gau3 gaai1 wan4 tyun4
 -----------------------------------------------------
 驌驦一骨獨當御，春秋二時歸至尊。
@@ -4944,7 +4945,7 @@ ziu1 loi4 gau2 si3 waa4 hin1 haa6, mei6 gok3 cin1 gam1 mun5 gou1 gaa3
 赤汗微生白雪毛，銀鞍卻覆香羅帕。
 cek3 hon6 mei4 sang1 baak6 syut3 mou4, ngan4 on1 koek3 fuk1 hoeng1 lo4 paa3
 -----------------------------------------------------
-卿家舊賜公能取，天廐眞龍此其亞。
+卿家舊賜公能取，天廏眞龍此其亞。
 hing1 gaa1 gau6 ci3 gung1 nang4 ceoi2, tin1 gau3 zan1 lung4 ci2 kei4 aa3
 -----------------------------------------------------
 晝洗須騰涇渭深，朝趨可刷幽幷夜。
@@ -5045,7 +5046,7 @@ sung3 coi3 hei1 lou5 dou1 wai3 waan4 lung5 jau6 jan1 gei3 gou1 saam1 sap6 ng5 sy
 coi3 zi2 jung5 sing4 pik1, waan1 gung1 sai1 se6 wu4
 仄仄仄平仄，平平平仄平（「仄平仄」拗，「平仄平」救）
 -----------------------------------------------------
-健兒寧鬬死，壯士耻爲儒。
+健兒寧鬥死，壯士耻爲儒。
 gin6 ji4 ning4 dau3 sei2, zong3 si6 ci2 wai4 jyu4
 仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
@@ -5409,7 +5410,7 @@ ling4 san4 gwo3 lei4 saan1, jyu6 taap3 zoi6 dit6 jit6
 蚩尤塞寒空，蹴踏崖谷滑。
 ci1 jau4 sak1 hon4 hung1, cuk1 daap6 ngaai4 guk1 waat6
 -----------------------------------------------------
-瑤池氣鬰律，羽林相摩戞。
+瑤池氣鬱律，羽林相摩戞。
 jiu4 ci4 hei3 wat1 leot6, jyu5 lam4 soeng1 mo1 aat3
 -----------------------------------------------------
 君臣留歡娛，樂動殷膠葛。
@@ -6401,7 +6402,7 @@ cing1 jing4 ling4 bei1 mak6, miu5 tiu5 tou4 lei5 faa1
 春夏各有實，我飢豈無涯。
 ceon1 haa6 gok3 jau5 sat6, ngo5 gei1 hei2 mou4 ngaai4
 -----------------------------------------------------
-干戈雖橫放，慘澹鬬龍蛇。
+干戈雖橫放，慘澹鬥龍蛇。
 gon1 gwo1 seoi1 waang4 fong3, caam2 daam6 dau3 lung4 se4
 -----------------------------------------------------
 甘澤不猶愈，且耕今未賒。
@@ -6802,7 +6803,7 @@ gu2 loi4 mou4 jan4 ging2, gam1 doi6 waang4 gwo1 maau4
 傷哉文儒士，憤激馳林丘。
 soeng1 zoi1 man4 jyu4 si6, fan5 gik1 ci4 lam4 jau1
 -----------------------------------------------------
-中原正格鬬，後會何緣由。
+中原正格鬥，後會何緣由。
 zung1 jyun4 zing3 gaak3 dau3, hau6 wui6 ho4 jyun4 jau4
 -----------------------------------------------------
 百年賦命定，豈料沉與浮。
@@ -14624,6 +14625,9 @@ saa1 tau4 suk1 lou6 lyun4 kyun4 zing6, syun4 mei5 tiu1 jyu4 but6 laat6 ming4
 
 =====================================================
 
+
+
+〖剪〗翦
 -----------------------------------------------------
 平平仄仄
 
@@ -14915,6 +14919,8 @@ saa1 tau4 suk1 lou6 lyun4 kyun4 zing6, syun4 mei5 tiu1 jyu4 but6 laat6 ming4
 
 =====================================================
 
+
+羈
 -----------------------------------------------------
 平平仄仄
 
@@ -17152,6 +17158,7 @@ saam1 zuk1 zi1 wu1 zuk1 hung2 dyun6, hei1 wo4 sung3 zoeng1 on1 so2 gwai1
 
 =====================================================
 
+剪
 -----------------------------------------------------
 平平仄仄
 
