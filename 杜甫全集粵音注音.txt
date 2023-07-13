@@ -7813,7 +7813,7 @@ gan6 ho6 zung1 hing1 zyu2, san4 bing1 dung6 sok3 fong1
 
 
 =====================================================
-0899 0899 奉贈嚴八閣老
+0899 奉贈嚴八閣老
 fung6 zang6 jim4 baat3 gok3 lou5
 
 扈聖登黃閣，明公獨妙年。
@@ -9176,7 +9176,6 @@ mo4/mou5/mou4 ling4/ling1/ling6 hin3/hin1 geoi1/ce1/gu1 zi6/ci3/zi3/ci4, ceoi1/s
 1095 偪仄行[贈畢耀]
 bik1/fuk1 zaak1/zik1/zak1/zak3 hang6/hong4/haang4/hong6/hong5/hang4 unknown zang6 bat1 jiu6 unknown 
 
-
 偪仄何偪仄，我居巷南子巷北
 bik1/fuk1 zaak1/zik1/zak1/zak3 ho6/ho4 bik1/fuk1 zaak1/zik1/zak1/zak3, ngo5 gei1/geoi1 hong6 naa1/naa4/naam4 zi2 hong6 bui3/bui6/bak1 
 可恨鄰里間，十日不一見顏色
@@ -9897,7 +9896,6 @@ gau6 hyun2 zi3/zi1 sau4/cau1 han6, seoi4 tau4 pong4/bong1/bong6/bang1 ngo5 cong4
 
 1243 觀兵
 gun3/gwun1/gwun3/gun1 bing1 
-
 
 北庭送壯士，貔虎數尤多
 bui3/bui6/bak1 ting3/ting4 sung3 zong1/zong3 si6, pei4 fu2 sou2/sok3/cuk1/sou3 jau4 do1 
