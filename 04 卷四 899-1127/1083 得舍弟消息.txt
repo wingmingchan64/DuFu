@@ -9,21 +9,30 @@
 
 【注音】
 得舍弟消息
-dak1 se2/se3/sik1 tai5/dai6 siu1 sak1/sik1 
+dak1 se3 dai6 siu1 sik1
 
 
 風吹紫荆樹，色與春庭暮
-fung3/fung2/fung1 ceoi3/ceoi1 zi2 ging1 syu5/syu6, sik1 jyu6/jyu4/jyu5 ceon1 ting3/ting4 mou6 
-花落辭故枝，風迴返無處
-faa1 laai6/lok1/lok6 ci4 gwu3/gu3/geoi3 kei4/zi1, fung3/fung2/fung1 wui4 faan1/faan2 mo4/mou5/mou4 cyu2/syu3/cyu3 
-骨肉恩書重，漂泊難相遇
-gwu2/gwat1 jau6/nau6/juk6 jan1 syu1 cung4/cung5/cung3/zung6/tung4/zung3, piu3/piu5/piu2/piu1/pui1 paak3/baak3/bok6 naan6/no4/naan4 soeng3/soeng2/soeng1 jyu6 
-猶有淚成河，經天復東注
-jau4 jau6/jau5 leoi6 seng4/cing4/sing4 ho4, gaang1/ging1 tin1 fau6/fuk1/fuk6 dung1 zyu3 
+fung1 ceoi1 zi2 ging1 syu6, sik1 jyu5 ceon1 ting4 mou6
 -----------------------------------------------------
-平平仄仄
+花落辭故枝，風迴返無處
+faa1 lok6 ci4 gu3 zi1, fung1 wui4 faan2 mou4 cyu3
+-----------------------------------------------------
+骨肉恩書重，漂泊難相遇
+gwat1 juk6 jan1 syu1 zung6, piu1 bok6 naan4 soeng1 jyu6
+-----------------------------------------------------
+猶有淚成河，經天復東注
+jau4 jau5 leoi6 sing4 ho4, ging1 tin1 fau6 dung1 zyu3
 
 【韻部】
+〚3.1.5〛樹：遇韻
+〚3.2.5〛暮：遇韻
+〚4.2.5〛處：御韻
+〚5.2.5〛遇：遇韻
+〚6.2.5〛注：遇韻
+
+【體裁】
+五古
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》2.1083,djvu1260
