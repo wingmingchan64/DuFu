@@ -8,22 +8,34 @@
 陳永明《杜甫全集粵音注音》
 
 【注音】
-因許八寄江寧旻上人
-jan1 fu2/heoi2 baat3 gei3 gong1 ning6/ning4 man4 soeng5/saang3/soeng6 jan4/jan5 
-
+1075 因許八寄江寧旻上人
+jan1 heoi2 baat3 gei3 gong1 ning4 man4 soeng6 jan4
 
 不見旻公三十年，封書寄與淚潺湲
-fau2/fau4/pei1/dan2/bat1/fu1 jin6/gin3/hin3 man4 gung1 saam3/saam1/saam6 sap6 nin4, fung1 syu1 gei3 jyu6/jyu4/jyu5 leoi6 caan4/saan4 wun4/jyun4 
-舊來好事今能否，老去新詩誰與傳
-gau6 loi6/lai4/loi4 hou3/hou2 si6 gam1 noi6/nang4/nang1 pei2/fau2, lou5 heoi2/heoi3/keoi1 san1 si1 seoi4 jyu6/jyu4/jyu5 zyun6/zyun2/cyun4/zyun3/cyun6 
-碁局動隨尋澗竹，袈裟憶上泛湖船
-gei1/kei4 guk1/guk6 dung6 ceoi4 cam4 gaan2/gaan3 zuk1, gaa1 saa1 jik1 soeng5/saang3/soeng6 faan4/faan3/fung2 wu4 syun4 
-聞君話我爲官在，頭白昏昏只醉眠
-man6/man4 gwan1 waa6 ngo5 wai6/wai4 gwun1/gun1/gyun1 zoi6, tau4 baak6/baak3 fan1 fan1 zek3/zat1/zi2 zeoi3 min4 
+bat1 gin3 man4 gung1 saam1 sap6 nin4, fung1 syu1 gei3 jyu5 leoi6 saan4 wun4
+仄仄平平平仄平，平平仄仄仄平平
 -----------------------------------------------------
-平平仄仄
+舊來好事今能否，老去新詩誰與傳
+gau6 loi4 hou2 si6 gam1 nang4 fau2, lou5 heoi3 san1 si1 seoi4 jyu5 cyun4
+仄平仄仄平平仄，仄仄平平平仄平
+-----------------------------------------------------
+碁局動隨尋澗竹，袈裟憶上泛湖船
+kei4 guk6 dung6 ceoi4 cam4 gaan3 zuk1, gaa1 saa1 jik1 soeng5 faan3 wu4 syun4
+平仄仄平平仄仄，平平仄仄仄平平
+-----------------------------------------------------
+聞君話我爲官在，頭白昏昏只醉眠
+man4 gwan1 waa6 ngo5 wai4 gun1 zoi6, tau4 baak6 fan1 fan1 zi2 zeoi3 min4
+平平仄仄平平仄，平仄平平仄仄平
 
 【韻部】
+〚3.1.7〛年：先韻
+〚3.2.7〛湲：先韻
+〚4.2.7〛傳：先韻
+〚5.2.7〛船：先韻
+〚6.2.7〛眠：先韻
+
+【體裁】
+七律
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》2.1075,djvu1252
