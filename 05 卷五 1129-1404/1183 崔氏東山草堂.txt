@@ -9,23 +9,28 @@
 
 【注音】
 崔氏東山草堂
-ceoi1 zi1/si6 dung1 saan1 cou2 tong4 
-
+ceoi1 si6 dung1 saan1 cou2 tong4
 
 愛汝玉山草堂靜，高秋爽氣相鮮新
-ngoi3/oi3 nei5/jyu5 suk1/juk6 saan1 cou2 tong4 zing6, gou1 cau1 song2/song1 hei3 soeng3/soeng2/soeng1 sin2/sin1 san1 
-有時自發鐘磬響，落日更見漁樵人
-jau6/jau5 si4 zi6 but3/faat3 zung1 hing3/heng3 hoeng2, laai6/lok1/lok6 mik6/jat6 gang3/gaang1/gaang3/gang1/ang3 jin6/gin3/hin3 jyu4 ciu4 jan4/jan5 
-盤剝白鴉谷口栗，飯煮青泥坊底芹
-pun4 mok3/pok3/bok1/bok3/mok1 baak6/baak3 ngaa1/aa1 juk6/luk6/guk1 hau2 leot2/leot6, faan5/faan6 zyu2 ceng1/zing1/cing1 nei6/nai6/nai4/nei5 fong4/fong2/fong1 dik1/dai2 kan4 
-何爲西莊王給事，柴門空閉鎖松筠
-ho6/ho4 wai6/wai4 sai1 zong1 wong6/wong4 kap1 si6, ci3/caai4/cai4/zi1 mun4 hung3/hung2/hung1 bai3/bai6 so2 cung4 gwan1/gwan3/wan4 
-
+oi3 jyu5 juk6 saan1 cou2 tong4 zing6, gou1 cau1 song2 hei3 soeng1 sin1 san1
 -----------------------------------------------------
-平平仄仄
+有時自發鐘磬響，落日更見漁樵人
+jau5 si4 zi6 faat3 zung1 hing3 hoeng2, lok6 jat6 gang3 gin3 jyu4 ciu4 jan4
+-----------------------------------------------------
+盤剝白鴉谷口栗，飯煮青泥坊底芹
+pun4 mok1 baak6 aa1 guk1 hau2 leot6, faan6 zyu2 cing1 nai4 fong1 dai2 kan4
+-----------------------------------------------------
+何爲西莊王給事，柴門空閉鎖松筠
+ho4 wai4 sai1 zong1 wong4 kap1 si6, caai4 mun4 hung1 bai3 so2 cung4 wan4
 
 【韻部】
+〚3.2.7〛新：眞韻
+〚4.2.7〛人：眞韻
+〚5.2.7〛芹：文韻
+〚6.2.7〛筠：文韻
 
+【體裁】
+七律
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1183,djvu1360
 
