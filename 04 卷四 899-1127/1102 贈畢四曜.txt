@@ -12,18 +12,29 @@
 zang6 bat1 sei3 jiu6 
 
 才大今詩伯，家貧苦宦卑
-coi4 daai6 gam1 si1 baa3/mak6/baak3, gu1/gwu1/gaa1 pan4 fu2/geoi2 waan6 bei1 
-飢寒奴僕賤，顏狀老翁爲
-gei1 hon4 nou4 buk6 zin6, ngaan4 zong6 lou5 jung1 wai4 
-同調嗟誰惜，論文笑自知
-tung4 diu6/zau1/tiu4/liu6 ze3/ze1 seoi4 sek3/sik1, leon4/leon1/leon6 man6/man1/man4 siu3 zi6 zi3/zi1 
-流傳江鮑體，相顧免無兒
-lau4 zyun6/zyun2/cyun4/zyun3/cyun6 gong1 baau6/baau3/baau1/pou5/pau1 tai2, soeng3/soeng2/soeng1 gwu3/gu3 man6/min5/min4 mo4/mou5/mou4 ngai4/ji1/ji4 
+coi4 daai6 gam1 si1 baak3, gaa1 pan4 fu2 waan6 bei1
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+飢寒奴僕賤，顏狀老翁爲
+gei1 hon4 nou4 buk6 zin6, ngaan4 zong6 lou5 jung1 wai4
+平平平仄仄，平仄仄平平
+-----------------------------------------------------
+同調嗟誰惜，論文笑自知
+tung4 diu6 ze1 seoi4 sik1, leon4 man4 siu3 zi6 zi1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+流傳江鮑體，相顧免無兒
+lau4 cyun4 gong1 baau6 tai2, soeng1 gu3 min5 mou4 ji4
+平平平仄仄，平仄仄平平
 
 【韻部】
+〚3.2.5〛卑：支韻
+〚4.2.5〛爲：支韻
+〚5.2.5〛知：支韻
+〚6.2.5〛兒：支韻
 
+【體裁】
+五律
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》2.1102,djvu1279
 
