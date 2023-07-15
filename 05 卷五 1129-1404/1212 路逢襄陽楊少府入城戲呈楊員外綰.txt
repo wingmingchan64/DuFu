@@ -8,24 +8,33 @@
 陳永明《杜甫全集粵音注音》
 
 【注音】
-路逢襄陽楊少府入城戲呈楊員外綰[甫赴華州日，許員外茯苓]
-lou6 pung4/fung4 soeng1 joeng4 joeng4 siu3/siu2 fu2 jap6 seng4/sing4 fu1/fai1/hei3/hei1 cing4/kwong4 joeng4 wan4/wan6/jyun4 ngoi6 gwun2/waan5/waan6/waan2 unknown pou2/pou3/bou2/fu2 fu3/fu6 waa6/faa1/waa4/waa1 zau1 mik6/jat6, fu2/heoi2 wan4/wan6/jyun4 ngoi6 fuk6 ling4 unknown 
-
+路逢襄陽楊少府入城戲呈楊員外綰
+lou6 fung4 soeng1 joeng4 joeng4 siu3 fu2 jap6 sing4 hei3 cing4 joeng4 jyun4 ngoi6 waan2
 
 寄語楊員外，山寒少茯苓
-gei3 jyu6/jyu3/jyu5 joeng4 wan4/wan6/jyun4 ngoi6, saan1 hon4 siu3/siu2 fuk6 ling4 
-歸來稍暄暖，當爲斸青冥
-gwei1/gwai1 loi6/lai4/loi4 saau3/saau2 syun1/hyun1 hyun1/nyun5, dong3/dong2/dong1 wai6/wai4 zuk1 ceng1/zing1/cing1 ming4/ming5 
-翻動神仙窟，封題鳥獸形
-faan1 dung6 san1/san4 sin1 wat1/gwat6/gwat1/fat1, fung1 dai6/tai4 diu2/niu5 sau3/sau6 jing4 
-兼將老藤杖，扶汝醉初醒
-gim1 zoeng3/coeng1/zoeng1 lou5 tang4 zoeng6, pou4/fu4 nei5/jyu5 zeoi3 co1 seng2/sing1/sing2 
-
+gei3 jyu5 joeng4 jyun4 ngoi6, saan1 hon4 siu2 fuk6 ling4
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+歸來稍暄暖，當爲斸青冥
+gwai1 loi4 saau2 hyun1 nyun5, dong1 wai6 zuk1 cing1 ming4
+平平仄平仄，平仄仄平平（出句特定平仄）
+-----------------------------------------------------
+翻動神仙窟，封題鳥獸形
+faan1 dung6 san4 sin1 fat1, fung1 tai4 niu5 sau3 jing4
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+兼將老藤杖，扶汝醉初醒
+gim1 zoeng1 lou5 tang4 zoeng6, fu4 jyu5 zeoi3 co1 sing1
+平平仄平仄，平仄仄平平（出句特定平仄）
 
 【韻部】
+〚3.2.5〛苓：青韻
+〚4.2.5〛冥：青韻
+〚5.2.5〛形：青韻
+〚6.2.5〛醒：青韻
 
+【體裁】
+五律
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1212,djvu1389
 
