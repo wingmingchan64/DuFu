@@ -8,23 +8,33 @@
 陳永明《杜甫全集粵音注音》
 
 【注音】
-早秋苦熱堆案相仍[時任華州司功]
-zou2 cau1 fu2/geoi2 jit6 zeoi1/deoi1 ngon3/wun2/ngon2/on3 soeng3/soeng2/soeng1 jing4 unknown si4 jam4/jam6 waa6/faa1/waa4/waa1 zau1 si1 gung1 unknown 
-
+早秋苦熱堆案相仍
+zou2 cau1 fu2 jit6 deoi1 on3 soeng1 jing4
 
 七月六日苦炎蒸，對食暫餐還不能
-cat1/caat1 jyut6 liu1/luk6 mik6/jat6 fu2/geoi2 jim6/taam4/jim4/tam4 zing1/zing3, deoi2/deoi3 zi6/ji6/sik6 zaam6 syun1/caan1 syun4/waan4/waan6 fau2/fau4/pei1/dan2/bat1/fu1 noi6/nang4/nang1 
-每愁夜中自足蝎，況乃秋後轉多蠅
-mui6/mui5 sau4/cau1 je6 zung3/zung1 zi6 zeoi3/zeoi6/zuk3/zuk1 hot3/kit3/hit3, fong2/kwong3/fong3 oi2/naai5 cau1 hau5/hau6 zyun3/zyun2 do1 jing1/jing4 
-束帶發狂欲大叫，簿書何急來相仍
-suk1/cuk1/syu3 daai2/daai3 but3/faat3 kwong4/kong4 juk6 taai3/daai6 giu3, bou2/bok6/bou6/bok3 syu1 ho6/ho4 gap1 loi6/lai4/loi4 soeng3/soeng2/soeng1 jing4 
-南望青松架短壑，安得赤腳踏層冰
-naa1/naa4/naam4 mong4/mong6 ceng1/zing1/cing1 cung4 gaa2/gaa3 dyun2/deon2 kuk1/kok3/kok1, ngon1/on1 dak1 cik3/cik1/cek3 goek3 dap6/daap6 cang4 bing1 
-
+cat1 jyut6 luk6 jat6 fu2 jim4 zing1, deoi3 sik6 zaam6 caan1 waan4 bat1 nang4
+仄仄仄仄仄平平，仄仄仄平平仄平
 -----------------------------------------------------
-平平仄仄
+每愁夜中自足蝎，況乃秋後轉多蠅
+mui5 sau4 je6 zung1 zi6 zuk1 hit3, fong3 naai5 cau1 hau6 zyun2 do1 jing4
+仄平仄平仄仄仄，仄仄平仄仄平平
+-----------------------------------------------------
+束帶發狂欲大叫，簿書何急來相仍
+cuk1 daai3 faat3 kwong4 juk6 daai6 giu3, bou6 syu1 ho4 gap1 loi4 soeng1 jing4
+仄仄仄平仄仄仄，仄平平仄平平平
+-----------------------------------------------------
+南望青松架短壑，安得赤腳踏層冰
+naam4 mong6 cing1 cung4 gaa3 dyun2 kok3, on1 dak1 cik3 goek3 daap6 cang4 bing1
+平仄平平仄仄仄，平仄仄仄仄平平
 
 【韻部】
+〚3.2.7〛能：蒸韻
+〚4.2.7〛蠅：蒸韻
+〚5.2.7〛仍：蒸韻
+〚6.2.7〛冰：蒸韻
+
+【體裁】
+七律
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1151,djvu1328
