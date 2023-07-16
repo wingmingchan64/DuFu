@@ -8,24 +8,33 @@
 陳永明《杜甫全集粵音注音》
 
 【注音】
-重題鄭氏東亭[在新安界]
-cung4/cung5/cung3/zung6/tung4/zung3 dai6/tai4 zing6/zeng6/cing6 zi1/si6 dung1 ting4 unknown zoi6 san1 ngon1/on1 gaai3 unknown 
-
+重題鄭氏東亭
+cung4 tai4 zeng6 si6 dung1 ting4
 
 華亭入翠微，秋日亂清輝
-waa6/faa1/waa4/waa1 ting4 jap6 ceoi3 mei4, cau1 mik6/jat6 lyun6 ceng1/cing1 wai1/fai1 
-崩石攲山樹，清漣曳水衣
-bang1 daam3/sek6/sik6 hei1/kei1/ji1/ji2/o1 saan1 syu5/syu6, ceng1/cing1 lin4 jai6 seoi2 ji3/ji1 
-紫鱗衝岸躍，蒼隼護巢歸
-zi2 leon4 cung3/cung1 ngon6 joek3/tik1/joek6, cong2/cong1 zeon2 wu6 caau4 gwei1/gwai1 
-向晚尋征路，殘雲傍馬飛
-hoeng3 maan5 cam4 zing1 lou6, caan4 wan4 pong4/bong1/bong6/bang1 maa5 fei1 
-
+waa4 ting4 jap6 ceoi3 mei4, cau1 jat6 lyun6 cing1 fai1
+平平仄仄平，平仄仄平平
 -----------------------------------------------------
-平平仄仄
+崩石攲山樹，清漣曳水衣
+bang1 sek6 kei1 saan1 syu6, cing1 lin4 jai6 seoi2 ji1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+紫鱗衝岸躍，蒼隼護巢歸
+zi2 leon4 cung1 ngon6 joek3, cong1 zeon2 wu6 caau4 gwai1
+平平平仄仄，平仄仄平平
+-----------------------------------------------------
+向晚尋征路，殘雲傍馬飛
+hoeng3 maan5 cam4 zing1 lou6, caan4 wan4 bong6 maa5 fei1
+仄仄平平仄，平平仄仄平
 
 【韻部】
+〚3.2.5〛輝：微韻
+〚4.2.5〛衣：微韻
+〚5.2.5〛歸：微韻
+〚6.2.5〛飛：微韻
 
+【體裁】
+五律
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1276,djvu1453
 
