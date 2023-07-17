@@ -17,39 +17,60 @@
 
 【注音】
 佳人
-gaai1 jan4/jan5 
-
+gaai1 jan4
 
 絕代有佳人，幽居在空谷
-zyut3/zyut6/cyut6 doi6 jau6/jau5 gaai1 jan4/jan5, jau1 gei1/geoi1 zoi6 hung3/hung2/hung1 juk6/luk6/guk1 
-自云良家子，零落依草木
-zi6 wan4 loeng4 gu1/gwu1/gaa1 zi2, leng4/lin4/ling4 laai6/lok1/lok6 ji1/ji2 cou2 muk6 
-關中昔喪敗，兄弟遭殺戮
-waan1/gwaan1 zung3/zung1 cok3/sik1 song3/song1 baai6, fong3/hing1/fong2 tai5/dai6 zou1 saai3/saai6/saat3 coek3/luk6 
-官高何足論，不得收骨肉
-gwun1/gun1/gyun1 gou1 ho6/ho4 zeoi3/zeoi6/zuk3/zuk1 leon4/leon1/leon6, fau2/fau4/pei1/dan2/bat1/fu1 dak1 sau3/sau1 gwu2/gwat1 jau6/nau6/juk6 
-世情惡衰歇，萬事隨轉燭
-sai3 cing4/ceng4 ok3/wu1/ngok3/wu3/jyu3/jyu1 ceoi1/so1/seoi1 hit3/hot3, maan6 si6 ceoi4 zyun3/zyun2 zuk1 
-夫婿輕薄兒，新人美如玉
-fu4/fu1 sai2/sai3 heng1/hing3/hing1 bok3/bok6/pok3 ngai4/ji1/ji4, san1 jan4/jan5 mei5 jyu4 suk1/juk6 
-合昏尙知時，鴛鴦不獨宿
-gap3/ho4/gaap3/hap6 fan1 soeng4/soeng6/soeng3 zi3/zi1 si4, jin1/jyun1 joeng1 fau2/fau4/pei1/dan2/bat1/fu1 duk6 sau3/suk1 
-但見新人笑，那聞舊人哭
-daan6 jin6/gin3/hin3 san1 jan4/jan5 siu3, no4/no1/naa1/no5/no6/naa6/naa3/naa5/naa2 man6/man4 gau6 jan4/jan5 huk1 
-在山泉水清，出山泉水濁
-zoi6 saan1 cyun4 seoi2 ceng1/cing1, ceoi3/ceot1 saan1 cyun4 seoi2 zuk6/zoek3 
-侍婢賣珠迴，牽蘿補茅屋
-si6 pei5 maai6 zyu1 wui4, hin3/hin1 lo4 bou2 maau4 nguk1/uk1 
-摘花不插髮，采柏動盈掬
-zaak6/zaak3/tik1/zak6 faa1 fau2/fau4/pei1/dan2/bat1/fu1 caap3 faat3, coi3/coi2 baak3/paak3/baak6 dung6 jing4 guk1 
-天寒翠袖薄，日暮倚修竹
-tin1 hon4 ceoi3 zau6 bok3/bok6/pok3, mik6/jat6 mou6 kei1/ji2 sau1 zuk1 
-
+zyut6 doi6 jau5 gaai1 jan4, jau1 geoi1 zoi6 hung1 guk1
 -----------------------------------------------------
-平平仄仄
+自云良家子，零落依草木
+zi6 wan4 loeng4 gaa1 zi2, ling4 lok6 ji1 cou2 muk6
+-----------------------------------------------------
+關中昔喪敗，兄弟遭殺戮
+gwaan1 zung1 sik1 song3 baai6, hing1 dai6 zou1 saat3 luk6
+-----------------------------------------------------
+官高何足論，不得收骨肉
+gun1 gou1 ho4 zuk1 leon6, bat1 dak1 sau1 gwat1 juk6
+-----------------------------------------------------
+世情惡衰歇，萬事隨轉燭
+sai3 cing4 ok3 seoi1 hit3, maan6 si6 ceoi4 zyun3 zuk1
+-----------------------------------------------------
+夫婿輕薄兒，新人美如玉
+fu1 sai3 hing1 bok6 ji4, san1 jan4 mei5 jyu4 juk6
+-----------------------------------------------------
+合昏尙知時，鴛鴦不獨宿
+hap6 fan1 soeng6 zi1 si4, jyun1 joeng1 bat1 duk6 suk1
+-----------------------------------------------------
+但見新人笑，那聞舊人哭
+daan6 gin3 san1 jan4 siu3, naa5 man4 gau6 jan4 huk1
+-----------------------------------------------------
+在山泉水清，出山泉水濁
+zoi6 saan1 cyun4 seoi2 cing1, ceot1 saan1 cyun4 seoi2 zuk6
+-----------------------------------------------------
+侍婢賣珠迴，牽蘿補茅屋
+si6 pei5 maai6 zyu1 wui4, hin1 lo4 bou2 maau4 uk1
+-----------------------------------------------------
+摘花不插髮，采柏動盈掬
+zaak6 faa1 bat1 caap3 faat3, coi2 paak3 dung6 jing4 guk1
+-----------------------------------------------------
+天寒翠袖薄，日暮倚修竹
+tin1 hon4 ceoi3 zau6 bok6, jat6 mou6 ji2 sau1 zuk1
 
 【韻部】
+〚3.2.5〛谷：屋韻
+〚4.2.5〛木：屋韻
+〚5.2.5〛戮：屋韻
+〚6.2.5〛肉：屋韻
+〚7.2.5〛燭：沃韻
+〚8.2.5〛玉：沃韻
+〚9.2.5〛宿：屋韻
+〚10.2.5〛哭：屋韻
+〚11.2.5〛濁：屋韻
+〚12.2.5〛屋：屋韻
+〚13.2.5〛掬：屋韻
+〚14.2.5〛竹：屋韻
 
+【體裁】
+五古
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1349,djvu1526
 
