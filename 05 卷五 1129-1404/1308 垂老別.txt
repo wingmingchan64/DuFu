@@ -21,46 +21,79 @@
 
 【注音】
 垂老別
-seoi4 lou5 bit3/bit6 
-
+seoi4 lou5 bit6
 
 四郊未寧靜，垂老不得安
-si3/sei3 gaau1/gau1 mei6 ning6/ning4 zing6, seoi4 lou5 fau2/fau4/pei1/dan2/bat1/fu1 dak1 ngon1/on1 
-子孫陣亡盡，焉用身獨完
-zi2 seon3/syun1 zaan6/zan6 mou4/mong4 zeon6, jin1/jin4/hin4 jung6/ung6 gyun1/san1 duk6 jyun4 
-投杖出門去，同行爲辛酸
-tau4 zoeng6 ceoi3/ceot1 mun4 heoi2/heoi3/keoi1, tung4 hang6/hong4/haang4/hong6/hong5/hang4 wai6/wai4 san1 syun1 
-幸有牙齒存，所悲骨髓乾
-zap1/hang6 jau6/jau5 ngaa4 ci2 cyun4, so2 bei1 gwu2/gwat1 seoi2/seoi6/seoi5 gon1/kin4 
-男兒旣介胄，長揖別上官
-naam4 ngai4/ji1/ji4 gei3 gaai3 zau6, zoeng2/zoeng6/coeng4 cap1/jap1 bit3/bit6 soeng5/saang3/soeng6 gwun1/gun1/gyun1 
-老妻臥路啼，歲暮衣裳單
-lou5 cai3/cai1 ngo6 lou6 tai4, seoi3 mou6 ji3/ji1 soeng4 sin6/sin4/sim4/daan1/sin5 
-孰知是死別，且復傷其寒
-suk6 zi3/zi1 si6 si2/sei2 bit3/bit6, zeoi1/cou4/ceoi6/ce2 fau6/fuk1/fuk6 soeng1 gei1/kei4/gei4/gei3 hon4 
-此去必不歸，還聞勸加餐
-ci2 heoi2/heoi3/keoi1 bit1/bit3 fau2/fau4/pei1/dan2/bat1/fu1 gwei1/gwai1, syun4/waan4/waan6 man6/man4 hyun3 gaa1 caan1 
-土門壁甚堅，杏園度亦難
-tou2 mun4 bek3/bik3/bik1 sap6/sam4/sam6 gin1, hang6 jyun4 dok6/dou6 jik6 naan6/no4/naan4 
-勢異鄴城下，縱死時猶寬
-sai3 ji6 jip6 seng4/sing4 haa5/haa2/haa6, zung1/zung2/zung3 si2/sei2 si4 jau4 fun1 
-人生有離合，豈擇衰老端
-jan4/jan5 sang1/saang1 jau6/jau5 lei6/lei5/lei4 gap3/ho4/gaap3/hap6, hoi2/hei2 zaak6/zak6 ceoi1/so1/seoi1 lou5 dyun1 
-憶昔少壯日，遲迴竟長歎
-jik1 cok3/sik1 siu3/siu2 zong1/zong3 mik6/jat6, zi6/ci3/zi3/ci4 wui4 ging6/ging2/ging3 zoeng2/zoeng6/coeng4 taan1/taan3 
-萬國盡征戍，烽火被岡巒
-maan6 gwok3 zeon6 zing1 seot1/syu3, fung1 fo2 bei6/pei1/pei5/pai1 gong1 lyun4 
-積屍草木腥，流血川原丹
-zi3/zik1 si1 cou2 muk6 sing1/seng1, lau4 hyut3 cyun1 jyun5/jyun4 daan1 
-何鄕爲樂土，安敢尙盤桓
-ho6/ho4 hoeng3/hoeng1 wai6/wai4 lok6/ngaau6/ngou6/ngok6 tou2, ngon1/on1 gam2 soeng4/soeng6/soeng3 pun4 wun4/jyun4 
-棄絕蓬室居，塌然摧肺肝
-hei3 zyut3/zyut6/cyut6 fung4/pung4 sat1 gei1/geoi1, dap1/taap3 jin4 ceoi4/ceoi1/zo3/zeoi4 fai3/pui3 gon1 
-
+sei3 gaau1 mei6 ning4 zing6, seoi4 lou5 bat1 dak1 on1
 -----------------------------------------------------
-平平仄仄
+子孫陣亡盡，焉用身獨完
+zi2 syun1 zan6 mong4 zeon6, jin1 jung6 san1 duk6 jyun4
+-----------------------------------------------------
+投杖出門去，同行爲辛酸
+tau4 zoeng6 ceot1 mun4 heoi3, tung4 hang4 wai4 san1 syun1
+-----------------------------------------------------
+幸有牙齒存，所悲骨髓乾
+hang6 jau5 ngaa4 ci2 cyun4, so2 bei1 gwat1 seoi5 gon1
+-----------------------------------------------------
+男兒旣介胄，長揖別上官
+naam4 ji4 gei3 gaai3 zau6, coeng4 jap1 bit6 soeng6 gun1
+-----------------------------------------------------
+老妻臥路啼，歲暮衣裳單
+lou5 cai1 ngo6 lou6 tai4, seoi3 mou6 ji1 soeng4 daan1
+-----------------------------------------------------
+孰知是死別，且復傷其寒
+suk6 zi1 si6 sei2 bit6, ce2 fau6 soeng1 kei4 hon4
+-----------------------------------------------------
+此去必不歸，還聞勸加餐
+ci2 heoi3 bit1 bat1 gwai1, waan4 man4 hyun3 gaa1 caan1
+-----------------------------------------------------
+土門壁甚堅，杏園度亦難
+tou2 mun4 bik1 sam6 gin1, hang6 jyun4 dou6 jik6 naan4
+-----------------------------------------------------
+勢異鄴城下，縱死時猶寬
+sai3 ji6 jip6 sing4 haa6, zung3 sei2 si4 jau4 fun1
+-----------------------------------------------------
+人生有離合，豈擇衰老端
+jan4 sang1 jau5 lei4 hap6, hei2 zaak6 seoi1 lou5 dyun1
+-----------------------------------------------------
+憶昔少壯日，遲迴竟長歎
+jik1 sik1 siu3 zong3 jat6, ci4 wui4 ging2 coeng4 taan1
+-----------------------------------------------------
+萬國盡征戍，烽火被岡巒
+maan6 gwok3 zeon6 zing1 syu3, fung1 fo2 pei1 gong1 lyun4
+-----------------------------------------------------
+積屍草木腥，流血川原丹
+zik1 si1 cou2 muk6 sing1, lau4 hyut3 cyun1 jyun4 daan1
+-----------------------------------------------------
+何鄕爲樂土，安敢尙盤桓
+ho4 hoeng1 wai4 lok6 tou2, on1 gam2 soeng6 pun4 wun4
+-----------------------------------------------------
+棄絕蓬室居，塌然摧肺肝
+hei3 zyut6 pung4 sat1 geoi1, taap3 jin4 ceoi1 fai3 gon1
 
 【韻部】
+〚3.2.5〛安：寒韻
+〚4.2.5〛完：寒韻
+〚5.2.5〛酸：寒韻
+〚6.2.5〛乾：寒韻
+〚7.2.5〛官：寒韻
+〚8.2.5〛單：寒韻
+〚9.2.5〛寒：寒韻
+〚10.2.5〛餐：寒韻
+〚11.2.5〛難：寒韻
+〚12.2.5〛寬：寒韻
+〚13.2.5〛端：寒韻
+〚14.2.5〛歎：寒韻
+〚15.2.5〛巒：寒韻
+〚16.2.5〛丹：寒韻
+〚17.2.5〛桓：寒韻
+〚18.2.5〛肝：寒韻
+
+【體裁】
+五古
+
+【補充說明】
+〚14.2.5〛歎，平聲押韻。
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1308,djvu1485
