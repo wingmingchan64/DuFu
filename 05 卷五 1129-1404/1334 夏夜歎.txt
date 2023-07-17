@@ -17,39 +17,61 @@
 
 【注音】
 夏夜歎
-gaa2/haa5/haa6 je6 taan1/taan3 
+haa6 je6 taan3
 
 
 永日不可暮，炎蒸毒我腸
-jung2/wing5 mik6/jat6 fau2/fau4/pei1/dan2/bat1/fu1 hak1/haak1/ho2 mou6, jim6/taam4/jim4/tam4 zing1/zing3 doi6/duk1/dou6/duk3/duk6 ngo5 coeng4 
-安得萬里風，飄颻吹我裳
-ngon1/on1 dak1 maan6 lei5 fung3/fung2/fung1, piu1/liu4/lau4 jiu4 ceoi3/ceoi1 ngo5 soeng4 
-昊天出華月，茂林延疏光
-hou6 tin1 ceoi3/ceot1 waa6/faa1/waa4/waa1 jyut6, mau6 lam4 jin4 so3/so1 gwong1 
-仲夏苦夜短，開軒納微涼
-zung6 gaa2/haa5/haa6 fu2/geoi2 je6 dyun2/deon2, hoi1 hin3/hin1 naap6 mei4 loeng4/loeng6 
-虛明見纖毫，羽蟲亦飛揚
-heoi1 ming4 jin6/gin3/hin3 cim1/cim3 hou4, jyu5 cung4 jik6 fei1 joeng4 
-物情無巨細，自適固其常
-mat6 cing4/ceng4 mo4/mou5/mou4 geoi6 sai3, zi6 dik1/zaak6/tik1/dik6/zaak3/sik1 gwu3/gu3/geoi3 gei1/kei4/gei4/gei3 soeng4 
-念彼荷戈士，窮年守邊疆
-nim6 bei2 ho6/ho4 go1/gwo1 si6, kung4 nin4 sau3/sau2 bin1 goeng1 
-何由一洗濯，執熱互相望
-ho6/ho4 jau4/au4 jat1 sin2/sai2 zaau6/zok6, zap1 jit6 wu6 soeng3/soeng2/soeng1 mong4/mong6 
-竟夕擊刁斗，喧聲連萬方
-ging6/ging2/ging3 zik6 gik1 diu1 dau3/dau2, hyun1 seng1/sing1 lin4 maan6 fong1 
-青紫雖被體，不如早還鄕
-ceng1/zing1/cing1 zi2 seoi1 bei6/pei1/pei5/pai1 tai2, fau2/fau4/pei1/dan2/bat1/fu1 jyu4 zou2 syun4/waan4/waan6 hoeng3/hoeng1 
-北城悲笳發，鸛鶴號且翔
-bui3/bui6/bak1 seng4/sing4 bei1 gaa1 but3/faat3, gwun3/gwaan3/gun3 hok2/hok6 hou4/hou6 zeoi1/cou4/ceoi6/ce2 coeng4 
-況復煩促倦，激烈思時康
-fong2/kwong3/fong3 fau6/fuk1/fuk6 faan4 cuk1 gyun6, gik1 lai6/lit6 si3/soi1/si1/si6 si4 hong1 
-
+wing5 jat6 bat1 ho2 mou6, jim4 zing1 duk6 ngo5 coeng4
 -----------------------------------------------------
-平平仄仄
+安得萬里風，飄颻吹我裳
+on1 dak1 maan6 lei5 fung1, piu1 jiu4 ceoi1 ngo5 soeng4
+-----------------------------------------------------
+昊天出華月，茂林延疏光
+hou6 tin1 ceot1 waa4 jyut6, mau6 lam4 jin4 so1 gwong1
+-----------------------------------------------------
+仲夏苦夜短，開軒納微涼
+zung6 haa6 fu2 je6 dyun2, hoi1 hin1 naap6 mei4 loeng4
+-----------------------------------------------------
+虛明見纖毫，羽蟲亦飛揚
+heoi1 ming4 gin3 cim1 hou4, jyu5 cung4 jik6 fei1 joeng4
+-----------------------------------------------------
+物情無巨細，自適固其常
+mat6 cing4 mou4 geoi6 sai3, zi6 sik1 gu3 kei4 soeng4
+-----------------------------------------------------
+念彼荷戈士，窮年守邊疆
+nim6 bei2 ho6 gwo1 si6, kung4 nin4 sau2 bin1 goeng1
+-----------------------------------------------------
+何由一洗濯，執熱互相望
+ho4 jau4 jat1 sai2 zok6, zap1 jit6 wu6 soeng1 mong4
+-----------------------------------------------------
+竟夕擊刁斗，喧聲連萬方
+ging2 zik6 gik1 diu1 dau2, hyun1 sing1 lin4 maan6 fong1
+-----------------------------------------------------
+青紫雖被體，不如早還鄕
+cing1 zi2 seoi1 pei1 tai2, bat1 jyu4 zou2 waan4 hoeng1
+-----------------------------------------------------
+北城悲笳發，鸛鶴號且翔
+bak1 sing4 bei1 gaa1 faat3, gun3 hok6 hou4 ce2 coeng4
+-----------------------------------------------------
+況復煩促倦，激烈思時康
+fong3 fau6 faan4 cuk1 gyun6, gik1 lit6 si1 si4 hong1
 
 【韻部】
+〚3.2.5〛腸：陽韻
+〚4.2.5〛裳：陽韻
+〚5.2.5〛光：陽韻
+〚6.2.5〛涼：陽韻
+〚7.2.5〛揚：陽韻
+〚8.2.5〛常：陽韻
+〚9.2.5〛疆：陽韻
+〚10.2.5〛望：陽韻
+〚11.2.5〛方：陽韻
+〚12.2.5〛鄕：陽韻
+〚13.2.5〛翔：陽韻
+〚14.2.5〛康：陽韻
 
+【體裁】
+五古
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1334,djvu1511
 
