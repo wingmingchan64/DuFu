@@ -9,22 +9,32 @@
 
 【注音】
 除架
-ceoi4 gaa2/gaa3 
-
+ceoi4 gaa3
 
 束薪已零落，瓠葉轉蕭疏
-suk1/cuk1/syu3 san1 ji3/ji5 leng4/lin4/ling4 laai6/lok1/lok6, wu6/wok6/wu4/jyu4 sip3/jip6 zyun3/zyun2 siu1 so3/so1 
-幸結白花了，寧辭青蔓除
-zap1/hang6 gai1/gai3/git3/hai6 baak6/baak3 faa1 liu2/laa2/liu5, ning6/ning4 ci4 ceng1/zing1/cing1 maan4/maan6 cyu4/ceoi4 
-秋蟲聲不去，暮雀意何如
-cau1 cung4 seng1/sing1 fau2/fau4/pei1/dan2/bat1/fu1 heoi2/heoi3/keoi1, mou6 zoek2/zoek3 ji3 ho6/ho4 jyu4 
-寒事今牢落，人生亦有初
-hon4 si6 gam1 lou4/lau4/lo5 laai6/lok1/lok6, jan4/jan5 sang1/saang1 jik6 jau6/jau5 co1 
-
+cuk1 san1 ji5 ling4 lok6, wu6 jip6 zyun2 siu1 so1
+仄平仄平仄，仄仄仄平平
 -----------------------------------------------------
-平平仄仄
+幸結白花了，寧辭青蔓除
+hang6 git3 baak6 faa1 liu5, ning4 ci4 cing1 maan6 ceoi4
+仄仄仄平仄，平平平仄平
+-----------------------------------------------------
+秋蟲聲不去，暮雀意何如
+cau1 cung4 sing1 bat1 heoi3, mou6 zoek3 ji3 ho4 jyu4
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
+寒事今牢落，人生亦有初
+hon4 si6 gam1 lou4 lok6, jan4 sang1 jik6 jau5 co1
+平仄平仄仄，平平仄仄平
 
 【韻部】
+〚3.2.5〛疏：魚韻
+〚4.2.5〛除：魚韻
+〚5.2.5〛如：魚韻
+〚6.2.5〛初：魚韻
+
+【體裁】
+五律
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1559,djvu1736
