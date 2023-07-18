@@ -9,23 +9,32 @@
 
 【注音】
 蒹葭
-gim1 gaa1 
-
+gim1 gaa1
 
 摧折不自守，秋風吹若何
-ceoi4/ceoi1/zo3/zeoi4 zip3/zit3 fau2/fau4/pei1/dan2/bat1/fu1 zi6 sau3/sau2, cau1 fung3/fung2/fung1 ceoi3/ceoi1 je5/joek6 ho6/ho4 
-暫時花戴雪，幾處葉沉波
-zaam6 si4 faa1 deoi3/daai3/dai3 syut3, gei1/gei3/gei2/kei4 cyu2/syu3/cyu3 sip3/jip6 zam6/cam4/taam4/sam2 bo1 
-體弱春風早，叢長夜露多
-tai2 joek6 ceon1 fung3/fung2/fung1 zou2, cung4 zoeng2/zoeng6/coeng4 je6 lau6/lou6 do1 
-江湖後搖落，亦恐歲蹉跎
-gong1 wu4 hau5/hau6 jiu4 laai6/lok1/lok6, jik6 hung3/hung2 seoi3 co1/zo1 to4 
-
+ceoi1 zit3 bat1 zi6 sau2, cau1 fung1 ceoi1 joek6 ho4
+平仄仄仄仄，平平平仄平
 -----------------------------------------------------
-平平仄仄
+暫時花戴雪，幾處葉沉波
+zaam6 si4 faa1 daai3 syut3, gei2 cyu3 jip6 cam4 bo1
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+體弱春風早，叢長夜露多
+tai2 joek6 ceon1 fung1 zou2, cung4 coeng4 je6 lou6 do1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+江湖後搖落，亦恐歲蹉跎
+gong1 wu4 hau6 jiu4 lok6, jik6 hung2 seoi3 co1 to4
+平平仄平仄，仄仄仄平平（出句特定平仄）
 
 【韻部】
+〚3.2.5〛何：歌韻
+〚4.2.5〛波：歌韻
+〚5.2.5〛多：歌韻
+〚6.2.5〛跎：歌韻
 
+【體裁】
+五律
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1551,djvu1728
 
