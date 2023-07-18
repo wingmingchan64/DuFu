@@ -9,22 +9,32 @@
 
 【注音】
 山寺
-saan1 zi2/zi6 
-
+saan1 zi6
 
 野寺殘僧少，山園細路高
-je5 zi2/zi6 caan4 sang1/zang1 siu3/siu2, saan1 jyun4 sai3 lou6 gou1 
-麝香眠石竹，鸚鵡啄金桃
-se6 hoeng1 min4 daam3/sek6/sik6 zuk1, jing1 mou5 doeng1/zau3/doek3 gam1 tou4 
-亂石通人過，懸崖置屋牢
-lyun6 daam3/sek6/sik6 tung1 jan4/jan5 gwo1/gwo3, jyun6/jyun4/hyun4 ngaai4 zi3 nguk1/uk1 lou4/lau4/lo5 
-上方重閣晚，百里見秋毫
-soeng5/saang3/soeng6 fong1 cung4/cung5/cung3/zung6/tung4/zung3 gok3 maan5, mak6/baak3 lei5 jin6/gin3/hin3 cau1 hou4 
-
+je5 zi6 caan4 zang1 siu2, saan1 jyun4 sai3 lou6 gou1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+麝香眠石竹，鸚鵡啄金桃
+se6 hoeng1 min4 sek6 zuk1, jing1 mou5 doek3 gam1 tou4
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
+亂石通人過，懸崖置屋牢
+lyun6 sek6 tung1 jan4 gwo3, jyun4 ngaai4 zi3 uk1 lou4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+上方重閣晚，百里見秋毫
+soeng6 fong1 cung4 gok3 maan5, baak3 lei5 gin3 cau1 hou4
+仄平平仄仄，仄仄仄平平
 
 【韻部】
+〚3.2.5〛高：豪韻
+〚4.2.5〛桃：豪韻
+〚5.2.5〛牢：豪韻
+〚6.2.5〛毫：豪韻
+
+【體裁】
+五律
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1517,djvu1694
