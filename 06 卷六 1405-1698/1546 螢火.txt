@@ -9,23 +9,32 @@
 
 【注音】
 螢火
-jing4 fo2 
-
+jing4 fo2
 
 幸因腐草出，敢近太陽飛
-zap1/hang6 jan1 fu6 cou2 ceoi3/ceot1, gam2 kan5/gan3/gei3/gan6 taai3 joeng4 fei1 
-未足臨書卷，時能點客衣
-mei6 zeoi3/zeoi6/zuk3/zuk1 lam4/lam6 syu1 kyun4/gyun3/hyun3/gyun2/gwan2, si4 noi6/nang4/nang1 dim2 haak3 ji3/ji1 
-隨風隔幔小，帶雨傍林微
-ceoi4 fung3/fung2/fung1 gik1/gaak3/gak1 maan6/man6/mun6 siu2, daai2/daai3 jyu6/jyu3/jyu5 pong4/bong1/bong6/bang1 lam4 mei4 
-十月清霜重，飄零何處歸
-sap6 jyut6 ceng1/cing1 soeng1 cung4/cung5/cung3/zung6/tung4/zung3, piu1/liu4/lau4 leng4/lin4/ling4 ho6/ho4 cyu2/syu3/cyu3 gwei1/gwai1 
-
+hang6 jan1 fu6 cou2 ceot1, gam2 gan6 taai3 joeng4 fei1
+仄平仄仄仄，仄仄仄平平
 -----------------------------------------------------
-平平仄仄
+未足臨書卷，時能點客衣
+mei6 zuk1 lam4 syu1 gyun2, si4 nang4 dim2 haak3 ji1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+隨風隔幔小，帶雨傍林微
+ceoi4 fung1 gaak3 maan6 siu2, daai3 jyu5 bong6 lam4 mei4
+平平仄仄仄，仄仄仄平平
+-----------------------------------------------------
+十月清霜重，飄零何處歸
+sap6 jyut6 cing1 soeng1 zung6, piu1 ling4 ho4 cyu3 gwai1
+仄仄平平仄，平平平仄平
 
 【韻部】
+〚3.2.5〛飛：微韻
+〚4.2.5〛衣：微韻
+〚5.2.5〛微：微韻
+〚6.2.5〛歸：微韻
 
+【體裁】
+五律
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1546,djvu1723
 
