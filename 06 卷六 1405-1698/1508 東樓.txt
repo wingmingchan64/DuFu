@@ -9,22 +9,32 @@
 
 【注音】
 東樓
-dung1 lau4 
-
+dung1 lau4
 
 萬里流沙道，西征過此門
-maan6 lei5 lau4 saa3/saa1 dou6/dou5, sai1 zing1 gwo1/gwo3 ci2 mun4 
-但添新戰骨，不返舊征魂
-daan6 tim1 san1 zin3 gwu2/gwat1, fau2/fau4/pei1/dan2/bat1/fu1 faan1/faan2 gau6 zing1 wan4 
-樓角凌風迥，城陰帶水昏
-lau4 luk6/gok2/gok3 ling4 fung3/fung2/fung1 gwing2, seng4/sing4 am1/jam3/jam1 daai2/daai3 seoi2 fan1 
-傳聲看驛使，送節向河源
-zyun6/zyun2/cyun4/zyun3/cyun6 seng1/sing1 hon1/hon3 jik6 si3/sai2/si2, sung3 zit6/zit3 hoeng3 ho4 jyun4 
-
+maan6 lei5 lau4 saa1 dou6, sai1 zing1 gwo3 ci2 mun4
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+但添新戰骨，不返舊征魂
+daan6 tim1 san1 zin3 gwat1, bat1 faan2 gau6 zing1 wan4
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+樓角凌風迥，城陰帶水昏
+lau4 gok3 ling4 fung1 gwing2, sing4 jam1 daai3 seoi2 fan1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+傳聲看驛使，送節向河源
+cyun4 sing1 hon1 jik6 si3, sung3 zit3 hoeng3 ho4 jyun4
+平平平仄仄，仄仄仄平平
 
 【韻部】
+〚3.2.5〛門：元韻
+〚4.2.5〛魂：元韻
+〚5.2.5〛昏：元韻
+〚6.2.5〛源：元韻
+
+【體裁】
+五律
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1508,djvu1685
