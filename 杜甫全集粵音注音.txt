@@ -258,7 +258,7 @@ hung1 tim2 heoi2 seon1 bui3, naan4 cau4 zi1 deon6 ci4
 五律
 
 〚4.1.2〛簟，忝韻，上聲。
-〚6.1〛末聯對句。
+〚6〛末聯對仗。
 
 方回曰：「入」字當平而仄，「留」字當仄而平，「許」、「支」二字亦然。間或出此，
 詩更峭健。又「入」字、「留」字乃詩句之眼，與「搖」字、「蔓」字同，如必不可依平
@@ -6379,7 +6379,7 @@ gan6 man4 kwan1 jung4 tou4, wai4 teoi3 saam1 baak3 lei5
 lou4 gwaan1 ak1 loeng5 kau3, sam1 ji3 sat6 zoi6 ci2
 -----------------------------------------------------
 誰能叫帝閽，胡行速如鬼。
-seoi4 nang4 giu3 dai3 fan1 , wu4 hang4 cuk1 jyu4 gwai2
+seoi4 nang4 giu3 dai3 fan1, wu4 hang4 cuk1 jyu4 gwai2
 
 〚3.2.5〛水：紙韻
 〚4.2.5〛杞：紙韻
@@ -7972,7 +7972,7 @@ bat1 zi1 ho4 wong4 din6, wai4 gau3 zyut6 bik1 haa5
 陰房鬼火青，壞道哀湍瀉。
 jam1 fong4 gwai2 fo2 cing1, waai6 dou6 oi1 teon1 se2
 -----------------------------------------------------
-萬籟眞笙竽，秋色正蕭洒。
+萬籟眞笙竽，秋色正瀟灑。
 maan6 laai6 zan1 sang1 jyu4, cau1 sik1 zing3 siu1 saa2
 -----------------------------------------------------
 美人爲黃土，況乃粉黛假。
@@ -8189,7 +8189,7 @@ je6 laan4 gang3 bing2 zuk1, soeng1 deoi3 jyu4 mung6 mei6
 其二
 
 晚歲迫偸生，還家少歡趣。
-maan5 seoi3  bik1 tau1 sang1 , waan4 gaa1 siu2 fun1 ceoi3
+maan5 seoi3 bik1 tau1 sang1, waan4 gaa1 siu2 fun1 ceoi3
 -----------------------------------------------------
 嬌兒不離膝，畏我復卻去。
 giu1 ji4 bat1 lei4 sat1, wai3 ngo5 fau6 koek3 heoi3
@@ -9223,7 +9223,7 @@ lung4 mou5 san1 gwan1 sam1 zyu3 lin5, fu4 jung4 bit6 din6 maan6 fan4 hoeng1
 平仄平平平仄仄，平平仄仄仄平平
 -----------------------------------------------------
 何時詔此金錢會，暫醉佳人錦瑟傍
-ho4 si4 ziu6 ci2 gam1 wui6, zaam6 zeoi3 gaai1 jan4 gam2 sat1 pong4
+ho4 si4 ziu6 ci2 gam1 cin4 wui6, zaam6 zeoi3 gaai1 jan4 gam2 sat1 pong4
 平平仄仄平平仄，仄仄平平仄仄平
 
 〚3.1.7〛牆：陽韻
@@ -9233,7 +9233,6 @@ ho4 si4 ziu6 ci2 gam1 wui6, zaam6 zeoi3 gaai1 jan4 gam2 sat1 pong4
 〚6.2.7〛傍：陽韻
 
 七律
-
 
 =====================================================
 
@@ -9334,7 +9333,7 @@ fu2 tau4 gam1 suk1 jing2, san4 miu6 duk6 naan4 mong4
 
 =====================================================
 
-1075 1075 因許八寄江寧旻上人
+1075 因許八寄江寧旻上人
 jan1 heoi2 baat3 gei3 gong1 ning4 man4 soeng6 jan4
 
 不見旻公三十年，封書寄與淚潺湲
@@ -9824,7 +9823,7 @@ ng4 gam1 ji3 ho4 soeng1, gu3 bou6 duk6 jyu1 wat1
 dyun1 ng5 jat6 ci3 ji1
 
 宮衣亦有名，端午被恩榮
-gung1 ji1jik6 jau5 ming4, dyun1 ng5 pei1 jan1 wing4
+gung1 ji1 jik6 jau5 ming4, dyun1 ng5 pei1 jan1 wing4
 平平仄仄平，平仄平平平
 -----------------------------------------------------
 細葛含風軟，香羅疊雪輕
@@ -10445,513 +10444,810 @@ bat1 han6 ngo5 seoi1 zi2 gwai3 si4, coeng3 mong6 ce2 wai4 gam1 soeng1 jik1
 =====================================================
 
 1222 戲贈閿鄕秦少公短歌
-fu1/fai1/hei3/hei1 zang6 man4 hoeng3/hoeng1 ceon4 siu3/siu2 gung1 dyun2/deon2 go1 
+hei3 zang6 man4 hoeng1 ceon4 siu3 gung1 dyun2 go1
 
 
 去年行宮當太白，朝迴君是同舍客
-heoi2/heoi3/keoi1 nin4 hang6/hong4/haang4/hong6/hong5/hang4 gung1 dong3/dong2/dong1 taai3 baak6/baak3, ziu1/ciu4 wui4 gwan1 si6 tung4 se2/se3/sik1 haak3 
-同心不減骨肉親，每語見許文章伯
-tung4 sam1 fau2/fau4/pei1/dan2/bat1/fu1 gaam2 gwu2/gwat1 jau6/nau6/juk6 can3/can1/ceon1, mui6/mui5 jyu6/jyu3/jyu5 jin6/gin3/hin3 fu2/heoi2 man6/man1/man4 zoeng1 baa3/mak6/baak3 
-今日時清兩京道，相逢苦覺人情好
-gam1 mik6/jat6 si4 ceng1/cing1 loeng2/loeng6/loeng3/loeng5 jyun4/ging1 dou6/dou5, soeng3/soeng2/soeng1 pung4/fung4 fu2/geoi2 gaau3/gok3/gau3/gaau4 jan4/jan5 cing4/ceng4 hou3/hou2 
-昨夜邀歡樂更無，多才依舊能潦倒
-zok3/zok6 je6 jiu1 fun1 lok6/ngaau6/ngou6/ngok6 gang3/gaang1/gaang3/gang1/ang3 mo4/mou5/mou4, do1 coi4 ji1/ji2 gau6 noi6/nang4/nang1 liu4/lou4/lou6/liu2/lou5 dou3/dou2 
-
+heoi3 nin4 hang4 gung1 dong1 taai3 baak6, ciu4 wui4 gwan1 si6 tung4 se3 haak3
 -----------------------------------------------------
-平平仄仄
+同心不減骨肉親，每語見許文章伯
+tung4 sam1 bat1 gaam2 gwat1 juk6 can1, mui5 jyu5 gin3 heoi2 man4 zoeng1 baak3
+-----------------------------------------------------
+今日時清兩京道，相逢苦覺人情好
+gam1 jat6 si4 cing1 loeng5 ging1 dou6, soeng1 fung4 fu2 gok3 jan4 cing4 hou2
+-----------------------------------------------------
+昨夜邀歡樂更無，多才依舊能潦倒
+zok3 je6 jiu1 fun1 lok6 gang3 mou4, do1 coi4 ji1 gau6 nang4 lou5 dou2
 
+〚3.2.7〛客：陌韻
+〚4.2.7〛伯：陌韻
+〚5.2.7〛好：皓韻
+〚6.2.7〛倒：皓韻
 
+七古
 
 =====================================================
 
 1225 湖城東遇孟雲卿，復歸劉顥宅宿，宴飲散，因爲醉歌
-wu4 seng4/sing4 dung1 jyu6 mong5/mong6/mang6/maang6 wan4 hing3/hing1, fau6/fuk1/fuk6 gwei1/gwai1 lau4 hou6 zaak2/zaak6 sau3/suk1, jin3 jam3/jam2/jam5 saan2/saan3, jan1 wai6/wai4 zeoi3 go1 
-
+wu4 sing4 dung1 jyu6 maang6 wan4 hing1, fau6 gwai1 lau4 hou6 zaak6 suk1, jin3 jam2 saan3, jan1 wai4 zeoi3 go1 
 
 疾風吹塵暗河縣，行子隔手不相見
-zat6/cat6 fung3/fung2/fung1 ceoi3/ceoi1 can4 ngam3/am3/am6 ho4 jyun4/jyun2/jyun6/hyun4/hyun6, hang6/hong4/haang4/hong6/hong5/hang4 zi2 gik1/gaak3/gak1 sau2 fau2/fau4/pei1/dan2/bat1/fu1 soeng3/soeng2/soeng1 jin6/gin3/hin3 
-湖城城東一開眼，駐馬偶識雲卿面
-wu4 seng4/sing4 seng4/sing4 dung1 jat1 hoi1 ngaan5/han2, zyu3 maa5 ngau5 zi3/sik1 wan4 hing3/hing1 min6 
-況非劉顥爲地主，懶迴鞭轡成高宴
-fong2/kwong3/fong3 fei1 lau4 hou6 wai6/wai4 dei6 zyu2, laai6/laan5/laam5 wui4 bin1 bei3/bei6 seng4/cing4/sing4 gou1 jin3 
-劉侯歎我攜客來，置酒張燈促華饌
-lau4 hau6/hau4 taan1/taan3 ngo5 kwei4/kwai4 haak3 loi6/lai4/loi4, zi3 zau2 zoeng3/zoeng1 dang1 cuk1 waa6/faa1/waa4/waa1 syun2/zaan6 
-且將款曲終今夕，休語艱難尙酣戰
-zeoi1/cou4/ceoi6/ce2 zoeng3/coeng1/zoeng1 fun2 huk1/kuk1/guk1 zung1 gam1 zik6, jau1/jyu3 jyu6/jyu3/jyu5 gaan1 naan6/no4/naan4 soeng4/soeng6/soeng3 haam4/gam1/haam1/ham4 zin3 
-照室紅爐促曙光，縈窗素月垂文練
-ziu3 sat1 gung1/hung4 lou4 cuk1 syu5/syu6/cyu5/seoi5 gwong1, wing4/jing4 coeng1 sou3/so3/saak3 jyut6 seoi4 man6/man1/man4 lin6 
-天開地裂長安陌，寒盡春生洛陽殿
-tin1 hoi1 dei6 lit3/lit6 zoeng2/zoeng6/coeng4 ngon1/on1 maak6/maak3/baak3/mak1/mak6, hon4 zeon6 ceon1 sang1/saang1 lok3 joeng4 din3/din6 
-豈知驅車復同軌，可惜刻漏隨更箭
-hoi2/hei2 zi3/zi1 keoi1 geoi1/ce1/gu1 fau6/fuk1/fuk6 tung4 gwei2/gwai2, hak1/haak1/ho2 sek3/sik1 haak1/hak1/haak3 lau6/lau4 ceoi4 gang3/gaang1/gaang3/gang1/ang3 zin3 
-人生會合不可常，庭樹雞鳴淚如線
-jan4/jan5 sang1/saang1 wui5/kui2/kwui2/kwui3/kui3/wui6/fui2/wui3 gap3/ho4/gaap3/hap6 fau2/fau4/pei1/dan2/bat1/fu1 hak1/haak1/ho2 soeng4, ting3/ting4 syu5/syu6 gai1 ming4 leoi6 jyu4 sin3 
-
+zat6 fung1 ceoi1 can4 am3 ho4 jyun6, hang4 zi2 gaak3 sau2 bat1 soeng1 gin3
 -----------------------------------------------------
-平平仄仄
+湖城城東一開眼，駐馬偶識雲卿面
+wu4 sing4 sing4 dung1 jat1 hoi1 ngaan5, zyu3 maa5 ngau5 sik1 wan4 hing1 min6
+-----------------------------------------------------
+況非劉顥爲地主，懶迴鞭轡成高宴
+fong3 fei1 lau4 hou6 wai4 dei6 zyu2, laan5 wui4 bin1 bei3 sing4 gou1 jin3
+-----------------------------------------------------
+劉侯歎我攜客來，置酒張燈促華饌
+lau4 hau4 taan3 ngo5 kwai4 haak3 loi4, zi3 zau2 zoeng1 dang1 cuk1 waa4 zaan6
+-----------------------------------------------------
+且將款曲終今夕，休語艱難尙酣戰
+ce2 zoeng1 fun2 kuk1 zung1 gam1 zik6, jau1 jyu5 gaan1 naan4 soeng6 ham4 zin3
+-----------------------------------------------------
+照室紅爐促曙光，縈窗素月垂文練
+ziu3 sat1 hung4 lou4 cuk1 cyu5 gwong1, jing4 coeng1 sou3 jyut6 seoi4 man4 lin6
+-----------------------------------------------------
+天開地裂長安陌，寒盡春生洛陽殿
+tin1 hoi1 dei6 lit6 coeng4 on1 mak6, hon4 zeon6 ceon1 sang1 lok3 joeng4 din6
+-----------------------------------------------------
+豈知驅車復同軌，可惜刻漏隨更箭
+hei2 zi1 keoi1 ce1 fau6 tung4 gwai2, ho2 sik1 hak1 lau6 ceoi4 gang1 zin3
+-----------------------------------------------------
+人生會合不可常，庭樹雞鳴淚如線
+jan4 sang1 wui6 hap6 bat1 ho2 soeng4, ting4 syu6 gai1 ming4 leoi6 jyu4 sin3
 
+〚3.2.7〛見：霰韻
+〚4.2.7〛面：霰韻
+〚5.2.7〛宴：霰韻
+〚6.2.7〛饌：霰韻
+〚7.2.7〛戰：霰韻
+〚8.2.7〛練：霰韻
+〚9.2.7〛殿：霰韻
+〚10.2.7〛箭：霰韻
+〚11.2.7〛線：霰韻
+
+七古
 
 
 =====================================================
 
 1230 李鄠縣丈人胡馬行
-lei5 wu6 jyun4/jyun2/jyun6/hyun4/hyun6 zoeng6 jan4/jan5 wu4 maa5 hang6/hong4/haang4/hong6/hong5/hang4 
-
+lei5 wu6 jyun6 zoeng6 jan4 wu4 maa5 hang4
 
 丈人駿馬名胡騮，前年避胡過金牛
-zoeng6 jan4/jan5 zeon3 maa5 meng4/meng2/ming6/ming4 wu4 lau4, cin4 nin4 bei6 wu4 gwo1/gwo3 gam1 ngau4 
-迴鞭卻走見天子，朝飲漢水暮靈州
-wui4 bin1 gwik1/koek3 zau2 jin6/gin3/hin3 tin1 zi2, ziu1/ciu4 jam3/jam2/jam5 hon3 seoi2 mou6 leng4/ling4 zau1 
-自矜胡騮奇絕代，乘出千人萬人愛
-zi6 gwaan1/kan4/king1/ging1/gan1 wu4 lau4 gei1/kei4 zyut3/zyut6/cyut6 doi6, sing6/sing3/sing4 ceoi3/ceot1 cin1 jan4/jan5 maan6 jan4/jan5 ngoi3/oi3 
-一聞說盡急難材，轉益愁向駑駘輩
-jat1 man6/man4 seoi3/jyut6/syut3 zeon6 gap1 naan6/no4/naan4 coi4, zyun3/zyun2 jik1 sau4/cau1 hoeng3 nou5/nou4 toi5/toi1/toi4/doi6 bui3 
-頭上銳耳批秋竹，腳下高蹄削寒玉
-tau4 soeng5/saang3/soeng6 jeoi6 ji5 pei1/pai1 cau1 zuk1, goek3 haa5/haa2/haa6 gou1 tai4 saau2/ciu3/soek3/soek6 hon4 suk1/juk6 
-始知神龍別有種，不比俗馬空多肉
-ci3/si2/ci2 zi3/zi1 san1/san4 cung2/lung4/pong4 bit3/bit6 jau6/jau5 zung3/zung2, fau2/fau4/pei1/dan2/bat1/fu1 bei6/pei4/bei3/bei2 zuk6 maa5 hung3/hung2/hung1 do1 jau6/nau6/juk6 
-洛陽大道時再清，累日喜得俱東行
-lok3 joeng4 taai3/daai6 dou6/dou5 si4 zoi3 ceng1/cing1, leoi4/leoi5/leoi6/lo2 mik6/jat6 hei3/ci3/hei2 dak1 geoi1/geoi6/keoi1 dung1 hang6/hong4/haang4/hong6/hong5/hang4 
-鳳臆龍鬐未易識，側身注目長風生
-fung6 jik1 cung2/lung4/pong4 kei4/gei4 mei6 jik6/ji6 zi3/sik1, zaak1/cak1/zak1 gyun1/san1 zyu3 muk6 zoeng2/zoeng6/coeng4 fung3/fung2/fung1 sang1/saang1 
-
+zoeng6 jan4 zeon3 maa5 ming4 wu4 lau4, cin4 nin4 bei6 wu4 gwo3 gam1 ngau4
 -----------------------------------------------------
-平平仄仄
+迴鞭卻走見天子，朝飲漢水暮靈州
+wui4 bin1 koek3 zau2 gin3 tin1 zi2, ziu1 jam2 hon3 seoi2 mou6 ling4 zau1
+-----------------------------------------------------
+自矜胡騮奇絕代，乘出千人萬人愛
+zi6 ging1 wu4 lau4 kei4 zyut6 doi6, sing6 ceot1 cin1 jan4 maan6 jan4 oi3
+-----------------------------------------------------
+一聞說盡急難材，轉益愁向駑駘輩
+jat1 man4 syut3 zeon6 gap1 naan6 coi4, zyun2 jik1 sau4 hoeng3 nou4 toi4 bui3
+-----------------------------------------------------
+頭上銳耳批秋竹，腳下高蹄削寒玉
+tau4 soeng6 jeoi6 ji5 pai1 cau1 zuk1, goek3 haa6 gou1 tai4 soek3 hon4 juk6
+-----------------------------------------------------
+始知神龍別有種，不比俗馬空多肉
+ci2 zi1 san4 lung4 bit6 jau5 zung3, bat1 bei2 zuk6 maa5 hung1 do1 juk6
+-----------------------------------------------------
+洛陽大道時再清，累日喜得俱東行
+lok3 joeng4 daai6 dou6 si4 zoi3 cing1, leoi5 jat6 hei2 dak1 keoi1 dung1 hang4
+-----------------------------------------------------
+鳳臆龍鬐未易識，側身注目長風生
+fung6 jik1 lung4 kei4 mei6 ji6 sik1, zak1 san1 zyu3 muk6 coeng4 fung1 sang1
 
+
+〚3.1.7〛騮：尤韻
+〚3.2.7〛牛：尤韻
+〚4.2.7〛州：尤韻
+〚5.2.7〛愛：隊韻
+〚6.2.7〛輩：隊韻
+〚7.2.7〛玉：沃韻
+〚8.2.7〛肉：屋韻
+〚9.2.7〛行：庚韻
+〚10.2.7〛生：庚韻
+
+七古
 
 
 =====================================================
 
-1233 憶弟二首[時歸在河南陸渾莊]
-jik1 tai5/dai6 ji6/ji3 sau3/sau2 unknown si4 gwei1/gwai1 zoi6 ho4 naa1/naa4/naam4 luk6 wan6/gwan2/wan4/kwan2 zong1 unknown 
-
-
-
-
-
+1233 憶弟二首
+jik1 dai6 ji6 sau2
 
 喪亂聞吾弟，飢寒傍濟州
-song3/song1 lyun6 man6/man4 ng4 tai5/dai6, gei1 hon4 pong4/bong1/bong6/bang1 zai2/zai3 zau1 
+song3 lyun6 man4 ng4 dai6, gei1 hon4 bong6 zai2 zau1
+-----------------------------------------------------
 人稀吾不到，兵在見何由
-jan4/jan5 hei1 ng4 fau2/fau4/pei1/dan2/bat1/fu1 dou3/dou6, bing1 zoi6 jin6/gin3/hin3 ho6/ho4 jau4/au4 
+jan4 hei1 ng4 bat1 dou3, bing1 zoi6 gin3 ho4 jau4
+-----------------------------------------------------
 憶昨狂催走，無時病去憂
-jik1 zok3/zok6 kwong4/kong4 ceoi1 zau2, mo4/mou5/mou4 si4 bing6/beng6 heoi2/heoi3/keoi1 jau1 
+jik1 zok3 kwong4 ceoi1 zau2, mou4 si4 bing6 heoi3 jau1
+-----------------------------------------------------
 卽今千種恨，惟共水東流
-zik1 gam1 cin1 zung3/zung2 han6, wai4 gung1/gung2/gung3/gung6 seoi2 dung1 lau4 
+zik1 gam1 cin1 zung2 han6, wai4 gung6 seoi2 dung1 lau4
 
 且喜河南定，不問鄴城圍
-zeoi1/cou4/ceoi6/ce2 hei3/ci3/hei2 ho4 naa1/naa4/naam4 deng6/ding6, fau2/fau4/pei1/dan2/bat1/fu1 man6 jip6 seng4/sing4 wai4 
-百戰今誰在，三年望汝歸
-mak6/baak3 zin3 gam1 seoi4 zoi6, saam3/saam1/saam6 nin4 mong4/mong6 nei5/jyu5 gwei1/gwai1 
-故園花自發，春日鳥還飛
-gwu3/gu3/geoi3 jyun4 faa1 zi6 but3/faat3, ceon1 mik6/jat6 diu2/niu5 syun4/waan4/waan6 fei1 
-斷絕人煙久，東西消息稀
-dyun3/tyun5/tyun2/dyun6/dyun2 zyut3/zyut6/cyut6 jan4/jan5 jin1 gau2, dung1 sai1 siu1 sak1/sik1 hei1 
-
+ce2 hei2 ho4 naam4 ding6, bat1 man6 jip6 sing4 wai4
 -----------------------------------------------------
-平平仄仄
+百戰今誰在，三年望汝歸
+baak3 zin3 gam1 seoi4 zoi6, saam1 nin4 mong6 jyu5 gwai1
+-----------------------------------------------------
+故園花自發，春日鳥還飛
+gu3 jyun4 faa1 zi6 faat3, ceon1 jat6 niu5 waan4 fei1
+-----------------------------------------------------
+斷絕人煙久，東西消息稀
+dyun6 zyut6 jan4 jin1 gau2, dung1 sai1 siu1 sik1 hei1
 
+〚1:5.2.5〛州：尤韻
+〚1:6.2.5〛由：尤韻
+〚1:7.2.5〛憂：尤韻
+〚1:8.2.5〛流：尤韻
+〚2:12.2.5〛圍：微韻
+〚2:13.2.5〛歸：微韻
+〚2:14.2.5〛飛：微韻
+〚2:15.2.5〛稀：微韻
+
+五律
 
 
 =====================================================
 
 1238 得舍弟消息
-dak1 se2/se3/sik1 tai5/dai6 siu1 sak1/sik1 
-
+dak1 se3 dai6 siu1 sik1
 
 亂後誰歸得，他鄕勝故鄕
-lyun6 hau5/hau6 seoi4 gwei1/gwai1 dak1, to1/to4/taa1 hoeng3/hoeng1 sing1/sing3 gwu3/gu3/geoi3 hoeng3/hoeng1 
-直爲心厄苦，久念與存亡
-zik6 wai6/wai4 sam1 aak1/ngak1/ngo5/ngaak1/ak1 fu2/geoi2, gau2 nim6 jyu6/jyu4/jyu5 cyun4 mou4/mong4 
-汝書猶在壁，汝妾已辭房
-nei5/jyu5 syu1 jau4 zoi6 bek3/bik3/bik1, nei5/jyu5 cip3 ji3/ji5 ci4 pong4/fong2/fong4 
-舊犬知愁恨，垂頭傍我牀
-gau6 hyun2 zi3/zi1 sau4/cau1 han6, seoi4 tau4 pong4/bong1/bong6/bang1 ngo5 cong4 
-
+lyun6 hau6 seoi4 gwai1 dak1, taa1 hoeng1 sing3 gu3 hoeng1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+直爲心厄苦，久念與存亡
+zik6 wai4 sam1 ak1 fu2, gau2 nim6 jyu5 cyun4 mong4
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+汝書猶在壁，汝妾已辭房
+jyu5 syu1 jau4 zoi6 bik1, jyu5 cip3 ji5 ci4 fong4
+仄平平仄仄，仄仄仄平平（頷、頸聯平仄相同，不合律）
+-----------------------------------------------------
+舊犬知愁恨，垂頭傍我牀
+gau6 hyun2 zi1 sau4 han6, seoi4 tau4 bong6 ngo5 cong4
+仄仄平平仄，平平仄仄平
 
+〚3.2.5〛鄕：陽韻
+〚4.2.5〛亡：陽韻
+〚5.2.5〛房：陽韻
+〚6.2.5〛牀：陽韻
+
+五律
 
 
 =====================================================
 
 1243 觀兵
-gun3/gwun1/gwun3/gun1 bing1 
+gun1 bing1
 
 北庭送壯士，貔虎數尤多
-bui3/bui6/bak1 ting3/ting4 sung3 zong1/zong3 si6, pei4 fu2 sou2/sok3/cuk1/sou3 jau4 do1 
-精銳舊無敵，邊隅今若何
-zeng1/zing1 jeoi6 gau6 mo4/mou5/mou4 dik6, bin1 jyu4 gam1 je5/joek6 ho6/ho4 
-妖氛擁白馬，元帥待彫戈
-jiu2/jiu1 fan1 ung2/jung1/jung2 baak6/baak3 maa5, jyun4 seot1/seoi3 doi6 tiu1/diu1 go1/gwo1 
-莫守鄴城下，斬鯨遼海波
-mou6/mok6/mo2 sau3/sau2 jip6 seng4/sing4 haa5/haa2/haa6, zaam2 king4 liu4 hoi2 bo1 
-
+bak1 ting4 sung3 zong3 si6, pei4 fu2 sou3 jau4 do1
+仄平仄仄仄，平仄仄平平
 -----------------------------------------------------
-平平仄仄
+精銳舊無敵，邊隅今若何
+zing1 jeoi6 gau6 mou4 dik6, bin1 jyu4 gam1 joek6 ho4
+平仄仄平仄，平平平仄平（仄平仄對平仄平）
+-----------------------------------------------------
+妖氛擁白馬，元帥待彫戈
+jiu2 fan1 jung1 baak6 maa5, jyun4 seoi3 doi6 diu1 gwo1
+平平平仄仄，平仄仄平平
+-----------------------------------------------------
+莫守鄴城下，斬鯨遼海波
+mok6 sau2 jip6 sing4 haa6, zaam2 king4 liu4 hoi2 bo1
+仄仄仄平仄，仄平平仄平（仄平仄對平仄平）
 
+〚3.2.5〛多：歌韻
+〚4.2.5〛何：歌韻
+〚5.2.5〛戈：歌韻
+〚6.2.5〛波：歌韻
 
+五律
+
+〚5.1.3〛擁，平聲。
 
 =====================================================
 
 1245 不歸
-fau2/fau4/pei1/dan2/bat1/fu1 gwei1/gwai1 
-
+bat1 gwai1
 
 河間尙征伐，汝骨在空城
-ho4 gaan3/gaan1 soeng4/soeng6/soeng3 zing1 faat6/fat6, nei5/jyu5 gwu2/gwat1 zoi6 hung3/hung2/hung1 seng4/sing4 
-從弟人皆有，終身恨不平
-sung1/zung6/zung1/cung4/zung2/zung3/cung6 tai5/dai6 jan4/jan5 gaai1 jau6/jau5, zung1 gyun1/san1 han6 fau2/fau4/pei1/dan2/bat1/fu1 peng4/ping4/pin4/ping6 
-數金憐俊邁，總角愛聰明
-sou2/sok3/cuk1/sou3 gam1 leon6/lin4 zeon3 maai6, zung2 luk6/gok2/gok3 ngoi3/oi3 cung1 ming4 
-面上三年土，春風草又生
-min6 soeng5/saang3/soeng6 saam3/saam1/saam6 nin4 tou2, ceon1 fung3/fung2/fung1 cou2 jau6 sang1/saang1 
-
+ho4 gaan3 soeng6 zing1 fat6, jyu5 gwat1 zoi6 hung1 sing4
+平平仄平仄，仄仄仄平平（出句特定平仄）
 -----------------------------------------------------
-平平仄仄
+從弟人皆有，終身恨不平
+cung4 dai6/tai5 jan4 gaai1 jau5, zung1 san1 han6 bat1 ping4
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+數金憐俊邁，總角愛聰明
+sou3 gam1 lin4 zeon3 maai6, zung2 gok3 oi3 cung1 ming4
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+面上三年土，春風草又生
+min6 soeng6 saam1 nin4 tou2, ceon1 fung1 cou2 jau6 sang1
+仄仄平平仄，平平仄仄平
 
+〚3.2.5〛城：庚韻
+〚4.2.5〛平：庚韻
+〚5.2.5〛明：庚韻
+〚6.2.5〛生：庚韻
+
+五律
 
 
 =====================================================
 
 1248 獨立
-duk6 laap6/lap6 
-
+duk6 lap6 
 
 空外一鷙鳥，河間雙白鷗
-hung3/hung2/hung1 ngoi6 jat1 zi6/zi3 diu2/niu5, ho4 gaan3/gaan1 soeng1 baak6/baak3 ngau1/au1 
-飄颻搏擊便，容易往來遊
-piu1/liu4/lau4 jiu4 bok1/bok3 gik1 pin4/bin6, jung4 jik6/ji6 wong6/wong5 loi6/lai4/loi4 jau4 
-草露亦多濕，蛛絲仍未收
-cou2 lau6/lou6 jik6 do1 taap3/sap1, zyu1 si1 jing4 mei6 sau3/sau1 
-1248 天機近人事，獨立萬端憂
-tin1 gi1/gei1 kan5/gan3/gei3/gan6 jan4/jan5 si6, duk6 laap6/lap6 maan6 dyun1 jau1 
-
+hung1 ngoi6 jat1 zi3 niu5, ho4 gaan1 soeng1 baak6 au1
+平仄仄仄仄，平平平仄平
 -----------------------------------------------------
-平平仄仄
+飄颻搏擊便，容易往來遊
+piu1 jiu4 bok3 gik1 bin6, jung4 ji6 wong5 loi4 jau4
+平平仄仄仄，仄仄仄平平
+-----------------------------------------------------
+草露亦多濕，蛛絲仍未收
+cou2 lou6 jik6 do1 sap1, zyu1 si1 jing4 mei6 sau1
+仄仄仄平仄，平平平仄平
+-----------------------------------------------------
+1248 天機近人事，獨立萬端憂
+tin1 gei1 gan6 jan4 si6, duk6 lap6 maan6 dyun1 jau1
+平平仄仄仄，仄仄仄平平
 
+〚3.2.5〛鷗：尤韻
+〚4.2.5〛遊：尤韻
+〚5.2.5〛收：尤韻
+〚6.2.5〛憂：尤韻
 
+五律
 
 =====================================================
 
-1252 洗兵馬[收京後作]
-sin2/sai2 bing1 maa5 unknown sau3/sau1 jyun4/ging1 hau5/hau6 zo3/zou6/zou3/zok3 unknown 
-
+1252 洗兵馬
+sai2 bing1 maa5
 
 中興諸將收山東，捷書夕報清晝同
-zung3/zung1 hing3/hing1/jan6 zyu1 zoeng3/coeng1/zoeng1 sau3/sau1 saan1 dung1, cip3/zip6/zit3/zit6/zip3 syu1 zik6 bou3 ceng1/cing1 zau3 tung4 
+zung1 hing1 zyu1 zoeng3 sau1 saan1 dung1, zit6 syu1 zik6 bou3 cing1 zau3 tung4
+-----------------------------------------------------
 河廣傳聞一葦過，胡危命在破竹中
-ho4 gwong2/gwong3 zyun6/zyun2/cyun4/zyun3/cyun6 man6/man4 jat1 wai2/wai5 gwo1/gwo3, wu4 ngai4 meng6/ming6 zoi6 po3 zuk1 zung3/zung1 
+ho4 gwong2 cyun4 man4 jat1 wai5 gwo3, wu4 ngai4 ming6 zoi6 po3 zuk1 zung1
+-----------------------------------------------------
 祇殘鄴城不日得，獨任朔方無限功
-zi2/zi1/kei4 caan4 jip6 seng4/sing4 fau2/fau4/pei1/dan2/bat1/fu1 mik6/jat6 dak1, duk6 jam4/jam6 sok3 fong1 mo4/mou5/mou4 haan6 gung1 
+zi2 caan4 jip6 sing4 bat1 jat6 dak1, duk6 jam6 sok3 fong1 mou4 haan6 gung1
+-----------------------------------------------------
 京師皆騎汗血馬，回紇餧肉蒲萄宮
-jyun4/ging1 si1 gaai1 ke4/kei3/gei6/kei5/kei4/gei3 hon4/hon6 hyut3 maa5, wui6/wui4 gat1/ngat6/hat6 noi5/neoi5/wai3 jau6/nau6/juk6 bok6/pou4 tou4 gung1 
+ging1 si1 gaai1 kei4 hon6 hyut3 maa5, wui4 hat6 wai3 juk6 pou4 tou4 gung1
+-----------------------------------------------------
 已喜皇威清海岱，常思仙仗過崆峒
-ji3/ji5 hei3/ci3/hei2 wong4 wai1 ceng1/cing1 hoi2 doi6, soeng4 si3/soi1/si1/si6 sin1 zoeng3/zoeng6 gwo1/gwo3 hung1 dung6/tung4/dung4 
+ji5 hei2 wong4 wai1 cing1 hoi2 doi6, soeng4 si1 sin1 zoeng6 gwo3 hung1 tung4
+-----------------------------------------------------
 三年笛裏關山月，萬國兵前草木風
-saam3/saam1/saam6 nin4 dek2/dik6/dek6 leoi5/lei5 waan1/gwaan1 saan1 jyut6, maan6 gwok3 bing1 cin4 cou2 muk6 fung3/fung2/fung1 
+saam1 nin4 dek6 leoi5 gwaan1 saan1 jyut6, maan6 gwok3 bing1 cin4 cou2 muk6 fung1
+-----------------------------------------------------
 成王功大心轉小，郭相謀深古來少
-seng4/cing4/sing4 wong6/wong4 gung1 taai3/daai6 sam1 zyun3/zyun2 siu2, kwok3/gwik1/gwok3 soeng3/soeng2/soeng1 maau4/mau4 sam1 gwu2/gu2 loi6/lai4/loi4 siu3/siu2 
+sing4 wong4 gung1 daai6 sam1 zyun2 siu2, gwok3 soeng3 mau4 sam1 gu2 loi4 siu2
+-----------------------------------------------------
 司徒清鑒懸明鏡，尙書氣與秋天杳
-si1 tou4 ceng1/cing1 gaam3/haam6 jyun6/jyun4/hyun4 ming4 ging3/geng3, soeng4/soeng6/soeng3 syu1 hei3 jyu6/jyu4/jyu5 cau1 tin1 jiu2/miu5 
+si1 tou4 cing1 gaam3 jyun4 ming4 geng3, soeng6 syu1 hei3 jyu5 cau1 tin1 miu5
+-----------------------------------------------------
 二三豪俊爲時出，整頓乾坤濟時了
-ji6/ji3 saam3/saam1/saam6 hou4 zeon3 wai6/wai4 si4 ceoi3/ceot1, zing2/zeng2 duk6/deon3/deon6 gon1/kin4 kwan1 zai2/zai3 si4 liu2/laa2/liu5 
+ji6 saam1 hou4 zeon3 wai4 si4 ceot1, zing2 deon6 kin4 kwan1 zai3 si4 liu5
+-----------------------------------------------------
 東走無復憶鱸魚，南飛覺有安巢鳥
-dung1 zau2 mo4/mou5/mou4 fau6/fuk1/fuk6 jik1 lou4 jyu4, naa1/naa4/naam4 fei1 gaau3/gok3/gau3/gaau4 jau6/jau5 ngon1/on1 caau4 diu2/niu5 
+dung1 zau2 mou4 fau6 jik1 lou4 jyu4, naam4 fei1 gok3 jau5 on1 caau4 niu5
+-----------------------------------------------------
 青春復隨冠冕入，紫禁正耐煙花繞
-ceng1/zing1/cing1 ceon1 fau6/fuk1/fuk6 ceoi4 gun3/gwun1/gwun3/gun1 min5 jap6, zi2 kam1/gam1/kam3/gam3 zing1/zeng3/zing2/zing3 nang4/noi6 jin1 faa1 jiu2/jiu5 
+cing1 ceon1 fau6 ceoi4 gun1 min5 jap6, zi2 gam3 zing3 noi6 jin1 faa1 jiu2
+-----------------------------------------------------
 鶴駕通霄鳳輦備，雞鳴問寢龍樓曉
-hok2/hok6 gaa3 tung1 siu1 fung6 lim5/lim3/lim6/tim5/tim3/lin5 bei6, gai1 ming4 man6 cam2 cung2/lung4/pong4 lau4 hiu2 
+hok6 gaa3 tung1 siu1 fung6 lin5 bei6, gai1 ming4 man6 cam2 lung4 lau4 hiu2
+-----------------------------------------------------
 攀龍附鳳世莫當，天下盡化爲侯王
-paan1 cung2/lung4/pong4 fu6 fung6 sai3 mou6/mok6/mo2 dong3/dong2/dong1, tin1 haa5/haa2/haa6 zeon6 faa1/faa3 wai6/wai4 hau6/hau4 wong6/wong4 
+paan1 lung4 fu6 fung6 sai3 mok6 dong1, tin1 haa6 zeon6 faa3 wai4 hau4 wong4
+-----------------------------------------------------
 汝等豈知蒙帝力，時來不得誇身強
-nei5/jyu5 dang2 hoi2/hei2 zi3/zi1 mung4 dai3/dai6 lik6, si4 loi6/lai4/loi4 fau2/fau4/pei1/dan2/bat1/fu1 dak1 kwaa1 gyun1/san1 koeng5/goeng6/koeng3/koeng4/koeng6/goeng5 
+jyu5 dang2 hei2 zi1 mung4 dai3 lik6, si4 loi4 bat1 dak1 kwaa1 san1 koeng4
+-----------------------------------------------------
 關中旣留蕭丞相，幕下復用張子房
-waan1/gwaan1 zung3/zung1 gei3 lau6/lau4 siu1 cing2/sing4 soeng3/soeng2/soeng1, mok3/mok6 haa5/haa2/haa6 fau6/fuk1/fuk6 jung6/ung6 zoeng3/zoeng1 zi2 pong4/fong2/fong4 
+gwaan1 zung1 gei3 lau4 siu1 sing4 soeng3, mok6 haa6 fau6 jung6 zoeng1 zi2 fong4
+-----------------------------------------------------
 張公一生江海客，身長九尺鬚眉蒼
-zoeng3/zoeng1 gung1 jat1 sang1/saang1 gong1 hoi2 haak3, gyun1/san1 zoeng2/zoeng6/coeng4 gau2/kau4 ce2/ce1/cik3/cik1/cek3/cik6/cek6 sou1/seoi1 mei4 cong2/cong1 
+zoeng1 gung1 jat1 sang1 gong1 hoi2 haak3, san1 coeng4 gau2 cek3 sou1 mei4 cong1
+-----------------------------------------------------
 徵起適遇風雲會，扶顚始知籌策良
-zi2/cing4/zing1 hei2 dik1/zaak6/tik1/dik6/zaak3/sik1 jyu6 fung3/fung2/fung1 wan4 wui5/kui2/kwui2/kwui3/kui3/wui6/fui2/wui3, pou4/fu4 din1 ci3/si2/ci2 zi3/zi1 cau4 caak3 loeng4 
+zing1 hei2 sik1 jyu6 fung1 wan4 wui6, fu4 din1 ci2 zi1 cau4 caak3 loeng4
+-----------------------------------------------------
 青袍白馬更何有，後漢今周喜再昌
-ceng1/zing1/cing1 pou4/po4 baak6/baak3 maa5 gang3/gaang1/gaang3/gang1/ang3 ho6/ho4 jau6/jau5, hau5/hau6 hon3 gam1 zau1 hei3/ci3/hei2 zoi3 coeng1 
+cing1 pou4 baak6 maa5 gang3 ho4 jau5, hau6 hon3 gam1 zau1 hei2 zoi3 coeng1
+-----------------------------------------------------
 寸地尺天皆入貢，奇祥異瑞爭來送
-cyun3 dei6 ce2/ce1/cik3/cik1/cek3/cik6/cek6 tin1 gaai1 jap6 gung3, gei1/kei4 coeng4 ji6 seoi6 zaang1/zam2/zaang3/zang1/zang6 loi6/lai4/loi4 sung3 
+cyun3 dei6 cek3 tin1 gaai1 jap6 gung3, kei4 coeng4 ji6 seoi6 zang1 loi4 sung3
+-----------------------------------------------------
 不知何國致白環，復道諸山得銀甕
-fau2/fau4/pei1/dan2/bat1/fu1 zi3/zi1 ho6/ho4 gwok3 zi3 baak6/baak3 waan4, fau6/fuk1/fuk6 dou6/dou5 zyu1 saan1 dak1 ngan4 jung3/ngung3/ung3 
+bat1 zi1 ho4 gwok3 zi3 baak6 waan4, fau6 dou6 zyu1 saan1 dak1 ngan4 ung3
+-----------------------------------------------------
 隱士休歌紫芝曲，詞人解撰清河頌
-jan5/jan6/jan2/jan3 si6 jau1/jyu3 go1 zi2 zi1 huk1/kuk1/guk1, ci4 jan4/jan5 gaai3/haai6/gaai2 syun2/zyun2/zaan6/syun3 ceng1/cing1 ho4 jung4/zung6/cung6 
+jan2 si6 jau1 go1 zi2 zi1 kuk1, ci4 jan4 gaai2 zaan6 cing1 ho4 zung6
+-----------------------------------------------------
 田家望望惜雨乾，布穀處處催春種
-tin4 gu1/gwu1/gaa1 mong4/mong6 mong4/mong6 sek3/sik1 jyu6/jyu3/jyu5 gon1/kin4, bou3 guk1 cyu2/syu3/cyu3 cyu2/syu3/cyu3 ceoi1 ceon1 zung3/zung2 
+tin4 gaa1 mong6 mong6 sik1 jyu5 gon1, bou3 guk1 cyu3 cyu3 ceoi1 ceon1 zung3
+-----------------------------------------------------
 淇上健兒歸莫懶，城南思婦愁多夢
-kei4 soeng5/saang3/soeng6 gin6 ngai4/ji1/ji4 gwei1/gwai1 mou6/mok6/mo2 laai6/laan5/laam5, seng4/sing4 naa1/naa4/naam4 si3/soi1/si1/si6 fu5 sau4/cau1 do1 mung4/mung5/mung6 
+kei4 soeng6 gin6 ji4 gwai1 mok6 laan5, sing4 naam4 si1 fu5 sau4 do1 mung6
+-----------------------------------------------------
 安得壯士挽天河，淨洗甲兵長不用
-ngon1/on1 dak1 zong1/zong3 si6 waan2/waan1/waan5 tin1 ho4, zeng6/zing6 sin2/sai2 gaap3 bing1 zoeng2/zoeng6/coeng4 fau2/fau4/pei1/dan2/bat1/fu1 jung6/ung6 
+on1 dak1 zong3 si6 waan5 tin1 ho4, zing6 sai2 gaap3 bing1 coeng4 bat1 jung6
 
+〚3.1.7〛東：東韻
+〚3.2.7〛同：東韻
+〚4.2.7〛中：東韻
+〚5.2.7〛功：東韻
+〚6.2.7〛宮：東韻
+〚7.2.7〛峒：東韻
+〚8.2.7〛風：東韻
+〚9.2.7〛少：筱韻
+〚10.2.7〛杳：筱韻
+〚11.2.7〛了：筱韻
+〚12.2.7〛鳥：筱韻
+〚13.2.7〛繞：筱韻
+〚14.2.7〛曉：筱韻
+〚15.2.7〛王：陽韻
+〚16.2.7〛強：陽韻
+〚17.2.7〛房：陽韻
+〚18.2.7〛蒼：陽韻
+〚19.2.7〛良：陽韻
+〚20.2.7〛昌：陽韻
+〚21.2.7〛送：送韻
+〚22.2.7〛甕：送韻
+〚23.2.7〛頌：宋韻
+〚24.2.7〛種：宋韻
+〚25.2.7〛夢：送韻
+〚26.2.7〛用：宋韻
+
+七古
 
 =====================================================
 
-1276 重題鄭氏東亭[在新安界]
-cung4/cung5/cung3/zung6/tung4/zung3 dai6/tai4 zing6/zeng6/cing6 zi1/si6 dung1 ting4 unknown zoi6 san1 ngon1/on1 gaai3 unknown 
-
+1276 重題鄭氏東亭
+cung4 tai4 zeng6 si6 dung1 ting4
 
 華亭入翠微，秋日亂清輝
-waa6/faa1/waa4/waa1 ting4 jap6 ceoi3 mei4, cau1 mik6/jat6 lyun6 ceng1/cing1 wai1/fai1 
-崩石攲山樹，清漣曳水衣
-bang1 daam3/sek6/sik6 hei1/kei1/ji1/ji2/o1 saan1 syu5/syu6, ceng1/cing1 lin4 jai6 seoi2 ji3/ji1 
-紫鱗衝岸躍，蒼隼護巢歸
-zi2 leon4 cung3/cung1 ngon6 joek3/tik1/joek6, cong2/cong1 zeon2 wu6 caau4 gwei1/gwai1 
-向晚尋征路，殘雲傍馬飛
-hoeng3 maan5 cam4 zing1 lou6, caan4 wan4 pong4/bong1/bong6/bang1 maa5 fei1 
-
+waa4 ting4 jap6 ceoi3 mei4, cau1 jat6 lyun6 cing1 fai1
+平平仄仄平，平仄仄平平
 -----------------------------------------------------
-平平仄仄
+崩石攲山樹，清漣曳水衣
+bang1 sek6 kei1 saan1 syu6, cing1 lin4 jai6 seoi2 ji1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+紫鱗衝岸躍，蒼隼護巢歸
+zi2 leon4 cung1 ngon6 joek3, cong1 zeon2 wu6 caau4 gwai1
+平平平仄仄，平仄仄平平
+-----------------------------------------------------
+向晚尋征路，殘雲傍馬飛
+hoeng3 maan5 cam4 zing1 lou6, caan4 wan4 bong6 maa5 fei1
+仄仄平平仄，平平仄仄平
 
+〚3.2.5〛輝：微韻
+〚4.2.5〛衣：微韻
+〚5.2.5〛歸：微韻
+〚6.2.5〛飛：微韻
 
+五律
 
 =====================================================
 
-1280 新安吏[收京後作，雖收兩京，賊猶充斥]
-san1 ngon1/on1 lei6 unknown sau3/sau1 jyun4/ging1 hau5/hau6 zo3/zou6/zou3/zok3, seoi1 sau3/sau1 loeng2/loeng6/loeng3/loeng5 jyun4/ging1, cak6/caak3/caak6/zak6 jau4 cung1 cik1 unknown 
-
+1280 新安吏
+san1 on1 lei6
 
 客行新安道，喧呼聞點兵
-haak3 hang6/hong4/haang4/hong6/hong5/hang4 san1 ngon1/on1 dou6/dou5, hyun1 fu1/ho6 man6/man4 dim2 bing1 
-1280 借問新安吏，縣小更無丁
-ze6/ze3/ze2 man6 san1 ngon1/on1 lei6, jyun4/jyun2/jyun6/hyun4/hyun6 siu2 gang3/gaang1/gaang3/gang1/ang3 mo4/mou5/mou4 zaang1/zang1/ding1 
-府帖昨夜下，次選中男行
-fu2 tip3 zok3/zok6 je6 haa5/haa2/haa6, zi1/ci3/ci6 syun3/syun6/syun2/saat3 zung3/zung1 naam4 hang6/hong4/haang4/hong6/hong5/hang4 
-中男絕短小，何以守王城
-zung3/zung1 naam4 zyut3/zyut6/cyut6 dyun2/deon2 siu2, ho6/ho4 ji5 sau3/sau2 wong6/wong4 seng4/sing4 
-肥男有母送，瘦男獨伶俜
-fei4 naam4 jau6/jau5 mou4/mou5/mo5 sung3, jyu2/sau3 naam4 duk6 ling4 ping3/ping1 
-白水暮東流，青山猶哭聲
-baak6/baak3 seoi2 mou6 dung1 lau4, ceng1/zing1/cing1 saan1 jau4 huk1 seng1/sing1 
-莫自使眼枯，收汝淚縱橫
-mou6/mok6/mo2 zi6 si3/sai2/si2 ngaan5/han2 gu1/kwu1/fu1, sau3/sau1 nei5/jyu5 leoi6 zung1/zung2/zung3 waang6/gong3/waang4/wang6 
-眼枯卽見骨，天地終無情
-ngaan5/han2 gu1/kwu1/fu1 zik1 jin6/gin3/hin3 gwu2/gwat1, tin1 dei6 zung1 mo4/mou5/mou4 cing4/ceng4 
-我軍取相州，日夕望其平
-ngo5 gwan1 ceoi2 soeng3/soeng2/soeng1 zau1, mik6/jat6 zik6 mong4/mong6 gei1/kei4/gei4/gei3 peng4/ping4/pin4/ping6 
-豈意賊難料，歸軍星散營
-hoi2/hei2 ji3 cak6/caak3/caak6/zak6 naan6/no4/naan4 liu4/liu6/liu2, gwei1/gwai1 gwan1 seng1/sing1 saan2/saan3 jing4 
-就糧近故壘，練卒依舊京
-zau6 loeng4 kan5/gan3/gei3/gan6 gwu3/gu3/geoi3 leot6/leoi4/leoi5, lin6 cyut3/ceoi3/zeot1/zat1 ji1/ji2 gau6 jyun4/ging1 
-掘壕不到水，牧馬役亦輕
-fat1/wat1/gwat6/kyut3 hou4/ho4 fau2/fau4/pei1/dan2/bat1/fu1 dou3/dou6 seoi2, muk6 maa5 jik6 jik6 heng1/hing3/hing1 
-況乃王師順，撫養甚分明
-fong2/kwong3/fong3 oi2/naai5 wong6/wong4 si1 seon6, mou4/fu2 joeng6/joeng5 sap6/sam4/sam6 fan6/fan3/fan1 ming4 
-送行勿泣血，僕射如父兄
-sung3 hang6/hong4/haang4/hong6/hong5/hang4 mut6/mat6 jap1 hyut3, buk6 jik6/je6/sik6/se6/se3 jyu4 fu2/fu6 fong3/hing1/fong2 
-
+haak3 hang4 san1 on1 dou6, hyun1 fu1 man4 dim2 bing1
 -----------------------------------------------------
-平平仄仄
+1280 借問新安吏，縣小更無丁
+ze3 man6 san1 on1 lei6, jyun6 siu2 gang3 mou4 ding1
+-----------------------------------------------------
+府帖昨夜下，次選中男行
+fu2 tip3 zok3 je6 haa6, ci3 syun2 zung1 naam4 hang4
+-----------------------------------------------------
+中男絕短小，何以守王城
+zung1 naam4 zyut6 dyun2 siu2, ho4 ji5 sau2 wong4 sing4
+-----------------------------------------------------
+肥男有母送，瘦男獨伶俜
+fei4 naam4 jau5 mou5 sung3, sau3 naam4 duk6 ling4 ping1
+-----------------------------------------------------
+白水暮東流，青山猶哭聲
+baak6 seoi2 mou6 dung1 lau4, cing1 saan1 jau4 huk1 sing1
+-----------------------------------------------------
+莫自使眼枯，收汝淚縱橫
+mok6 zi6 si2 ngaan5 fu1, sau1 jyu5 leoi6 zung1 waang4
+-----------------------------------------------------
+眼枯卽見骨，天地終無情
+ngaan5 fu1 zik1 gin3 gwat1, tin1 dei6 zung1 mou4 cing4
+-----------------------------------------------------
+我軍取相州，日夕望其平
+ngo5 gwan1 ceoi2 soeng1 zau1, jat6 zik6 mong6 kei4 ping4
+-----------------------------------------------------
+豈意賊難料，歸軍星散營
+hei2 ji3 caak6 naan4 liu6, gwai1 gwan1 sing1 saan3 jing4
+-----------------------------------------------------
+就糧近故壘，練卒依舊京
+zau6 loeng4 gan6 gu3 leoi5, lin6 zeot1 ji1 gau6 ging1
+-----------------------------------------------------
+掘壕不到水，牧馬役亦輕
+gwat6 hou4 bat1 dou3 seoi2, muk6 maa5 jik6 jik6 hing1
+-----------------------------------------------------
+況乃王師順，撫養甚分明
+fong3 naai5 wong4 si1 seon6, fu2 joeng5 sam6 fan1 ming4
+-----------------------------------------------------
+送行勿泣血，僕射如父兄
+sung3 hang4 mat6 jap1 hyut3, buk6 jik6 jyu4 fu6 hing1
+
+〚3.2.5〛兵：庚韻
+〚4.2.5〛丁：青韻
+〚5.2.5〛行：庚韻
+〚6.2.5〛城：庚韻
+〚7.2.5〛俜：青韻
+〚8.2.5〛聲：庚韻
+〚9.2.5〛橫：庚韻
+〚10.2.5〛情：庚韻
+〚11.2.5〛平：庚韻
+〚12.2.5〛營：庚韻
+〚13.2.5〛京：庚韻
+〚14.2.5〛輕：庚韻
+〚15.2.5〛明：庚韻
+〚16.2.5〛兄：庚韻
+
+五古
+
 
 
 
 =====================================================
 
 1288 石壕吏
-daam3/sek6/sik6 hou4/ho4 lei6 
-
+sek6 hou4 lei6
 
 暮投石壕村，有吏夜捉人
-mou6 tau4 daam3/sek6/sik6 hou4/ho4 cyun1, jau6/jau5 lei6 je6 zuk1/zuk3/zoek3 jan4/jan5 
-老翁踰牆走，老婦出門看
-lou5 jung1 jyu4/jyu6 coeng4 zau2, lou5 fu5 ceoi3/ceot1 mun4 hon1/hon3 
-吏呼一何怒，婦啼一何苦
-lei6 fu1/ho6 jat1 ho6/ho4 nau1/naau1/nou6/no6, fu5 tai4 jat1 ho6/ho4 fu2/geoi2 
-聽婦前致詞，三男鄴城戍
-teng1/ting1/ting3/teng3 fu5 cin4 zi3 ci4, saam3/saam1/saam6 naam4 jip6 seng4/sing4 seot1/syu3 
-一男附書至，二男新戰死
-jat1 naam4 fu6 syu1 zi3, ji6/ji3 naam4 san1 zin3 si2/sei2 
-存者且偸生，死者長已矣
-cyun4 ze2 zeoi1/cou4/ceoi6/ce2 tau1 sang1/saang1, si2/sei2 ze2 zoeng2/zoeng6/coeng4 ji3/ji5 ji5 
-室中更無人，惟有乳下孫
-sat1 zung3/zung1 gang3/gaang1/gaang3/gang1/ang3 mo4/mou5/mou4 jan4/jan5, wai4 jau6/jau5 jyu5 haa5/haa2/haa6 seon3/syun1 
-有孫母未去，出入無完裙
-jau6/jau5 seon3/syun1 mou4/mou5/mo5 mei6 heoi2/heoi3/keoi1, ceoi3/ceot1 jap6 mo4/mou5/mou4 jyun4 kwan4 
-老嫗力雖衰，請從吏夜歸
-lou5 jyu3/jyu5/jyu6/keoi1/jyu2 lik6 seoi1 ceoi1/so1/seoi1, ceng2/cing3/cing2 sung1/zung6/zung1/cung4/zung2/zung3/cung6 lei6 je6 gwei1/gwai1 
-急應河陽役，猶得備晨炊
-gap1 jing3/jing1 ho4 joeng4 jik6, jau4 dak1 bei6 san4 ceoi1/ceoi3 
-夜久語聲絕，如聞泣幽咽
-je6 gau2 jyu6/jyu3/jyu5 seng1/sing1 zyut3/zyut6/cyut6, jyu4 man6/man4 jap1 jau1 jin1/jin3/jit3 
-天明登前途，獨與老翁別
-tin1 ming4 dang1 cin4 tou4, duk6 jyu6/jyu4/jyu5 lou5 jung1 bit3/bit6 
-
+mou6 tau4 sek6 hou4 cyun1, jau5 lei6 je6 zuk1 jan4
 -----------------------------------------------------
-平平仄仄
+老翁踰牆走，老婦出門看
+lou5 jung1 jyu4 coeng4 zau2, lou5 fu5 ceot1 mun4 hon1
+-----------------------------------------------------
+吏呼一何怒，婦啼一何苦
+lei6 fu1 jat1 ho4 nou6, fu5 tai4 jat1 ho4 fu2
+-----------------------------------------------------
+聽婦前致詞，三男鄴城戍
+ting1 fu5 cin4 zi3 ci4, saam1 naam4 jip6 sing4 syu3
+-----------------------------------------------------
+一男附書至，二男新戰死
+jat1 naam4 fu6 syu1 zi3, ji6 naam4 san1 zin3 sei2
+-----------------------------------------------------
+存者且偸生，死者長已矣
+cyun4 ze2 ce2 tau1 sang1, sei2 ze2 coeng4 ji5 ji5
+-----------------------------------------------------
+室中更無人，惟有乳下孫
+sat1 zung1 gang3 mou4 jan4, wai4 jau5 jyu5 haa6 syun1
+-----------------------------------------------------
+有孫母未去，出入無完裙
+jau5 syun1 mou5 mei6 heoi3, ceot1 jap6 mou4 jyun4 kwan4
+-----------------------------------------------------
+老嫗力雖衰，請從吏夜歸
+lou5 jyu2 lik6 seoi1 seoi1, cing2 cung4 lei6 je6 gwai1
+-----------------------------------------------------
+急應河陽役，猶得備晨炊
+gap1 jing3 ho4 joeng4 jik6, jau4 dak1 bei6 san4 ceoi1
+-----------------------------------------------------
+夜久語聲絕，如聞泣幽咽
+je6 gau2 jyu5 sing1 zyut6, jyu4 man4 jap1 jau1 jit3
+-----------------------------------------------------
+天明登前途，獨與老翁別
+tin1 ming4 dang1 cin4 tou4, duk6 jyu5 lou5 jung1 bit6
 
+〚3.1.5〛村：元韻
+〚3.2.5〛人：眞韻
+〚4.2.5〛看：寒韻
+〚5.2.5〛苦：遇韻
+〚6.2.5〛戍：遇韻
+〚7.2.5〛死：紙韻
+〚8.2.5〛矣：紙韻
+〚9.2.5〛孫：元韻
+〚10.2.5〛裙：文韻
+〚11.2.5〛歸：微韻
+〚12.2.5〛炊：支韻
+〚13.2.5〛咽：屑韻
+〚14.2.5〛別：屑韻
 
+五古
+
+十一眞、十二文、十三元、十四寒，鄰韻。
+四支、五微，鄰韻。
 
 =====================================================
 
 1294 潼關吏
-tung4 waan1/gwaan1 lei6 
-
+tung4 gwaan1 lei6
 
 士卒何草草，築城潼關道
-si6 cyut3/ceoi3/zeot1/zat1 ho6/ho4 cou2 cou2, zuk1 seng4/sing4 tung4 waan1/gwaan1 dou6/dou5 
-大城鐵不如，小城萬丈餘
-taai3/daai6 seng4/sing4 tit3 fau2/fau4/pei1/dan2/bat1/fu1 jyu4, siu2 seng4/sing4 maan6 zoeng6 jyu4 
-1294 借問潼關吏，修關還備胡
-ze6/ze3/ze2 man6 tung4 waan1/gwaan1 lei6, sau1 waan1/gwaan1 syun4/waan4/waan6 bei6 wu4 
-要我下馬行，爲我指山隅
-jiu1/jiu3 ngo5 haa5/haa2/haa6 maa5 hang6/hong4/haang4/hong6/hong5/hang4, wai6/wai4 ngo5 zi2 saan1 jyu4 
-連雲列戰格，飛鳥不能踰
-lin4 wan4 laat6/lit6 zin3 gok3/gaak3/gak1, fei1 diu2/niu5 fau2/fau4/pei1/dan2/bat1/fu1 noi6/nang4/nang1 jyu4/jyu6 
-胡來但自守，豈復憂西都
-wu4 loi6/lai4/loi4 daan6 zi6 sau3/sau2, hoi2/hei2 fau6/fuk1/fuk6 jau1 sai1 dou1 
-丈人視要處，窄狹容單車
-zoeng6 jan4/jan5 si6 jiu1/jiu3 cyu2/syu3/cyu3, zaak3/zak1 gip6/hap6/haap3/haap6 jung4 sin6/sin4/sim4/daan1/sin5 geoi1/ce1/gu1 
-艱難奮長戟，千古用一夫
-gaan1 naan6/no4/naan4 fan5 zoeng2/zoeng6/coeng4 gik1, cin1 gwu2/gu2 jung6/ung6 jat1 fu4/fu1 
-哀哉桃林戰，百萬化爲魚
-ngoi1/ngai1/oi1 zoi1 tou4 lam4 zin3, mak6/baak3 maan6 faa1/faa3 wai6/wai4 jyu4 
-請囑防關將，愼勿學哥舒
-ceng2/cing3/cing2 zuk3/zuk1 fong4 waan1/gwaan1 zoeng3/coeng1/zoeng1, san6 mut6/mat6 hok6 go1 syu1 
-
+si6 zeot1 ho4 cou2 cou2, zuk1 sing4 tung4 gwaan1 dou6
 -----------------------------------------------------
-平平仄仄
+大城鐵不如，小城萬丈餘
+daai6 sing4 tit3 bat1 jyu4, siu2 sing4 maan6 zoeng6 jyu4
+-----------------------------------------------------
+1294 借問潼關吏，修關還備胡
+ze3 man6 tung4 gwaan1 lei6, sau1 gwaan1 waan4 bei6 wu4
+-----------------------------------------------------
+要我下馬行，爲我指山隅
+jiu1 ngo5 haa6 maa5 hang4, wai6 ngo5 zi2 saan1 jyu4
+-----------------------------------------------------
+連雲列戰格，飛鳥不能踰
+lin4 wan4 lit6 zin3 gaak3, fei1 niu5 bat1 nang4 jyu4
+-----------------------------------------------------
+胡來但自守，豈復憂西都
+wu4 loi4 daan6 zi6 sau2, hei2 fau6 jau1 sai1 dou1
+-----------------------------------------------------
+丈人視要處，窄狹容單車
+zoeng6 jan4 si6 jiu3 cyu3, zaak3 haap6 jung4 daan1 geoi1
+-----------------------------------------------------
+艱難奮長戟，千古用一夫
+gaan1 naan4 fan5 coeng4 gik1, cin1 gu2 jung6 jat1 fu1
+-----------------------------------------------------
+哀哉桃林戰，百萬化爲魚
+oi1 zoi1 tou4 lam4 zin3, baak3 maan6 faa3 wai4 jyu4
+-----------------------------------------------------
+請囑防關將，愼勿學哥舒
+cing2 zuk1 fong4 gwaan1 zoeng3, san6 mat6 hok6 go1 syu1
 
+〚3.1.5〛草：皓韻
+〚3.2.5〛道：皓韻
+〚4.2.5〛餘：魚韻
+〚5.2.5〛胡：虞韻
+〚6.2.5〛隅：虞韻
+〚7.2.5〛踰：虞韻
+〚8.2.5〛都：虞韻
+〚9.2.5〛車：魚韻
+〚10.2.5〛夫：虞韻
+〚11.2.5〛魚：魚韻
+〚12.2.5〛舒：魚韻
 
+五古
+
+〚3.2.5〛道，上聲。
+六魚、七虞，鄰韻。
 
 =====================================================
 
 1299 新婚別
-san1 fan1 bit3/bit6 
-
+san1 fan1 bit6
 
 兔絲附蓬麻，引蔓故不長
-tou3/to3 si1 fu6 fung4/pung4 maa4, jan6/jan5 maan4/maan6 gwu3/gu3/geoi3 fau2/fau4/pei1/dan2/bat1/fu1 zoeng2/zoeng6/coeng4 
-嫁女與征夫，不如棄路傍
-gaa3 jyu5/neoi6/neoi2/neoi5 jyu6/jyu4/jyu5 zing1 fu4/fu1, fau2/fau4/pei1/dan2/bat1/fu1 jyu4 hei3 lou6 pong4/bong1/bong6/bang1 
-結髮爲妻子，席不暖君牀
-gai1/gai3/git3/hai6 faat3 wai6/wai4 cai3/cai1 zi2, zek6/zik6 fau2/fau4/pei1/dan2/bat1/fu1 hyun1/nyun5 gwan1 cong4 
-暮婚晨告別，無乃太匆忙
-mou6 fan1 san4 guk1/gou3 bit3/bit6, mo4/mou5/mou4 oi2/naai5 taai3 cung1 mong4 
-君行雖不遠，守邊赴河陽
-gwan1 hang6/hong4/haang4/hong6/hong5/hang4 seoi1 fau2/fau4/pei1/dan2/bat1/fu1 jyun6/jyun3/jyun5, sau3/sau2 bin1 fu3/fu6 ho4 joeng4 
-妾身未分明，何以拜姑嫜
-cip3 gyun1/san1 mei6 fan6/fan3/fan1 ming4, ho6/ho4 ji5 baai3/bai3 gwu1/gu1 zoeng1 
-父母養我時，日夜令我藏
-fu2/fu6 mou4/mou5/mo5 joeng6/joeng5 ngo5 si4, mik6/jat6 je6 ling4/ling1/ling6 ngo5 cong4/zong1/zong6 
-生女有所歸，雞狗亦得將
-sang1/saang1 jyu5/neoi6/neoi2/neoi5 jau6/jau5 so2 gwei1/gwai1, gai1 gau2 jik6 dak1 zoeng3/coeng1/zoeng1 
-君今往死地，沉痛迫中腸
-gwan1 gam1 wong6/wong5 si2/sei2 dei6, zam6/cam4/taam4/sam2 tung3 bik1/baak3/baak1 zung3/zung1 coeng4 
-誓欲隨君去，形勢反蒼黃
-sai6 juk6 ceoi4 gwan1 heoi2/heoi3/keoi1, jing4 sai3 faan1/faan3/faan2 cong2/cong1 wong4 
-勿爲新婚念，努力事戎行
-mut6/mat6 wai6/wai4 san1 fan1 nim6, nou5 lik6 si6 jung4 hang6/hong4/haang4/hong6/hong5/hang4 
-婦人在軍中，兵氣恐不揚
-fu5 jan4/jan5 zoi6 gwan1 zung3/zung1, bing1 hei3 hung3/hung2 fau2/fau4/pei1/dan2/bat1/fu1 joeng4 
-自嗟貧家女，久致羅襦裳
-zi6 ze3/ze1 pan4 gu1/gwu1/gaa1 jyu5/neoi6/neoi2/neoi5, gau2 zi3 lo4 jyu4 soeng4 
-羅襦不復施，對君洗紅妝
-lo4 jyu4 fau2/fau4/pei1/dan2/bat1/fu1 fau6/fuk1/fuk6 ji6/si3/ci5/ci2/ji4/si1, deoi2/deoi3 gwan1 sin2/sai2 gung1/hung4 zong1 
-仰視百鳥飛，大小必雙翔
-joeng6/joeng5 si6 mak6/baak3 diu2/niu5 fei1, taai3/daai6 siu2 bit1/bit3 soeng1 coeng4 
-人事多錯迕，與君永相望
-jan4/jan5 si6 do1 cok3/cou3/co3/sik1 ng5/ng6, jyu6/jyu4/jyu5 gwan1 jung2/wing5 soeng3/soeng2/soeng1 mong4/mong6 
-
+tou3 si1 fu6 pung4 maa4, jan5 maan6 gu3 bat1 coeng4
 -----------------------------------------------------
-平平仄仄
+嫁女與征夫，不如棄路傍
+gaa3 neoi5 jyu5 zing1 fu1, bat1 jyu4 hei3 lou6 pong4
+-----------------------------------------------------
+結髮爲妻子，席不暖君牀
+git3 faat3 wai4 cai1 zi2, zik6 bat1 nyun5 gwan1 cong4
+-----------------------------------------------------
+暮婚晨告別，無乃太匆忙
+mou6 fan1 san4 gou3 bit6, mou4 naai5 taai3 cung1 mong4
+-----------------------------------------------------
+君行雖不遠，守邊赴河陽
+gwan1 hang4 seoi1 bat1 jyun5, sau2 bin1 fu6 ho4 joeng4
+-----------------------------------------------------
+妾身未分明，何以拜姑嫜
+cip3 san1 mei6 fan1 ming4, ho4 ji5 baai3 gu1 zoeng1
+-----------------------------------------------------
+父母養我時，日夜令我藏
+fu6 mou5 joeng5 ngo5 si4, jat6 je6 ling6 ngo5 cong4
+-----------------------------------------------------
+生女有所歸，雞狗亦得將
+sang1 neoi5 jau5 so2 gwai1, gai1 gau2 jik6 dak1 zoeng1
+-----------------------------------------------------
+君今往死地，沉痛迫中腸
+gwan1 gam1 wong5 sei2 dei6, cam4 tung3 bik1 zung1 coeng4
+-----------------------------------------------------
+誓欲隨君去，形勢反蒼黃
+sai6 juk6 ceoi4 gwan1 heoi3, jing4 sai3 faan2 cong1 wong4
+-----------------------------------------------------
+勿爲新婚念，努力事戎行
+mat6 wai6 san1 fan1 nim6, nou5 lik6 si6 jung4 hong4
+-----------------------------------------------------
+婦人在軍中，兵氣恐不揚
+fu5 jan4 zoi6 gwan1 zung1, bing1 hei3 hung2 bat1 joeng4
+-----------------------------------------------------
+自嗟貧家女，久致羅襦裳
+zi6 ze1 pan4 gaa1 neoi5, gau2 zi3 lo4 jyu4 soeng4
+-----------------------------------------------------
+羅襦不復施，對君洗紅妝
+lo4 jyu4 bat1 fau6 si1, deoi3 gwan1 sai2 hung4 zong1
+-----------------------------------------------------
+仰視百鳥飛，大小必雙翔
+joeng5 si6 baak3 niu5 fei1, daai6 siu2 bit1 soeng1 coeng4
+-----------------------------------------------------
+人事多錯迕，與君永相望
+jan4 si6 do1 co3 ng5, jyu5 gwan1 wing5 soeng1 mong4
 
+〚3.2.5〛長：陽韻
+〚4.2.5〛傍：陽韻
+〚5.2.5〛牀：陽韻
+〚6.2.5〛忙：陽韻
+〚7.2.5〛陽：陽韻
+〚8.2.5〛嫜：陽韻
+〚9.2.5〛藏：陽韻
+〚10.2.5〛將：陽韻
+〚11.2.5〛腸：陽韻
+〚12.2.5〛黃：陽韻
+〚13.2.5〛行：陽韻
+〚14.2.5〛揚：陽韻
+〚15.2.5〛裳：陽韻
+〚16.2.5〛妝：陽韻
+〚17.2.5〛翔：陽韻
+〚18.2.5〛望：陽韻
+
+五古
 
 
 =====================================================
 
 1308 垂老別
-seoi4 lou5 bit3/bit6 
-
+seoi4 lou5 bit6
 
 四郊未寧靜，垂老不得安
-si3/sei3 gaau1/gau1 mei6 ning6/ning4 zing6, seoi4 lou5 fau2/fau4/pei1/dan2/bat1/fu1 dak1 ngon1/on1 
-子孫陣亡盡，焉用身獨完
-zi2 seon3/syun1 zaan6/zan6 mou4/mong4 zeon6, jin1/jin4/hin4 jung6/ung6 gyun1/san1 duk6 jyun4 
-投杖出門去，同行爲辛酸
-tau4 zoeng6 ceoi3/ceot1 mun4 heoi2/heoi3/keoi1, tung4 hang6/hong4/haang4/hong6/hong5/hang4 wai6/wai4 san1 syun1 
-幸有牙齒存，所悲骨髓乾
-zap1/hang6 jau6/jau5 ngaa4 ci2 cyun4, so2 bei1 gwu2/gwat1 seoi2/seoi6/seoi5 gon1/kin4 
-男兒旣介胄，長揖別上官
-naam4 ngai4/ji1/ji4 gei3 gaai3 zau6, zoeng2/zoeng6/coeng4 cap1/jap1 bit3/bit6 soeng5/saang3/soeng6 gwun1/gun1/gyun1 
-老妻臥路啼，歲暮衣裳單
-lou5 cai3/cai1 ngo6 lou6 tai4, seoi3 mou6 ji3/ji1 soeng4 sin6/sin4/sim4/daan1/sin5 
-孰知是死別，且復傷其寒
-suk6 zi3/zi1 si6 si2/sei2 bit3/bit6, zeoi1/cou4/ceoi6/ce2 fau6/fuk1/fuk6 soeng1 gei1/kei4/gei4/gei3 hon4 
-此去必不歸，還聞勸加餐
-ci2 heoi2/heoi3/keoi1 bit1/bit3 fau2/fau4/pei1/dan2/bat1/fu1 gwei1/gwai1, syun4/waan4/waan6 man6/man4 hyun3 gaa1 caan1 
-土門壁甚堅，杏園度亦難
-tou2 mun4 bek3/bik3/bik1 sap6/sam4/sam6 gin1, hang6 jyun4 dok6/dou6 jik6 naan6/no4/naan4 
-勢異鄴城下，縱死時猶寬
-sai3 ji6 jip6 seng4/sing4 haa5/haa2/haa6, zung1/zung2/zung3 si2/sei2 si4 jau4 fun1 
-人生有離合，豈擇衰老端
-jan4/jan5 sang1/saang1 jau6/jau5 lei6/lei5/lei4 gap3/ho4/gaap3/hap6, hoi2/hei2 zaak6/zak6 ceoi1/so1/seoi1 lou5 dyun1 
-憶昔少壯日，遲迴竟長歎
-jik1 cok3/sik1 siu3/siu2 zong1/zong3 mik6/jat6, zi6/ci3/zi3/ci4 wui4 ging6/ging2/ging3 zoeng2/zoeng6/coeng4 taan1/taan3 
-萬國盡征戍，烽火被岡巒
-maan6 gwok3 zeon6 zing1 seot1/syu3, fung1 fo2 bei6/pei1/pei5/pai1 gong1 lyun4 
-積屍草木腥，流血川原丹
-zi3/zik1 si1 cou2 muk6 sing1/seng1, lau4 hyut3 cyun1 jyun5/jyun4 daan1 
-何鄕爲樂土，安敢尙盤桓
-ho6/ho4 hoeng3/hoeng1 wai6/wai4 lok6/ngaau6/ngou6/ngok6 tou2, ngon1/on1 gam2 soeng4/soeng6/soeng3 pun4 wun4/jyun4 
-棄絕蓬室居，塌然摧肺肝
-hei3 zyut3/zyut6/cyut6 fung4/pung4 sat1 gei1/geoi1, dap1/taap3 jin4 ceoi4/ceoi1/zo3/zeoi4 fai3/pui3 gon1 
-
+sei3 gaau1 mei6 ning4 zing6, seoi4 lou5 bat1 dak1 on1
 -----------------------------------------------------
-平平仄仄
+子孫陣亡盡，焉用身獨完
+zi2 syun1 zan6 mong4 zeon6, jin1 jung6 san1 duk6 jyun4
+-----------------------------------------------------
+投杖出門去，同行爲辛酸
+tau4 zoeng6 ceot1 mun4 heoi3, tung4 hang4 wai4 san1 syun1
+-----------------------------------------------------
+幸有牙齒存，所悲骨髓乾
+hang6 jau5 ngaa4 ci2 cyun4, so2 bei1 gwat1 seoi5 gon1
+-----------------------------------------------------
+男兒旣介胄，長揖別上官
+naam4 ji4 gei3 gaai3 zau6, coeng4 jap1 bit6 soeng6 gun1
+-----------------------------------------------------
+老妻臥路啼，歲暮衣裳單
+lou5 cai1 ngo6 lou6 tai4, seoi3 mou6 ji1 soeng4 daan1
+-----------------------------------------------------
+孰知是死別，且復傷其寒
+suk6 zi1 si6 sei2 bit6, ce2 fau6 soeng1 kei4 hon4
+-----------------------------------------------------
+此去必不歸，還聞勸加餐
+ci2 heoi3 bit1 bat1 gwai1, waan4 man4 hyun3 gaa1 caan1
+-----------------------------------------------------
+土門壁甚堅，杏園度亦難
+tou2 mun4 bik1 sam6 gin1, hang6 jyun4 dou6 jik6 naan4
+-----------------------------------------------------
+勢異鄴城下，縱死時猶寬
+sai3 ji6 jip6 sing4 haa6, zung3 sei2 si4 jau4 fun1
+-----------------------------------------------------
+人生有離合，豈擇衰老端
+jan4 sang1 jau5 lei4 hap6, hei2 zaak6 seoi1 lou5 dyun1
+-----------------------------------------------------
+憶昔少壯日，遲迴竟長歎
+jik1 sik1 siu3 zong3 jat6, ci4 wui4 ging2 coeng4 taan1
+-----------------------------------------------------
+萬國盡征戍，烽火被岡巒
+maan6 gwok3 zeon6 zing1 syu3, fung1 fo2 pei1 gong1 lyun4
+-----------------------------------------------------
+積屍草木腥，流血川原丹
+zik1 si1 cou2 muk6 sing1, lau4 hyut3 cyun1 jyun4 daan1
+-----------------------------------------------------
+何鄕爲樂土，安敢尙盤桓
+ho4 hoeng1 wai4 lok6 tou2, on1 gam2 soeng6 pun4 wun4
+-----------------------------------------------------
+棄絕蓬室居，塌然摧肺肝
+hei3 zyut6 pung4 sat1 geoi1, taap3 jin4 ceoi1 fai3 gon1
 
+〚3.2.5〛安：寒韻
+〚4.2.5〛完：寒韻
+〚5.2.5〛酸：寒韻
+〚6.2.5〛乾：寒韻
+〚7.2.5〛官：寒韻
+〚8.2.5〛單：寒韻
+〚9.2.5〛寒：寒韻
+〚10.2.5〛餐：寒韻
+〚11.2.5〛難：寒韻
+〚12.2.5〛寬：寒韻
+〚13.2.5〛端：寒韻
+〚14.2.5〛歎：寒韻
+〚15.2.5〛巒：寒韻
+〚16.2.5〛丹：寒韻
+〚17.2.5〛桓：寒韻
+〚18.2.5〛肝：寒韻
+
+五古
+
+〚14.2.5〛歎，平聲押韻。
 
 
 =====================================================
 
 1316 無家別
-mo4/mou5/mou4 gu1/gwu1/gaa1 bit3/bit6 
-
+mou4 gaa1 bit6
 
 寂寞天寶後，園廬但蒿黎
-zik6 mok3/mok6 tin1 bou2 hau5/hau6, jyun4 lou4/leoi4 daan6 hou1/gou1 lai4 
-我里百餘家，世亂各東西
-ngo5 lei5 mak6/baak3 jyu4 gu1/gwu1/gaa1, sai3 lyun6 gok3 dung1 sai1 
-存者無消息，死者爲塵泥
-cyun4 ze2 mo4/mou5/mou4 siu1 sak1/sik1, si2/sei2 ze2 wai6/wai4 can4 nei6/nai6/nai4/nei5 
-賤子因陣敗，歸來尋舊蹊
-zin6 zi2 jan1 zaan6/zan6 baai6, gwei1/gwai1 loi6/lai4/loi4 cam4 gau6 kai1/hai4/hei1/hai1 
-久行見空巷，日瘦氣慘悽
-gau2 hang6/hong4/haang4/hong6/hong5/hang4 jin6/gin3/hin3 hung3/hung2/hung1 hong6, mik6/jat6 jyu2/sau3 hei3 caam3/caam2 cai1 
-但對狐與狸，豎毛怒我啼
-daan6 deoi2/deoi3 wu4 jyu6/jyu4/jyu5 lei5/lei4, syu6 mou4 nau1/naau1/nou6/no6 ngo5 tai4 
-四鄰何所有，一二老寡妻
-si3/sei3 leon4 ho6/ho4 so2 jau6/jau5, jat1 ji6/ji3 lou5 gwaa2 cai3/cai1 
-宿鳥戀本枝，安辭且窮栖
-sau3/suk1 diu2/niu5 lyun5/lyun6/lyun3/lin6/lyun2 tou1/bun2 kei4/zi1, ngon1/on1 ci4 zeoi1/cou4/ceoi6/ce2 kung4 cai1 
-方春獨荷鋤，日暮還灌畦
-fong1 ceon1 duk6 ho6/ho4 co4, mik6/jat6 mou6 syun4/waan4/waan6 gwun3/gun3 kwei4/gwai1/kwai4/gwai4 
-縣吏知我至，召令習鼓鼙
-jyun4/jyun2/jyun6/hyun4/hyun6 lei6 zi3/zi1 ngo5 zi3, siu6/ziu1/ziu6 ling4/ling1/ling6 zap6/zaap6 gwu2/gu2 bei1/pei4 
-雖從本州役，內顧無所攜
-seoi1 sung1/zung6/zung1/cung4/zung2/zung3/cung6 tou1/bun2 zau1 jik6, naap6/noi6 gwu3/gu3 mo4/mou5/mou4 so2 kwei4/kwai4 
-近行止一身，遠去終轉迷
-kan5/gan3/gei3/gan6 hang6/hong4/haang4/hong6/hong5/hang4 zi2 jat1 gyun1/san1, jyun6/jyun3/jyun5 heoi2/heoi3/keoi1 zung1 zyun3/zyun2 mai4 
-家鄕旣盪盡，遠近理亦齊
-gu1/gwu1/gaa1 hoeng3/hoeng1 gei3 tong3/tong6/dong6 zeon6, jyun6/jyun3/jyun5 kan5/gan3/gei3/gan6 lei5 jik6 zi1/zaai1/zai6/cai4/ci4 
-永痛長病母，五年委溝谿
-jung2/wing5 tung3 zoeng2/zoeng6/coeng4 bing6/beng6 mou4/mou5/mo5, wu1/ng5 nin4 wai1/wai3/wai2 gau1/kau1 hai4/kai1 
-生我不得力，終身兩酸嘶
-sang1/saang1 ngo5 fau2/fau4/pei1/dan2/bat1/fu1 dak1 lik6, zung1 gyun1/san1 loeng2/loeng6/loeng3/loeng5 syun1 si1/sai1 
-1316 人生無家別，何以爲蒸黎
-jan4/jan5 sang1/saang1 mo4/mou5/mou4 gu1/gwu1/gaa1 bit3/bit6, ho6/ho4 ji5 wai6/wai4 zing1/zing3 lai4 
-
+zik6 mok6 tin1 bou2 hau6, jyun4 lou4 daan6 hou1 lai4
 -----------------------------------------------------
-平平仄仄
+我里百餘家，世亂各東西
+ngo5 lei5 baak3 jyu4 gaa1, sai3 lyun6 gok3 dung1 sai1
+-----------------------------------------------------
+存者無消息，死者爲塵泥
+cyun4 ze2 mou4 siu1 sik1, sei2 ze2 wai4 can4 nai4
+-----------------------------------------------------
+賤子因陣敗，歸來尋舊蹊
+zin6 zi2 jan1 zan6 baai6, gwai1 loi4 cam4 gau6 hai4
+-----------------------------------------------------
+久行見空巷，日瘦氣慘悽
+gau2 hang4 gin3 hung1 hong6, jat6 sau3 hei3 caam2 cai1
+-----------------------------------------------------
+但對狐與狸，豎毛怒我啼
+daan6 deoi3 wu4 jyu5 lei4, syu6 mou4 nou6 ngo5 tai4
+-----------------------------------------------------
+四鄰何所有，一二老寡妻
+sei3 leon4 ho4 so2 jau5, jat1 ji6 lou5 gwaa2 cai1
+-----------------------------------------------------
+宿鳥戀本枝，安辭且窮栖
+suk1 niu5 lyun2 bun2 zi1, on1 ci4 ce2 kung4 cai1
+-----------------------------------------------------
+方春獨荷鋤，日暮還灌畦
+fong1 ceon1 duk6 ho6 co4, jat6 mou6 waan4 gun3 kwai4
+-----------------------------------------------------
+縣吏知我至，召令習鼓鼙
+jyun6 lei6 zi1 ngo5 zi3, ziu6 ling6 zaap6 gu2 pei4
+-----------------------------------------------------
+雖從本州役，內顧無所攜
+seoi1 cung4 bun2 zau1 jik6, noi6 gu3 mou4 so2 kwai4
+-----------------------------------------------------
+近行止一身，遠去終轉迷
+gan6 hang4 zi2 jat1 san1, jyun5 heoi3 zung1 zyun2 mai4
+-----------------------------------------------------
+家鄕旣盪盡，遠近理亦齊
+gaa1 hoeng1 gei3 dong6 zeon6, jyun5 gan6 lei5 jik6 cai4
+-----------------------------------------------------
+永痛長病母，五年委溝谿
+wing5 tung3 coeng4 bing6 mou5, ng5 nin4 wai2 kau1 kai1
+-----------------------------------------------------
+生我不得力，終身兩酸嘶
+sang1 ngo5 bat1 dak1 lik6, zung1 san1 loeng5 syun1 sai1
+-----------------------------------------------------
+1316 人生無家別，何以爲蒸黎
+jan4 sang1 mou4 gaa1 bit6, ho4 ji5 wai4 zing1 lai4
 
+〚3.2.5〛黎：齊韻
+〚4.2.5〛西：齊韻
+〚5.2.5〛泥：齊韻
+〚6.2.5〛蹊：齊韻
+〚7.2.5〛悽：齊韻
+〚8.2.5〛啼：齊韻
+〚9.2.5〛妻：齊韻
+〚10.2.5〛栖：齊韻
+〚11.2.5〛畦：齊韻
+〚12.2.5〛鼙：齊韻
+〚13.2.5〛攜：齊韻
+〚14.2.5〛迷：齊韻
+〚15.2.5〛齊：齊韻
+〚16.2.5〛谿：齊韻
+〚17.2.5〛嘶：齊韻
+〚18.2.5〛黎：齊韻
+
+五古
 
 
 =====================================================
 
 1324 贈衞八處士
-zang6 wai6 baat3 cyu5 si6 
+zang6 wai6 baat3 cyu2 si6 
 
 人生不相見，動如參與商
 jan4 sang1 bat1 soeng1 gin3, dung6 jyu4 sam1 jyu5 soeng1 
@@ -11007,768 +11303,1032 @@ ming4 jat6 gaak3 saan1 ngok6, sai3 si6 loeng5 mong4 mong4
 =====================================================
 
 1330 夏日歎
-gaa2/haa5/haa6 mik6/jat6 taan1/taan3 
+haa6 jat6 taan3
 
 夏日出東北，陵天經中街
-gaa2/haa5/haa6 mik6/jat6 ceoi3/ceot1 dung1 bui3/bui6/bak1, ling4 tin1 gaang1/ging1 zung3/zung1 gaai1/gai1 
-朱光徹厚地，鬱蒸何由開
-zyu1 gwong1 cit3 hau6/hau5 dei6, wat1 zing1/zing3 ho6/ho4 jau4/au4 hoi1 
-上蒼久無雷，無乃號令乖
-soeng5/saang3/soeng6 cong2/cong1 gau2 mo4/mou5/mou4 leoi6/leoi4, mo4/mou5/mou4 oi2/naai5 hou4/hou6 ling4/ling1/ling6 gwaai1 
-雨降不濡物，良田起黃埃
-jyu6/jyu3/jyu5 hong4/gong3/gon3 fau2/fau4/pei1/dan2/bat1/fu1 seoi1/jyu4/ji4/nyun5 mat6, loeng4 tin4 hei2 wong4 aai1/ngaai1/ngoi1/oi1 
-飛鳥苦熱死，池魚涸其泥
-fei1 diu2/niu5 fu2/geoi2 jit6 si2/sei2, ci4/cit3 jyu4 kok3 gei1/kei4/gei4/gei3 nei6/nai6/nai4/nei5 
-萬人尙流冗，舉目唯蒿萊
-maan6 jan4/jan5 soeng4/soeng6/soeng3 lau4 jung2/jung5, geoi2 muk6 wai2/wai4/wai5 hou1/gou1 loi4 
-至今大河北，化作虎與豺
-zi3 gam1 taai3/daai6 ho4 bui3/bui6/bak1, faa1/faa3 zo3/zou6/zou3/zok3 fu2 jyu6/jyu4/jyu5 caai4 
-浩蕩想幽薊，王師安在哉
-hou6 dong6/dong2 soeng2 jau1 gai3, wong6/wong4 si1 ngon1/on1 zoi6 zoi1 
-對食不能餐，我心殊未諧
-deoi2/deoi3 zi6/ji6/sik6 fau2/fau4/pei1/dan2/bat1/fu1 noi6/nang4/nang1 caan1, ngo5 sam1 soe4/syu4 mei6 haai4 
-眇然貞觀初，難與數子偕
-miu5 jin4 zing1 gun3/gwun1/gwun3/gun1 co1, naan6/no4/naan4 jyu6/jyu4/jyu5 sou2/sok3/cuk1/sou3 zi2 haai4/gaai1 
-
+haa6 jat6 ceot1 dung1 bak1, ling4 tin1 ging1 zung1 gaai1
 -----------------------------------------------------
-平平仄仄
+朱光徹厚地，鬱蒸何由開
+zyu1 gwong1 cit3 hau5 dei6, wat1 zing1 ho4 jau4 hoi1
+-----------------------------------------------------
+上蒼久無雷，無乃號令乖
+soeng6 cong1 gau2 mou4 leoi4, mou4 naai5 hou6 ling6 gwaai1
+-----------------------------------------------------
+雨降不濡物，良田起黃埃
+jyu5 gong3 bat1 jyu4 mat6, loeng4 tin4 hei2 wong4 oi1
+-----------------------------------------------------
+飛鳥苦熱死，池魚涸其泥
+fei1 niu5 fu2 jit6 sei2, ci4 jyu4 kok3 kei4 nai4
+-----------------------------------------------------
+萬人尙流冗，舉目唯蒿萊
+maan6 jan4 soeng6 lau4 jung2, geoi2 muk6 wai4 hou1 loi4
+-----------------------------------------------------
+至今大河北，化作虎與豺
+zi3 gam1 daai6 ho4 bak1, faa3 zok3 fu2 jyu5 caai4
+-----------------------------------------------------
+浩蕩想幽薊，王師安在哉
+hou6 dong6 soeng2 jau1 gai3, wong4 si1 on1 zoi6 zoi1
+-----------------------------------------------------
+對食不能餐，我心殊未諧
+deoi3 sik6 bat1 nang4 caan1, ngo5 sam1 syu4 mei6 haai4
+-----------------------------------------------------
+眇然貞觀初，難與數子偕
+miu5 jin4 zing1 gun1 co1, naan4 jyu5 sou3 zi2 gaai1
 
+〚3.2.5〛街：佳韻
+〚4.2.5〛開：灰韻
+〚5.2.5〛乖：佳韻
+〚6.2.5〛埃：灰韻
+〚7.2.5〛泥：齊韻
+〚8.2.5〛萊：灰韻
+〚9.2.5〛豺：佳韻
+〚10.2.5〛哉：灰韻
+〚11.2.5〛諧：佳韻
+〚12.2.5〛偕：佳韻
 
+五古
+
+八齊、九佳、十灰，鄰韻。
 
 =====================================================
 
 1334 夏夜歎
-gaa2/haa5/haa6 je6 taan1/taan3 
+haa6 je6 taan3
 
 
 永日不可暮，炎蒸毒我腸
-jung2/wing5 mik6/jat6 fau2/fau4/pei1/dan2/bat1/fu1 hak1/haak1/ho2 mou6, jim6/taam4/jim4/tam4 zing1/zing3 doi6/duk1/dou6/duk3/duk6 ngo5 coeng4 
-安得萬里風，飄颻吹我裳
-ngon1/on1 dak1 maan6 lei5 fung3/fung2/fung1, piu1/liu4/lau4 jiu4 ceoi3/ceoi1 ngo5 soeng4 
-昊天出華月，茂林延疏光
-hou6 tin1 ceoi3/ceot1 waa6/faa1/waa4/waa1 jyut6, mau6 lam4 jin4 so3/so1 gwong1 
-仲夏苦夜短，開軒納微涼
-zung6 gaa2/haa5/haa6 fu2/geoi2 je6 dyun2/deon2, hoi1 hin3/hin1 naap6 mei4 loeng4/loeng6 
-虛明見纖毫，羽蟲亦飛揚
-heoi1 ming4 jin6/gin3/hin3 cim1/cim3 hou4, jyu5 cung4 jik6 fei1 joeng4 
-物情無巨細，自適固其常
-mat6 cing4/ceng4 mo4/mou5/mou4 geoi6 sai3, zi6 dik1/zaak6/tik1/dik6/zaak3/sik1 gwu3/gu3/geoi3 gei1/kei4/gei4/gei3 soeng4 
-念彼荷戈士，窮年守邊疆
-nim6 bei2 ho6/ho4 go1/gwo1 si6, kung4 nin4 sau3/sau2 bin1 goeng1 
-何由一洗濯，執熱互相望
-ho6/ho4 jau4/au4 jat1 sin2/sai2 zaau6/zok6, zap1 jit6 wu6 soeng3/soeng2/soeng1 mong4/mong6 
-竟夕擊刁斗，喧聲連萬方
-ging6/ging2/ging3 zik6 gik1 diu1 dau3/dau2, hyun1 seng1/sing1 lin4 maan6 fong1 
-青紫雖被體，不如早還鄕
-ceng1/zing1/cing1 zi2 seoi1 bei6/pei1/pei5/pai1 tai2, fau2/fau4/pei1/dan2/bat1/fu1 jyu4 zou2 syun4/waan4/waan6 hoeng3/hoeng1 
-北城悲笳發，鸛鶴號且翔
-bui3/bui6/bak1 seng4/sing4 bei1 gaa1 but3/faat3, gwun3/gwaan3/gun3 hok2/hok6 hou4/hou6 zeoi1/cou4/ceoi6/ce2 coeng4 
-況復煩促倦，激烈思時康
-fong2/kwong3/fong3 fau6/fuk1/fuk6 faan4 cuk1 gyun6, gik1 lai6/lit6 si3/soi1/si1/si6 si4 hong1 
-
+wing5 jat6 bat1 ho2 mou6, jim4 zing1 duk6 ngo5 coeng4
 -----------------------------------------------------
-平平仄仄
+安得萬里風，飄颻吹我裳
+on1 dak1 maan6 lei5 fung1, piu1 jiu4 ceoi1 ngo5 soeng4
+-----------------------------------------------------
+昊天出華月，茂林延疏光
+hou6 tin1 ceot1 waa4 jyut6, mau6 lam4 jin4 so1 gwong1
+-----------------------------------------------------
+仲夏苦夜短，開軒納微涼
+zung6 haa6 fu2 je6 dyun2, hoi1 hin1 naap6 mei4 loeng4
+-----------------------------------------------------
+虛明見纖毫，羽蟲亦飛揚
+heoi1 ming4 gin3 cim1 hou4, jyu5 cung4 jik6 fei1 joeng4
+-----------------------------------------------------
+物情無巨細，自適固其常
+mat6 cing4 mou4 geoi6 sai3, zi6 sik1 gu3 kei4 soeng4
+-----------------------------------------------------
+念彼荷戈士，窮年守邊疆
+nim6 bei2 ho6 gwo1 si6, kung4 nin4 sau2 bin1 goeng1
+-----------------------------------------------------
+何由一洗濯，執熱互相望
+ho4 jau4 jat1 sai2 zok6, zap1 jit6 wu6 soeng1 mong4
+-----------------------------------------------------
+竟夕擊刁斗，喧聲連萬方
+ging2 zik6 gik1 diu1 dau2, hyun1 sing1 lin4 maan6 fong1
+-----------------------------------------------------
+青紫雖被體，不如早還鄕
+cing1 zi2 seoi1 pei1 tai2, bat1 jyu4 zou2 waan4 hoeng1
+-----------------------------------------------------
+北城悲笳發，鸛鶴號且翔
+bak1 sing4 bei1 gaa1 faat3, gun3 hok6 hou4 ce2 coeng4
+-----------------------------------------------------
+況復煩促倦，激烈思時康
+fong3 fau6 faan4 cuk1 gyun6, gik1 lit6 si1 si4 hong1
 
+〚3.2.5〛腸：陽韻
+〚4.2.5〛裳：陽韻
+〚5.2.5〛光：陽韻
+〚6.2.5〛涼：陽韻
+〚7.2.5〛揚：陽韻
+〚8.2.5〛常：陽韻
+〚9.2.5〛疆：陽韻
+〚10.2.5〛望：陽韻
+〚11.2.5〛方：陽韻
+〚12.2.5〛鄕：陽韻
+〚13.2.5〛翔：陽韻
+〚14.2.5〛康：陽韻
 
+五古
 
 =====================================================
 
 1338 立秋後題
-laap6/lap6 cau1 hau5/hau6 dai6/tai4 
-
+lap6 cau1 hau6 tai4
 
 日月不相饒，節敍昨夜隔
-mik6/jat6 jyut6 fau2/fau4/pei1/dan2/bat1/fu1 soeng3/soeng2/soeng1 jiu4, zit6/zit3 zeoi6 zok3/zok6 je6 gik1/gaak3/gak1 
-玄蟬無停號，秋燕已如客
-jyun4 sin4/sim4 mo4/mou5/mou4 ting4 hou4/hou6, cau1 jin1/jin2/jin3 ji3/ji5 jyu4 haak3 
-平生獨往願，惆悵年半百
-peng4/ping4/pin4/ping6 sang1/saang1 duk6 wong6/wong5 jyun6, cau4 zoeng3/coeng3 nin4 bun3 mak6/baak3 
-罷官亦由人，何事拘形役
-pei4/bei1/baa4/baa6 gwun1/gun1/gyun1 jik6 jau4/au4 jan4/jan5, ho6/ho4 si6 keoi4/keoi1/gau1 jing4 jik6 
-
+jat6 jyut6 bat1 soeng1 jiu4, zit3 zeoi6 zok3 je6 gaak3
 -----------------------------------------------------
-平平仄仄
+玄蟬無停號，秋燕已如客
+jyun4 sim4 mou4 ting4 hou4, cau1 jin3 ji5 jyu4 haak3
+-----------------------------------------------------
+平生獨往願，惆悵年半百
+ping4 sang1 duk6 wong5 jyun6, cau4 coeng3 nin4 bun3 baak3
+-----------------------------------------------------
+罷官亦由人，何事拘形役
+baa6 gun1 jik6 jau4 jan4, ho4 si6 keoi1 jing4 jik6
 
+〚3.2.5〛隔：陌韻
+〚4.2.5〛客：陌韻
+〚5.2.5〛百：陌韻
+〚6.2.5〛役：陌韻
 
+五古
 
 =====================================================
 
 1340 遣興三首
-hin3/hin2 hing3/hing1/jan6 saam3/saam1/saam6 sau3/sau2 
+hin2 hing3 saam1 sau2
 
-
-
-
-
+其一
 
 下馬古戰場，四顧但茫然
-haa5/haa2/haa6 maa5 gwu2/gu2 zin3 coeng4, si3/sei3 gwu3/gu3 daan6 mong4 jin4 
+haa6 maa5 gu2 zin3 coeng4, sei3 gu3 daan6 mong4 jin4
+-----------------------------------------------------
 風悲浮雲去，黃葉墜我前
-fung3/fung2/fung1 bei1 pou4/fau4 wan4 heoi2/heoi3/keoi1, wong4 sip3/jip6 zeoi6/seoi6 ngo5 cin4 
+fung1 bei1 fau4 wan4 heoi3, wong4 jip6 zeoi6 ngo5 cin4
+-----------------------------------------------------
 朽骨穴螻蟻，又爲蔓草纏
-jau2/hau2/nau2 gwu2/gwat1 jyut6/hyut6 lau4 ngai5, jau6 wai6/wai4 maan4/maan6 cou2 zin6/cin4 
+nau2 gwat1 jyut6 lau4 ngai5, jau6 wai4 maan6 cou2 cin4
+-----------------------------------------------------
 故老行歎息，今人尙開邊
-gwu3/gu3/geoi3 lou5 hang6/hong4/haang4/hong6/hong5/hang4 taan1/taan3 sak1/sik1, gam1 jan4/jan5 soeng4/soeng6/soeng3 hoi1 bin1 
+gu3 lou5 hang4 taan3 sik1, gam1 jan4 soeng6 hoi1 bin1
+-----------------------------------------------------
 漢虜互勝負，封疆不常全
-hon3 lou5/lu5 wu6 sing1/sing3 fu6, fung1 goeng1 fau2/fau4/pei1/dan2/bat1/fu1 soeng4 cyun4 
+hon3 lou5 wu6 sing3 fu6, fung1 goeng1 bat1 soeng4 cyun4
+-----------------------------------------------------
 安得廉頗將，三軍同晏眠
-ngon1/on1 dak1 lim4 po1/bo1/po2 zoeng3/coeng1/zoeng1, saam3/saam1/saam6 gwan1 tung4 ngaan3/jin3/aan3 min4 
+on1 dak1 lim4 po1 zoeng3, saam1 gwan1 tung4 aan3 min4
 
-
-
-
-
+其二
 
 高秋登寒山，南望馬邑州
-gou1 cau1 dang1 hon4 saan1, naa1/naa4/naam4 mong4/mong6 maa5 ap1/jap1 zau1 
+gou1 cau1 dang1 hon4 saan1, naam4 mong6 maa5 jap1 zau1
+-----------------------------------------------------
 降虜東擊胡，壯健盡不留
-hong4/gong3/gon3 lou5/lu5 dung1 gik1 wu4, zong1/zong3 gin6 zeon6 fau2/fau4/pei1/dan2/bat1/fu1 lau6/lau4 
+hong4 lou5 dung1 gik1 wu4, zong3 gin6 zeon6 bat1 lau4
+-----------------------------------------------------
 穹廬莽牢落，上有行雲愁
-hung1/gung4/gung1/kung4 lou4/leoi4 mong5/mou5 lou4/lau4/lo5 laai6/lok1/lok6, soeng5/saang3/soeng6 jau6/jau5 hang6/hong4/haang4/hong6/hong5/hang4 wan4 sau4/cau1 
+kung4 lou4 mong5 lou4 lok6, soeng6 jau5 hang4 wan4 sau4
+-----------------------------------------------------
 老弱哭道路，願聞甲兵休
-lou5 joek6 huk1 dou6/dou5 lou6, jyun6 man6/man4 gaap3 bing1 jau1/jyu3 
+lou5 joek6 huk1 dou6 lou6, jyun6 man4 gaap3 bing1 jau1
+-----------------------------------------------------
 鄴中事反覆，死人積如丘
-jip6 zung3/zung1 si6 faan1/faan3/faan2 fau6/fuk1, si2/sei2 jan4/jan5 zi3/zik1 jyu4 mau5/jau1 
+jip6 zung1 si6 faan2 fuk1, sei2 jan4 zik1 jyu4 jau1
+-----------------------------------------------------
 諸將已茅土，載驅誰與謀
-zyu1 zoeng3/coeng1/zoeng1 ji3/ji5 maau4 tou2, zoi2/zoi6/zoi3/daai3 keoi1 seoi4 jyu6/jyu4/jyu5 maau4/mau4 
+zyu1 zoeng3 ji5 maau4 tou2, zoi3 keoi1 seoi4 jyu5 mau4
 
-
-
-
-
+其三
 
 豐年孰云遲，甘澤不在早
-fung1 nin4 suk6 wan4 zi6/ci3/zi3/ci4, gam1 sik1/zaak6/zak6 fau2/fau4/pei1/dan2/bat1/fu1 zoi6 zou2 
-耕田秋雨足，禾黍已映道
-gang1/gaang1 tin4 cau1 jyu6/jyu3/jyu5 zeoi3/zeoi6/zuk3/zuk1, wo4 syu2 ji3/ji5 joeng2/jeng2/jing2 dou6/dou5 
-春苗九月交，顏色同日老
-ceon1 miu4 gau2/kau4 jyut6 gaau1, ngaan4 sik1 tung4 mik6/jat6 lou5 
-勸汝衡門士，勿悲尙枯槁
-hyun3 nei5/jyu5 waang4/haang4/hang4 mun4 si6, mut6/mat6 bei1 soeng4/soeng6/soeng3 gu1/kwu1/fu1 gou2 
-時來展材力，先後無醜好
-si4 loi6/lai4/loi4 zin2 coi4 lik6, sin3/sin1 hau5/hau6 mo4/mou5/mou4 cau2/zaau2 hou3/hou2 
-但訝鹿皮翁，忘機對芳草
-daan6 ngaa6 luk2/luk3/luk6 pei2/pei4 jung1, mong6/mong4 gi1/gei1 deoi2/deoi3 fong1 cou2 
-
+fung1 nin4 suk6 wan4 ci4, gam1 zaak6 bat1 zoi6 zou2
 -----------------------------------------------------
-平平仄仄
+耕田秋雨足，禾黍已映道
+gaang1 tin4 cau1 jyu5 zuk1, wo4 syu2 ji5 jing2 dou6
+-----------------------------------------------------
+春苗九月交，顏色同日老
+ceon1 miu4 gau2 jyut6 gaau1, ngaan4 sik1 tung4 jat6 lou5
+-----------------------------------------------------
+勸汝衡門士，勿悲尙枯槁
+hyun3 jyu5 hang4 mun4 si6, mat6 bei1 soeng6 fu1 gou2
+-----------------------------------------------------
+時來展材力，先後無醜好
+si4 loi4 zin2 coi4 lik6, sin1 hau6 mou4 cau2 hou2
+-----------------------------------------------------
+但訝鹿皮翁，忘機對芳草
+daan6 ngaa6 luk6 pei4 jung1, mong4 gei1 deoi3 fong1 cou2
 
+〚1:5.2.5〛然：先韻
+〚1:6.2.5〛前：先韻
+〚1:7.2.5〛纏：先韻
+〚1:8.2.5〛邊：先韻
+〚1:9.2.5〛全：先韻
+〚1:10.2.5〛眠：先韻
+〚2:14.2.5〛州：尤韻
+〚2:15.2.5〛留：尤韻
+〚2:16.2.5〛愁：尤韻
+〚2:17.2.5〛休：尤韻
+〚2:18.2.5〛丘：尤韻
+〚2:19.2.5〛謀：尤韻
+〚3:23.2.5〛早：皓韻
+〚3:24.2.5〛道：皓韻
+〚3:25.2.5〛老：皓韻
+〚3:26.2.5〛槁：皓韻
+〚3:27.2.5〛好：皓韻
+〚3:28.2.5〛草：皓韻
 
+五古
 
 =====================================================
 
 1349 佳人
-gaai1 jan4/jan5 
-
+gaai1 jan4
 
 1349 絕代有佳人，幽居在空谷
-zyut3/zyut6/cyut6 doi6 jau6/jau5 gaai1 jan4/jan5, jau1 gei1/geoi1 zoi6 hung3/hung2/hung1 juk6/luk6/guk1 
-自云良家子，零落依草木
-zi6 wan4 loeng4 gu1/gwu1/gaa1 zi2, leng4/lin4/ling4 laai6/lok1/lok6 ji1/ji2 cou2 muk6 
-關中昔喪敗，兄弟遭殺戮
-waan1/gwaan1 zung3/zung1 cok3/sik1 song3/song1 baai6, fong3/hing1/fong2 tai5/dai6 zou1 saai3/saai6/saat3 coek3/luk6 
-官高何足論，不得收骨肉
-gwun1/gun1/gyun1 gou1 ho6/ho4 zeoi3/zeoi6/zuk3/zuk1 leon4/leon1/leon6, fau2/fau4/pei1/dan2/bat1/fu1 dak1 sau3/sau1 gwu2/gwat1 jau6/nau6/juk6 
-世情惡衰歇，萬事隨轉燭
-sai3 cing4/ceng4 ok3/wu1/ngok3/wu3/jyu3/jyu1 ceoi1/so1/seoi1 hit3/hot3, maan6 si6 ceoi4 zyun3/zyun2 zuk1 
-夫婿輕薄兒，新人美如玉
-fu4/fu1 sai2/sai3 heng1/hing3/hing1 bok3/bok6/pok3 ngai4/ji1/ji4, san1 jan4/jan5 mei5 jyu4 suk1/juk6 
-合昏尙知時，鴛鴦不獨宿
-gap3/ho4/gaap3/hap6 fan1 soeng4/soeng6/soeng3 zi3/zi1 si4, jin1/jyun1 joeng1 fau2/fau4/pei1/dan2/bat1/fu1 duk6 sau3/suk1 
-但見新人笑，那聞舊人哭
-daan6 jin6/gin3/hin3 san1 jan4/jan5 siu3, no4/no1/naa1/no5/no6/naa6/naa3/naa5/naa2 man6/man4 gau6 jan4/jan5 huk1 
-在山泉水清，出山泉水濁
-zoi6 saan1 cyun4 seoi2 ceng1/cing1, ceoi3/ceot1 saan1 cyun4 seoi2 zuk6/zoek3 
-侍婢賣珠迴，牽蘿補茅屋
-si6 pei5 maai6 zyu1 wui4, hin3/hin1 lo4 bou2 maau4 nguk1/uk1 
-摘花不插髮，采柏動盈掬
-zaak6/zaak3/tik1/zak6 faa1 fau2/fau4/pei1/dan2/bat1/fu1 caap3 faat3, coi3/coi2 baak3/paak3/baak6 dung6 jing4 guk1 
-天寒翠袖薄，日暮倚修竹
-tin1 hon4 ceoi3 zau6 bok3/bok6/pok3, mik6/jat6 mou6 kei1/ji2 sau1 zuk1 
-
+zyut6 doi6 jau5 gaai1 jan4, jau1 geoi1 zoi6 hung1 guk1
 -----------------------------------------------------
-平平仄仄
+自云良家子，零落依草木
+zi6 wan4 loeng4 gaa1 zi2, ling4 lok6 ji1 cou2 muk6
+-----------------------------------------------------
+關中昔喪敗，兄弟遭殺戮
+gwaan1 zung1 sik1 song3 baai6, hing1 dai6 zou1 saat3 luk6
+-----------------------------------------------------
+官高何足論，不得收骨肉
+gun1 gou1 ho4 zuk1 leon6, bat1 dak1 sau1 gwat1 juk6
+-----------------------------------------------------
+世情惡衰歇，萬事隨轉燭
+sai3 cing4 ok3 seoi1 hit3, maan6 si6 ceoi4 zyun3 zuk1
+-----------------------------------------------------
+夫婿輕薄兒，新人美如玉
+fu1 sai3 hing1 bok6 ji4, san1 jan4 mei5 jyu4 juk6
+-----------------------------------------------------
+合昏尙知時，鴛鴦不獨宿
+hap6 fan1 soeng6 zi1 si4, jyun1 joeng1 bat1 duk6 suk1
+-----------------------------------------------------
+但見新人笑，那聞舊人哭
+daan6 gin3 san1 jan4 siu3, naa5 man4 gau6 jan4 huk1
+-----------------------------------------------------
+在山泉水清，出山泉水濁
+zoi6 saan1 cyun4 seoi2 cing1, ceot1 saan1 cyun4 seoi2 zuk6
+-----------------------------------------------------
+侍婢賣珠迴，牽蘿補茅屋
+si6 pei5 maai6 zyu1 wui4, hin1 lo4 bou2 maau4 uk1
+-----------------------------------------------------
+摘花不插髮，采柏動盈掬
+zaak6 faa1 bat1 caap3 faat3, coi2 paak3 dung6 jing4 guk1
+-----------------------------------------------------
+天寒翠袖薄，日暮倚修竹
+tin1 hon4 ceoi3 zau6 bok6, jat6 mou6 ji2 sau1 zuk1
 
+〚3.2.5〛谷：屋韻
+〚4.2.5〛木：屋韻
+〚5.2.5〛戮：屋韻
+〚6.2.5〛肉：屋韻
+〚7.2.5〛燭：沃韻
+〚8.2.5〛玉：沃韻
+〚9.2.5〛宿：屋韻
+〚10.2.5〛哭：屋韻
+〚11.2.5〛濁：屋韻
+〚12.2.5〛屋：屋韻
+〚13.2.5〛掬：屋韻
+〚14.2.5〛竹：屋韻
 
+五古
 
 =====================================================
 
 1356 夢李白二首
-mung4/mung5/mung6 lei5 baak6/baak3 ji6/ji3 sau3/sau2 
+mung6 lei5 baak6 ji6 sau2
 
-
-
-
-
+其一
 
 死別已吞聲，生別常惻惻
-si2/sei2 bit3/bit6 ji3/ji5 tan1 seng1/sing1, sang1/saang1 bit3/bit6 soeng4 caak1/cak1 caak1/cak1 
+sei2 bit6 ji5 tan1 sing1, sang1 bit6 soeng4 cak1 cak1
+-----------------------------------------------------
 江南瘴癘地，逐客無消息
-gong1 naa1/naa4/naam4 zoeng3 lai6 dei6, dik6/zuk6 haak3 mo4/mou5/mou4 siu1 sak1/sik1 
+gong1 naam4 zoeng3 lai6 dei6, zuk6 haak3 mou4 siu1 sik1
+-----------------------------------------------------
 故人入我夢，明我長相憶
-gwu3/gu3/geoi3 jan4/jan5 jap6 ngo5 mung4/mung5/mung6, ming4 ngo5 zoeng2/zoeng6/coeng4 soeng3/soeng2/soeng1 jik1 
+gu3 jan4 jap6 ngo5 mung6, ming4 ngo5 coeng4 soeng1 jik1
+-----------------------------------------------------
 恐非平生魂，路遠不可測
-hung3/hung2 fei1 peng4/ping4/pin4/ping6 sang1/saang1 wan4, lou6 jyun6/jyun3/jyun5 fau2/fau4/pei1/dan2/bat1/fu1 hak1/haak1/ho2 cak1/caak3/caak1 
+hung2 fei1 ping4 sang1 wan4, lou6 jyun5 bat1 ho2 cak1
+-----------------------------------------------------
 魂來楓林青，魂返關塞黑
-wan4 loi6/lai4/loi4 fung1 lam4 ceng1/zing1/cing1, wan4 faan1/faan2 waan1/gwaan1 coi3/soi3/sak1 haak1/hak1 
+wan4 loi4 fung1 lam4 cing1, wan4 faan2 gwaan1 coi3 hak1
+-----------------------------------------------------
 今君在羅網，何以有羽翼
-gam1 gwan1 zoi6 lo4 mong5, ho6/ho4 ji5 jau6/jau5 jyu5 jik6 
+gam1 gwan1 zoi6 lo4 mong5, ho4 ji5 jau5 jyu5 jik6
+-----------------------------------------------------
 落月滿屋梁，猶疑照顏色
-laai6/lok1/lok6 jyut6 mun6/mun5 nguk1/uk1 loeng4, jau4 jing4/ngat6/ji4 ziu3 ngaan4 sik1 
+lok6 jyut6 mun5 uk1 loeng4, jau4 ji4 ziu3 ngaan4 sik1
+-----------------------------------------------------
 水深波浪闊，無使蛟龍得
-seoi2 sam1 bo1 long4/long5/nong6/long6 fut3/hut3, mo4/mou5/mou4 si3/sai2/si2 gaau1 cung2/lung4/pong4 dak1 
+seoi2 sam1 bo1 long6 fut3, mou4 si2 gaau1 lung4 dak1
 
-
-
-
-
+其二
 
 浮雲終日行，遊子久不至
-pou4/fau4 wan4 zung1 mik6/jat6 hang6/hong4/haang4/hong6/hong5/hang4, jau4 zi2 gau2 fau2/fau4/pei1/dan2/bat1/fu1 zi3 
-三夜頻夢君，情親見君意
-saam3/saam1/saam6 je6 pan4 mung4/mung5/mung6 gwan1, cing4/ceng4 can3/can1/ceon1 jin6/gin3/hin3 gwan1 ji3 
-告歸常局促，苦道來不易
-guk1/gou3 gwei1/gwai1 soeng4 guk1/guk6 cuk1, fu2/geoi2 dou6/dou5 loi6/lai4/loi4 fau2/fau4/pei1/dan2/bat1/fu1 jik6/ji6 
-江湖多風波，舟楫恐失墜
-gong1 wu4 do1 fung3/fung2/fung1 bo1, zau1 cap1/cip3/zap1/zip3 hung3/hung2 jat6/sat1 zeoi6/seoi6 
-出門搔白首，若負平生志
-ceoi3/ceot1 mun4 zaau2/sou1 baak6/baak3 sau3/sau2, je5/joek6 fu6 peng4/ping4/pin4/ping6 sang1/saang1 zi3 
-冠蓋滿京華，斯人獨憔悴
-gun3/gwun1/gwun3/gun1 goi3/hap6/gap3/gap6/got3/koi3 mun6/mun5 jyun4/ging1 waa6/faa1/waa4/waa1, si1 jan4/jan5 duk6 ciu4 seoi5/seoi3/seoi6 
-孰云網恢恢，將老身反累
-suk6 wan4 mong5 fui1 fui1, zoeng3/coeng1/zoeng1 lou5 gyun1/san1 faan1/faan3/faan2 leoi4/leoi5/leoi6/lo2 
-千秋萬歲名，寂寞身後事
-cin1 cau1 maan6 seoi3 meng4/meng2/ming6/ming4, zik6 mok3/mok6 gyun1/san1 hau5/hau6 si6 
-
+fau4 wan4 zung1 jat6 hang4, jau4 zi2 gau2 bat1 zi3
 -----------------------------------------------------
-平平仄仄
+三夜頻夢君，情親見君意
+saam1 je6 pan4 mung6 gwan1, cing4 can1 gin3 gwan1 ji3
+-----------------------------------------------------
+告歸常局促，苦道來不易
+gou3 gwai1 soeng4 guk6 cuk1, fu2 dou6 loi4 bat1 ji6
+-----------------------------------------------------
+江湖多風波，舟楫恐失墜
+gong1 wu4 do1 fung1 bo1, zau1 zip3 hung2 sat1 zeoi6
+-----------------------------------------------------
+出門搔白首，若負平生志
+ceot1 mun4 sou1 baak6 sau2, joek6 fu6 ping4 sang1 zi3
+-----------------------------------------------------
+冠蓋滿京華，斯人獨憔悴
+gun1 goi3 mun5 ging1 waa4, si1 jan4 duk6 ciu4 seoi6
+-----------------------------------------------------
+孰云網恢恢，將老身反累
+suk6 wan4 mong5 fui1 fui1, zoeng1 lou5 san1 faan2 leoi6
+-----------------------------------------------------
+千秋萬歲名，寂寞身後事
+cin1 cau1 maan6 seoi3 ming4, zik6 mok6 san1 hau6 si6
 
+〚1:5.2.5〛惻：職韻
+〚1:6.2.5〛息：職韻
+〚1:7.2.5〛憶：職韻
+〚1:8.2.5〛測：職韻
+〚1:9.2.5〛黑：職韻
+〚1:10.2.5〛翼：職韻
+〚1:11.2.5〛色：職韻
+〚1:12.2.5〛得：職韻
+〚2:16.2.5〛至：寘韻
+〚2:17.2.5〛意：寘韻
+〚2:18.2.5〛易：寘韻
+〚2:19.2.5〛墜：寘韻
+〚2:20.2.5〛志：寘韻
+〚2:21.2.5〛悴：寘韻
+〚2:22.2.5〛累：寘韻
+〚2:23.2.5〛事：寘韻
 
+五古
 
 =====================================================
 
-1366 有懷台州鄭十八司戶[虔]
-jau6/jau5 waai4 ji4/toi4/toi1 zau1 zing6/zeng6/cing6 sap6 baat3 si1 wu6/jyu6 unknown kin4 unknown 
-
+1366 有懷台州鄭十八司戶
+jau5 waai4 toi4 zau1 zeng6 sap6 baat3 si1 wu6
 
 天台隔三江，風浪無晨暮
-tin1 ji4/toi4/toi1 gik1/gaak3/gak1 saam3/saam1/saam6 gong1, fung3/fung2/fung1 long4/long5/nong6/long6 mo4/mou5/mou4 san4 mou6 
-鄭公縱得歸，老病不識路
-zing6/zeng6/cing6 gung1 zung1/zung2/zung3 dak1 gwei1/gwai1, lou5 bing6/beng6 fau2/fau4/pei1/dan2/bat1/fu1 zi3/sik1 lou6 
-昔如水上鷗，今如罝中兔
-cok3/sik1 jyu4 seoi2 soeng5/saang3/soeng6 ngau1/au1, gam1 jyu4 zeoi1/ze1 zung3/zung1 tou3/to3 
-性命由他人，悲辛但狂顧
-sing3 meng6/ming6 jau4/au4 to1/to4/taa1 jan4/jan5, bei1 san1 daan6 kwong4/kong4 gwu3/gu3 
-山鬼獨一腳，蝮蛇長如樹
-saan1 gwei2/gwai2 duk6 jat1 goek3, fuk1 ji4/se4 zoeng2/zoeng6/coeng4 jyu4 syu5/syu6 
-呼號旁孤城，歲月誰與度
-fu1/ho6 hou4/hou6 bong6/pong4/bang1/pong6 gwu1/gu1 seng4/sing4, seoi3 jyut6 seoi4 jyu6/jyu4/jyu5 dok6/dou6 
-從來禦魑魅，多爲才名誤
-sung1/zung6/zung1/cung4/zung2/zung3/cung6 loi6/lai4/loi4 jyu6 lei4/ci1 mui6/mei6, do1 wai6/wai4 coi4 meng4/meng2/ming6/ming4 ng6 
-夫子嵇阮流，更被時俗惡
-fu4/fu1 zi2 hai4/gei1/kai1 jyun2/jyun4/jyun5 lau4, gang3/gaang1/gaang3/gang1/ang3 bei6/pei1/pei5/pai1 si4 zuk6 ok3/wu1/ngok3/wu3/jyu3/jyu1 
-海隅微小吏，眼暗髮垂素
-hoi2 jyu4 mei4 siu2 lei6, ngaan5/han2 ngam3/am3/am6 faat3 seoi4 sou3/so3/saak3 
-黃帽映青袍，非供折腰具
-wong4 mou2/mou6 joeng2/jeng2/jing2 ceng1/zing1/cing1 pou4/po4, fei1 gung3/gung1 zip3/zit3 jiu1 geoi6 
-平生一杯酒，見我故人遇
-peng4/ping4/pin4/ping6 sang1/saang1 jat1 bui1 zau2, jin6/gin3/hin3 ngo5 gwu3/gu3/geoi3 jan4/jan5 jyu6 
-相望無所成，乾坤莽迴互
-soeng3/soeng2/soeng1 mong4/mong6 mo4/mou5/mou4 so2 seng4/cing4/sing4, gon1/kin4 kwan1 mong5/mou5 wui4 wu6 
-
+tin1 toi4 gaak3 saam1 gong1, fung1 long6 mou4 san4 mou6
 -----------------------------------------------------
-平平仄仄
+鄭公縱得歸，老病不識路
+zeng6 gung1 zung3 dak1 gwai1, lou5 bing6 bat1 sik1 lou6
+-----------------------------------------------------
+昔如水上鷗，今如罝中兔
+sik1 jyu4 seoi2 soeng6 au1, gam1 jyu4 ze1 zung1 tou3
+-----------------------------------------------------
+性命由他人，悲辛但狂顧
+sing3 ming6 jau4 taa1 jan4, bei1 san1 daan6 kwong4 gu3
+-----------------------------------------------------
+山鬼獨一腳，蝮蛇長如樹
+saan1 gwai2 duk6 jat1 goek3, fuk1 se4 coeng4 jyu4 syu6
+-----------------------------------------------------
+呼號旁孤城，歲月誰與度
+fu1 hou4 bong6 gu1 sing4, seoi3 jyut6 seoi4 jyu5 dou6
+-----------------------------------------------------
+從來禦魑魅，多爲才名誤
+cung4 loi4 jyu6 ci1 mei6, do1 wai6 coi4 ming4 ng6
+-----------------------------------------------------
+夫子嵇阮流，更被時俗惡
+fu1 zi2 hai4 jyun2 lau4, gang3 bei6 si4 zuk6 wu3
+-----------------------------------------------------
+海隅微小吏，眼暗髮垂素
+hoi2 jyu4 mei4 siu2 lei6, ngaan5 am3 faat3 seoi4 sou3
+-----------------------------------------------------
+黃帽映青袍，非供折腰具
+wong4 mou6 jing2 cing1 pou4, fei1 gung1 zit3 jiu1 geoi6
+-----------------------------------------------------
+平生一杯酒，見我故人遇
+ping4 sang1 jat1 bui1 zau2, gin3 ngo5 gu3 jan4 jyu6
+-----------------------------------------------------
+相望無所成，乾坤莽迴互
+soeng1 mong6 mou4 so2 sing4, kin4 kwan1 mong5 wui4 wu6
 
+〚3.2.5〛暮：遇韻
+〚4.2.5〛路：遇韻
+〚5.2.5〛兔：遇韻
+〚6.2.5〛顧：遇韻
+〚7.2.5〛樹：遇韻
+〚8.2.5〛度：遇韻
+〚9.2.5〛誤：遇韻
+〚10.2.5〛惡：遇韻
+〚11.2.5〛素：遇韻
+〚12.2.5〛具：遇韻
+〚13.2.5〛遇：遇韻
+〚14.2.5〛互：遇韻
 
+五古
 
 =====================================================
 
-1373 所思[得台州鄭司戶虔消息]
-so2 si3/soi1/si1/si6 unknown dak1 ji4/toi4/toi1 zau1 zing6/zeng6/cing6 si1 wu6/jyu6 kin4 siu1 sak1/sik1 unknown 
-
+1373 所思
+so2 si1
 
 鄭老身仍竄，台州信所傳
-zing6/zeng6/cing6 lou5 gyun1/san1 jing4 cyun3/cyun2, ji4/toi4/toi1 zau1 san1/seon1/seon3 so2 zyun6/zyun2/cyun4/zyun3/cyun6 
-爲農山澗曲，臥病海雲邊
-wai6/wai4 nung4 saan1 gaan2/gaan3 huk1/kuk1/guk1, ngo6 bing6/beng6 hoi2 wan4 bin1 
-世已疏儒素，人猶乞酒錢
-sai3 ji3/ji5 so3/so1 jyu4 sou3/so3/saak3, jan4/jan5 jau4 hei3/haat1/hat1 zau2 zin2/cin4 
-徒勞望牛斗，無計斸龍泉
-tou4 lou6/lou4 mong4/mong6 ngau4 dau3/dau2, mo4/mou5/mou4 gei3/gai6/gai3 zuk1 cung2/lung4/pong4 cyun4 
-
+zeng6 lou5 san1 jing4 cyun2, toi4 zau1 seon3 so2 cyun4
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+爲農山澗曲，臥病海雲邊
+wai4 nung4 saan1 gaan3 kuk1, ngo6 bing6 hoi2 wan4 bin1
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
+世已疏儒素，人猶乞酒錢
+sai3 ji5 so1 jyu4 sou3, jan4 jau4 hat1 zau2 cin4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+徒勞望牛斗，無計斸龍泉
+tou4 lou4 mong6 ngau4 dau2, mou4 gai3 zuk1 lung4 cyun4
+平平仄平仄，平仄仄平平
 
+〚3.2.5〛傳：先韻
+〚4.2.5〛邊：先韻
+〚5.2.5〛錢：先韻
+〚6.2.5〛泉：先韻
 
+五律
 
 =====================================================
 
 1376 遣興五首
-hin3/hin2 hing3/hing1/jan6 wu1/ng5 sau3/sau2 
+hin2 hing3 ng5 sau2
 
-
-
-
-
+其一
 
 蟄龍三冬臥，老鶴萬里心
-zat6/zik6 cung2/lung4/pong4 saam3/saam1/saam6 dung1 ngo6, lou5 hok2/hok6 maan6 lei5 sam1 
+zat6 lung4 saam1 dung1 ngo6, lou5 hok6 maan6 lei5 sam1
+-----------------------------------------------------
 昔時賢俊人，未遇猶視今
-cok3/sik1 si4 jin4/jin6/hin4 zeon3 jan4/jan5, mei6 jyu6 jau4 si6 gam1 
+sik1 si4 jin4 zeon3 jan4, mei6 jyu6 jau4 si6 gam1
+-----------------------------------------------------
 嵇康不得死，孔明有知音
-hai4/gei1/kai1 hong1 fau2/fau4/pei1/dan2/bat1/fu1 dak1 si2/sei2, kung2/hung2 ming4 jau6/jau5 zi3/zi1 jam1/jam3 
+hai4 hong1 bat1 dak1 sei2, hung2 ming4 jau5 zi1 jam1
+-----------------------------------------------------
 又如隴坻松，用捨在所尋
-jau6 jyu4 lung5 ci4/zi2/dai2/zi1 cung4, jung6/ung6 se2 zoi6 so2 cam4 
+jau6 jyu4 lung5 dai2 cung4, jung6 se2 zoi6 so2 cam4
+-----------------------------------------------------
 大哉霜雪幹，歲久爲枯林
-taai3/daai6 zoi1 soeng1 syut3 gon3/hon4, seoi3 gau2 wai6/wai4 gu1/kwu1/fu1 lam4 
+daai6 zoi1 soeng1 syut3 gon3, seoi3 gau2 wai4 fu1 lam4
 
-
-
-
-
+其二
 
 昔者龐德公，未曾入州府
-cok3/sik1 ze2 lung4/lung5/pong4 dak1 gung1, mei6 zang1/cang4 jap6 zau1 fu2 
+sik1 ze2 pong4 dak1 gung1, mei6 cang4 jap6 zau1 fu2
+-----------------------------------------------------
 襄陽耆舊間，處士節獨苦
-soeng1 joeng4 zi2/si6/si3/kei4 gau6 gaan3/gaan1, cyu2/syu3/cyu3 si6 zit6/zit3 duk6 fu2/geoi2 
+soeng1 joeng4 kei4 gau6 gaan1, cyu2 si6 zit3 duk6 fu2
+-----------------------------------------------------
 豈無濟時策，終竟畏羅罟
-hoi2/hei2 mo4/mou5/mou4 zai2/zai3 si4 caak3, zung1 ging6/ging2/ging3 wai3 lo4 gwu2/gwu1/gu1/gu2 
+hei2 mou4 zai3 si4 caak3, zung1 ging2 wai3 lo4 gu2
+-----------------------------------------------------
 林茂鳥有歸，水深魚知聚
-lam4 mau6 diu2/niu5 jau6/jau5 gwei1/gwai1, seoi2 sam1 jyu4 zi3/zi1 zeoi6 
+lam4 mau6 niu5 jau5 gwai1, seoi2 sam1 jyu4 zi1 zeoi6
+-----------------------------------------------------
 舉家隱鹿門，劉表焉得取
-geoi2 gu1/gwu1/gaa1 jan5/jan6/jan2/jan3 luk2/luk3/luk6 mun4, lau4 biu1/biu2 jin1/jin4/hin4 dak1 ceoi2 
+geoi2 gaa1 jan2 luk6 mun4, lau4 biu2 jin1 dak1 ceoi2
 
-
-
-
-
+其三
 
 陶潛避俗翁，未必能達道
-jiu4/tou4/to4 cim4 bei6 zuk6 jung1, mei6 bit1/bit3 noi6/nang4/nang1 taat3/daat6 dou6/dou5 
+tou4 cim4 bei6 zuk6 jung1, mei6 bit1 nang4 daat6 dou6
+-----------------------------------------------------
 觀其著詩集，頗亦恨枯槁
-gun3/gwun1/gwun3/gun1 gei1/kei4/gei4/gei3 zoek6/zoek3/cyu5/zyu3 si1 zap6/zaap6, po1/bo1/po2 jik6 han6 gu1/kwu1/fu1 gou2 
+gun1 kei4 zyu3 si1 zaap6, po2 jik6 han6 fu1 gou2
+-----------------------------------------------------
 達生豈是足，默識蓋不早
-taat3/daat6 sang1/saang1 hoi2/hei2 si6 zeoi3/zeoi6/zuk3/zuk1, maak6/mak6 zi3/sik1 goi3/hap6/gap3/gap6/got3/koi3 fau2/fau4/pei1/dan2/bat1/fu1 zou2 
+daat6 sang1 hei2 si6 zuk1, mak6 sik1 goi3 bat1 zou2
+-----------------------------------------------------
 有子賢與愚，何其挂懷抱
-jau6/jau5 zi2 jin4/jin6/hin4 jyu6/jyu4/jyu5 jyu4, ho6/ho4 gei1/kei4/gei4/gei3 kwaa3/gwaa3/gwai1 waai4 bou6/pou5 
+jau5 zi2 jin4 jyu5 jyu4, ho4 kei4 gwaa3 waai4 pou5
 
-
-
-
-
+其四
 
 賀公雅吳語，在位常清狂
-ho6 gung1 aa1/ngaa5 ng4 jyu6/jyu3/jyu5, zoi6 wai2/wai6 soeng4 ceng1/cing1 kwong4/kong4 
+ho6 gung1 ngaa5 ng4 jyu5, zoi6 wai6 soeng4 cing1 kwong4
+-----------------------------------------------------
 上疏乞骸骨，黃冠歸故鄕
-soeng5/saang3/soeng6 so3/so1 hei3/haat1/hat1 hoi4/haai4 gwu2/gwat1, wong4 gun3/gwun1/gwun3/gun1 gwei1/gwai1 gwu3/gu3/geoi3 hoeng3/hoeng1 
+soeng5 so3 hat1 haai4 gwat1, wong4 gun1 gwai1 gu3 hoeng1
+-----------------------------------------------------
 爽氣不可致，斯人今則亡
-song2/song1 hei3 fau2/fau4/pei1/dan2/bat1/fu1 hak1/haak1/ho2 zi3, si1 jan4/jan5 gam1 zik1/zak1 mou4/mong4 
+song2 hei3 bat1 ho2 zi3, si1 jan4 gam1 zak1 mong4
+-----------------------------------------------------
 山陰一茅宇，江海日淒涼
-saan1 am1/jam3/jam1 jat1 maau4 jyu5, gong1 hoi2 mik6/jat6 cai1/cin3/sin6 loeng4/loeng6 
+saan1 jam1 jat1 maau4 jyu5, gong1 hoi2 jat6 cai1 loeng4
 
-
-
-
-
+其五
 
 吾憐孟浩然，裋褐卽長夜
-ng4 leon6/lin4 mong5/mong6/mang6/maang6 hou6 jin4, syu6 hot6/hot3 zik1 zoeng2/zoeng6/coeng4 je6 
+ng4 lin4 maang6 hou6 jin4, syu6 hot3 zik1 coeng4 je6
+-----------------------------------------------------
 賦詩何必多，往往凌鮑謝
-fu3 si1 ho6/ho4 bit1/bit3 do1, wong6/wong5 wong6/wong5 ling4 baau6/baau3/baau1/pou5/pau1 ze6 
+fu3 si1 ho4 bit1 do1, wong5 wong5 ling4 baau6 ze6
+-----------------------------------------------------
 清江空舊魚，春雨餘甘蔗
-ceng1/cing1 gong1 hung3/hung2/hung1 gau6 jyu4, ceon1 jyu6/jyu3/jyu5 jyu4 gam1 ze3 
+cing1 gong1 hung1 gau6 jyu4, ceon1 jyu5 jyu4 gam1 ze3
+-----------------------------------------------------
 每望東南雲，令人幾悲吒
-mui6/mui5 mong4/mong6 dung1 naa1/naa4/naam4 wan4, ling4/ling1/ling6 jan4/jan5 gei1/gei3/gei2/kei4 bei1 zaa3/caak1/caa3/zaa1 
+mui5 mong6 dung1 naam4 wan4, ling6 jan4 gei2 bei1 zaa3
 
+〚1:5.2.5〛心：侵韻
+〚1:6.2.5〛今：侵韻
+〚1:7.2.5〛音：侵韻
+〚1:8.2.5〛尋：侵韻
+〚1:9.2.5〛林：侵韻
+〚2:13.2.5〛府：麌韻
+〚2:14.2.5〛苦：麌韻
+〚2:15.2.5〛罟：麌韻
+〚2:16.2.5〛聚：麌韻
+〚2:17.2.5〛取：麌韻
+〚3:21.2.5〛道：皓韻
+〚3:22.2.5〛槁：皓韻
+〚3:23.2.5〛早：皓韻
+〚3:24.2.5〛抱：皓韻
+〚4:28.2.5〛狂：陽韻
+〚4:29.2.5〛鄕：陽韻
+〚4:30.2.5〛亡：陽韻
+〚4:31.2.5〛涼：陽韻
+〚5:35.2.5〛夜：禡韻
+〚5:36.2.5〛謝：禡韻
+〚5:37.2.5〛蔗：禡韻
+〚5:38.2.5〛吒：禡韻
+
+五古
+
+〚2:16.2.5〛聚，上聲。
 
 =====================================================
 
 1390 遣興二首
-hin3/hin2 hing3/hing1/jan6 ji6/ji3 sau3/sau2 
+hin2 hing3 ji6 sau2
 
-
-
-
-
+其一
 
 天用莫如龍，有時繫扶桑
-tin1 jung6/ung6 mou6/mok6/mo2 jyu4 cung2/lung4/pong4, jau6/jau5 si4 gai3/hai6/hai3 pou4/fu4 song1 
+tin1 jung6 mok6 jyu4 lung4, jau5 si4 hai6 fu4 song1
+-----------------------------------------------------
 頓轡海徒涌，神人身更長
-duk6/deon3/deon6 bei3/bei6 hoi2 tou4 jung2/cung1/jung5, san1/san4 jan4/jan5 gyun1/san1 gang3/gaang1/gaang3/gang1/ang3 zoeng2/zoeng6/coeng4 
+deon6 bei3 hoi2 tou4 jung2, san4 jan4 san1 gang3 coeng4
+-----------------------------------------------------
 性命苟不存，英雄徒自強
-sing3 meng6/ming6 gau2 fau2/fau4/pei1/dan2/bat1/fu1 cyun4, jing1 hung4 tou4 zi6 koeng5/goeng6/koeng3/koeng4/koeng6/goeng5 
+sing3 ming6 gau2 bat1 cyun4, jing1 hung4 tou4 zi6 koeng4
+-----------------------------------------------------
 吞聲勿復道，眞宰意茫茫
-tan1 seng1/sing1 mut6/mat6 fau6/fuk1/fuk6 dou6/dou5, zan1 zoi2 ji3 mong4 mong4 
+tan1 sing1 mat6 fau6 dou6, zan1 zoi2 ji3 mong4 mong4
 
-
-
-
-
+其二
 
 地用莫如馬，無良復誰記
-dei6 jung6/ung6 mou6/mok6/mo2 jyu4 maa5, mo4/mou5/mou4 loeng4 fau6/fuk1/fuk6 seoi4 gei3 
-此日千里鳴，追風可君意
-ci2 mik6/jat6 cin1 lei5 ming4, deoi1/zeoi1 fung3/fung2/fung1 hak1/haak1/ho2 gwan1 ji3 
-君看渥洼種，態與駑駘異
-gwan1 hon1/hon3 aak1/ngak1/ngaak1/ak1/ak3 gwai1/waa1 zung3/zung2, taai3/daai3 jyu6/jyu4/jyu5 nou5/nou4 toi5/toi1/toi4/doi6 ji6 
-不雜蹄齧間，逍遙有能事
-fau2/fau4/pei1/dan2/bat1/fu1 zaap6 tai4 jit6/ngit6/jit3/ngit3/nip6/ngat6/ngaat6 gaan3/gaan1, siu1 jiu4 jau6/jau5 noi6/nang4/nang1 si6 
-
+dei6 jung6 mok6 jyu4 maa5, mou4 loeng4 fau6 seoi4 gei3
 -----------------------------------------------------
-平平仄仄
+此日千里鳴，追風可君意
+ci2 jat6 cin1 lei5 ming4, zeoi1 fung1 ho2 gwan1 ji3
+-----------------------------------------------------
+君看渥洼種，態與駑駘異
+gwan1 hon3 ak1 waa1 zung2, taai3 jyu5 nou4 toi4 ji6
+-----------------------------------------------------
+不雜蹄齧間，逍遙有能事
+bat1 zaap6 tai4 jit6 gaan1, siu1 jiu4 jau5 nang4 si6
 
+〚1:5.2.5〛桑：陽韻
+〚1:6.2.5〛長：陽韻
+〚1:7.2.5〛強：陽韻
+〚1:8.2.5〛茫：陽韻
+〚2:12.2.5〛記：寘韻
+〚2:13.2.5〛意：寘韻
+〚2:14.2.5〛異：寘韻
+〚2:15.2.5〛事：寘韻
 
+五古
 
 =====================================================
 
 1395 遣興五首
-hin3/hin2 hing3/hing1/jan6 wu1/ng5 sau3/sau2 
+hin2 hing3 ng5 sau2
 
-
-
-
-
+其一
 
 朔風飄胡雁，慘澹帶砂礫
-sok3 fung3/fung2/fung1 piu1/liu4/lau4 wu4 ngaan6, caam3/caam2 taam4/daam6/daam1 daai2/daai3 saa1 lok6/lik6/lik1 
+sok3 fung1 piu1 wu4 ngaan6, caam2 daam6 daai3 saa1 lik1
+-----------------------------------------------------
 長林何蕭蕭，秋草萋更碧
-zoeng2/zoeng6/coeng4 lam4 ho6/ho4 siu1 siu1, cau1 cou2 cai1 gang3/gaang1/gaang3/gang1/ang3 bik1 
+coeng4 lam4 ho4 siu1 siu1, cau1 cou2 cai1 gang3 bik1
+-----------------------------------------------------
 北里富薰天，高樓夜吹笛
-bui3/bui6/bak1 lei5 fu3 fan1 tin1, gou1 lau4 je6 ceoi3/ceoi1 dek2/dik6/dek6 
+bak1 lei5 fu3 fan1 tin1, gou1 lau4 je6 ceoi1 dek6
+-----------------------------------------------------
 焉知南鄰客，九月猶絺綌
-jin1/jin4/hin4 zi3/zi1 naa1/naa4/naam4 leon4 haak3, gau2/kau4 jyut6 jau4 hei1/ci1 kwik1/gwik1/gwik3 
+jin1 zi1 naam4 leon4 haak3, gau2 jyut6 jau4 hei1 gwik1
 
-
-
-
-
+其二
 
 長陵銳頭兒，出獵待明發
-zoeng2/zoeng6/coeng4 ling4 jeoi6 tau4 ngai4/ji1/ji4, ceoi3/ceot1 lip6 doi6 ming4 but3/faat3 
+coeng4 ling4 jeoi6 tau4 ji4, ceot1 lip6 doi6 ming4 faat3
+-----------------------------------------------------
 騂弓金爪鏑，白馬蹴微雪
-san1/sing1 gung1 gam1 zaau2 dik6/zaak6/dik1, baak6/baak3 maa5 cuk1/zuk1 mei4 syut3 
+sing1 gung1 gam1 zaau2 dik1, baak6 maa5 cuk1 mei4 syut3
+-----------------------------------------------------
 未知所馳逐，但見暮光滅
-mei6 zi3/zi1 so2 ci4 dik6/zuk6, daan6 jin6/gin3/hin3 mou6 gwong1 mit6 
+mei6 zi1 so2 ci4 zuk6, daan6 gin3 mou6 gwong1 mit6
+-----------------------------------------------------
 歸來懸兩狼，門戶有旌節
-gwei1/gwai1 loi6/lai4/loi4 jyun6/jyun4/hyun4 loeng2/loeng6/loeng3/loeng5 long4, mun4 wu6/jyu6 jau6/jau5 sing1/zing1 zit6/zit3 
+gwai1 loi4 jyun4 loeng5 long4, mun4 wu6 jau5 zing1 zit3
 
-
-
-
-
+其三
 
 漆有用而割，膏以明自煎
-cit3/cat1/caat1 jau6/jau5 jung6/ung6 nang4/ji4 got3, gou3/gou1 ji5 ming4 zi6 zin3/zin1 
+cat1 jau5 jung6 ji4 got3, gou1 ji5 ming4 zi6 zin1
+-----------------------------------------------------
 蘭摧白露下，桂折秋風前
-laan4 ceoi4/ceoi1/zo3/zeoi4 baak6/baak3 lau6/lou6 haa5/haa2/haa6, gwei3/gwai3 zip3/zit3 cau1 fung3/fung2/fung1 cin4 
+laan4 ceoi1 baak6 lou6 haa6, gwai3 zit3 cau1 fung1 cin4
+-----------------------------------------------------
 府中羅舊尹，沙道尙依然
-fu2 zung3/zung1 lo4 gau6 wan5, saa3/saa1 dou6/dou5 soeng4/soeng6/soeng3 ji1/ji2 jin4 
+fu2 zung1 lo4 gau6 wan5, saa1 dou6 soeng6 ji1 jin4
+-----------------------------------------------------
 赫赫蕭京兆，今爲時所憐
-hak1/gwik1/haak3/haak1/nik1 hak1/gwik1/haak3/haak1/nik1 siu1 jyun4/ging1 ziu6/siu6/ziu3, gam1 wai6/wai4 si4 so2 leon6/lin4 
+haak1 haak1 siu1 ging1 siu6, gam1 wai4 si4 so2 lin4
 
-
-
-
-
+其四
 
 猛虎憑其威，往往遭急縛
-maang5/mang5 fu2 paang4/pang4 gei1/kei4/gei4/gei3 wai1, wong6/wong5 wong6/wong5 zou1 gap1 fok3/fok6/bok3 
+maang5 fu2 pang4 kei4 wai1, wong5 wong5 zou1 gap1 bok3
+-----------------------------------------------------
 雷吼徒咆哮，枝撐已在腳
-leoi6/leoi4 hau1/haau1/haau3/waau2/lung1/hung2/hau2/hau6/kau3/hau3 tou4 paau1/paau4 haau1, kei4/zi1 caang1/cang1 ji3/ji5 zoi6 goek3 
+leoi4 haau1 tou4 paau4 haau1, zi1 caang1 ji5 zoi6 goek3
+-----------------------------------------------------
 忽看皮寢處，無復睛閃爍
-fat1 hon1/hon3 pei2/pei4 cam2 cyu2/syu3/cyu3, mo4/mou5/mou4 fau6/fuk1/fuk6 zeng1/zing1 sim2 lik1/coek3/soek3/lok6 
+fat1 hon3 pei4 cam2 cyu3, mou4 fau6 zing1 sim2 soek3
+-----------------------------------------------------
 人有甚於斯，足以勸元惡
-jan4/jan5 jau6/jau5 sap6/sam4/sam6 wu1/jyu1 si1, zeoi3/zeoi6/zuk3/zuk1 ji5 hyun3 jyun4 ok3/wu1/ngok3/wu3/jyu3/jyu1 
+jan4 jau5 sam6 jyu1 si1, zuk1 ji5 hyun3 jyun4 ok3
 
-
-
-
-
+其五
 
 朝逢富家葬，前後皆輝光
-ziu1/ciu4 pung4/fung4 fu3 gu1/gwu1/gaa1 zong3, cin4 hau5/hau6 gaai1 wai1/fai1 gwong1 
-共指親戚大，緦麻百夫行
-gung1/gung2/gung3/gung6 zi2 can3/can1/ceon1 cuk1/cik1 taai3/daai6, si1 maa4 mak6/baak3 fu4/fu1 hang6/hong4/haang4/hong6/hong5/hang4 
-送者各有死，不須羨其強
-sung3 ze2 gok3 jau6/jau5 si2/sei2, fau2/fau4/pei1/dan2/bat1/fu1 sou1/seoi1 jin4/sin6 gei1/kei4/gei4/gei3 koeng5/goeng6/koeng3/koeng4/koeng6/goeng5 
-君看束縛去，亦得歸山岡
-gwan1 hon1/hon3 suk1/cuk1/syu3 fok3/fok6/bok3 heoi2/heoi3/keoi1, jik6 dak1 gwei1/gwai1 saan1 gong1 
-
+ziu1 fung4 fu3 gaa1 zong3, cin4 hau6 gaai1 fai1 gwong1
 -----------------------------------------------------
-平平仄仄
+共指親戚大，緦麻百夫行
+gung6 zi2 can1 cik1 daai6, si1 maa4 baak3 fu1 hong4
+-----------------------------------------------------
+送者各有死，不須羨其強
+sung3 ze2 gok3 jau5 sei2, bat1 seoi1 sin6 kei4 koeng4
+-----------------------------------------------------
+君看束縛去，亦得歸山岡
+gwan1 hon1 cuk1 bok3 heoi3, jik6 dak1 gwai1 saan1 gong1
 
+〚1:5.2.5〛礫：錫韻
+〚1:6.2.5〛碧：陌韻
+〚1:7.2.5〛笛：錫韻
+〚1:8.2.5〛綌：陌韻
+〚2:12.2.5〛發：月韻
+〚2:13.2.5〛雪：屑韻
+〚2:14.2.5〛滅：屑韻
+〚2:15.2.5〛節：屑韻
+〚3:19.2.5〛煎：先韻
+〚3:20.2.5〛前：先韻
+〚3:21.2.5〛然：先韻
+〚3:22.2.5〛憐：先韻
+〚4:26.2.5〛縛：藥韻
+〚4:27.2.5〛腳：藥韻
+〚4:28.2.5〛爍：藥韻
+〚4:29.2.5〛惡：藥韻
+〚5:33.2.5〛光：陽韻
+〚5:34.2.5〛行：陽韻
+〚5:35.2.5〛強：陽韻
+〚5:36.2.5〛岡：陽韻
 
+五古
 
 =====================================================
 
 1405 秦州雜詩二十首
-ceon4 zau1 zaap6 si1 ji6/ji3 sap6 sau3/sau2 
+ceon4 zau1 zaap6 si1 ji6 sap6 sau2
 
-
-
-
-
+其一
 
 滿目悲生事，因人作遠遊
-mun6/mun5 muk6 bei1 sang1/saang1 si6, jan1 jan4/jan5 zo3/zou6/zou3/zok3 jyun6/jyun3/jyun5 jau4 
+mun5 muk6 bei1 sang1 si6, jan1 jan4 zok3 jyun5 jau4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 遲迴度隴怯，浩蕩及關愁
-zi6/ci3/zi3/ci4 wui4 dok6/dou6 lung5 hip3/hip6, hou6 dong6/dong2 gap6/kap6/gaap6 waan1/gwaan1 sau4/cau1 
+ci4 wui4 dou6 lung5 hip3, hou6 dong6 kap6 gwaan1 sau4
+平平仄仄仄，仄仄仄平平
+-----------------------------------------------------
 水落魚龍夜，山空鳥鼠秋
-seoi2 laai6/lok1/lok6 jyu4 cung2/lung4/pong4 je6, saan1 hung3/hung2/hung1 diu2/niu5 syu2 cau1 
+seoi2 lok6 jyu4 lung4 je6, saan1 hung1 niu5 syu2 cau1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 西征問烽火，心折此淹留
-sai1 zing1 man6 fung1 fo2, sam1 zip3/zit3 ci2 jim3/jim2/jim1 lau6/lau4 
+sai1 zing1 man6 fung1 fo2, sam1 zit3 ci2 jim1 lau4
+平平仄平仄，平仄仄平平（出句特定平仄）
 
-
-
-
-
+其二
 
 秦州城北寺，勝迹隗囂宮
-ceon4 zau1 seng4/sing4 bui3/bui6/bak1 zi2/zi6, sing1/sing3 zek3/zik1 ngai4/kwai4/gwai3/faai3/wai5/ngai5/wai4/fui1/wui5 ngou4/hiu1 gung1 
+ceon4 zau1 sing4 bak1 zi6, sing3 zik1 ngai5 hiu1 gung1
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
 苔蘚山門古，丹青野殿空
-toi1/toi4 sin1/sin2 saan1 mun4 gwu2/gu2, daan1 ceng1/zing1/cing1 je5 din3/din6 hung3/hung2/hung1 
+toi4 sin2 saan1 mun4 gu2, daan1 cing1 je5 din6 hung1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 月明垂葉露，雲逐渡溪風
-jyut6 ming4 seoi4 sip3/jip6 lau6/lou6, wan4 dik6/zuk6 dou6 kai1 fung3/fung2/fung1 
+jyut6 ming4 seoi4 jip6 lou6, wan4 zuk6 dou6 kai1 fung1
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
 清渭無情極，愁時獨向東
-ceng1/cing1 wai5/wai3/wai6 mo4/mou5/mou4 cing4/ceng4 gik1/gik6, sau4/cau1 si4 duk6 hoeng3 dung1 
+cing1 wai6 mou4 cing4 gik6, sau4 si4 duk6 hoeng3 dung1
+平仄平平仄，平平仄仄平
 
-
-
-
-
+其三
 
 州圖領同谷，驛道出流沙
-zau1 tou4 leng5/ling5 tung4 juk6/luk6/guk1, jik6 dou6/dou5 ceoi3/ceot1 lau4 saa3/saa1 
+zau1 tou4 ling5 tung4 guk1, jik6 dou6 ceot1 lau4 saa1
+平平仄平仄，仄仄仄平平（出句特定平仄）
+-----------------------------------------------------
 降虜兼千帳，居人有萬家
-hong4/gong3/gon3 lou5/lu5 gim1 cin1 coeng3/zoeng3, gei1/geoi1 jan4/jan5 jau6/jau5 maan6 gu1/gwu1/gaa1 
+hong4 lou5 gim1 cin1 zoeng3, geoi1 jan4 jau5 maan6 gaa1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 馬驕珠汗落，胡舞白題斜
-maa5 giu1/hiu1 zyu1 hon4/hon6 laai6/lok1/lok6, wu4 mou5 baak6/baak3 dai6/tai4 je4/ce3/ce4/ze4 
+maa5 giu1 zyu1 hon6 lok6, wu4 mou5 baak6 tai4 ce4
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
 年少臨洮子，西來亦自誇
-nin4 siu3/siu2 lam4/lam6 jiu4/tou1/tou4 zi2, sai1 loi6/lai4/loi4 jik6 zi6 kwaa1 
+nin4 siu3 lam4 tou4 zi2, sai1 loi4 jik6 zi6 kwaa1
+平仄平平仄，平平仄仄平
 
-
-
-
-
+其四
 
 鼓角緣邊郡，川原欲夜時
-gwu2/gu2 luk6/gok2/gok3 jyun6/jyun4/tyun5 bin1 gwan6, cyun1 jyun5/jyun4 juk6 je6 si4 
+gu2 gok3 jyun4 bin1 gwan6, cyun1 jyun4 juk6 je6 si4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 秋聽殷地發，風散入雲悲
-cau1 teng1/ting1/ting3/teng3 jin1/jan2/aan1/jan1 dei6 but3/faat3, fung3/fung2/fung1 saan2/saan3 jap6 wan4 bei1 
+cau1 ting1 jan1 dei6 faat3, fung1 saan3 jap6 wan4 bei1
+平平平仄仄，平仄仄平平
+-----------------------------------------------------
 抱葉寒蟬靜，歸山獨鳥遲
-bou6/pou5 sip3/jip6 hon4 sin4/sim4 zing6, gwei1/gwai1 saan1 duk6 diu2/niu5 zi6/ci3/zi3/ci4 
+pou5 jip6 hon4 sim4 zing6, gwai1 saan1 duk6 niu5 ci4
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 萬方聲一槪，吾道竟何之
-maan6 fong1 seng1/sing1 jat1 koi3, ng4 dou6/dou5 ging6/ging2/ging3 ho6/ho4 zi1 
+maan6 fong1 sing1 jat1 koi3, ng4 dou6 ging2 ho4 zi1
+仄平平仄仄，平仄仄平平
 
-
-
-
-
+其五
 
 南使宜天馬，由來萬匹強
-naa1/naa4/naam4 si3/sai2/si2 ji4 tin1 maa5, jau4/au4 loi6/lai4/loi4 maan6 pat1/muk6 koeng5/goeng6/koeng3/koeng4/koeng6/goeng5 
+naam4 si3 ji4 tin1 maa5, jau4 loi4 maan6 pat1 koeng4
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 浮雲連陣沒，秋草遍山長
-pou4/fau4 wan4 lin4 zaan6/zan6 mut6, cau1 cou2 bin3/pin3 saan1 zoeng2/zoeng6/coeng4 
+fau4 wan4 lin4 zan6 mut6, cau1 cou2 pin3 saan1 coeng4
+平平平仄仄，平仄仄平平
+-----------------------------------------------------
 聞說眞龍種，仍殘老驌驦
-man6/man4 seoi3/jyut6/syut3 zan1 cung2/lung4/pong4 zung3/zung2, jing4 caan4 lou5 suk1 soeng1 
+man4 syut3 zan1 lung4 zung2, jing4 caan4 lou5 suk1 soeng1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 哀鳴思戰鬥，迥立向蒼蒼
-ngoi1/ngai1/oi1 ming4 si3/soi1/si1/si6 zin3 dau3, gwing2 laap6/lap6 hoeng3 cong2/cong1 cong2/cong1 
+oi1 ming4 si1 zin3 dau3, gwing2 lap6 hoeng3 cong1 cong1
+平平平仄仄，仄仄仄平平
 
-
-
-
-
+其六
 
 城上胡笳奏，山邊漢節歸
-seng4/sing4 soeng5/saang3/soeng6 wu4 gaa1 cau3/zau3, saan1 bin1 hon3 zit6/zit3 gwei1/gwai1 
+sing4 soeng6 wu4 gaa1 zau3, saan1 bin1 hon3 zit3 gwai1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 防河赴滄海，奉詔發金微
-fong4 ho4 fu3/fu6 cong1 hoi2, fung6/fung2 siu6/ziu6/ziu3 but3/faat3 gam1 mei4 
+fong4 ho4 fu6 cong1 hoi2, fung6 ziu3 faat3 gam1 mei4
+平平仄平仄，仄仄仄平平（出句特定平仄）
+-----------------------------------------------------
 士苦形骸黑，林疏鳥獸稀
-si6 fu2/geoi2 jing4 hoi4/haai4 haak1/hak1, lam4 so3/so1 diu2/niu5 sau3/sau6 hei1 
+si6 fu2 jing4 haai4 hak1, lam4 so1 niu5 sau3 hei1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 那堪往來戍，恨解鄴城圍
-no4/no1/naa1/no5/no6/naa6/naa3/naa5/naa2 ham1 wong6/wong5 loi6/lai4/loi4 seot1/syu3, han6 gaai3/haai6/gaai2 jip6 seng4/sing4 wai4 
+no4 ham1 wong5 loi4 syu3, han6 gaai2 jip6 sing4 wai4
+平平仄平仄，仄仄仄平平（出句特定平仄）
 
-
-
-
-
+其七
 
 莽莽萬重山，孤城山谷間
-mong5/mou5 mong5/mou5 maan6 cung4/cung5/cung3/zung6/tung4/zung3 saan1, gwu1/gu1 seng4/sing4 saan1 juk6/luk6/guk1 gaan3/gaan1 
+mong5 mong5 maan6 cung4 saan1, gu1 sing4 saan1 guk1 gaan1
+仄仄仄平平，平平仄仄平
+-----------------------------------------------------
 無風雲出塞，不夜月臨關
-mo4/mou5/mou4 fung3/fung2/fung1 wan4 ceoi3/ceot1 coi3/soi3/sak1, fau2/fau4/pei1/dan2/bat1/fu1 je6 jyut6 lam4/lam6 waan1/gwaan1 
+mou4 fung1 wan4 ceot1 coi3, bat1 je6 jyut6 lam4 gwaan1
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
 屬國歸何晚，樓蘭斬未還
-zuk1/suk6/zyu3 gwok3 gwei1/gwai1 ho6/ho4 maan5, lau4 laan4 zaam2 mei6 syun4/waan4/waan6 
+suk6 gwok3 gwai1 ho4 maan5, lau4 laan4 zaam2 mei6 waan4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 煙塵獨長望，衰颯正摧顏
-jin1 can4 duk6 zoeng2/zoeng6/coeng4 mong4/mong6, ceoi1/so1/seoi1 saap3 zing1/zeng3/zing2/zing3 ceoi4/ceoi1/zo3/zeoi4 ngaan4 
+jin1 can4 duk6 coeng4 mong6, seoi1 saap3 zing3 ceoi1 ngaan4
+平平仄平仄，平仄仄平平（出句特定平仄）
 
-
-
-
-
+其八
 
 聞道尋源使，從天此路迴
-man6/man4 dou6/dou5 cam4 jyun4 si3/sai2/si2, sung1/zung6/zung1/cung4/zung2/zung3/cung6 tin1 ci2 lou6 wui4 
+man4 dou6 cam4 jyun4 si3, cung4 tin1 ci2 lou6 wui4
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 牽牛去幾許，宛馬至今來
-hin3/hin1 ngau4 heoi2/heoi3/keoi1 gei1/gei3/gei2/kei4 fu2/heoi2, jyun1/wun2/jyun2 maa5 zi3 gam1 loi6/lai4/loi4 
+hin1 ngau4 heoi3 gei2 heoi2, jyun1 maa5 zi3 gam1 loi4
+平平仄仄仄，平仄仄平平
+-----------------------------------------------------
 一望幽燕隔，何時郡國開
-jat1 mong4/mong6 jau1 jin1/jin2/jin3 gik1/gaak3/gak1, ho6/ho4 si4 gwan6 gwok3 hoi1 
+jat1 mong6 jau1 jin1 gaak3, ho4 si4 gwan6 gwok3 hoi1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 東征健兒盡，羌笛暮吹哀
-dung1 zing1 gin6 ngai4/ji1/ji4 zeon6, goeng1 dek2/dik6/dek6 mou6 ceoi3/ceoi1 ngoi1/ngai1/oi1 
+dung1 zing1 gin6 ji4 zeon6, goeng1 dek6 mou6 ceoi1 oi1
+平平仄平仄，平仄仄平平（出句特定平仄）
 
-
-
-
-
+其九
 
 今日明人眼，臨池好驛亭
-gam1 mik6/jat6 ming4 jan4/jan5 ngaan5/han2, lam4/lam6 ci4/cit3 hou3/hou2 jik6 ting4 
+gam1 jat6 ming4 jan4 ngaan5, lam4 ci4 hou2 jik6 ting4
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 叢篁低地碧，高柳半天青
-cung4 wong4 dai1 dei6 bik1, gou1 lau5 bun3 tin1 ceng1/zing1/cing1 
+cung4 wong4 dai1 dei6 bik1, gou1 lau5 bun3 tin1 cing1
+平平平仄仄，平仄仄平平
+-----------------------------------------------------
 稠疊多幽事，喧呼閱使星
-cau4/tiu4/tiu3 dip6 do1 jau1 si6, hyun1 fu1/ho6 jyut6/hyut6 si3/sai2/si2 seng1/sing1 
+cau4 dip6 do1 jau1 si6, hyun1 fu1 jyut6 si3 sing1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 老夫如有此，不異在郊坰
-lou5 fu4/fu1 jyu4 jau6/jau5 ci2, fau2/fau4/pei1/dan2/bat1/fu1 ji6 zoi6 gaau1/gau1 gwing2/gwing1 
+lou5 fu1 jyu4 jau5 ci2, bat1 ji6 zoi6 gaau1 gwing1
+仄平平仄仄，仄仄仄平平
 
-
-
-
-
+其十
 
 雲氣接崑崙，涔涔塞雨繁
-wan4 hei3 zip3 gwan1/kwan1 leon4, sam4 sam4 coi3/soi3/sak1 jyu6/jyu3/jyu5 po4/pun4/faan4 
+wan4 hei3 zip3 kwan1 leon4, sam4 sam4 coi3 jyu5 faan4
+平仄仄平平，平平仄仄平
+-----------------------------------------------------
 羌童看渭水，使客向河源
-goeng1 tung4/zung1 hon1/hon3 wai5/wai3/wai6 seoi2, si3/sai2/si2 haak3 hoeng3 ho4 jyun4 
+goeng1 tung4 hon1 wai6 seoi2, si3 haak3 hoeng3 ho4 jyun4
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
 煙火軍中幕，牛羊嶺上村
-jin1 fo2 gwan1 zung3/zung1 mok3/mok6, ngau4 coeng4/joeng4 leng5/ling5 soeng5/saang3/soeng6 cyun1 
+jin1 fo2 gwan1 zung1 mok6, ngau4 joeng4 ling5 soeng6 cyun1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 所居秋草淨，正閉小蓬門
-so2 gei1/geoi1 cau1 cou2 zeng6/zing6, zing1/zeng3/zing2/zing3 bai3/bai6 siu2 fung4/pung4 mun4 
+so2 geoi1 cau1 cou2 zing6, zing3 bai3 siu2 pung4 mun4
+仄平平仄仄，仄仄仄平平
 
-
-
-
-
+其十一
 
 蕭蕭古塞冷，漠漠秋雲低
-siu1 siu1 gwu2/gu2 coi3/soi3/sak1 laang1/lang5/laang5, mok3/mok6 mok3/mok6 cau1 wan4 dai1 
+siu1 siu1 gu2 coi3 laang5, mok6 mok6 cau1 wan4 dai1
+平平仄仄仄，仄仄平平平（三仄對三平）
+-----------------------------------------------------
 黃鵠翅垂雨，蒼鷹飢啄泥
-wong4 huk6/huk1/guk1 ci3 seoi4 jyu6/jyu3/jyu5, cong2/cong1 jing1 gei1 doeng1/zau3/doek3 nei6/nai6/nai4/nei5 
+wong4 huk6 ci3 seoi4 jyu5, cong1 jing1 gei1 doek3 nai4
+平仄仄平仄，平平平仄平（仄平仄對平仄平）
+-----------------------------------------------------
 薊門誰自北，漢將獨征西
-gai3 mun4 seoi4 zi6 bui3/bui6/bak1, hon3 zoeng3/coeng1/zoeng1 duk6 zing1 sai1 
+gai3 mun4 seoi4 zi6 bak1, hon3 zoeng3 duk6 zing1 sai1
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
 不意書生耳，臨衰厭鼓鼙
-fau2/fau4/pei1/dan2/bat1/fu1 ji3 syu1 sang1/saang1 ji5, lam4/lam6 ceoi1/so1/seoi1 jim1/aat3/jip6/jim2/am2/jim3/jap1 gwu2/gu2 bei1/pei4 
+bat1 ji3 syu1 sang1 ji5, lam4 seoi1 jim3 gu2 pei4
+仄仄平平仄，平平仄仄平
 
-
-
-
-
+其十二
 
 山頭南郭寺，水號北流泉
-saan1 tau4 naa1/naa4/naam4 kwok3/gwik1/gwok3 zi2/zi6, seoi2 hou4/hou6 bui3/bui6/bak1 lau4 cyun4 
+saan1 tau4 naam4 gwok3 zi6, seoi2 hou6 bak1 lau4 cyun4
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
 老樹空庭得，清渠一邑傳
-lou5 syu5/syu6 hung3/hung2/hung1 ting3/ting4 dak1, ceng1/cing1 keoi5/keoi4 jat1 ap1/jap1 zyun6/zyun2/cyun4/zyun3/cyun6 
+lou5 syu6 hung1 ting4 dak1, cing1 keoi4 jat1 jap1 cyun4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 秋花危石底，晚景臥鍾邊
-cau1 faa1 ngai4 daam3/sek6/sik6 dik1/dai2, maan5 jing2/ging2 ngo6 zung1 bin1 
+cau1 faa1 ngai4 sek6 dai2, maan5 ging2 ngo6 zung1 bin1
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
 俯仰悲身世，溪風爲颯然
-fu2 joeng6/joeng5 bei1 gyun1/san1 sai3, kai1 fung3/fung2/fung1 wai6/wai4 saap3 jin4 
+fu2 joeng5 bei1 san1 sai3, kai1 fung1 wai6 saap3 jin4
+仄仄平平仄，平平仄仄平
 
-
-
-
-
+其十三
 
 傳道東柯谷，深藏數十家
-zyun6/zyun2/cyun4/zyun3/cyun6 dou6/dou5 dung1 go1/ngo1/o1 juk6/luk6/guk1, sam1 cong4/zong1/zong6 sou2/sok3/cuk1/sou3 sap6 gu1/gwu1/gaa1 
+cyun4 dou6 dung1 o1 guk1, sam1 cong4 sou3 sap6 gaa1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
 對門藤蓋瓦，映竹水穿沙
-deoi2/deoi3 mun4 tang4 goi3/hap6/gap3/gap6/got3/koi3 ngaa5, joeng2/jeng2/jing2 zuk1 seoi2 cyun3/cyun1 saa3/saa1 
+deoi3 mun4 tang4 goi3 ngaa5, jing2 zuk1 seoi2 cyun1 saa1
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
 瘦地翻宜粟，陽坡可種瓜
-jyu2/sau3 dei6 faan1 ji4 suk1, joeng4 po1/bo1 hak1/haak1/ho2 zung3/zung2 gwaa1 
+sau3 dei6 faan1 ji4 suk1, joeng4 bo1 ho2 zung3 gwaa1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 船人近相報，但恐失桃花
-syun4 jan4/jan5 kan5/gan3/gei3/gan6 soeng3/soeng2/soeng1 bou3, daan6 hung3/hung2 jat6/sat1 tou4 faa1 
+syun4 jan4 gan6 soeng1 bou3, daan6 hung2 sat1 tou4 faa1
+平平仄平仄，仄仄仄平平（出句特定平仄）
 
-
-
-
-
+其十四
 
 萬古仇池穴，潛通小有天
-maan6 gwu2/gu2 cau4/kau4/sau4/keoi1 ci4/cit3 jyut6/hyut6, cim4 tung1 siu2 jau6/jau5 tin1 
+maan6 gu2 cau4 ci4 jyut6, cim4 tung1 siu2 jau5 tin1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 神魚人不見，福地語眞傳
-san1/san4 jyu4 jan4/jan5 fau2/fau4/pei1/dan2/bat1/fu1 jin6/gin3/hin3, fu3/fuk1 dei6 jyu6/jyu3/jyu5 zan1 zyun6/zyun2/cyun4/zyun3/cyun6 
+san4 jyu4 jan4 bat1 gin3, fuk1 dei6 jyu5 zan1 cyun4
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
 近接西南境，長懷十九泉
-kan5/gan3/gei3/gan6 zip3 sai1 naa1/naa4/naam4 ging2, zoeng2/zoeng6/coeng4 waai4 sap6 gau2/kau4 cyun4 
+gan6 zip3 sai1 naam4 ging2, coeng4 waai4 sap6 gau2 cyun4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 何時一茅屋，送老白雲邊
-ho6/ho4 si4 jat1 maau4 nguk1/uk1, sung3 lou5 baak6/baak3 wan4 bin1 
+ho4 si4 jat1 maau4 uk1, sung3 lou5 baak6 wan4 bin1
+平平仄平仄，仄仄仄平平（出句特定平仄）
 
-
-
-
-
+其十五
 
 未暇泛滄海，悠悠兵馬間
-mei6 haa4/haa6 faan4/faan3/fung2 cong1 hoi2, jau4 jau4 bing1 maa5 gaan3/gaan1 
+mei6 haa6 faan3 cong1 hoi2, jau4 jau4 bing1 maa5 gaan1
+仄仄仄平仄，平平平仄平（仄平仄對平仄平）
+-----------------------------------------------------
 塞門風落木，客舍雨連山
-coi3/soi3/sak1 mun4 fung3/fung2/fung1 laai6/lok1/lok6 muk6, haak3 se2/se3/sik1 jyu6/jyu3/jyu5 lin4 saan1 
+coi3 mun4 fung1 lok6 muk6, haak3 se3 jyu5 lin4 saan1
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
 阮籍行多興，龐公隱不還
-jyun2/jyun4/jyun5 zik6 hang6/hong4/haang4/hong6/hong5/hang4 do1 hing3/hing1/jan6, lung4/lung5/pong4 gung1 jan5/jan6/jan2/jan3 fau2/fau4/pei1/dan2/bat1/fu1 syun4/waan4/waan6 
+jyun2 zik6 hang4 do1 hing3, pong4 gung1 jan2 bat1 waan4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 東柯遂疏懶，休鑷鬢毛班
-dung1 go1/ngo1/o1 seoi6 so3/so1 laai6/laan5/laam5, jau1/jyu3 nip3/nip6 ban3 mou4 baan1 
+dung1 o1 seoi6 so1 laan5, jau1 nip6 ban3 mou4 baan1
+平平仄平仄，平仄仄平平（出句特定平仄）
 
-
-
-
-
+其十六
 
 東柯好崖谷，不與眾峯羣
-dung1 go1/ngo1/o1 hou3/hou2 ngaai4 juk6/luk6/guk1, fau2/fau4/pei1/dan2/bat1/fu1 jyu6/jyu4/jyu5 zung1/zung3 fung1 kwan4 
+dung1 o1 hou2 ngaai4 guk1, bat1 jyu5 zung3 fung1 kwan4
+平平仄平仄，仄仄仄平平（出句特定平仄）
+-----------------------------------------------------
 落日邀雙鳥，晴天卷片雲
-laai6/lok1/lok6 mik6/jat6 jiu1 soeng1 diu2/niu5, ceng4/ceng1/cing4 tin1 kyun4/gyun3/hyun3/gyun2/gwan2 pin2/pin3 wan4 
+lok6 jat6 jiu1 soeng1 niu5, cing4 tin1 gyun2 pin3 wan4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 野人矜險絕，水竹會平分
-je5 jan4/jan5 gwaan1/kan4/king1/ging1/gan1 him2 zyut3/zyut6/cyut6, seoi2 zuk1 wui5/kui2/kwui2/kwui3/kui3/wui6/fui2/wui3 peng4/ping4/pin4/ping6 fan6/fan3/fan1 
+je5 jan4 ging1 him2 zyut6, seoi2 zuk1 wui6 ping4 fan1
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
 采藥吾將老，兒童未遣聞
-coi3/coi2 joek6 ng4 zoeng3/coeng1/zoeng1 lou5, ngai4/ji1/ji4 tung4/zung1 mei6 hin3/hin2 man6/man4 
+coi2 joek6 ng4 zoeng1 lou5, ji4 tung4 mei6 hin2 man4
+仄仄平平仄，平平仄仄平
 
-
-
-
-
+其十七
 
 邊秋陰易夕，不復辨晨光
-bin1 cau1 am1/jam3/jam1 jik6/ji6 zik6, fau2/fau4/pei1/dan2/bat1/fu1 fau6/fuk1/fuk6 bin6/pin3/bin2 san4 gwong1 
+bin1 cau1 jam1 ji6 zik6, bat1 fau6 bin6 san4 gwong1
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
 簷雨亂淋幔，山雲低度牆
-jim4/sim4/jam4 jyu6/jyu3/jyu5 lyun6 lam4 maan6/man6/mun6, saan1 wan4 dai1 dok6/dou6 coeng4 
+jim4 jyu5 lyun6 lam4 maan6, saan1 wan4 dai1 dou6 coeng4
+平仄仄平仄，平平平仄平（仄平仄對平仄平）
+-----------------------------------------------------
 鸕鷀窺淺井，蚯蚓上深堂
-lou4 zi1/ci4/si1 kwei1/kwai1 zin1/cin2 zing2/zeng2, jau1 jan5 soeng5/saang3/soeng6 sam1 tong4 
+lou4 ci4 kwai1 cin2 zing2, jau1 jan5 soeng5 sam1 tong4
+平平平仄仄，平仄仄平平
+-----------------------------------------------------
 車馬何蕭索，門前百草長
-geoi1/ce1/gu1 maa5 ho6/ho4 siu1 saak3/saak1/sok3/sak1, mun4 cin4 mak6/baak3 cou2 zoeng2/zoeng6/coeng4 
+geoi1 maa5 ho4 siu1 sok3, mun4 cin4 baak3 cou2 coeng4
+平仄平平仄，平平仄仄平
 
-
-
-
-
+其十八
 
 地僻秋將盡，山高客未歸
-dei6 bui6/pik1 cau1 zoeng3/coeng1/zoeng1 zeon6, saan1 gou1 haak3 mei6 gwei1/gwai1 
+dei6 pik1 cau1 zoeng1 zeon6, saan1 gou1 haak3 mei6 gwai1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 塞雲多斷續，邊日少光輝
-coi3/soi3/sak1 wan4 do1 dyun3/tyun5/tyun2/dyun6/dyun2 zuk6, bin1 mik6/jat6 siu3/siu2 gwong1 wai1/fai1 
+coi3 wan4 do1 dyun6 zuk6, bin1 jat6 siu2 gwong1 fai1
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
 警急烽常報，傳聞檄屢飛
-ging2 gap1 fung1 soeng4 bou3, zyun6/zyun2/cyun4/zyun3/cyun6 man6/man4 hat6 leoi5/leoi6 fei1 
+ging2 gap1 fung1 soeng4 bou3, cyun4 man4 hat6 leoi5 fei1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 西戎外甥國，何得迕天威
-sai1 jung4 ngoi6 sang1/saang1 gwok3, ho6/ho4 dak1 ng5/ng6 tin1 wai1 
+sai1 jung4 ngoi6 sang1 gwok3, ho4 dak1 ng5 tin1 wai1
+平平仄平仄，平仄仄平平（出句特定平仄）
 
-
-
-
-
+其十九
 
 鳳林戈未息，魚海路常難
-fung6 lam4 go1/gwo1 mei6 sak1/sik1, jyu4 hoi2 lou6 soeng4 naan6/no4/naan4 
+fung6 lam4 gwo1 mei6 sik1, jyu4 hoi2 lou6 soeng4 naan4
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
 候火雲峯峻，懸軍幕井乾
-hau6 fo2 wan4 fung1 zeon1/zeon3, jyun6/jyun4/hyun4 gwan1 mok3/mok6 zing2/zeng2 gon1/kin4 
+hau6 fo2 wan4 fung1 zeon3, jyun4 gwan1 mok6 zing2 gon1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
 風連西極動，月過北庭寒
-fung3/fung2/fung1 lin4 sai1 gik1/gik6 dung6, jyut6 gwo1/gwo3 bui3/bui6/bak1 ting3/ting4 hon4 
+fung1 lin4 sai1 gik6 dung6, jyut6 gwo3 bak1 ting4 hon4
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
 故老思飛將，何時議築壇
-gwu3/gu3/geoi3 lou5 si3/soi1/si1/si6 fei1 zoeng3/coeng1/zoeng1, ho6/ho4 si4 ji6/ji5 zuk1 taan4 
+gu3 lou5 si1 fei1 zoeng3, ho4 si4 ji5 zuk1 taan4
+仄仄平平仄，平平仄仄平
 
 其二十
 
@@ -11788,521 +12348,836 @@ cong4 syu1 man4 jyu5 jyut6, duk6 gei3 jik1 cau4 ci4
 wai6 bou3 jyun1 hang4 gau6, ziu1 liu4 zoi6 jat1 zi1
 仄仄平平仄，平平仄仄平
 
-應，平聲，以避犯孤平。
+〚1:5.2.5〛遊：尤韻
+〚1:6.2.5〛愁：尤韻
+〚1:7.2.5〛秋：尤韻
+〚1:8.2.5〛留：尤韻
+〚2:12.2.5〛宮：東韻
+〚2:13.2.5〛空：東韻
+〚2:14.2.5〛風：東韻
+〚2:15.2.5〛東：東韻
+〚3:19.2.5〛沙：麻韻
+〚3:20.2.5〛家：麻韻
+〚3:21.2.5〛斜：麻韻
+〚3:22.2.5〛誇：麻韻
+〚4:26.2.5〛時：支韻
+〚4:27.2.5〛悲：支韻
+〚4:28.2.5〛遲：支韻
+〚4:29.2.5〛之：支韻
+〚5:33.2.5〛強：陽韻
+〚5:34.2.5〛長：陽韻
+〚5:35.2.5〛驦：陽韻
+〚5:36.2.5〛蒼：陽韻
+〚6:40.2.5〛歸：微韻
+〚6:41.2.5〛微：微韻
+〚6:42.2.5〛稀：微韻
+〚6:43.2.5〛圍：微韻
+〚7:47.1.5〛山：刪韻
+〚7:47.2.5〛間：刪韻
+〚7:48.2.5〛關：刪韻
+〚7:49.2.5〛還：刪韻
+〚7:50.2.5〛顏：刪韻
+〚8:54.2.5〛迴：灰韻
+〚8:55.2.5〛來：灰韻
+〚8:56.2.5〛開：灰韻
+〚8:57.2.5〛哀：灰韻
+〚9:61.2.5〛亭：青韻
+〚9:62.2.5〛青：青韻
+〚9:63.2.5〛星：青韻
+〚9:64.2.5〛坰：青韻
+〚10:68.1.5〛崙：元韻
+〚10:68.2.5〛繁：元韻
+〚10:69.2.5〛源：元韻
+〚10:70.2.5〛村：元韻
+〚10:71.2.5〛門：元韻
+〚11:75.2.5〛低：齊韻
+〚11:76.2.5〛泥：齊韻
+〚11:77.2.5〛西：齊韻
+〚11:78.2.5〛鼙：齊韻
+〚12:82.2.5〛泉：先韻
+〚12:83.2.5〛傳：先韻
+〚12:84.2.5〛邊：先韻
+〚12:85.2.5〛然：先韻
+〚13:89.2.5〛家：麻韻
+〚13:90.2.5〛沙：麻韻
+〚13:91.2.5〛瓜：麻韻
+〚13:92.2.5〛花：麻韻
+〚14:96.2.5〛天：先韻
+〚14:97.2.5〛傳：先韻
+〚14:98.2.5〛泉：先韻
+〚14:99.2.5〛邊：先韻
+〚15:103.2.5〛間：刪韻
+〚15:104.2.5〛山：刪韻
+〚15:105.2.5〛還：刪韻
+〚15:106.2.5〛班：刪韻
+〚16:110.2.5〛羣：文韻
+〚16:111.2.5〛雲：文韻
+〚16:112.2.5〛分：文韻
+〚16:113.2.5〛聞：文韻
+〚17:117.2.5〛光：陽韻
+〚17:118.2.5〛牆：陽韻
+〚17:119.2.5〛堂：陽韻
+〚17:120.2.5〛長：陽韻
+〚18:124.2.5〛歸：微韻
+〚18:125.2.5〛輝：微韻
+〚18:126.2.5〛飛：微韻
+〚18:127.2.5〛威：微韻
+〚19:131.2.5〛難：寒韻
+〚19:132.2.5〛乾：寒韻
+〚19:133.2.5〛寒：寒韻
+〚19:134.2.5〛壇：寒韻
+〚20:138.2.5〛知：支韻
+〚20:139.2.5〛兒：支韻
+〚20:140.2.5〛池：支韻
+〚20:141.2.5〛枝：支韻
+
+五律
+
+〚20:139.2.1〛應，平聲，以避犯孤平。
+〚7:〛、〚10:〛首聯出句押韻。
 
 =====================================================
 
 1471 月夜憶舍弟
-jyut6 je6 jik1 se2/se3/sik1 tai5/dai6 
-
+jyut6 je6 jik1 se3 dai6
 
 戍鼓斷人行，邊秋一雁聲
-seot1/syu3 gwu2/gu2 dyun3/tyun5/tyun2/dyun6/dyun2 jan4/jan5 hang6/hong4/haang4/hong6/hong5/hang4, bin1 cau1 jat1 ngaan6 seng1/sing1 
-露從今夜白，月是故鄕明
-lau6/lou6 sung1/zung6/zung1/cung4/zung2/zung3/cung6 gam1 je6 baak6/baak3, jyut6 si6 gwu3/gu3/geoi3 hoeng3/hoeng1 ming4 
-有弟皆分散，無家問死生
-jau6/jau5 tai5/dai6 gaai1 fan6/fan3/fan1 saan2/saan3, mo4/mou5/mou4 gu1/gwu1/gaa1 man6 si2/sei2 sang1/saang1 
-寄書長不達，況乃未休兵
-gei3 syu1 zoeng2/zoeng6/coeng4 fau2/fau4/pei1/dan2/bat1/fu1 taat3/daat6, fong2/kwong3/fong3 oi2/naai5 mei6 jau1/jyu3 bing1 
-
+syu3 gu2 dyun6 jan4 hang4, bin1 cau1 jat1 ngaan6 sing1
+仄仄平平平，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+露從今夜白，月是故鄕明
+lou6 cung4 gam1 je6 baak6, jyut6 si6 gu3 hoeng1 ming4
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+有弟皆分散，無家問死生
+jau5 dai6 gaai1 fan1 saan3, mou4 gaa1 man6 sei2 sang1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+寄書長不達，況乃未休兵
+gei3 syu1 coeng4 bat1 daat6, fong3 naai5 mei6 jau1 bing1
+仄平平仄仄，仄仄仄平平
 
+〚3.1.5〛行：庚韻
+〚3.2.5〛聲：庚韻
+〚4.2.5〛明：庚韻
+〚5.2.5〛生：庚韻
+〚6.2.5〛兵：庚韻
+
+五律
 
 
 =====================================================
 
 1475 天末懷李白
-tin1 mo1/mut6 waai4 lei5 baak6/baak3 
-
+tin1 mut6 waai4 lei5 baak6
 
 涼風起天末，君子意如何
-loeng4/loeng6 fung3/fung2/fung1 hei2 tin1 mo1/mut6, gwan1 zi2 ji3 jyu4 ho6/ho4 
-鴻雁幾時到，江湖秋水多
-hung4 ngaan6 gei1/gei3/gei2/kei4 si4 dou3/dou6, gong1 wu4 cau1 seoi2 do1 
-文章憎命達，魑魅喜人過
-man6/man1/man4 zoeng1 zang1 meng6/ming6 taat3/daat6, lei4/ci1 mui6/mei6 hei3/ci3/hei2 jan4/jan5 gwo1/gwo3 
-應共冤魂語，投詩贈汨羅
-jing3/jing1 gung1/gung2/gung3/gung6 jyun1 wan4 jyu6/jyu3/jyu5, tau4 si1 zang6 gwat1/mat6/mik6/mat1 lo4 
-
-涼風起天末，君子意如何？
+loeng4 fung1 hei2 tin1 mut6, gwan1 zi2 ji3 jyu4 ho4
 平平仄平仄，平仄仄平平（出句特定平仄）
-鴻雁幾時到？江湖秋水多。
+-----------------------------------------------------
+鴻雁幾時到，江湖秋水多
+hung4 ngaan6 gei2 si4 dou3, gong1 wu4 cau1 seoi2 do1
 平仄仄平仄，平平平仄平（「仄平仄」拗，「平仄平」救）
-文章憎命達，魑魅喜人過。
+-----------------------------------------------------
+文章憎命達，魑魅喜人過
+man4 zoeng1 zang1 ming6 daat6, ci1 mei6 hei2 jan4 gwo3
 平平平仄仄，平仄仄平平
-應共冤魂語，投詩贈汨羅。
+-----------------------------------------------------
+應共冤魂語，投詩贈汨羅
+jing1 gung6 jyun1 wan4 jyu5, tau4 si1 zang6 mik6 lo4
 平仄平平仄，平平仄仄平
+
+〚3.2.5〛何：歌韻
+〚4.2.5〛多：歌韻
+〚5.2.5〛過：歌韻
+〚6.2.5〛羅：歌韻
+
+五律
 
 =====================================================
 
 1481 赤谷西崦人家
-cik3/cik1/cek3 juk6/luk6/guk1 sai1 jim1 jan4/jan5 gu1/gwu1/gaa1 
-
+cik3 guk1 sai1 jim1 jan4 gaa1
 
 躋險不自喧，出郊已清目
-zai1 him2 fau2/fau4/pei1/dan2/bat1/fu1 zi6 hyun1, ceoi3/ceot1 gaau1/gau1 ji3/ji5 ceng1/cing1 muk6 
-溪迴日氣暖，徑轉山田熟
-kai1 wui4 mik6/jat6 hei3 hyun1/nyun5, ging6/gaang3/ging3 zyun3/zyun2 saan1 tin4 suk6 
-鳥雀依茅茨，藩籬帶松菊
-diu2/niu5 zoek2/zoek3 ji1/ji2 maau4 ci4/zi1, faan4 lei4/jin4 daai2/daai3 cung4 guk1 
-如行武陵暮，欲問桃花宿
-jyu4 hang6/hong4/haang4/hong6/hong5/hang4 mou5 ling4 mou6, juk6 man6 tou4 faa1 sau3/suk1 
-
+zai1 him2 bat1 zi6 hyun1, ceot1 gaau1 ji5 cing1 muk6
 -----------------------------------------------------
-平平仄仄
+溪迴日氣暖，徑轉山田熟
+kai1 wui4 jat6 hei3 nyun5, ging3 zyun2 saan1 tin4 suk6
+-----------------------------------------------------
+鳥雀依茅茨，藩籬帶松菊
+niu5 zoek3 ji1 maau4 ci4, faan4 lei4 daai3 cung4 guk1
+-----------------------------------------------------
+如行武陵暮，欲問桃花宿
+jyu4 hang4 mou5 ling4 mou6, juk6 man6 tou4 faa1 suk1
 
+〚3.2.5〛目：屋韻
+〚4.2.5〛熟：屋韻
+〚5.2.5〛菊：屋韻
+〚6.2.5〛宿：屋韻
 
+五古
 
 =====================================================
 
-1484 宿贊公房[京中大雲寺主謫此安置]
-sau3/suk1 zaan3 gung1 pong4/fong2/fong4 unknown jyun4/ging1 zung3/zung1 taai3/daai6 wan4 zi2/zi6 zyu2 zaak3/zaak6/zak6 ci2 ngon1/on1 zi3 unknown 
-
+1484 宿贊公房
+suk1 zaan3 gung1 fong4
 
 杖錫何來此，秋風已颯然
-zoeng6 sik3/sik1/sek3 ho6/ho4 loi6/lai4/loi4 ci2, cau1 fung3/fung2/fung1 ji3/ji5 saap3 jin4 
-雨荒深院菊，霜倒半池蓮
-jyu6/jyu3/jyu5 fong1 sam1 jyun2/jyun6 guk1, soeng1 dou3/dou2 bun3 ci4/cit3 lin4 
-放逐寧違性，虛空不離禪
-fong2/fong3 dik6/zuk6 ning6/ning4 wai4 sing3, heoi1 hung3/hung2/hung1 fau2/fau4/pei1/dan2/bat1/fu1 lei6/lei5/lei4 sin6/sin4/sim4 
-相逢成夜宿，隴月向人圓
-soeng3/soeng2/soeng1 pung4/fung4 seng4/cing4/sing4 je6 sau3/suk1, lung5 jyut6 hoeng3 jan4/jan5 jyun4 
-
+zoeng6 sik3 ho4 loi4 ci2, cau1 fung1 ji5 saap3 jin4
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+雨荒深院菊，霜倒半池蓮
+jyu5 fong1 sam1 jyun6 guk1, soeng1 dou2 bun3 ci4 lin4
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
+放逐寧違性，虛空不離禪
+fong3 zuk6 ning4 wai4 sing3, heoi1 hung1 bat1 lei4 sim4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+相逢成夜宿，隴月向人圓
+soeng1 fung4 sing4 je6 suk1, lung5 jyut6 hoeng3 jan4 jyun4
+平平平仄仄，仄仄仄平平
 
+〚3.2.5〛然：先韻
+〚4.2.5〛蓮：先韻
+〚5.2.5〛禪：先韻
+〚6.2.5〛圓：先韻
+
+五律
 
 
 =====================================================
 
 1488 西枝村尋置草堂地，夜宿贊公土室二首
-sai1 kei4/zi1 cyun1 cam4 zi3 cou2 tong4 dei6, je6 sau3/suk1 zaan3 gung1 tou2 sat1 ji6/ji3 sau3/sau2 
+sai1 zi1 cyun1 cam4 zi3 cou2 tong4 dei6, je6 suk1 zaan3 gung1 tou2 sat1 ji6 sau2
 
-
-
-
-
+其一
 
 出郭眄細岑，披榛得微路
-ceoi3/ceot1 kwok3/gwik1/gwok3 min5 sai3 sam4, bei3/pei3/pei1/pai1 zeon1 dak1 mei4 lou6 
+ceot1 gwok3 min5 sai3 sam4, pei1 zeon1 dak1 mei4 lou6
+-----------------------------------------------------
 溪行一流水，曲折方屢渡
-kai1 hang6/hong4/haang4/hong6/hong5/hang4 jat1 lau4 seoi2, huk1/kuk1/guk1 zip3/zit3 fong1 leoi5/leoi6 dou6 
+kai1 hang4 jat1 lau4 seoi2, kuk1 zit3 fong1 leoi5 dou6
+-----------------------------------------------------
 贊公湯休徒，好靜心迹素
-zaan3 gung1 soeng1/tong3/dong6/joeng4/tong1 jau1/jyu3 tou4, hou3/hou2 zing6 sam1 zek3/zik1 sou3/so3/saak3 
+zaan3 gung1 tong1 jau1 tou4, hou3 zing6 sam1 zik1 sou3
+-----------------------------------------------------
 昨枉霞上作，盛論巖中趣
-zok3/zok6 wong2 haa4 soeng5/saang3/soeng6 zo3/zou6/zou3/zok3, sing4/sing6 leon4/leon1/leon6 ngaam4 zung3/zung1 cuk1/ceoi1/ceoi3/cau2 
+zok3 wong2 haa4 soeng6 zok3, sing6 leon6 ngaam4 zung1 ceoi3
+-----------------------------------------------------
 怡然共攜手，恣意同遠步
-ji4 jin4 gung1/gung2/gung3/gung6 kwei4/kwai4 sau2, zi1/zi3/ci1/si3/ci3 ji3 tung4 jyun6/jyun3/jyun5 bou6 
+ji4 jin4 gung6 kwai4 sau2, zi3 ji3 tung4 jyun5 bou6
+-----------------------------------------------------
 捫蘿澀先登，陟巘眩反顧
-mun1/mun4 lo4 sap1/saap3/sik1/gip3 sin3/sin1 dang1, zik1 hin3/jin2/jin5 jyun4/waan6/jyun6 faan1/faan3/faan2 gwu3/gu3 
+mun4 lo4 sik1 sin1 dang1, zik1 jin2 jyun4 faan2 gu3
+-----------------------------------------------------
 要求陽岡暖，苦涉陰嶺冱
-jiu1/jiu3 kau4 joeng4 gong1 hyun1/nyun5, fu2/geoi2 sip6/dip6/sip3 am1/jam3/jam1 leng5/ling5 wu6 
+jiu1 kau4 joeng4 gong1 nyun5, fu2 sip3 jam1 ling5 wu6
+-----------------------------------------------------
 惆悵老大藤，沉吟屈蟠樹
-cau4 zoeng3/coeng3 lou5 taai3/daai6 tang4, zam6/cam4/taam4/sam2 jam4/gam3 gwat6/wat1/fat1 faan4/pun4 syu5/syu6 
+cau4 coeng3 lou5 daai6 tang4, cam4 jam4 wat1 pun4 syu6
+-----------------------------------------------------
 卜居意未展，杖策迴且暮
-buk1 gei1/geoi1 ji3 mei6 zin2, zoeng6 caak3 wui4 zeoi1/cou4/ceoi6/ce2 mou6 
+buk1 geoi1 ji3 mei6 zin2, zoeng6 caak3 wui4 ce2 mou6
+-----------------------------------------------------
 曾巓餘落日，草蔓已多露
-zang1/cang4 din1 jyu4 laai6/lok1/lok6 mik6/jat6, cou2 maan4/maan6 ji3/ji5 do1 lau6/lou6 
+cang4 din1 jyu4 lok6 jat6, cou2 maan6 ji5 do1 lou6
 
-
-
-
-
+其二
 
 天寒鳥已歸，月出山更靜
-tin1 hon4 diu2/niu5 ji3/ji5 gwei1/gwai1, jyut6 ceoi3/ceot1 saan1 gang3/gaang1/gaang3/gang1/ang3 zing6 
-土室延白光，松門耿疏影
-tou2 sat1 jin4 baak6/baak3 gwong1, cung4 mun4 gwing2/gang2/gwang2 so3/so1 jeng2/jing2 
-躋攀倦日短，語樂寄夜永
-zai1 paan1 gyun6 mik6/jat6 dyun2/deon2, jyu6/jyu3/jyu5 lok6/ngaau6/ngou6/ngok6 gei3 je6 jung2/wing5 
-明燃林中薪，暗汲石底井
-ming4 jin4 lam4 zung3/zung1 san1, ngam3/am3/am6 kap1/gap1 daam3/sek6/sik6 dik1/dai2 zing2/zeng2 
-大師京國舊，德業天機秉
-taai3/daai6 si1 jyun4/ging1 gwok3 gau6, dak1 jip6 tin1 gi1/gei1 bing2 
-從來支許遊，興趣江湖迥
-sung1/zung6/zung1/cung4/zung2/zung3/cung6 loi6/lai4/loi4 zi1 fu2/heoi2 jau4, hing3/hing1/jan6 cuk1/ceoi1/ceoi3/cau2 gong1 wu4 gwing2 
-數奇謫關塞，道廣存箕潁
-sou2/sok3/cuk1/sou3 gei1/kei4 zaak3/zaak6/zak6 waan1/gwaan1 coi3/soi3/sak1, dou6/dou5 gwong2/gwong3 cyun4 gei1 wing5/wing6 
-何知戎馬間，復接塵事屛
-ho6/ho4 zi3/zi1 jung4 maa5 gaan3/gaan1, fau6/fuk1/fuk6 zip3 can4 si6 bing2/bing3/ping4 
-幽尋豈一路，遠色有諸嶺
-jau1 cam4 hoi2/hei2 jat1 lou6, jyun6/jyun3/jyun5 sik1 jau6/jau5 zyu1 leng5/ling5 
-晨光稍曚曨，更越西南頂
-san4 gwong1 saau3/saau2 mung4 lung4, gang3/gaang1/gaang3/gang1/ang3 wut6/jyut6/hyut6 sai1 naa1/naa4/naam4 deng2/ding2 
-
+tin1 hon4 niu5 ji5 gwai1, jyut6 ceot1 saan1 gang3 zing6
 -----------------------------------------------------
-平平仄仄
+土室延白光，松門耿疏影
+tou2 sat1 jin4 baak6 gwong1, cung4 mun4 gang2 so1 jing2
+-----------------------------------------------------
+躋攀倦日短，語樂寄夜永
+zai1 paan1 gyun6 jat6 dyun2, jyu5 lok6 gei3 je6 wing5
+-----------------------------------------------------
+明燃林中薪，暗汲石底井
+ming4 jin4 lam4 zung1 san1, am3 kap1 sek6 dai2 zing2
+-----------------------------------------------------
+大師京國舊，德業天機秉
+daai6 si1 ging1 gwok3 gau6, dak1 jip6 tin1 gei1 bing2
+-----------------------------------------------------
+從來支許遊，興趣江湖迥
+cung4 loi4 zi1 heoi2 jau4, hing3 ceoi3 gong1 wu4 gwing2
+-----------------------------------------------------
+數奇謫關塞，道廣存箕潁
+sou3 kei4 zaak6 gwaan1 coi3, dou6 gwong2 cyun4 gei1 wing5
+-----------------------------------------------------
+何知戎馬間，復接塵事屛
+ho4 zi1 jung4 maa5 gaan1, fau6 zip3 can4 si6 bing2
+-----------------------------------------------------
+幽尋豈一路，遠色有諸嶺
+jau1 cam4 hei2 jat1 lou6, jyun5 sik1 jau5 zyu1 ling5
+-----------------------------------------------------
+晨光稍曚曨，更越西南頂
+san4 gwong1 saau2 mung4 lung4, gang3 jyut6 sai1 naam4 ding2
 
+〚1:5.2.5〛路：遇韻
+〚1:6.2.5〛渡：遇韻
+〚1:7.2.5〛素：遇韻
+〚1:8.2.5〛趣：遇韻
+〚1:9.2.5〛步：遇韻
+〚1:10.2.5〛顧：遇韻
+〚1:11.2.5〛冱：遇韻
+〚1:12.2.5〛樹：遇韻
+〚1:13.2.5〛暮：遇韻
+〚1:14.2.5〛露：遇韻
+〚2:18.2.5〛靜：梗韻
+〚2:19.2.5〛影：梗韻
+〚2:20.2.5〛永：梗韻
+〚2:21.2.5〛井：梗韻
+〚2:22.2.5〛秉：梗韻
+〚2:23.2.5〛迥：迥韻
+〚2:24.2.5〛潁：梗韻
+〚2:25.2.5〛屛：梗韻
+〚2:26.2.5〛嶺：梗韻
+〚2:27.2.5〛頂：迥韻
 
+五古
+
+二十三梗、二十四迥，鄰韻。
 
 =====================================================
 
 1498 寄贊上人
-gei3 zaan3 soeng5/saang3/soeng6 jan4/jan5 
-
+gei3 zaan3 soeng6 jan4
 
 一昨陪錫杖，卜鄰南山幽
-jat1 zok3/zok6 pui4 sik3/sik1/sek3 zoeng6, buk1 leon4 naa1/naa4/naam4 saan1 jau1 
-年侵腰腳衰，未便陰崖秋
-nin4 cam2/cam1 jiu1 goek3 ceoi1/so1/seoi1, mei6 pin4/bin6 am1/jam3/jam1 ngaai4 cau1 
-重岡北面起，竟日陽光留
-cung4/cung5/cung3/zung6/tung4/zung3 gong1 bui3/bui6/bak1 min6 hei2, ging6/ging2/ging3 mik6/jat6 joeng4 gwong1 lau6/lau4 
-茅屋買兼土，斯焉心所求
-maau4 nguk1/uk1 maai5 gim1 tou2, si1 jin1/jin4/hin4 sam1 so2 kau4 
-近聞西枝西，有谷杉漆稠
-kan5/gan3/gei3/gan6 man6/man4 sai1 kei4/zi1 sai1, jau6/jau5 juk6/luk6/guk1 saam1/caam1/caam3 cit3/cat1/caat1 cau4/tiu4/tiu3 
-亭午頗和暖，石田又足收
-ting4 ng5 po1/bo1/po2 wo6/wu4/gwo3/wo4 hyun1/nyun5, daam3/sek6/sik6 tin4 jau6 zeoi3/zeoi6/zuk3/zuk1 sau3/sau1 
-當期塞雨乾，宿昔齒疾瘳
-dong3/dong2/dong1 gei1/kei4 coi3/soi3/sak1 jyu6/jyu3/jyu5 gon1/kin4, sau3/suk1 cok3/sik1 ci2 zat6/cat6 liu4/caau1/gau1/cau1 
-徘徊虎穴上，面勢龍泓頭
-paai4/pui4 wui4 fu2 jyut6/hyut6 soeng5/saang3/soeng6, min6 sai3 cung2/lung4/pong4 wang4/waang4 tau4 
-柴荆具茶茗，徑路通林丘
-ci3/caai4/cai4/zi1 ging1 geoi6 caa4 ming4/ming5, ging6/gaang3/ging3 lou6 tung1 lam4 mau5/jau1 
-與子成二老，來往亦風流
-jyu6/jyu4/jyu5 zi2 seng4/cing4/sing4 ji6/ji3 lou5, loi6/lai4/loi4 wong6/wong5 jik6 fung3/fung2/fung1 lau4 
-
+jat1 zok3 pui4 sik3 zoeng6, buk1 leon4 naam4 saan1 jau1
 -----------------------------------------------------
-平平仄仄
+年侵腰腳衰，未便陰崖秋
+nin4 cam1 jiu1 goek3 seoi1, mei6 bin6 jam1 ngaai4 cau1
+-----------------------------------------------------
+重岡北面起，竟日陽光留
+cung4 gong1 bak1 min6 hei2, ging2 jat6 joeng4 gwong1 lau4
+-----------------------------------------------------
+茅屋買兼土，斯焉心所求
+maau4 uk1 maai5 gim1 tou2, si1 jin4 sam1 so2 kau4
+-----------------------------------------------------
+近聞西枝西，有谷杉漆稠
+gan6 man4 sai1 zi1 sai1, jau5 guk1 caam3 cat1 cau4
+-----------------------------------------------------
+亭午頗和暖，石田又足收
+ting4 ng5 po2 wo4 nyun5, sek6 tin4 jau6 zuk1 sau1
+-----------------------------------------------------
+當期塞雨乾，宿昔齒疾瘳
+dong1 kei4 coi3 jyu5 gon1, suk1 sik1 ci2 zat6 cau1
+-----------------------------------------------------
+徘徊虎穴上，面勢龍泓頭
+pui4 wui4 fu2 jyut6 soeng6, min6 sai3 lung4 wang4 tau4
+-----------------------------------------------------
+柴荆具茶茗，徑路通林丘
+caai4 ging1 geoi6 caa4 ming5, ging3 lou6 tung1 lam4 jau1
+-----------------------------------------------------
+與子成二老，來往亦風流
+jyu5 zi2 sing4 ji6 lou5, loi4 wong5 jik6 fung1 lau4
 
+〚3.2.5〛幽：尤韻
+〚4.2.5〛秋：尤韻
+〚5.2.5〛留：尤韻
+〚6.2.5〛求：尤韻
+〚7.2.5〛稠：尤韻
+〚8.2.5〛收：尤韻
+〚9.2.5〛瘳：尤韻
+〚10.2.5〛頭：尤韻
+〚11.2.5〛丘：尤韻
+〚12.2.5〛流：尤韻
+
+五古
 
 
 =====================================================
 
 1503 太平寺泉眼
-taai3 peng4/ping4/pin4/ping6 zi2/zi6 cyun4 ngaan5/han2 
-
+taai3 ping4 zi6 cyun4 ngaan5
 
 招提憑高岡，疏散連草莽
-siu4/ziu1 si4/syu4/dai2/tai4/dai1 paang4/pang4 gou1 gong1, so3/so1 saan2/saan3 lin4 cou2 mong5/mou5 
-出泉枯柳根，汲引歲月古
-ceoi3/ceot1 cyun4 gu1/kwu1/fu1 lau5 gan1, kap1/gap1 jan6/jan5 seoi3 jyut6 gwu2/gu2 
-石間見海眼，天畔縈水府
-daam3/sek6/sik6 gaan3/gaan1 jin6/gin3/hin3 hoi2 ngaan5/han2, tin1 pun3/bun3/bun6 wing4/jing4 seoi2 fu2 
-廣深尺丈間，宴息敢輕侮
-gwong2/gwong3 sam1 ce2/ce1/cik3/cik1/cek3/cik6/cek6 zoeng6 gaan3/gaan1, jin3 sak1/sik1 gam2 heng1/hing3/hing1 mou5 
-青白二小蛇，幽姿可時覩
-ceng1/zing1/cing1 baak6/baak3 ji6/ji3 siu2 ji4/se4, jau1 zi1 hak1/haak1/ho2 si4 dou2 
-如絲氣或上，爛漫爲雲雨
-jyu4 si1 hei3 waak6 soeng5/saang3/soeng6, laan6 maan4/mun4/maan6/mun6 wai6/wai4 wan4 jyu6/jyu3/jyu5 
-山頭到山下，鑿井不盡土
-saan1 tau4 dou3/dou6 saan1 haa5/haa2/haa6, cou3/zok3/zok6/cou6 zing2/zeng2 fau2/fau4/pei1/dan2/bat1/fu1 zeon6 tou2 
-取供十方僧，香美勝牛乳
-ceoi2 gung3/gung1 sap6 fong1 sang1/zang1, hoeng1 mei5 sing1/sing3 ngau4 jyu5 
-北風起寒文，弱藻舒翠縷
-bui3/bui6/bak1 fung3/fung2/fung1 hei2 hon4 man6/man1/man4, joek6 cou2/zou2 syu1 ceoi3 lau5/leoi5/lau4/leoi6 
-明涵客衣淨，細蕩林影趣
-ming4 haam4 haak3 ji3/ji1 zeng6/zing6, sai3 dong6/dong2 lam4 jeng2/jing2 cuk1/ceoi1/ceoi3/cau2 
-何當宅下流，餘潤通藥圃
-ho6/ho4 dong3/dong2/dong1 zaak2/zaak6 haa5/haa2/haa6 lau4, jyu4 jeon6 tung1 joek6 bou2/pou2 
-三春濕黃精，一食生毛羽
-saam3/saam1/saam6 ceon1 taap3/sap1 wong4 zeng1/zing1, jat1 zi6/ji6/sik6 sang1/saang1 mou4 jyu5 
-
-
+ziu1 tai4 pang4 gou1 gong1, so1 saan3 lin4 cou2 mong5
 -----------------------------------------------------
-平平仄仄
+出泉枯柳根，汲引歲月古
+ceot1 cyun4 fu1 lau5 gan1, kap1 jan5 seoi3 jyut6 gu2
+-----------------------------------------------------
+石間見海眼，天畔縈水府
+sek6 gaan1 jin6 hoi2 ngaan5, tin1 bun6 jing4 seoi2 fu2
+-----------------------------------------------------
+廣深尺丈間，宴息敢輕侮
+gwong2 sam1 cek3 zoeng6 gaan1, jin3 sik1 gam2 hing1 mou5
+-----------------------------------------------------
+青白二小蛇，幽姿可時覩
+cing1 baak6 ji6 siu2 se4, jau1 zi1 ho2 si4 dou2
+-----------------------------------------------------
+如絲氣或上，爛漫爲雲雨
+jyu4 si1 hei3 waak6 soeng5, laan6 maan6 wai4 wan4 jyu5
+-----------------------------------------------------
+山頭到山下，鑿井不盡土
+saan1 tau4 dou3 saan1 haa6, zok6 zing2 bat1 zeon6 tou2
+-----------------------------------------------------
+取供十方僧，香美勝牛乳
+ceoi2 gung3 sap6 fong1 zang1, hoeng1 mei5 sing3 ngau4 jyu5
+-----------------------------------------------------
+北風起寒文，弱藻舒翠縷
+bak1 fung1 hei2 hon4 man4, joek6 zou2 syu1 ceoi3 leoi5
+-----------------------------------------------------
+明涵客衣淨，細蕩林影趣
+ming4 haam4 haak3 ji1 zing6, sai3 dong6 lam4 jing2 ceoi3
+-----------------------------------------------------
+何當宅下流，餘潤通藥圃
+ho4 dong1 zaak6 haa6 lau4, jyu4 jeon6 tung1 joek6 pou2
+-----------------------------------------------------
+三春濕黃精，一食生毛羽
+saam1 ceon1 sap1 wong4 zing1, jat1 sik6 sang1 mou4 jyu5
 
+〚3.2.5〛莽：麌韻
+〚4.2.5〛古：麌韻
+〚5.2.5〛府：麌韻
+〚6.2.5〛侮：麌韻
+〚7.2.5〛覩：麌韻
+〚8.2.5〛雨：麌韻
+〚9.2.5〛土：麌韻
+〚10.2.5〛乳：麌韻
+〚11.2.5〛縷：麌韻
+〚12.2.5〛趣：遇韻
+〚13.2.5〛圃：麌韻
+〚14.2.5〛羽：麌韻
 
+五古
+
+〚12.2.5〛趣，去聲，不押韻。
 
 =====================================================
 
 1508 東樓
-dung1 lau4 
-
+dung1 lau4
 
 萬里流沙道，西征過此門
-maan6 lei5 lau4 saa3/saa1 dou6/dou5, sai1 zing1 gwo1/gwo3 ci2 mun4 
-但添新戰骨，不返舊征魂
-daan6 tim1 san1 zin3 gwu2/gwat1, fau2/fau4/pei1/dan2/bat1/fu1 faan1/faan2 gau6 zing1 wan4 
-樓角凌風迥，城陰帶水昏
-lau4 luk6/gok2/gok3 ling4 fung3/fung2/fung1 gwing2, seng4/sing4 am1/jam3/jam1 daai2/daai3 seoi2 fan1 
-傳聲看驛使，送節向河源
-zyun6/zyun2/cyun4/zyun3/cyun6 seng1/sing1 hon1/hon3 jik6 si3/sai2/si2, sung3 zit6/zit3 hoeng3 ho4 jyun4 
-
+maan6 lei5 lau4 saa1 dou6, sai1 zing1 gwo3 ci2 mun4
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+但添新戰骨，不返舊征魂
+daan6 tim1 san1 zin3 gwat1, bat1 faan2 gau6 zing1 wan4
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+樓角凌風迥，城陰帶水昏
+lau4 gok3 ling4 fung1 gwing2, sing4 jam1 daai3 seoi2 fan1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+傳聲看驛使，送節向河源
+cyun4 sing1 hon1 jik6 si3, sung3 zit3 hoeng3 ho4 jyun4
+平平平仄仄，仄仄仄平平
 
+〚3.2.5〛門：元韻
+〚4.2.5〛魂：元韻
+〚5.2.5〛昏：元韻
+〚6.2.5〛源：元韻
+
+五律
 
 
 =====================================================
 
 1511 雨晴
-jyu6/jyu3/jyu5 ceng4/ceng1/cing4 
-
+jyu5 cing4
 
 天際秋雲薄，從西萬里風
-tin1 zai3 cau1 wan4 bok3/bok6/pok3, sung1/zung6/zung1/cung4/zung2/zung3/cung6 sai1 maan6 lei5 fung3/fung2/fung1 
-今朝好晴景，久雨不妨農
-gam1 ziu1/ciu4 hou3/hou2 ceng4/ceng1/cing4 jing2/ging2, gau2 jyu6/jyu3/jyu5 fau2/fau4/pei1/dan2/bat1/fu1 fong4/fong1 nung4 
-塞柳行疏翠，山梨結小紅
-coi3/soi3/sak1 lau5 hang6/hong4/haang4/hong6/hong5/hang4 so3/so1 ceoi3, saan1 lai4/lei4 gai1/gai3/git3/hai6 siu2 gung1/hung4 
-胡笳樓上發，一雁入高空
-wu4 gaa1 lau4 soeng5/saang3/soeng6 but3/faat3, jat1 ngaan6 jap6 gou1 hung3/hung2/hung1 
-
+tin1 zai3 cau1 wan4 bok6, cung4 sai1 maan6 lei5 fung1
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+今朝好晴景，久雨不妨農
+gam1 ziu1 hou2 cing4 ging2, gau2 jyu5 bat1 fong4 nung4
+平平仄平仄，仄仄仄平平（出句特定平仄）
+-----------------------------------------------------
+塞柳行疏翠，山梨結小紅
+coi3 lau5 hang4 so1 ceoi3, saan1 lei4 git3 siu2 hung4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+胡笳樓上發，一雁入高空
+wu4 gaa1 lau4 soeng6 faat3, jat1 ngaan6 jap6 gou1 hung1
+平平平仄仄，仄仄仄平平
 
+〚3.2.5〛風：東韻
+〚4.2.5〛農：冬韻
+〚5.2.5〛紅：東韻
+〚6.2.5〛空：東韻
 
+五律
+
+〚4.2.5〛農，不押韻。
 
 =====================================================
 
 1514 寓目
-jyu6/wu6/jyu5 muk6 
-
+jyu6 muk6
 
 一縣蒲萄熟，秋山苜蓿多
-jat1 jyun4/jyun2/jyun6/hyun4/hyun6 bok6/pou4 tou4 suk6, cau1 saan1 muk6 suk1 do1 
-關雲常帶雨，塞水不成河
-waan1/gwaan1 wan4 soeng4 daai2/daai3 jyu6/jyu3/jyu5, coi3/soi3/sak1 seoi2 fau2/fau4/pei1/dan2/bat1/fu1 seng4/cing4/sing4 ho4 
-羌女輕烽燧，胡兒掣駱駝
-goeng1 jyu5/neoi6/neoi2/neoi5 heng1/hing3/hing1 fung1 seoi6, wu4 ngai4/ji1/ji4 cit3/zai3 lok3 to4 
-自傷遲暮眼，喪亂飽經過
-zi6 soeng1 zi6/ci3/zi3/ci4 mou6 ngaan5/han2, song3/song1 lyun6 baau1/baau2 gaang1/ging1 gwo1/gwo3 
-
+jat1 jyun6 pou4 tou4 suk6, cau1 saan1 muk6 suk1 do1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+關雲常帶雨，塞水不成河
+gwaan1 wan4 soeng4 daai3 jyu5, coi3 seoi2 bat1 sing4 ho4
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
+羌女輕烽燧，胡兒掣駱駝
+goeng1 neoi5 hing1 fung1 seoi6, wu4 ji4 zai3 lok3 to4
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+自傷遲暮眼，喪亂飽經過
+zi6 soeng1 ci4 mou6 ngaan5, song3 lyun6 baau2 ging1 gwo1
+仄平平仄仄，仄仄仄平平
 
+〚3.2.5〛多：歌韻
+〚4.2.5〛河：歌韻
+〚5.2.5〛駝：歌韻
+〚6.2.5〛過：歌韻
 
+五律
 
 =====================================================
 
 1517 山寺
-saan1 zi2/zi6 
-
+saan1 zi6
 
 野寺殘僧少，山園細路高
-je5 zi2/zi6 caan4 sang1/zang1 siu3/siu2, saan1 jyun4 sai3 lou6 gou1 
-麝香眠石竹，鸚鵡啄金桃
-se6 hoeng1 min4 daam3/sek6/sik6 zuk1, jing1 mou5 doeng1/zau3/doek3 gam1 tou4 
-亂石通人過，懸崖置屋牢
-lyun6 daam3/sek6/sik6 tung1 jan4/jan5 gwo1/gwo3, jyun6/jyun4/hyun4 ngaai4 zi3 nguk1/uk1 lou4/lau4/lo5 
-上方重閣晚，百里見秋毫
-soeng5/saang3/soeng6 fong1 cung4/cung5/cung3/zung6/tung4/zung3 gok3 maan5, mak6/baak3 lei5 jin6/gin3/hin3 cau1 hou4 
-
+je5 zi6 caan4 zang1 siu2, saan1 jyun4 sai3 lou6 gou1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+麝香眠石竹，鸚鵡啄金桃
+se6 hoeng1 min4 sek6 zuk1, jing1 mou5 doek3 gam1 tou4
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
+亂石通人過，懸崖置屋牢
+lyun6 sek6 tung1 jan4 gwo3, jyun4 ngaai4 zi3 uk1 lou4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+上方重閣晚，百里見秋毫
+soeng6 fong1 cung4 gok3 maan5, baak3 lei5 gin3 cau1 hou4
+仄平平仄仄，仄仄仄平平
 
+〚3.2.5〛高：豪韻
+〚4.2.5〛桃：豪韻
+〚5.2.5〛牢：豪韻
+〚6.2.5〛毫：豪韻
+
+五律
 
 
 =====================================================
 
 1521 卽事
-zik1 si6 
-
+zik1 si6
 
 聞道花門破，和親事卻非
-man6/man4 dou6/dou5 faa1 mun4 po3, wo6/wu4/gwo3/wo4 can3/can1/ceon1 si6 gwik1/koek3 fei1 
-人憐漢公主，生得渡河歸
-jan4/jan5 leon6/lin4 hon3 gung1 zyu2, sang1/saang1 dak1 dou6 ho4 gwei1/gwai1 
-秋思拋雲髻，腰支賸寶衣
-cau1 si3/soi1/si1/si6 paau1/pau1 wan4 gai3/gai2, jiu1 zi1 zing6/sing6/sing3 bou2 ji3/ji1 
-羣凶猶索戰，回首意多違
-kwan4 hung1 jau4 saak3/saak1/sok3/sak1 zin3, wui6/wui4 sau3/sau2 ji3 do1 wai4 
-
+man4 dou6 faa1 mun4 po3, wo6 can1 si6 koek3 fei1
+平仄平平仄，仄平仄仄平
 -----------------------------------------------------
-平平仄仄
+人憐漢公主，生得渡河歸
+jan4 lin4 hon3 gung1 zyu2, sang1 dak1 dou6 ho4 gwai1
+平平仄平仄，平仄仄平平（出句特定平仄）
+-----------------------------------------------------
+秋思拋雲髻，腰支賸寶衣
+cau1 si3 paau1 wan4 gai3, jiu1 zi1 sing6 bou2 ji1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+羣凶猶索戰，回首意多違
+kwan4 hung1 jau4 sok3 zin3, wui4 sau2 ji3 do1 wai4
+平平平仄仄，平仄仄平平
 
+〚3.2.5〛非：微韻
+〚4.2.5〛歸：微韻
+〚5.2.5〛衣：微韻
+〚6.2.5〛違：微韻
 
+五律
 
 =====================================================
 
 1524 遣懷
-hin2 waai4 
-
+hin2 waai4
 
 愁眼看霜露，寒城菊自花
-sau4/cau1 ngaan5/han2 hon1/hon3 soeng1 lau6/lou6, hon4 seng4/sing4 guk1 zi6 faa1 
-天風隨斷柳，客淚墮清笳
-tin1 fung3/fung2/fung1 ceoi4 dyun3/tyun5/tyun2/dyun6/dyun2 lau5, haak3 leoi6 fai1/wei1/do2/fei1/do6 ceng1/cing1 gaa1 
-水淨樓陰直，山昏塞日斜
-seoi2 zeng6/zing6 lau4 am1/jam3/jam1 zik6, saan1 fan1 coi3/soi3/sak1 mik6/jat6 je4/ce3/ce4/ze4 
-夜來歸鳥盡，啼殺後栖鴉
-je6 loi6/lai4/loi4 gwei1/gwai1 diu2/niu5 zeon6, tai4 saai3/saai6/saat3 hau5/hau6 cai1 ngaa1/aa1 
-
+sau4 ngaan5 hon1 soeng1 lou6, hon4 sing4 guk1 zi6 faa1
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+天風隨斷柳，客淚墮清笳
+tin1 fung1 ceoi4 dyun6 lau5, haak3 leoi6 do6 cing1 gaa1
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
+水淨樓陰直，山昏塞日斜
+seoi2 zing6 lau4 jam1 zik6, saan1 fan1 coi3 jat6 ce4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+夜來歸鳥盡，啼殺後栖鴉
+je6 loi4 gwai1 niu5 zeon6, tai4 saat3 hau6 cai1 aa1
+仄平平仄仄，平仄仄平平
 
+〚3.2.5〛花：麻韻
+〚4.2.5〛笳：麻韻
+〚5.2.5〛斜：麻韻
+〚6.2.5〛鴉：麻韻
+
+五律
 
 
 =====================================================
 
 1527 天河
-tin1 ho4 
-
+tin1 ho4
 
 常時任顯晦，秋至輒分明
-soeng4 si4 jam4/jam6 hin2 fui3, cau1 zi3 zip3 fan6/fan3/fan1 ming4 
-縱被微雲掩，終能永夜清
-zung1/zung2/zung3 bei6/pei1/pei5/pai1 mei4 wan4 jim2/am2/ngam2, zung1 noi6/nang4/nang1 jung2/wing5 je6 ceng1/cing1 
-含星動雙闕，伴月照邊城
-ham6/ham4 seng1/sing1 dung6 soeng1 gwat6/hyut3/hit3/kyut3, pun5/bun3/bun6/pun3 jyut6 ziu3 bin1 seng4/sing4 
-牛女年年渡，何曾風浪生
-ngau4 jyu5/neoi6/neoi2/neoi5 nin4 nin4 dou6, ho6/ho4 zang1/cang4 fung3/fung2/fung1 long4/long5/nong6/long6 sang1/saang1 
-
+soeng4 si4 jam4 hin2 fui3, cau1 zi3 zip3 fan1 ming4
+平平平仄仄，平仄仄平平
 -----------------------------------------------------
-平平仄仄
+縱被微雲掩，終能永夜清
+zung3 bei6 mei4 wan4 jim2, zung1 nang4 wing5 je6 cing1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+含星動雙闕，伴月照邊城
+ham4 sing1 dung6 soeng1 kyut3, bun6 jyut6 ziu3 bin1 sing4
+平平仄平仄，仄仄仄平平（出句特定平仄）
+-----------------------------------------------------
+牛女年年渡，何曾風浪生
+ngau4 neoi5 nin4 nin4 dou6, ho4 cang4 fung1 long6 sang1
+平仄平平仄，平平平仄平
 
+〚3.2.5〛明：庚韻
+〚4.2.5〛清：庚韻
+〚5.2.5〛城：庚韻
+〚6.2.5〛生：庚韻
+
+五律
 
 
 =====================================================
 
 1532 初月
-co1 jyut6 
-
+co1 jyut6
 
 光細弦欲上，影斜輪未安
-gwong1 sai3 jyun4/jin4/hin4 juk6 soeng5/saang3/soeng6, jeng2/jing2 je4/ce3/ce4/ze4 leon4 mei6 ngon1/on1 
-微升古塞外，已隱暮雲端
-mei4 sing1 gwu2/gu2 coi3/soi3/sak1 ngoi6, ji3/ji5 jan5/jan6/jan2/jan3 mou6 wan4 dyun1 
-河漢不改色，關山空自寒
-ho4 hon3 fau2/fau4/pei1/dan2/bat1/fu1 goi2 sik1, waan1/gwaan1 saan1 hung3/hung2/hung1 zi6 hon4 
-庭前有白露，暗滿菊花團
-ting3/ting4 cin4 jau6/jau5 baak6/baak3 lau6/lou6, ngam3/am3/am6 mun6/mun5 guk1 faa1 tyun4 
-
+gwong1 sai3 jin4 juk6 soeng5, jing2 ce4 leon4 mei6 on1
+平仄平仄仄，仄平平仄平
 -----------------------------------------------------
-平平仄仄
+微升古塞外，已隱暮雲端
+mei4 sing1 gu2 coi3 ngoi6, ji5 jan2 mou6 wan4 dyun1
+平平仄仄仄，仄仄仄平平
+-----------------------------------------------------
+河漢不改色，關山空自寒
+ho4 hon3 bat1 goi2 sik1, gwaan1 saan1 hung1 zi6 hon4
+平仄仄仄仄，平平平仄平
+-----------------------------------------------------
+庭前有白露，暗滿菊花團
+ting4 cin4 jau5 baak6 lou6, am3 mun5 guk1 faa1 tyun4
+平平仄仄仄，仄仄仄平平
 
+〚3.2.5〛安：寒韻
+〚4.2.5〛端：寒韻
+〚5.2.5〛寒：寒韻
+〚6.2.5〛團：寒韻
 
+五律
+
+全詩多拗句。
 
 =====================================================
 
 1536 擣衣
-dou2 ji1 
-
+dou2 ji1
 
 亦知戍不返，秋至拭清砧
-jik6 zi3/zi1 seot1/syu3 fau2/fau4/pei1/dan2/bat1/fu1 faan1/faan2, cau1 zi3 sik1 ceng1/cing1 zam1 
-已近苦寒月，況經長別心
-ji3/ji5 kan5/gan3/gei3/gan6 fu2/geoi2 hon4 jyut6, fong2/kwong3/fong3 gaang1/ging1 zoeng2/zoeng6/coeng4 bit3/bit6 sam1 
-寧辭擣熨倦，一寄塞垣深
-ning6/ning4 ci4 tou2/dou2 wat1/wan6/wai3/tong3 gyun6, jat1 gei3 coi3/soi3/sak1 wun4 sam1 
-用盡閨中力，君聽空外音
-jung6/ung6 zeon6 gwei1/gwai1 zung3/zung1 lik6, gwan1 teng1/ting1/ting3/teng3 hung3/hung2/hung1 ngoi6 jam1/jam3 
-
+jik6 zi1 syu3 bat1 faan2, cau1 zi3 sik1 cing1 zam1
+仄平仄仄仄，平仄仄平平
 -----------------------------------------------------
-平平仄仄
+已近苦寒月，況經長別心
+ji5 gan6 fu2 hon4 jyut6, fong3 ging1 coeng4 bit6 sam1
+仄仄仄平仄，仄平平仄平（「仄平仄」對「平仄平」）
+-----------------------------------------------------
+寧辭擣熨倦，一寄塞垣深
+ning4 ci4 dou2 tong3 gyun6, jat1 gei3 coi3 wun4 sam1
+平平仄仄仄，仄仄仄平平
+-----------------------------------------------------
+用盡閨中力，君聽空外音
+jung6 zeon6 gwai1 zung1 lik6, gwan1 ting1 hung3 ngoi6 jam1
+仄仄平平仄，平平仄仄平
 
+〚3.2.5〛砧：侵韻
+〚4.2.5〛心：侵韻
+〚5.2.5〛深：侵韻
+〚6.2.5〛音：侵韻
+
+五律
 
 
 =====================================================
 
 1540 歸燕
-gwai1 jin3 
-
+gwai1 jin3
 
 不獨避霜雪，其如儔侶稀
-fau2/fau4/pei1/dan2/bat1/fu1 duk6 bei6 soeng1 syut3, gei1/kei4/gei4/gei3 jyu4 cau4 leoi5 hei1 
-四時無失序，八月自知歸
-si3/sei3 si4 mo4/mou5/mou4 jat6/sat1 zeoi6, baat3 jyut6 zi6 zi3/zi1 gwei1/gwai1 
-春色豈相訪，眾雛還識機
-ceon1 sik1 hoi2/hei2 soeng3/soeng2/soeng1 fong2, zung1/zung3 co1/co4 syun4/waan4/waan6 zi3/sik1 gi1/gei1 
-故巢儻未毀，會傍主人飛
-gwu3/gu3/geoi3 caau4 tong2 mei6 wai2, wui5/kui2/kwui2/kwui3/kui3/wui6/fui2/wui3 pong4/bong1/bong6/bang1 zyu2 jan4/jan5 fei1 
-
+bat1 duk6 bei6 soeng1 syut3, kei4 jyu4 cau4 leoi5 hei1
+仄仄仄平仄，平平平仄平（「仄平仄」對「平仄平」）
 -----------------------------------------------------
-平平仄仄
+四時無失序，八月自知歸
+sei3 si4 mou4 sat1 zeoi6, baat3 jyut6 zi6 zi1 gwai1
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
+春色豈相訪，眾雛還識機
+ceon1 sik1 hei2 soeng1 fong2, zung3 co1 waan4 sik1 gei1
+平仄仄平仄，仄平平仄平（「仄平仄」對「平仄平」）
+-----------------------------------------------------
+故巢儻未毀，會傍主人飛
+gu3 caau4 tong2 mei6 wai2, wui5 bong6 zyu2 jan4 fei1
+仄平仄仄仄，仄仄仄平平
 
+〚3.2.5〛稀：微韻
+〚4.2.5〛歸：微韻
+〚5.2.5〛機：微韻
+〚6.2.5〛飛：微韻
+
+五律
 
 
 =====================================================
 
 1543 促織
-cuk1 zik1 
-
+cuk1 zik1
 
 1543 促織甚微細，哀音何動人
-cuk1 zi3/ci3/zik1 sap6/sam4/sam6 mei4 sai3, ngoi1/ngai1/oi1 jam1/jam3 ho6/ho4 dung6 jan4/jan5 
-草根吟不穩，牀下夜相親
-cou2 gan1 jam4/gam3 fau2/fau4/pei1/dan2/bat1/fu1 wan2, cong4 haa5/haa2/haa6 je6 soeng3/soeng2/soeng1 can3/can1/ceon1 
-久客得無淚，故妻難及晨
-gau2 haak3 dak1 mo4/mou5/mou4 leoi6, gwu3/gu3/geoi3 cai3/cai1 naan6/no4/naan4 gap6/kap6/gaap6 san4 
-悲絲與急管，感激異天眞
-bei1 si1 jyu6/jyu4/jyu5 gap1 gwun2/gun2, gaam2/gam2 gik1 ji6 tin1 zan1 
-
+cuk1 zik1 sam6 mei4 sai3, oi1 jam1 ho4 dung6 jan4
+仄仄仄平仄，平平平仄平（「仄平仄」對「平仄平」）
 -----------------------------------------------------
-平平仄仄
+草根吟不穩，牀下夜相親
+cou2 gan1 jam4 bat1 wan2, cong4 haa6 je6 soeng1 can1
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
+久客得無淚，故妻難及晨
+gau2 haak3 dak1 mou4 leoi6, gu3 cai1 naan4 kap6 san4
+仄仄仄平仄，仄平平仄平（「仄平仄」對「平仄平」）
+-----------------------------------------------------
+悲絲與急管，感激異天眞
+bei1 si1 jyu5 gap1 gun2, gam2 gik1 ji6 tin1 zan1
+平平仄仄仄，仄仄仄平平
 
+〚3.2.5〛人：眞韻
+〚4.2.5〛親：眞韻
+〚5.2.5〛晨：眞韻
+〚6.2.5〛眞：眞韻
 
+五律
 
 =====================================================
 
 1546 螢火
-jing4 fo2 
-
+jing4 fo2
 
 幸因腐草出，敢近太陽飛
-zap1/hang6 jan1 fu6 cou2 ceoi3/ceot1, gam2 kan5/gan3/gei3/gan6 taai3 joeng4 fei1 
-未足臨書卷，時能點客衣
-mei6 zeoi3/zeoi6/zuk3/zuk1 lam4/lam6 syu1 kyun4/gyun3/hyun3/gyun2/gwan2, si4 noi6/nang4/nang1 dim2 haak3 ji3/ji1 
-隨風隔幔小，帶雨傍林微
-ceoi4 fung3/fung2/fung1 gik1/gaak3/gak1 maan6/man6/mun6 siu2, daai2/daai3 jyu6/jyu3/jyu5 pong4/bong1/bong6/bang1 lam4 mei4 
-十月清霜重，飄零何處歸
-sap6 jyut6 ceng1/cing1 soeng1 cung4/cung5/cung3/zung6/tung4/zung3, piu1/liu4/lau4 leng4/lin4/ling4 ho6/ho4 cyu2/syu3/cyu3 gwei1/gwai1 
-
+hang6 jan1 fu6 cou2 ceot1, gam2 gan6 taai3 joeng4 fei1
+仄平仄仄仄，仄仄仄平平
 -----------------------------------------------------
-平平仄仄
+未足臨書卷，時能點客衣
+mei6 zuk1 lam4 syu1 gyun2, si4 nang4 dim2 haak3 ji1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+隨風隔幔小，帶雨傍林微
+ceoi4 fung1 gaak3 maan6 siu2, daai3 jyu5 bong6 lam4 mei4
+平平仄仄仄，仄仄仄平平
+-----------------------------------------------------
+十月清霜重，飄零何處歸
+sap6 jyut6 cing1 soeng1 zung6, piu1 ling4 ho4 cyu3 gwai1
+仄仄平平仄，平平平仄平
 
+〚3.2.5〛飛：微韻
+〚4.2.5〛衣：微韻
+〚5.2.5〛微：微韻
+〚6.2.5〛歸：微韻
 
+五律
 
 =====================================================
 
 1551 蒹葭
-gim1 gaa1 
-
+gim1 gaa1
 
 摧折不自守，秋風吹若何
-ceoi4/ceoi1/zo3/zeoi4 zip3/zit3 fau2/fau4/pei1/dan2/bat1/fu1 zi6 sau3/sau2, cau1 fung3/fung2/fung1 ceoi3/ceoi1 je5/joek6 ho6/ho4 
-暫時花戴雪，幾處葉沉波
-zaam6 si4 faa1 deoi3/daai3/dai3 syut3, gei1/gei3/gei2/kei4 cyu2/syu3/cyu3 sip3/jip6 zam6/cam4/taam4/sam2 bo1 
-體弱春風早，叢長夜露多
-tai2 joek6 ceon1 fung3/fung2/fung1 zou2, cung4 zoeng2/zoeng6/coeng4 je6 lau6/lou6 do1 
-江湖後搖落，亦恐歲蹉跎
-gong1 wu4 hau5/hau6 jiu4 laai6/lok1/lok6, jik6 hung3/hung2 seoi3 co1/zo1 to4 
-
+ceoi1 zit3 bat1 zi6 sau2, cau1 fung1 ceoi1 joek6 ho4
+平仄仄仄仄，平平平仄平
 -----------------------------------------------------
-平平仄仄
+暫時花戴雪，幾處葉沉波
+zaam6 si4 faa1 daai3 syut3, gei2 cyu3 jip6 cam4 bo1
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+體弱春風早，叢長夜露多
+tai2 joek6 ceon1 fung1 zou2, cung4 coeng4 je6 lou6 do1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+江湖後搖落，亦恐歲蹉跎
+gong1 wu4 hau6 jiu4 lok6, jik6 hung2 seoi3 co1 to4
+平平仄平仄，仄仄仄平平（出句特定平仄）
 
+〚3.2.5〛何：歌韻
+〚4.2.5〛波：歌韻
+〚5.2.5〛多：歌韻
+〚6.2.5〛跎：歌韻
 
+五律
 
 =====================================================
 
 1555 苦竹
-fu2 zuk1 
-
+fu2 zuk1
 
 青冥亦自守，軟弱強扶持
-ceng1/zing1/cing1 ming4/ming5 jik6 zi6 sau3/sau2, jyun5 joek6 koeng5/goeng6/koeng3/koeng4/koeng6/goeng5 pou4/fu4 ci4 
-味苦夏蟲避，叢卑春鳥疑
-mei6 fu2/geoi2 gaa2/haa5/haa6 cung4 bei6, cung4 bei1 ceon1 diu2/niu5 jing4/ngat6/ji4 
-軒墀曾不重，剪伐欲無辭
-hin3/hin1 ci4 zang1/cang4 fau2/fau4/pei1/dan2/bat1/fu1 cung4/cung5/cung3/zung6/tung4/zung3, zin2 faat6/fat6 juk6 mo4/mou5/mou4 ci4 
-幸近幽人屋，霜根結在茲
-zap1/hang6 kan5/gan3/gei3/gan6 jau1 jan4/jan5 nguk1/uk1, soeng1 gan1 gai1/gai3/git3/hai6 zoi6 ci4/zi1 
-
+cing1 ming4 jik6 zi6 sau2, jyun5 joek6 koeng5 fu4 ci4
+平平仄仄仄，仄仄仄平平
 -----------------------------------------------------
-平平仄仄
+味苦夏蟲避，叢卑春鳥疑
+mei6 fu2 haa6 cung4 bei6, cung4 bei1 ceon1 niu5 ji4
+仄仄仄平仄，平平平仄平（「仄平仄」對「平仄平」）
+-----------------------------------------------------
+軒墀曾不重，剪伐欲無辭
+hin1 ci4 cang4 bat1 zung6, zin2 fat6 juk6 mou4 ci4
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
+幸近幽人屋，霜根結在茲
+hang6 gan6 jau1 jan4 uk1, soeng1 gan1 git3 zoi6 zi1
+仄仄平平仄，平平仄仄平
 
+〚3.2.5〛持：支韻
+〚4.2.5〛疑：支韻
+〚5.2.5〛辭：支韻
+〚6.2.5〛茲：支韻
+
+五律
 
 
 =====================================================
 
 1559 除架
-ceoi4 gaa2/gaa3 
-
+ceoi4 gaa3
 
 束薪已零落，瓠葉轉蕭疏
-suk1/cuk1/syu3 san1 ji3/ji5 leng4/lin4/ling4 laai6/lok1/lok6, wu6/wok6/wu4/jyu4 sip3/jip6 zyun3/zyun2 siu1 so3/so1 
-幸結白花了，寧辭青蔓除
-zap1/hang6 gai1/gai3/git3/hai6 baak6/baak3 faa1 liu2/laa2/liu5, ning6/ning4 ci4 ceng1/zing1/cing1 maan4/maan6 cyu4/ceoi4 
-秋蟲聲不去，暮雀意何如
-cau1 cung4 seng1/sing1 fau2/fau4/pei1/dan2/bat1/fu1 heoi2/heoi3/keoi1, mou6 zoek2/zoek3 ji3 ho6/ho4 jyu4 
-寒事今牢落，人生亦有初
-hon4 si6 gam1 lou4/lau4/lo5 laai6/lok1/lok6, jan4/jan5 sang1/saang1 jik6 jau6/jau5 co1 
-
+cuk1 san1 ji5 ling4 lok6, wu6 jip6 zyun2 siu1 so1
+仄平仄平仄，仄仄仄平平
 -----------------------------------------------------
-平平仄仄
+幸結白花了，寧辭青蔓除
+hang6 git3 baak6 faa1 liu5, ning4 ci4 cing1 maan6 ceoi4
+仄仄仄平仄，平平平仄平
+-----------------------------------------------------
+秋蟲聲不去，暮雀意何如
+cau1 cung4 sing1 bat1 heoi3, mou6 zoek3 ji3 ho4 jyu4
+平平平仄仄，仄仄仄平平
+-----------------------------------------------------
+寒事今牢落，人生亦有初
+hon4 si6 gam1 lou4 lok6, jan4 sang1 jik6 jau5 co1
+平仄平仄仄，平平仄仄平
 
+〚3.2.5〛疏：魚韻
+〚4.2.5〛除：魚韻
+〚5.2.5〛如：魚韻
+〚6.2.5〛初：魚韻
+
+五律
 
 
 =====================================================
@@ -12310,79 +13185,112 @@ hon4 si6 gam1 lou4/lau4/lo5 laai6/lok1/lok6, jan4/jan5 sang1/saang1 jik6 jau6/ja
 1563 廢畦
 fai3 kwai4
 
-
 秋蔬擁霜露，豈敢惜凋殘
-cau1 so1 ung2/jung1/jung2 soeng1 lau6/lou6, hoi2/hei2 gam2 sek3/sik1 diu1 caan4 
-暮景數枝葉，天風吹汝寒
-mou6 jing2/ging2 sou2/sok3/cuk1/sou3 kei4/zi1 sip3/jip6, tin1 fung3/fung2/fung1 ceoi3/ceoi1 nei5/jyu5 hon4 
-綠霑泥滓盡，香與歲時闌
-luk6 zim1 nei6/nai6/nai4/nei5 zi2 zeon6, hoeng1 jyu6/jyu4/jyu5 seoi3 si4 laan4 
-生意春如昨，悲君白玉盤
-sang1/saang1 ji3 ceon1 jyu4 zok3/zok6, bei1 gwan1 baak6/baak3 suk1/juk6 pun4 
-
+cau1 so1 jung2 soeng1 lou6, hei2 gam2 sik1 diu1 caan4
+平平仄平仄，仄仄仄平平（出句特定平仄）
 -----------------------------------------------------
-平平仄仄
+暮景數枝葉，天風吹汝寒
+mou6 ging2 sou3 zi1 jip6, tin1 fung1 ceoi1 jyu5 hon4
+仄仄仄平仄，平平平仄平（「仄平仄」對「平仄平」）
+-----------------------------------------------------
+綠霑泥滓盡，香與歲時闌
+luk6 zim1 nai4 zi2 zeon6, hoeng1 jyu5 seoi3 si4 laan4
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
+生意春如昨，悲君白玉盤
+sang1 ji3 ceon1 jyu4 zok3, bei1 gwan1 baak6 juk6 pun4
+平仄平平仄，平平仄仄平
 
+〚3.2.5〛殘：寒韻
+〚4.2.5〛寒：寒韻
+〚5.2.5〛闌：寒韻
+〚6.2.5〛盤：寒韻
 
+五律
 
 =====================================================
 
 1565 夕烽
-zik6 fung1 
-
+zik6 fung1
 
 1565 夕烽來不近，每日報平安
-zik6 fung1 loi6/lai4/loi4 fau2/fau4/pei1/dan2/bat1/fu1 kan5/gan3/gei3/gan6, mui6/mui5 mik6/jat6 bou3 peng4/ping4/pin4/ping6 ngon1/on1 
-塞上傳光小，雲邊落點殘
-coi3/soi3/sak1 soeng5/saang3/soeng6 zyun6/zyun2/cyun4/zyun3/cyun6 gwong1 siu2, wan4 bin1 laai6/lok1/lok6 dim2 caan4 
-照秦通警急，過隴自艱難
-ziu3 ceon4 tung1 ging2 gap1, gwo1/gwo3 lung5 zi6 gaan1 naan6/no4/naan4 
-聞道蓬萊殿，千門立馬看
-man6/man4 dou6/dou5 fung4/pung4 loi4 din3/din6, cin1 mun4 laap6/lap6 maa5 hon1/hon3 
-
+zik6 fung1 loi4 bat1 gan6, mui5 jat6 bou3 ping4 on1
+仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
-平平仄仄
+塞上傳光小，雲邊落點殘
+coi3 soeng6 cyun4 gwong1 siu2, wan4 bin1 lok6 dim2 caan4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+照秦通警急，過隴自艱難
+ziu3 ceon4 tung1 ging2 gap1, gwo3 lung5 zi6 gaan1 naan4
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+聞道蓬萊殿，千門立馬看
+man4 dou6 pung4 loi4 din6, cin1 mun4 lap6 maa5 hon1
+平仄平平仄，平平仄仄平
 
+〚3.2.5〛安：寒韻
+〚4.2.5〛殘：寒韻
+〚5.2.5〛難：寒韻
+〚6.2.5〛看：寒韻
 
+五律
 
 =====================================================
 
 1568 秋笛
-cau1 dek6 
-
+cau1 dek6
 
 清商欲盡奏，奏苦血霑衣
-ceng1/cing1 soeng1 juk6 zeon6 cau3/zau3, cau3/zau3 fu2/geoi2 hyut3 zim1 ji3/ji1 
-他日傷心極，征人白骨歸
-to1/to4/taa1 mik6/jat6 soeng1 sam1 gik1/gik6, zing1 jan4/jan5 baak6/baak3 gwu2/gwat1 gwei1/gwai1 
-相逢恐恨過，故作發聲微
-soeng3/soeng2/soeng1 pung4/fung4 hung3/hung2 han6 gwo1/gwo3, gwu3/gu3/geoi3 zo3/zou6/zou3/zok3 but3/faat3 seng1/sing1 mei4 
-不見秋雲動，悲風稍稍飛
-fau2/fau4/pei1/dan2/bat1/fu1 jin6/gin3/hin3 cau1 wan4 dung6, bei1 fung3/fung2/fung1 saau3/saau2 saau3/saau2 fei1 
-
+cing1 soeng1 juk6 zeon6 zau3, zau3 fu2 hyut3 zim1 ji1
+平平仄仄仄，仄仄仄平平
 -----------------------------------------------------
-平平仄仄
+他日傷心極，征人白骨歸
+taa1 jat6 soeng1 sam1 gik6, zing1 jan4 baak6 gwat1 gwai1
+平仄平平仄，平平仄仄平
+-----------------------------------------------------
+相逢恐恨過，故作發聲微
+soeng1 fung4 hung2 han6 gwo3, gu3 zok3 faat3 sing1 mei4
+平平仄仄仄，仄仄仄平平
+-----------------------------------------------------
+不見秋雲動，悲風稍稍飛
+bat1 gin3 cau1 wan4 dung6, bei1 fung1 saau2 saau2 fei1
+仄仄平平仄，平平仄仄平
 
+〚3.2.5〛衣：微韻
+〚4.2.5〛歸：微韻
+〚5.2.5〛微：微韻
+〚6.2.5〛飛：微韻
 
+五律
 
 =====================================================
 
 1571 空囊
-hung1 nong4 
-
+hung1 nong4
 
 翠柏苦猶食，晨霞高可餐
-ceoi3 baak3/paak3/baak6 fu2/geoi2 jau4 zi6/ji6/sik6, san4 haa4 gou1 hak1/haak1/ho2 caan1 
-世人共鹵莽，吾道屬艱難
-sai3 jan4/jan5 gung1/gung2/gung3/gung6 lou5/lu5 mong5/mou5, ng4 dou6/dou5 zuk1/suk6/zyu3 gaan1 naan6/no4/naan4 
-不爨井晨凍，無衣牀夜寒
-fau2/fau4/pei1/dan2/bat1/fu1 cyun3/cyun2 zing2/zeng2 san4 dung3, mo4/mou5/mou4 ji3/ji1 cong4 je6 hon4 
-囊空恐羞澀，留得一錢看
-nong4 hung3/hung2/hung1 hung3/hung2 sau1 sap1/saap3/sik1/gip3, lau6/lau4 dak1 jat1 zin2/cin4 hon1/hon3 
-
+ceoi3 paak3 fu2 jau4 sik6, san4 haa4 gou1 ho2 caan1
+仄仄仄平仄，平平平仄平
 -----------------------------------------------------
-平平仄仄
+世人共鹵莽，吾道屬艱難
+sai3 jan4 gung6 lou5 mong5, ng4 dou6 suk6 gaan1 naan4
+仄平仄仄仄，仄仄仄平平
+-----------------------------------------------------
+不爨井晨凍，無衣牀夜寒
+bat1 cyun3 zing2 san4 dung3, mou4 ji1 cong4 je6 hon4
+仄仄仄平仄，平平平仄平（「仄平仄」對「平仄平」）
+-----------------------------------------------------
+囊空恐羞澀，留得一錢看
+nong4 hung1 hung2 sau1 sik1, lau4 dak1 jat1 cin4 hon1
+平平仄平仄，平仄仄平平
 
+〚3.2.5〛餐：寒韻
+〚4.2.5〛難：寒韻
+〚5.2.5〛寒：寒韻
+〚6.2.5〛看：寒韻
+
+五律
 
 
 =====================================================
@@ -12625,7 +13533,7 @@ fu2/heoi2 kau4 cung1 wai3/wai6 ze2, wai6/wai4 gei3 siu2 jyu4 kyun4
 
 =====================================================
 
-1610 貽阮隱居[昉]
+1610 貽阮隱居
 ji4 jyun2/jyun4/jyun5 jan5/jan6/jan2/jan3 gei1/geoi1 unknown fong2 unknown 
 
 
@@ -13000,7 +13908,7 @@ kung4 cau1 zing1/zeng3/zing2/zing3 jiu4 laai6/lok1/lok6, wui6/wui4 sau3/sau2 mon
 
 =====================================================
 
-1681 寄李十二白二十韻[會稽賀知章一見白號爲天上謫仙人]
+1681 寄李十二白二十韻
 gei3 lei5 sap6 ji6/ji3 baak6/baak3 ji6/ji3 sap6 wan5/wan2/wan6 unknown wui5/kui2/kwui2/kwui3/kui3/wui6/fui2/wui3 kai2/hai4/kai1/gai1 ho6 zi3/zi1 zoeng1 jat1 jin6/gin3/hin3 baak6/baak3 hou4/hou6 wai6/wai4 tin1 soeng5/saang3/soeng6 zaak3/zaak6/zak6 sin1 jan4/jan5 unknown 
 
 
