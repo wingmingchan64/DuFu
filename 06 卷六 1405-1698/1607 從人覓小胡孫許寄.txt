@@ -9,22 +9,32 @@
 
 【注音】
 從人覓小胡孫許寄
-sung1/zung6/zung1/cung4/zung2/zung3/cung6 jan4 mik6 siu2 wu4 syun1 heoi2 gei3 
-
+cung4 jan4 mik6 siu2 wu4 syun1 heoi2 gei3
 
 人說南州路，山猿樹樹懸
-jan4/jan5 seoi3/jyut6/syut3 naa1/naa4/naam4 zau1 lou6, saan1 jyun4 syu5/syu6 syu5/syu6 jyun6/jyun4/hyun4 
-舉家聞若駭，童稚捧應癲
-geoi2 gu1/gwu1/gaa1 man6/man4 je5/joek6 hoi5/haai4/hoi4/haai5/hoi6, tung4/zung1 zi6 fung2/bung2/pung2 jing3/jing1 din1 
-預哂愁胡面，初調見馬鞭
-jyu6 can2 sau4/cau1 wu4 min6, co1 diu6/zau1/tiu4/liu6 jin6/gin3/hin3 maa5 bin1 
-許求聰慧者，爲寄小如拳
-fu2/heoi2 kau4 cung1 wai3/wai6 ze2, wai6/wai4 gei3 siu2 jyu4 kyun4 
-
+jan4 syut3 naam4 zau1 lou6, saan1 jyun4 syu6 syu6 jyun4
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+舉家聞若駭，童稚捧應癲
+geoi2 gaa1 man4 joek6 haai5, tung4 zi6 pung2 jing1 din1
+仄平平仄仄，平仄仄平平
+-----------------------------------------------------
+預哂愁胡面，初調見馬鞭
+jyu6 can2 sau4 wu4 min6, co1 tiu4 gin3 maa5 bin1
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+許求聰慧者，爲寄小如拳
+heoi2 kau4 cung1 wai6 ze2, wai6 gei3 siu2 jyu4 kyun4
+仄平平仄仄，仄仄仄平平
 
 【韻部】
+〚3.2.5〛懸：先韻
+〚4.2.5〛癲：先韻
+〚5.2.5〛鞭：先韻
+〚6.2.5〛拳：先韻
+
+【體裁】
+五律
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1607,djvu1784

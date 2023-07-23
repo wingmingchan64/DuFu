@@ -13,30 +13,44 @@
 
 【注音】
 貽阮隱居
-ji4 jyun2/jyun4/jyun5 jan5/jan6/jan2/jan3 gei1/geoi1 unknown fong2 unknown 
-
+ji4 jyun2 jan2 geoi1
 
 陳留風俗衰，人物世不數
-zan6/can4 lau6/lau4 fung3/fung2/fung1 zuk6 ceoi1/so1/seoi1, jan4/jan5 mat6 sai3 fau2/fau4/pei1/dan2/bat1/fu1 sou2/sok3/cuk1/sou3 
-塞上得阮生，迥繼先父祖
-coi3/soi3/sak1 soeng5/saang3/soeng6 dak1 jyun2/jyun4/jyun5 sang1/saang1, gwing2 gai3 sin3/sin1 fu2/fu6 zou2 
-貧知靜者性，自益毛髮古
-pan4 zi3/zi1 zing6 ze2 sing3, zi6 jik1 mou4 faat3 gwu2/gu2 
-車馬入鄰家，蓬蒿翳環堵
-geoi1/ce1/gu1 maa5 jap6 leon4 gu1/gwu1/gaa1, fung4/pung4 hou1/gou1 ngai3/ji1/ji3/aai3/ai3 waan4 ze2/dou2 
-清詩近道要，識子用心苦
-ceng1/cing1 si1 kan5/gan3/gei3/gan6 dou6/dou5 jiu1/jiu3, zi3/sik1 zi2 jung6/ung6 sam1 fu2/geoi2 
-尋我草徑微，褰裳踏寒雨
-cam4 ngo5 cou2 ging6/gaang3/ging3 mei4, hin1 soeng4 dap6/daap6 hon4 jyu6/jyu3/jyu5 
-更議居遠村，避喧甘猛虎
-gang3/gaang1/gaang3/gang1/ang3 ji6/ji5 gei1/geoi1 jyun6/jyun3/jyun5 cyun1, bei6 hyun1 gam1 maang5/mang5 fu2 
-足明箕潁客，榮貴如糞土
-zeoi3/zeoi6/zuk3/zuk1 ming4 gei1 wing5/wing6 haak3, wing4 gwei3/gwai3 jyu4 fan5/fan3 tou2 
-
+can4 lau4 fung1 zuk6 seoi1, jan4 mat6 sai3 bat1 sou2
 -----------------------------------------------------
-平平仄仄
+塞上得阮生，迥繼先父祖
+coi3 soeng6 dak1 jyun2 sang1, gwing2 gai3 sin1 fu6 zou2
+-----------------------------------------------------
+貧知靜者性，自益毛髮古
+pan4 zi1 zing6 ze2 sing3, zi6 jik1 mou4 faat3 gu2
+-----------------------------------------------------
+車馬入鄰家，蓬蒿翳環堵
+geoi1 maa5 jap6 leon4 gaa1, pung4 hou1 ai3 waan4 dou2
+-----------------------------------------------------
+清詩近道要，識子用心苦
+cing1 si1 gan6 dou6 jiu3, sik1 zi2 jung6 sam1 fu2
+-----------------------------------------------------
+尋我草徑微，褰裳踏寒雨
+cam4 ngo5 cou2 ging3 mei4, hin1 soeng4 daap6 hon4 jyu5
+-----------------------------------------------------
+更議居遠村，避喧甘猛虎
+gang3 ji5 geoi1 jyun5 cyun1, bei6 hyun1 gam1 maang5 fu2
+-----------------------------------------------------
+足明箕潁客，榮貴如糞土
+zuk1 ming4 gei1 wing6 haak3, wing4 gwai3 jyu4 fan3 tou2
 
 【韻部】
+〚3.2.5〛數：麌韻
+〚4.2.5〛祖：麌韻
+〚5.2.5〛古：麌韻
+〚6.2.5〛堵：麌韻
+〚7.2.5〛苦：麌韻
+〚8.2.5〛雨：麌韻
+〚9.2.5〛虎：麌韻
+〚10.2.5〛土：麌韻
+
+【體裁】
+五古
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1610,djvu1787
