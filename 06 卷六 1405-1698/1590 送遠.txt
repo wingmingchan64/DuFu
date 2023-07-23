@@ -9,22 +9,32 @@
 
 【注音】
 送遠
-sung3 jyun5 
-
+sung3 jyun5
 
 帶甲滿天地，胡爲君遠行
-daai2/daai3 gaap3 mun6/mun5 tin1 dei6, wu4 wai6/wai4 gwan1 jyun6/jyun3/jyun5 hang6/hong4/haang4/hong6/hong5/hang4 
-親朋盡一哭，鞍馬去孤城
-can3/can1/ceon1 paang4/pang4 zeon6 jat1 huk1, ngon1/on1 maa5 heoi2/heoi3/keoi1 gwu1/gu1 seng4/sing4 
-草木歲月晚，關河霜雪清
-cou2 muk6 seoi3 jyut6 maan5, waan1/gwaan1 ho4 soeng1 syut3 ceng1/cing1 
-別離已昨日，因見古人情
-bit3/bit6 lei6/lei5/lei4 ji3/ji5 zok3/zok6 mik6/jat6, jan1 jin6/gin3/hin3 gwu2/gu2 jan4/jan5 cing4/ceng4 
-
+daai3 gaap3 mun5 tin1 dei6, wu4 wai4 gwan1 jyun5 hang4
+仄仄仄平仄，平平平仄平（「仄平仄」對「平仄平」）
 -----------------------------------------------------
-平平仄仄
+親朋盡一哭，鞍馬去孤城
+can1 pang4 zeon6 jat1 huk1, on1 maa5 heoi3 gu1 sing4
+平平仄仄仄，平仄仄平平
+-----------------------------------------------------
+草木歲月晚，關河霜雪清
+cou2 muk6 seoi3 jyut6 maan5, gwaan1 ho4 soeng1 syut3 cing1
+仄仄仄仄仄，平平平仄平（拗救）
+-----------------------------------------------------
+別離已昨日，因見古人情
+bit6 lei4 ji5 zok3 jat6, jan1 gin3 gu2 jan4 cing4 
+仄平仄仄仄，平仄仄平平
 
 【韻部】
+〚3.2.5〛行：庚韻
+〚4.2.5〛城：庚韻
+〚5.2.5〛清：庚韻
+〚6.2.5〛情：庚韻
+
+【體裁】
+五律
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1590,djvu1767
