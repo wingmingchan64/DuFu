@@ -11,20 +11,30 @@
 示姪佐
 si6 zat6 zo3
 
-
 多病秋風落，君來慰眼前
-do1 bing6/beng6 cau1 fung3/fung2/fung1 laai6/lok1/lok6, gwan1 loi6/lai4/loi4 wai3/wai6 ngaan5/han2 cin4 
-自聞茅屋趣，只想竹林眠
-zi6 man6/man4 maau4 nguk1/uk1 cuk1/ceoi1/ceoi3/cau2, zek3/zat1/zi2 soeng2 zuk1 lam4 min4 
-滿谷山雲起，侵籬澗水懸
-mun6/mun5 juk6/luk6/guk1 saan1 wan4 hei2, cam2/cam1 lei4/jin4 gaan2/gaan3 seoi2 jyun6/jyun4/hyun4 
-嗣宗諸子姪，早覺仲容賢
-zi6 zung1 zyu1 zi2 zat6, zou2 gaau3/gok3/gau3/gaau4 zung6 jung4 jin4/jin6/hin4 
-
+do1 bing6 cau1 fung1 lok6, gwan1 loi4 wai3 ngaan5 cin4
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
-平平仄仄
+自聞茅屋趣，只想竹林眠
+zi6 man4 maau4 uk1 ceoi3, zi2 soeng2 zuk1 lam4 min4
+仄平平仄仄，仄仄仄平平
+-----------------------------------------------------
+滿谷山雲起，侵籬澗水懸
+mun5 guk1 saan1 wan4 hei2, cam1 lei4 gaan3 seoi2 jyun4
+仄仄平平仄，平平仄仄平
+-----------------------------------------------------
+嗣宗諸子姪，早覺仲容賢
+zi6 zung1 zyu1 zi2 zat6, zou2 gok3 zung6 jung4 jin4
+仄平平仄仄，仄仄仄平平
 
 【韻部】
+〚3.2.5〛前：先韻
+〚4.2.5〛眠：先韻
+〚5.2.5〛懸：先韻
+〚6.2.5〛賢：先韻
+
+【體裁】
+五律
 
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》3.1597,djvu1774
