@@ -2413,7 +2413,7 @@ uk1 cin4 taai3 gu2 jyun4 dou1 taan4, cing1 sek6 mok6 mok6 soeng4 fung1 hon4
 zi2 kwai1 je6 tai4 saan1 zuk1 lit6, wong4 mou5 zau3 haa6 wan4 kei4 faan1
 -----------------------------------------------------
 知君此計誠長往，芝草琅玕日應長。
-zi1 gwan1 ci2 gai3 sing4 coeng4 wong5, zi1 cou2 long4 gon1 jat6 jing1 coeng4
+zi1 gwan1 ci2 gai3 sing4 coeng4 wong5, zi1 cou2 long4 gon1 jat6 jing1 zoeng2
 -----------------------------------------------------
 鐵鎖高垂不可攀，致身福地何蕭爽。
 tit3 so2 gou1 seoi4 bat1 ho2 paan1, zi3 san1 fuk1 dei6 ho4 siu1 song2
@@ -2427,11 +2427,15 @@ tit3 so2 gou1 seoi4 bat1 ho2 paan1, zi3 san1 fuk1 dei6 ho4 siu1 song2
 〚5.2.7〛寒：寒韻
 〚6.2.7〛翻：元韻
 〚7.1.7〛往：養韻
+〚7.2.7〛長：養韻
 〚8.2.7〛爽：養韻
+
+【體裁】
+七古
 
 【補充說明】
 十三元、十四寒爲鄰韻。
-〚7-8〛最後兩聯，第一、第四句押韻。
+〚7-8〛最後兩聯，第一、三、四句押韻。
 
 =====================================================
 
@@ -2532,7 +2536,7 @@ baak6 au1 mut6 hou6 dong6, maan6 lei5 seoi4 nang4 seon4
 五古
 
 【補充說明】
-1. 郭知達云：「此篇雖古詩二十二韻，而第二字平側相次，又多對偶。」
+郭知達云：「此篇雖古詩二十二韻，而第二字平側相次，又多對偶。」
 袴、冠、人、子：仄平平仄
 昔、充、書、筆：仄平平仄
 料、看、邕、翰：仄平平仄
@@ -2560,33 +2564,43 @@ fung6 lau4 zang6 zaap6 jin4 jyun6 ceoi1 jyu1 ji6 hok6 si6
 
 昭代將垂白，途窮乃叫閽。
 ciu1 doi6 zoeng1 seoi4 baak6, tou4 kung4 naai5 giu3 fan1
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
 氣衝星象表，詞感帝王尊。
 hei3 cung1 sing1 zoeng6 biu2, ci4 gam2 dai3 wong4 zyun1
+仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 天老書題目，春官驗討論。
 tin1 lou5 syu1 tai4 muk6, ceon1 gun1 jim6 tou2 leon4
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
 倚風遺鶂路，隨水到龍門。
 ji2 fung1 wai4 jik6 lou6, ceoi4 seoi2 dou3 lung4 mun4
+仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 竟與蛟螭雜，寧無燕雀喧。
 ging2 jyu5 gaau1 ci1 zaap6, ning4 mou4 jin3 zoek3 hyun1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 青冥猶契闊，陵厲不飛翻。
 cing1 ming4 jau4 kit3 fut3, ling4 lai6 bat1 fei1 faan1
+平平平仄仄，平仄仄平平
 -----------------------------------------------------
 儒術誠難起，家聲庶已存。
 jyu4 seot6 sing4 naan4 hei2, gaa1 seng1 syu3 ji5 cyun4
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
 故山多藥物，勝槪憶桃源。
 gu3 saan1 do1 joek6 mat6, sing3 koi3 jik1 tou4 jyun4
+仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 欲整還鄕旆，長懷禁掖垣。
 juk6 zing2 waan4 hoeng1 pui3, coeng4 waai4 gam3 jik6 wun4
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 謬稱三賦在，難述二公恩。
 mau6 cing1 saam1 fu3 zoi6, naan4 seot6 ji6 gung1 jan1
+仄平平仄仄，平仄仄平平
 
 【韻部】
 〚3.2.5〛閽：元韻
@@ -2599,6 +2613,10 @@ mau6 cing1 saam1 fu3 zoi6, naan4 seot6 ji6 gung1 jan1
 〚10.2.5〛源：元韻
 〚11.2.5〛垣：元韻
 〚12.2.5〛恩：元韻
+
+【體裁】
+五排
+
 
 =====================================================
 
