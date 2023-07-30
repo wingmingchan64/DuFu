@@ -53,7 +53,7 @@ si1 piu1 wan4 mat6 ngoi6, leot6 zung3 gwai2 san4 ging1
 -----------------------------------------------------
 毫髮無遺恨，波瀾獨老成。
 hou4 faat3 mou4 wai4 han6, bo1 laan4 duk6 lou5 sing4
-仄仄平平仄，平平仄仄平
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
 野人寧得所，天意薄浮生。
 je5 jan4 ning4 dak1 so2, tin1 ji3 bok6 fau4 sang1
@@ -65,7 +65,7 @@ do1 bing6 jau1 jyu4 fuk6, ming4 sau2 seon3 haak3 zing1
 -----------------------------------------------------
 築居仙縹緲，旅食歲崢嶸。
 zuk1 geoi1 sin1 piu5/piu1 miu5, leoi5 sik6 seoi3 zang1 wing4
-仄平平仄仄，平平仄仄平
+仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 使者求顏闔，諸公厭禰衡。
 si3 ze2 kau4 ngaan4 hap6, zyu1 gung1 jim3 nei5 hang4
@@ -90,6 +90,9 @@ gwan1 gin3 tou4 kung4 huk1, ji4 jau1 jyun2 bou6 bing1
 〚10.2.5〛衡：庚韻
 〚11.2.5〛傾：庚韻
 〚12.2.5〛兵：庚韻
+
+【體裁】
+五排
 
 【補充說明】
 〚9.1.4〛縹，上聲。「縹緲」之「縹」讀 piu1，但限於詩律，讀上聲。
