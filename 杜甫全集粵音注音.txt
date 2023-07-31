@@ -1826,7 +1826,7 @@ tong2 jik1 saan1 joeng4 wui6, bei1 go1 zoi6 jat1 ting1
 zang6 wai4 zo2 sing4 zoeng6 zai3
 
 左轄頻虛位，今年得舊儒。
-zo2 hat6 pan4 heoi1 wai2, gam1 nin4 dak1 gau6 jyu4
+zo2 hat6 pan4 heoi1 wai6, gam1 nin4 dak1 gau6 jyu4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 相門韋氏在，經術漢臣須。
@@ -1890,7 +1890,7 @@ gwan1 nang4 mei4 gam2 gik1, jik6 zuk1 wai3 zeon1 mou4
 lok6 jau4 jyun4 go1
 
 樂遊古園崒森爽，煙緜碧草萋萋長。
-lok6 jau4 gu2 jyun4 zeot6 sam1 song2, jin1 min4 bik1 cou2 cai1 cai1 zoeng2
+lok6 jau4 gu2 jyun4 zeot1 sam1 song2, jin1 min4 bik1 cou2 cai1 cai1 zoeng2
 -----------------------------------------------------
 公子華筵勢最高，秦川對酒平如掌。
 gung1 zi2 waa4 jin4 sai3 zeoi3 gou1, ceon4 cyun1 deoi3 zau2 ping4 jyu4 zoeng2
@@ -2143,7 +2143,7 @@ cin4 ceot1 sak1 gau2 sau2
 cik1 cik1 heoi3 gu3 lei5, jau4 jau4 fu6 gaau1 ho4
 -----------------------------------------------------
 公家有程期，亡命嬰禍羅。
-gung1 gaa1 jau5 cing4 kei4, mong4 ming6 jing1 wo6 lo4]。
+gung1 gaa1 jau5 cing4 kei4, mong4 ming6 jing1 wo6 lo4
 -----------------------------------------------------
 君已富土境，開邊一何多。
 gwan1 ji5 fu3 tou2 ging2, hoi1 bin1 jat1 ho4 do1
@@ -2838,7 +2838,7 @@ zoeng6 cong4 juk6 sau2 lyun6 jan1 hung4, maan6 cou2 cin1 faa1 dung6 jing4 bik1
 ji5 bei1 sou3 zat1 ceoi4 si4 jim5, lit6 haa6 ming4 gei1 sik1 soeng1 jik6
 -----------------------------------------------------
 美人細意熨帖平，裁縫滅盡針線迹。
-mei5 jan4 sai3 ji3 tong3 tip3 ping4, coi4 fung2 mit6 zeon6 zam1 sin3 zik1
+mei5 jan4 sai3 ji3 tong3 tip3 ping4, coi4 fung4 mit6 zeon6 zam1 sin3 zik1
 -----------------------------------------------------
 春天衣著爲君舞，蛺蝶飛來黃鸝語。
 ceon1 tin1 ji1 zoek3 wai6 gwan1 mou5, gaap3 dip6 fei1 loi4 wong4 lei4 jyu5
@@ -4268,7 +4268,7 @@ gu1 zeoi6 ting4 ho4 cyu3, tin1 ngaai4 seoi2 hei3 zung1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 故人官就此，絕境興誰同。
-gu3 jan4 gun1 zau6 ci2, zyut6 ging2 hing3 seoi4] tung4
+gu3 jan4 gun1 zau6 ci2, zyut6 ging2 hing3 seoi4 tung4
 仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 隱吏逢梅福，遊山憶謝公。
@@ -4304,7 +4304,7 @@ so2 hoeng3 nai4 kwut3 kwut3, si1 gwan1 ling6 jan4 sau3
 cam4 jam4 zo6 sai1 hin1, jam2 sik6 co3 fan1 zau3
 -----------------------------------------------------
 寸步曲江頭，難爲一相就。
-cyun3 bou6 kuk1 gong1 tau4, naan4 wai2 jat1 soeng1 zau6
+cyun3 bou6 kuk1 gong1 tau4, naan4 wai4 jat1 soeng1 zau6
 -----------------------------------------------------
 吁嗟乎蒼生，稼穡不可救。
 heoi1 ze1 fu4 cong1 sang1, gaa3 sik1 bat1 ho2 gau3
@@ -5422,7 +5422,7 @@ gin3 hing1 ceoi1 niu5 ceoi3, ceoi4 ji3 sou2 faa1 sou1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 細草稱偏坐，香醪懶再沽。
-sai3 zou2 cing1 pin1 zo6, hoeng1 lou4 laan5 zoi3 gu1
+sai3 cou2 cing1 pin1 zo6, hoeng1 lou4 laan5 zoi3 gu1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 醉歸應犯夜，可怕李金吾。
@@ -6081,7 +6081,7 @@ sing3 jan4 hong1 fei2 jan1, sat6 juk6 bong1 gwok3 wut6
 san4 jyu4 fat1 zi3 lei5, gwan1 hei2 hei3 ci2 mat6
 -----------------------------------------------------
 多士盈朝廷，仁者宜戰慄。
-do1 si2 jing4 ciu4 ting4, jan4 ze2 ji4 zin3 leot6
+do1 si6 jing4 ciu4 ting4, jan4 ze2 ji4 zin3 leot6
 -----------------------------------------------------
 況聞內金盤，盡在衞霍室。
 fong3 man4 noi6 gam1 pun4, zeon6 zoi6 wai6 fok3 sat1
@@ -6962,7 +6962,7 @@ wong4 fan1 wu4 kei3 can4 mun5 sing4, juk6 wong5 sing4 naam4 mong4 naam4 bak1
 oi1 wong4 syun1
 
 長安城頭頭白烏，夜飛延秋門上呼。
-coeng4 on1 sing4 tau4 tau2 baak6 wu1, je6 fei1 jin4 cau1 mun4 soeng6 fu1
+coeng4 on1 sing4 tau4 tau4 baak6 wu1, je6 fei1 jin4 cau1 mun4 soeng6 fu1
 -----------------------------------------------------
 又向人家啄大屋，屋底達官走避胡。
 jau6 hoeng3 jan4 gaa1 doek3 daai6 uk1, uk1 dai2 daat6 gun1 zau2 bei6 wu4
@@ -7267,7 +7267,7 @@ dou6 lam4 coi4 bat1 sai3, wai6 jyun5 dak1 gwo3 jan4
 jyu5 se3 mou6 jim4 zuk1, fung1 ceoi1 ceon1 zing2 kan4
 -----------------------------------------------------
 天陰對圖畫，最覺潤龍鱗。
-tin1 jam1 deoi3 tou4 waa3, zeoi3 gok3 jeon6 lung4 leon4
+tin1 jam1 deoi3 tou4 waa6, zeoi3 gok3 jeon6 lung4 leon4
 
 其三
 
@@ -7545,7 +7545,7 @@ sau4 si3 wu4 gaa1 zik6, cai1 loeng4 hon3 jyun2 ceon1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 生還今日事，間道暫時人。
-sang1 waan4 gam1 jat6 si6, haan4 dou6 zaam6 si4 jan4
+sang1 waan4 gam1 jat6 si6, gaan3 dou6 zaam6 si4 jan4
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
 司隸章初覩，南陽氣已新。
@@ -7932,7 +7932,7 @@ sik1 mut6 caak3 zung1 si4, cim4 jyu5 zi2 tung4 jau4
 gam1 gwai1 hang4 zoi6 so2, wong4 si6 jau5 heoi3 lau4
 -----------------------------------------------------
 偪側兵馬間，主憂急良籌。
-bik1 zak1 bing1 maa5 haan4, zyu2 jau1 gap1 loeng4 cau4
+bik1 zak1 bing1 maa5 gaan1, zyu2 jau1 gap1 loeng4 cau4
 -----------------------------------------------------
 子雖軀幹小，老氣橫九州。
 zi2 seoi1 keoi1 gon3 siu2, lou5 hei3 waang4 gau2 zau1
@@ -8808,7 +8808,7 @@ fu2 ci4 zau2 mei6 bok6, syu2 dei6 mou4 jan4 gaang1
 bing1 gaak3 gei3 mei6 sik1, ji4 tung4 zeon6 dung1 zing1
 -----------------------------------------------------
 請爲父老歌，艱難愧深情。
-cing2 ai6 fu6 lou5 go1, gaan1 naan4 kwai5 sam1 cing4
+cing2 wai6 fu6 lou5 go1, gaan1 naan4 kwai5 sam1 cing4
 -----------------------------------------------------
 歌罷仰天歎，四座淚縱橫。
 go1 baa6 joeng5 tin1 taan3, sei3 zo6 leoi6 zung3 waang4
