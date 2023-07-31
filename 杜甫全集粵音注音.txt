@@ -1516,6 +1516,8 @@ si1 hoeng1 jyu4 tou2 sat1, naan4 syut3 zuk1 gai1 jung1
 五排
 
 【補充說明】
+〚1〛「韋」有二讀音： wai4、wai5； wai4 爲本讀，wai5 爲《常用字廣州話讀音表》
+的建議讀音。此字屬微韻，平聲，因此標作 wai4。
 〚3〛首聯對仗。
 
 =====================================================
@@ -2907,7 +2909,7 @@ juk6 fau4 gong1 hoi2 heoi3, ci2 bit6 ji3 cong1 jin4
 fung6 zang6 sin1 jyu4 ging1 siu6 ji6 sap6 wan5
 
 王國稱多士，賢良復幾人。
-wong4 gwok3 cing1 do1 si2, jin4 loeng4 fuk6 gei2 jan4
+wong4 gwok3 cing1 do1 si6, jin4 loeng4 fuk6 gei2 jan4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 異才應間出，爽氣必殊倫。
@@ -2955,11 +2957,11 @@ hok6 si1 jau4 jyu6 zi2, hoeng1 fu3 tim2 gaa1 ban1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 不得同晁錯，吁嗟後郄詵。
-bat1 dak1 tung4 ciu4 co3/cok3, jyu6 ze1 hau6 gwik1 san1
+bat1 dak1 tung4 ciu4 co3, heoi1 ze1 hau6 gwik1 san1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 計疏疑翰墨，時過憶松筠。
-gai3 so1 ji4 hon6 mak6, si4 gwo3 jik1 cung wan4
+gai3 so1 ji4 hon6 mak6, si4 gwo3 jik1 cung4 wan4
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 獻納紆皇眷，中間謁紫宸。
@@ -3085,7 +3087,7 @@ taai3 nung4 ji3 jyun5 suk6 ce2 zan1, gei1 lei5 sai3 nei6 gwat1 juk6 wan4
 sau3 lo4 ji1 soeng4 ziu3 mou6 ceon1, cuk1 gam1 hung2 zoek3 ngan4 kei4 leon4
 -----------------------------------------------------
 頭上何所有？翠爲㔩葉垂鬢脣。
-tau4 soeng6 ho4 so2 jau5, ceoi3 wai4 hap1 jip6 seoi4 ban3 seon4
+tau4 soeng6 ho4 so2 jau5, ceoi3 wai4 hap6 jip6 seoi4 ban3 seon4
 -----------------------------------------------------
 背後何所見？珠壓腰衱穩稱身。
 bui3 hau6 ho4 so2 gin3, zyu1 aat3 jiu1 gip3 wan2 cing3 san1
@@ -3442,7 +3444,7 @@ sap6 nin4 ceot1 mok6 fu2, zi6 ho2 ci4 zing1 fai1
 ci2 hang4 gei3 dak6 daat6, zuk1 ji5 wai3 so2 si1
 -----------------------------------------------------
 男兒功名遂，亦在老大時。
-naam4 ji4 gung1 ming4 seoi6, jik6 zoi6 lou5 daai2 si4
+naam4 ji4 gung1 ming4 seoi6, jik6 zoi6 lou5 daai6 si4
 -----------------------------------------------------
 常恨結歡淺，各在天一涯。
 soeng4 han6 git3 fun1 cin2, gok3 zoi6 tin1 jat1 ngaai4/ji4
@@ -3814,7 +3816,7 @@ si1 jau4 hung2 bat1 seoi6, baa2 zau2 ji3 mong4 jin4
 =====================================================
 
 0434 城西陂泛舟
-sing4 sai1 bei1 faan6 zau1
+sing4 sai1 bei1 faan3 zau1
 
 青蛾皓齒在樓船，橫笛短簫悲遠天。
 cing1 ngo4 hou6 ci2 zoi6 lau4 syun4, waang4 dek6 dyun2 siu1 bei1 jyun5 tin1
@@ -3912,7 +3914,7 @@ sam4 sam1 hing1 dai6 gaai1 hou3 kei4, kwai4 ngo5 jyun5 loi4 jau4 mei5 bei1
 tin1 dei6 jim2 caam2 fat1 ji6 sik1, bo1 tou4 maan6 king2 deoi1 lau4 lei1
 -----------------------------------------------------
 瑠璃漫汗泛舟入，事殊興極憂思集。
-lau4 lei1 maan6 hon6 faan6 zau1 jap6, si6 syu4 hing3 gik6 jau1 si1 zaap6
+lau4 lei1 maan6 hon6 faan3 zau1 jap6, si6 syu4 hing3 gik6 jau1 si1 zaap6
 -----------------------------------------------------
 鼉作鯨吞不復知，惡風白浪何嗟及。
 to4 zok3 king4 tan1 bat1 fau6 zi1, ok3 fung1 baak6 long6 ho4 ze1 kap6
@@ -4103,7 +4105,7 @@ fu2 zou1 ci2 mat6 kut3, suk6 wai6 ng4 lou4 jau1
 seoi2 faa1 maan5 sik1 zing6, syu3 zuk1 cung1 jim1 lau4
 -----------------------------------------------------
 預恐尊中盡，更起爲君謀。
-jyu6 hung2 zoen1 zung1 zeon6, gang3 hei2 wai6 gwan1 mau4
+jyu6 hung2 zeon1 zung1 zeon6, gang3 hei2 wai6 gwan1 mau4
 
 【韻部】
 〚3.2.5〛遊：尤韻
@@ -4398,7 +4400,7 @@ mei6 haa6 san1 jin3 wai3, ham4 cing4 hung1 gik1 joeng4
 si1 cyun4 ho4 so2 bei2, sin6 bou6 mak6 cai1 soeng1
 -----------------------------------------------------
 貧賤人事略，經過霖潦妨。
-pan4 zin6 jan4 si6 loek6, ging1 gwo3 lam4 lou2 fong4
+pan4 zin6 jan4 si6 loek6, ging1 gwo3 lam4 lou5 fong4
 -----------------------------------------------------
 禮同諸父長，恩豈布衣忘。
 lai5 tung4 zyu1 fu6 zoeng2, jan1 hei2 bou3 ji1 mong4
@@ -4575,7 +4577,7 @@ mau6 zi1 zung1 waak6 fu2, mei4 fan6 si6 hei1 gai1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 萍泛無休日，桃陰想舊蹊。
-ping4 faan6 mou4 jau1 jat6, tou4 jam1 soeng2 gau6 hai4
+ping4 faan3 mou4 jau1 jat6, tou4 jam1 soeng2 gau6 hai4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 吹噓人所羨，騰躍事仍暌。
@@ -4708,7 +4710,7 @@ ciu4 ji4 haan6 siu1 hon3, haak3 si3 wui4 lam4 gwing1
 ham2 ho2 ci4 haa6 dou6, piu1 jiu4 ling4 zuk6 ging1
 -----------------------------------------------------
 諸生舊短褐，旅泛一浮萍。
-zyu1 sang1 gau6 dyun2 hot3, leoi5 faan6 jat1 fau4 ping4
+zyu1 sang1 gau6 dyun2 hot3, leoi5 faan3 jat1 fau4 ping4
 -----------------------------------------------------
 荒歲兒女瘦，暮途涕泗零。
 fong1 seoi3 ji4 neoi5 sau3, mou6 tou4 tai3 si3 ling4
@@ -5287,8 +5289,6 @@ wai6 gung1 go1 ci2 kuk1, tai3 leoi6 zoi6 ji1 gan1
 五排
 
 【補充說明】 
-〚1〛「韋」有二讀音： wai4、wai5； wai4 爲本讀，wai5 爲《常用字廣州話讀音表》
-的建議讀音。此字屬微韻，平聲，因此標作 wai4。
 
 =====================================================
 
@@ -5320,7 +5320,7 @@ zing1 mei4 cyun1 ming4 hang6, fei1 dung6 ceoi1 pik1 lik1
 tou4 ze6 bat1 zi1 ng4, fung1 sou1 gung6 teoi1 gik1
 -----------------------------------------------------
 紫鸞自超詣，翠駮誰剪剔。
-zi2 lyun4 zi6 ciu1 ngai6, ceoi3 bok3 seoi4 zin2 tek1
+zi2 lyun4 zi6 ciu1 ngai6, ceoi3 bok3 seoi4 zin2 tik1
 -----------------------------------------------------
 君意人莫知，人間夜寥闃。
 gwan1 ji3 jan4 mok6 zi1, jan4 gaan1 je6 liu4 gwik1
@@ -5350,7 +5350,7 @@ gwan1 ji3 jan4 mok6 zi1, jan4 gaan1 je6 liu4 gwik1
 zeoi3 go1 hang4
 
 陸機二十作文賦，汝更小年能綴文。
-luk6 gei1 ji6 sap6 zok3 man4 fu3, jyu5 gang3 siu3 nin4 nang4 zeoi3 man4
+luk6 gei1 ji6 sap6 zok3 man4 fu3, jyu5 gang3 siu2 nin4 nang4 zeoi3 man4
 -----------------------------------------------------
 總角草書又神速，世上兒子徒紛紛。
 zung2 gok3 cou2 syu1 jau6 san4 cuk1, sai3 soeng6 ji4 zi2 tou4 fan1 fan1
@@ -5450,7 +5450,7 @@ dang6 gung1 maa5 pik1 jan4 gung6 zi1, co1 dak1 faa1 cung1 daai6 jyun1 zung2
 suk1 sik1 cyun4 man4 si1 jat1 gin3, hin1 loi4 zo2 jau6 san4 gaai1 sung2
 -----------------------------------------------------
 雄姿逸態何𡺚崒，顧影驕嘶自矜寵。
-hung4 zi1 jat6 taai3 ho4 cau4 zeot6, gu3 jing2 giu1 sai1 zi6 ging1 cung2
+hung4 zi1 jat6 taai3 ho4 cau4 zeot1, gu3 jing2 giu1 sai1 zi6 ging1 cung2
 -----------------------------------------------------
 隅目青熒夾鏡懸，肉𩦲碨礧連錢動。
 jyu4 muk6 cing1 jing4 gaap3 geng3 jyun4, juk6 zung1 wai2 leoi5 lin4 cin4 dung6
@@ -6033,7 +6033,7 @@ gu3 wai4 lau4 ngai5 bui3, daan6 zi6 kau4 kei4 jyut6
 wu4 wai4 mou6 daai6 king4, zip3 ji5 jin2 ming4 but6
 -----------------------------------------------------
 以茲悟生理，獨耻事干謁。
-ji5 zi1 ng6 sang1 lei5, duk6 ci2 si6 gon3 jit3
+ji5 zi1 ng6 sang1 lei5, duk6 ci2 si6 gon1 jit3
 -----------------------------------------------------
 兀兀遂至今，忍爲塵埃沒。
 ngat6 ngat6 seoi6 zi3 gam1, jan2 wai4 can4 oi1 mut6
@@ -6590,10 +6590,10 @@ bak1 soeng6 wai4 tou2 saan1, lin4 tin1 zau2 kung4 guk1
 fo2 wan4 mou4 si4 ceot1, fei1 din6 soeng4 zoi6 muk6
 -----------------------------------------------------
 自多窮岫雨，行潦相豗蹙。
-zi6 do1 kung4 zau6 jyu5, hang4 lou2 soeng1 fui1 cuk1
+zi6 do1 kung4 zau6 jyu5, hang4 lou5 soeng1 fui1 cuk1
 -----------------------------------------------------
 蓊匌川氣黃，羣流會空曲。
-jung2 hap6 cyun1 hei3 wong4, kwan4 lau4 wui2 hung1 kuk1
+jung2 hap6 cyun1 hei3 wong4, kwan4 lau4 wui6 hung1 kuk1
 -----------------------------------------------------
 清晨望高浪，忽謂陰崖踣。
 cing1 san4 mong6 gou1 long6, fat1 wai6 jam1 ngaai4 puk1
@@ -6828,8 +6828,8 @@ sou3 zau1 siu1 sik1 dyun6, sau4 co5 zeng3 syu1 hung1
 jyun4 jat6
 
 近聞韋氏妹，迎在漢鍾離。
-gan6 man4 wai5 si6 mui6, jing4 zoi6 hon3 zung1 lei4
-仄平仄仄仄，平仄仄平平
+gan6 man4 wai4 si6 mui6, jing4 zoi6 hon3 zung1 lei4
+仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 郎伯殊方鎭，京華舊國移。
 long4 baak3 syu4 fong1 zan3, ging1 waa4 gau6 gwok3 ji4
@@ -7182,7 +7182,7 @@ ngau4 neoi5 maan6 sau4 si3, cau1 kei4 jau4 dou6 ho4
 hin2 hing3
 
 驥子好男兒，前年學語時。
-kei3 zi2 hou2 naam4 ji4, cin4 nin2 hok6 jyu5 si4
+kei3 zi2 hou2 naam4 ji4, cin4 nin4 hok6 jyu5 si4
 仄仄仄平平，平平仄仄平
 -----------------------------------------------------
 問知人客姓，誦得老夫詩。
@@ -7719,7 +7719,7 @@ saan1 zung1 lau6 maau4 uk1, seoi4 fuk6 ji1 wu6 jau5
 ceoi1 teoi4 cong1 cung4 gan1, dei6 laang5 gwat1 mei6 nau2
 -----------------------------------------------------
 幾人全性命？盡室豈相偶？
-gei2 jan4 cyun4 sing3 ming6? zeon6 sat1 hei2 soeng1 ngau5?
+gei2 jan4 cyun4 sing3 ming6, zeon6 sat1 hei2 soeng1 ngau5
 -----------------------------------------------------
 嶔岑猛虎場，鬱結回我首。
 jam1 sam4 maang5 fu2 coeng4, wat1 git3 wui4 ngo5 sau2
@@ -7923,7 +7923,7 @@ lung4 jam4 wui4 kei4 tau4, gaap3 fu6 doi6 so2 zi3
 =====================================================
 
 0861 送韋十六評事充同谷郡防禦判官
-sung3 wai5 sap6 luk6 ping4 si6 cung1 tung4 guk1 gwan6 fong4 jyu6 pun3 gun1
+sung3 wai4 sap6 luk6 ping4 si6 cung1 tung4 guk1 gwan6 fong4 jyu6 pun3 gun1
 
 昔沒賊中時，潛與子同遊。
 sik1 mut6 caak3 zung1 si4, cim4 jyu5 zi2 tung4 jau4
@@ -7956,7 +7956,7 @@ ci2 bong1 sing4 ping4 jat6, piu3 gip3 lei6 so2 sau1
 fong3 naai5 wu4 mei6 mit6, hung3 daai3 mong5 jau4 jau4
 -----------------------------------------------------
 府中韋使君，道足示懷柔。
-fu2 zung1 wai5 si3 gwan1, dou6 zuk1 si6 waai4 jau4
+fu2 zung1 wai4 si3 gwan1, dou6 zuk1 si6 waai4 jau4
 -----------------------------------------------------
 令姪才俊茂，二美又何求？
 ling6 zat6 coi4 zeon3 mau6, ji6 mei5 jau6 ho4 kau4
@@ -8294,7 +8294,7 @@ cik1 syu1 lin4 zaan3 pou2, bing1 gaap3 mong6 coeng4 on1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 宣命前程急，惟良待士寬。
-syun1 ming6 cin4 cing4 gap1, wai4 loeng4 doi6 si3 fun1
+syun1 ming6 cin4 cing4 gap1, wai4 loeng4 doi6 si6 fun1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 子雲清自守，今日起爲官。
@@ -9868,12 +9868,12 @@ ho4 si4 ziu6 ci2 gam1 cin4 wui6, zaam6 zeoi3 gaai1 jan4 gam2 sat1 pong4
 =====================================================
 
 1064 奉陪鄭駙馬韋曲二首
-fung6 pui4 zeng6 fu6 maa5 wai5/wai4 kuk1 ji6 sau2 
+fung6 pui4 zeng6 fu6 maa5 wai4 kuk1 ji6 sau2 
 
 其一
 
 韋曲花無賴，家家惱殺人
-wai5 kuk1 faa1 mou4 laai6, gaa1 gaa1 nou5 saat3 jan4
+wai4 kuk1 faa1 mou4 laai6, gaa1 gaa1 nou5 saat3 jan4
 -----------------------------------------------------
 淥尊須盡日，白髮好禁春
 luk6 zeon1 seoi1 zeon6 jat6, baak6 faat3 hou2 kam1 ceon1
@@ -16883,7 +16883,7 @@ ho4 joeng4 jyun6 leoi5 seoi1 mou4 sou3, zok6 gam2 gong1 bin1 mei6 mun5 jyun4
 =====================================================
 
 1917 從韋二明府續處覓綿竹
-cung4 wai5 ji6 ming4 fu2 zuk6 cyu3 mik6 min4 zuk1
+cung4 wai4 ji6 ming4 fu2 zuk6 cyu3 mik6 min4 zuk1
 
 華軒藹藹他年到，綿竹亭亭出縣高
 waa4 hin1 oi2 oi2 taa1 nin4 dou3, min4 zuk1 ting4 ting4 ceot1 jyun6 gou1
@@ -16924,7 +16924,7 @@ baau2 man4 hei1 muk6 saam1 nin4 daai6, jyu5 zi3 kai1 bin1 sap6 mau5 jam1
 =====================================================
 
 1921 憑韋少府班覓松樹子
-pang4 wai5 siu3 fu2 baan1 mik6 cung4 syu6 zi2
+pang4 wai4 siu3 fu2 baan1 mik6 cung4 syu6 zi2
 
 落落出羣非櫸柳，青青不朽豈楊梅
 lok6 lok6 ceot1 kwan4 fei1 geoi2 lau5, cing1 cing1 bat1 nau2 hei2 joeng4 mui4
@@ -16944,7 +16944,7 @@ juk6 cyun4 lou5 goi3 cin1 nin4 ji3, wai6 mik6 soeng1 gan1 sou3 cyun3 zoi1
 =====================================================
 
 1923 又於韋處乞大邑瓷碗
-jau6 jyu1 wai5 cyu3 hat1 daai6 jap1 ci4 wun2
+jau6 jyu1 wai4 cyu3 hat1 daai6 jap1 ci4 wun2
 
 大邑燒瓷輕且堅，扣如哀玉錦城傳
 daai6 jap1 siu1 ci4 hing1 ce2 gin1, kau3 jyu4 oi1 juk6 gam2 sing4 cyun4
@@ -17588,7 +17588,7 @@ hei2 zi1 sik1 jat6 geoi1 sam1 gung1, ban3 coeng4 zo2 jau6 jyu4 faa1 hung4
 tai4 bik1 waa6 maa5 go1
 
 韋侯別我有所適，知我憐君畫無敵
-wai5 hau4 bit6 ngo5 jau5 so2 sik1, zi1 ngo5 lin4 gwan1 waa6 mou4 dik6
+wai4 hau4 bit6 ngo5 jau5 so2 sik1, zi1 ngo5 lin4 gwan1 waa6 mou4 dik6
 -----------------------------------------------------
 戲拈禿筆掃驊騮，欻見騏驎出東壁
 hei3 nim1 tuk1 bat1 sou3 waa4 lau4, fat1 gin3 kei4 leon4 ceot1 dung1 bik1
@@ -17664,7 +17664,7 @@ jin1 dak1 bing1 zau1 faai3 zin2 dou1, zin2 ceoi2 ng4 cung4 bun3 gong1 seoi2
 hei3 wai4 soeng1 cung4 tou4 go1
 
 天下幾人畫古松，畢宏已老韋偃少
-tin1 haa6 gei2 jan4 waak6 gu2 cung4, bat1 wang4 ji5 lou5 wai5 jin2 siu3
+tin1 haa6 gei2 jan4 waak6 gu2 cung4, bat1 wang4 ji5 lou5 wai4 jin2 siu3
 -----------------------------------------------------
 絕筆長風起纖末，滿堂動色嗟神妙
 zyut6 bat1 coeng4 fung1 hei2 cim1 mut6, mun5 tong4 dung6 sik1 ze1 san4 miu6
@@ -17682,7 +17682,7 @@ cung4 gan1 wu4 zang1 hei3 zik6 mok6, mong4/pong4 mei4 hou6 sau2 mou4 zyu6 zoek6
 pin1 taan2 jau6 gin1 lou6 soeng1 goek3, jip6 leoi5 cung4 zi2 zang1 cin4 lok6
 -----------------------------------------------------
 韋侯韋侯數相見，我有一匹好東絹
-wai5 hau4 wai5 hau4 sou3 soeng1 gin3, ngo5 jau5 jat1 pat1 hou2 dung1 gyun3
+wai4 hau4 wai4 hau4 sou3 soeng1 gin3, ngo5 jau5 jat1 pat1 hou2 dung1 gyun3
 -----------------------------------------------------
 重之不減錦繡段
 zung6 zi1 bat1 gaam2 gam2 sau3 dyun6
