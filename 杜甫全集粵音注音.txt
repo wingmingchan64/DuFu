@@ -6675,7 +6675,7 @@ geoi2 tau4 hoeng3 cong1 tin1, on1 dak1 kei4 hung4 huk6
 〚25.2.5〛鵠：沃韻
 
 【體裁】
-五律
+五古
 
 
 =====================================================
@@ -7152,7 +7152,7 @@ jat1 baak3 ng5 jat6 je6 deoi3 jyut6
 
 無家對寒食，有淚如金波。
 mou4 gaa1 deoi3 hon4 sik6, jau5 leoi6 jyu4 gam1 bo1
-平平仄仄仄，仄仄平平平
+平平仄平仄，仄仄平平平（「仄平仄」拗，「平平平」救）
 -----------------------------------------------------
 斫卻月中桂，清光應更多。
 zoek3 koek3 jyut6 zung1 gwai3, cing1 gwong1 jing1 gang3 do1
@@ -7160,11 +7160,11 @@ zoek3 koek3 jyut6 zung1 gwai3, cing1 gwong1 jing1 gang3 do1
 -----------------------------------------------------
 仳離放紅蕊，想像嚬青蛾。
 pei2 lei4 fong3 hung4 jeoi5, soeng2 zoeng6 pan4 cing1 ngo4
-仄平仄平仄，仄仄平平平
+仄平仄平仄，仄仄平平平（「仄平仄」拗，「平平平」救）
 -----------------------------------------------------
 牛女漫愁思，秋期猶渡河。
 ngau4 neoi5 maan6 sau4 si3, cau1 kei4 jau4 dou6 ho4
-平仄仄仄仄，平平平仄平
+平仄仄平仄，平平平仄平（「仄平仄」拗，「平仄平」救）
 
 【韻部】
 〚3.2.5〛波：歌韻
@@ -7572,7 +7572,7 @@ jing2 zing6 cin1 gun1 leoi5, sam1 sou1 cat1 gaau3 cin4
 -----------------------------------------------------
 今朝漢社稷，新數中興年。
 gam1 ziu1 hon3 se5 zik1, san1 sou2 zung1 hing1 nin4
-平平仄仄仄，仄仄平平平
+平平仄仄仄，平仄平平平（「仄仄仄」拗，「平平平」救）
 
 【韻部】
 〚1:5.2.5〛回：灰韻
@@ -8053,8 +8053,8 @@ ji6 mou4 ceoi1 zoeng3 din6, jat1 ming6 si6 lyun4 jyu4
 仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 北闕妖氛滿，西郊白露初。
-bak1 kyut3 jiu2 fan1 mun5, sai1 gaau1 baak6 lou6 co1
-仄仄仄平仄，平平仄仄平
+bak1 kyut3 jiu1 fan1 mun5, sai1 gaau1 baak6 lou6 co1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 涼風新過雁，秋雨欲生魚。
 loeng4 fung1 san1 gwo3 ngaan6, cau1 jyu5 juk6 sang1 jyu4
@@ -8077,6 +8077,8 @@ nung4 si6 hung1 saan1 leoi5, gyun3 jin4 zung1 ho6 co4
 【體裁】
 五古
 
+【補充說明】
+〚8.1.3〛妖，蕭韻，平聲。
 
 =====================================================
 
@@ -8128,7 +8130,7 @@ diu1 ngok6 sing4 si4 heoi3, waa4 lau4 gu3 zyu2 ming4
 -----------------------------------------------------
 艱難須上策，容易卽前程。
 gaan1 naan4 seoi1 soeng6 caak3, jung4 ji6 zik1 cin4 cing4
-平平平仄仄，仄仄仄平平
+平平平仄仄，平仄仄平平
 -----------------------------------------------------
 斜日當軒蓋，高風卷旆旌。
 ce4 jat6 dong1 hin1 goi3, gou1 fung1 gyun2 pui3 zing1
@@ -8377,6 +8379,7 @@ gan6 ho6 zung1 hing1 zyu2, san4 bing1 dung6 sok3 fong1
 
 
 =====================================================
+
 0899 奉贈嚴八閣老
 fung6 zang6 jim4 baat3 gok3 lou5
 
@@ -8392,9 +8395,18 @@ gaau1 lung4 dak1 wan4 jyu5, diu1 ngok6 zoi6 cau1 tin1
 haak3 lai5 jung4 so1 fong3, gun1 cou4 ho2 zip3 lyun4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-新詩句句好，應任老夫傳。（先韻）
+新詩句句好，應任老夫傳。
 san1 si1 geoi3 geoi3 hou2, jing1 jam6 lou5 fu1 cyun4
 平平仄仄仄，平仄仄平平
+
+【韻部】
+〚3.2.5〛年：先韻
+〚4.2.5〛天：先韻
+〚5.2.5〛聯：先韻
+〚6.2.5〛傳：先韻
+
+【體裁】
+五律
 
 =====================================================
 
