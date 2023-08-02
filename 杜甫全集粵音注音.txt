@@ -9893,12 +9893,15 @@ fung6 pui4 zeng6 fu6 maa5 wai4 kuk1 ji6 sau2
 
 韋曲花無賴，家家惱殺人
 wai4 kuk1 faa1 mou4 laai6, gaa1 gaa1 nou5 saat3 jan4
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
 淥尊須盡日，白髮好禁春
 luk6 zeon1 seoi1 zeon6 jat6, baak6 faat3 hou2 kam1 ceon1
+仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 石角鉤衣破，藤枝刺眼新
 sek6 gok3 gau1 ji1 po3, tang4 zi1 ci3 ngaan5 san1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 何時占叢竹，頭戴小烏巾
 ho4 si4 zim3 cung4 zuk1, tau4 daai3 siu2 wu1 gan1
@@ -10069,7 +10072,6 @@ coeng3 mong6 liu4 go1 zi2 zi1 kuk1, si4 ngai4 caam2 daam6 loi4 bei1 fung1
 
 1083 得舍弟消息
 dak1 se3 dai6 siu1 sik1
-
 
 風吹紫荆樹，色與春庭暮
 fung1 ceoi1 zi2 ging1 syu6, sik1 jyu5 ceon1 ting4 mou6
@@ -10333,7 +10335,7 @@ ho2 nim6 ci2 jung1 waai4 zik6 dou6, jaa5 zim1 san1 gwok3 jung6 hing1 jing4
 -----------------------------------------------------
 禰衡實恐遭江夏，方朔虛傳是歲星
 nei4 hang4 sat6 hung2 zou1 gong1 haa6, fong1 sok3 heoi1 cyun4 si6 seoi3 sing1
-平平仄仄平平仄，平仄平平仄仄平
+仄平仄仄平平仄，平仄平平仄仄平
 -----------------------------------------------------
 窮巷悄然車馬絕，案頭乾死讀書螢
 kung4 hong6 ciu2 jin4 geoi1 maa5 zyut6, on3 tau4 gon1 sei2 duk6 syu1 jing4
@@ -10355,7 +10357,7 @@ kung4 hong6 ciu2 jin4 geoi1 maa5 zyut6, on3 tau4 gon1 sei2 duk6 syu1 jing4
 
 【補充說明】
 〚7.2.3〛看，平聲，以避犯孤平。
-
+〚9.1.1〛禰，古上聲字。作爲姓氏，《廣州話標準音字彙》讀 nei4。
 
 =====================================================
 
@@ -10556,7 +10558,7 @@ ming4 ziu1 hin1 sai3 mou6, fai1 leoi6 gok3 sai1 dung1
 
 =====================================================
 
-至德二載，甫自京金光門出，間道歸鳳翔，乾元初，從左拾遺移華州掾，與親故別，因出此門，有悲往事
+1129 至德二載，甫自京金光門出，間道歸鳳翔。乾元初，從左拾遺移華州掾，與親故別，因出此門，有悲往事
 zi3 dak1 ji6 zoi2, fu2 zi6 ging1 gam1 gwong1 mun4 ceot1, gaan3 dou6 gwai1 fung6 coeng4, kin4 jyun4 co1, cung4 zo2 sap6 wai4 ji4 waa6 zau1 jyun6, jyu5 can1 gu3 bit6, jan1 ceot1 ci2 mun4, jau5 bei1 wong5 si6
 
 此道昔歸順，西郊胡正繁
