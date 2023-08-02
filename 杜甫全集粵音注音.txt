@@ -10869,15 +10869,19 @@ ceoi1 si6 dung1 saan1 cou2 tong4
 
 愛汝玉山草堂靜，高秋爽氣相鮮新
 oi3 jyu5 juk6 saan1 cou2 tong4 zing6, gou1 cau1 song2 hei3 soeng1 sin1 san1
+仄仄仄平仄平仄，平平仄仄平平平
 -----------------------------------------------------
 有時自發鐘磬響，落日更見漁樵人
 jau5 si4 zi6 faat3 zung1 hing3 hoeng2, lok6 jat6 gang3 gin3 jyu4 ciu4 jan4
+仄平仄仄平仄仄，仄仄仄仄平平平
 -----------------------------------------------------
 盤剝白鴉谷口栗，飯煮青泥坊底芹
 pun4 mok1 baak6 aa1 guk1 hau2 leot6, faan6 zyu2 cing1 nai4 fong1 dai2 kan4
+平仄仄平仄仄仄，仄仄平平平仄平
 -----------------------------------------------------
 何爲西莊王給事，柴門空閉鎖松筠
 ho4 wai4 sai1 zong1 wong4 kap1 si6, caai4 mun4 hung1 bai3 so2 cung4 wan4
+平平平平平仄仄，平平平仄仄平平
 
 【韻部】
 〚3.2.7〛新：眞韻
@@ -11279,29 +11283,41 @@ fung6 jik1 lung4 kei4 mei6 ji6 sik1, zak1 san1 zyu3 muk6 coeng4 fung1 sang1
 1233 憶弟二首
 jik1 dai6 ji6 sau2
 
+其一
+
 喪亂聞吾弟，飢寒傍濟州
 song3 lyun6 man4 ng4 dai6, gei1 hon4 bong6 zai2 zau1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 人稀吾不到，兵在見何由
 jan4 hei1 ng4 bat1 dou3, bing1 zoi6 gin3 ho4 jau4
+平平平仄仄，平仄仄平平
 -----------------------------------------------------
 憶昨狂催走，無時病去憂
 jik1 zok3 kwong4 ceoi1 zau2, mou4 si4 bing6 heoi3 jau1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 卽今千種恨，惟共水東流
 zik1 gam1 cin1 zung2 han6, wai4 gung6 seoi2 dung1 lau4
+仄平平仄仄，平仄仄平平
+
+其二
 
 且喜河南定，不問鄴城圍
 ce2 hei2 ho4 naam4 ding6, bat1 man6 jip6 sing4 wai4
+仄仄平平仄，仄仄仄平平
 -----------------------------------------------------
 百戰今誰在，三年望汝歸
 baak3 zin3 gam1 seoi4 zoi6, saam1 nin4 mong6 jyu5 gwai1
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 故園花自發，春日鳥還飛
 gu3 jyun4 faa1 zi6 faat3, ceon1 jat6 niu5 waan4 fei1
+仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 斷絕人煙久，東西消息稀
 dyun6 zyut6 jan4 jin1 gau2, dung1 sai1 siu1 sik1 hei1
+仄仄平平仄，平平平仄平
 
 【韻部】
 〚1:5.2.5〛州：尤韻
@@ -11379,7 +11395,7 @@ mok6 sau2 jip6 sing4 haa6, zaam2 king4 liu4 hoi2 bo1
 五律
 
 【補充說明】
-〚5.1.3〛擁，平聲。
+〚5.1.3〛擁，冬韻，平聲。
 
 =====================================================
 
@@ -11423,7 +11439,7 @@ hung1 ngoi6 jat1 zi3 niu5, ho4 gaan1 soeng1 baak6 au1
 -----------------------------------------------------
 飄颻搏擊便，容易往來遊
 piu1 jiu4 bok3 gik1 bin6, jung4 ji6 wong5 loi4 jau4
-平平仄仄仄，仄仄仄平平
+平平仄仄仄，平仄仄平平
 -----------------------------------------------------
 草露亦多濕，蛛絲仍未收
 cou2 lou6 jik6 do1 sap1, zyu1 si1 jing4 mei6 sau1
@@ -11431,7 +11447,7 @@ cou2 lou6 jik6 do1 sap1, zyu1 si1 jing4 mei6 sau1
 -----------------------------------------------------
 天機近人事，獨立萬端憂
 tin1 gei1 gan6 jan4 si6, duk6 lap6 maan6 dyun1 jau1
-平平仄仄仄，仄仄仄平平
+平平仄平仄，仄仄仄平平（出句特定平仄）
 
 【韻部】
 〚3.2.5〛鷗：尤韻
@@ -11564,7 +11580,7 @@ bang1 sek6 kei1 saan1 syu6, cing1 lin4 jai6 seoi2 ji1
 -----------------------------------------------------
 紫鱗衝岸躍，蒼隼護巢歸
 zi2 leon4 cung1 ngon6 joek3, cong1 zeon2 wu6 caau4 gwai1
-平平平仄仄，平仄仄平平
+仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 向晚尋征路，殘雲傍馬飛
 hoeng3 maan5 cam4 zing1 lou6, caan4 wan4 bong6 maa5 fei1
@@ -12492,7 +12508,7 @@ sai3 ji5 so1 jyu4 sou3, jan4 jau4 hat1 zau2 cin4
 -----------------------------------------------------
 徒勞望牛斗，無計斸龍泉
 tou4 lou4 mong6 ngau4 dau2, mou4 gai3 zuk1 lung4 cyun4
-平平仄平仄，平仄仄平平
+平平仄平仄，平仄仄平平（出句特定平仄）
 
 【韻部】
 〚3.2.5〛傳：先韻
@@ -12830,7 +12846,7 @@ cau1 ting1 jan1 dei6 faat3, fung1 saan3 jap6 wan4 bei1
 -----------------------------------------------------
 抱葉寒蟬靜，歸山獨鳥遲
 pou5 jip6 hon4 sim4 zing6, gwai1 saan1 duk6 niu5 ci4
-平仄平平仄，平平仄仄平
+仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 萬方聲一槪，吾道竟何之
 maan6 fong1 sing1 jat1 koi3, ng4 dou6 ging2 ho4 zi1
@@ -12876,7 +12892,7 @@ no4 ham1 wong5 loi4 syu3, han6 gaai2 jip6 sing4 wai4
 
 莽莽萬重山，孤城山谷間
 mong5 mong5 maan6 cung4 saan1, gu1 sing4 saan1 guk1 gaan1
-仄仄仄平平，平平仄仄平
+仄仄仄平平，平平平仄平
 -----------------------------------------------------
 無風雲出塞，不夜月臨關
 mou4 fung1 wan4 ceot1 coi3, bat1 je6 jyut6 lam4 gwaan1
@@ -13222,7 +13238,7 @@ jyut6 je6 jik1 se3 dai6
 
 戍鼓斷人行，邊秋一雁聲
 syu3 gu2 dyun6 jan4 hang4, bin1 cau1 jat1 ngaan6 sing1
-仄仄平平平，平平仄仄平
+仄仄仄平平，平平仄仄平
 -----------------------------------------------------
 露從今夜白，月是故鄕明
 lou6 cung4 gam1 je6 baak6, jyut6 si6 gu3 hoeng1 ming4
@@ -13318,7 +13334,7 @@ jyu5 fong1 sam1 jyun6 guk1, soeng1 dou2 bun3 ci4 lin4
 -----------------------------------------------------
 放逐寧違性，虛空不離禪
 fong3 zuk6 ning4 wai4 sing3, heoi1 hung1 bat1 lei4 sim4
-仄仄平平仄，平平仄仄平
+仄仄平平仄，平平仄平平
 -----------------------------------------------------
 相逢成夜宿，隴月向人圓
 soeng1 fung4 sing4 je6 suk1, lung5 jyut6 hoeng3 jan4 jyun4
@@ -13835,7 +13851,7 @@ bat1 duk6 bei6 soeng1 syut3, kei4 jyu4 cau4 leoi5 hei1
 -----------------------------------------------------
 四時無失序，八月自知歸
 sei3 si4 mou4 sat1 zeoi6, baat3 jyut6 zi6 zi1 gwai1
-平平平仄仄，仄仄仄平平
+仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 春色豈相訪，眾雛還識機
 ceon1 sik1 hei2 soeng1 fong2, zung3 co1 waan4 sik1 gei1
@@ -13987,7 +14003,7 @@ cuk1 san1 ji5 ling4 lok6, wu6 jip6 zyun2 siu1 so1
 -----------------------------------------------------
 幸結白花了，寧辭青蔓除
 hang6 git3 baak6 faa1 liu5, ning4 ci4 cing1 maan6 ceoi4
-仄仄仄平仄，平平平仄平
+仄仄仄平仄，平平平仄平（「仄平仄」對「平仄平」）
 -----------------------------------------------------
 秋蟲聲不去，暮雀意何如
 cau1 cung4 sing1 bat1 heoi3, mou6 zoek3 ji3 ho4 jyu4
@@ -13995,7 +14011,7 @@ cau1 cung4 sing1 bat1 heoi3, mou6 zoek3 ji3 ho4 jyu4
 -----------------------------------------------------
 寒事今牢落，人生亦有初
 hon4 si6 gam1 lou4 lok6, jan4 sang1 jik6 jau5 co1
-平仄平仄仄，平平仄仄平
+平仄平平仄，平平仄仄平
 
 【韻部】
 〚3.2.5〛疏：魚韻
@@ -14134,7 +14150,7 @@ nong4 hung1 hung2 sau1 sik1, lau4 dak1 jat1 cin4 hon1
 bing6 maa5
 
 乘爾亦已久，天寒關塞深
-sing4  ji5 jik6 ji5 gau2, tin1 hon4 gwaan1 coi3 sam1
+sing4 ji5 jik6 ji5 gau2, tin1 hon4 gwaan1 coi3 sam1
 平仄仄仄仄，平平平仄平
 -----------------------------------------------------
 塵中老盡力，歲晚病傷心
@@ -14178,7 +14194,7 @@ fu2 hei3 bit1 tang4 coek3, lung4 san1 ning4 gau2 cong4
 -----------------------------------------------------
 風塵苦未息，持汝奉明王
 fung1 can4 fu2 mei6 sik1, ci4 jyu5 fung6 ming4 wong4
-平平仄仄仄，仄仄仄平平
+平平仄仄仄，平仄仄平平
 
 【韻部】
 〚3.2.5〛裝：陽韻
@@ -14197,15 +14213,19 @@ tung4 ping4
 
 亂後碧井廢，時清瑤殿深
 lyun6 hau6 bik1 zing2 fai3, si4 cing1 jiu4 din6 sam1
+仄仄仄仄仄，平平平仄平
 -----------------------------------------------------
 銅甁未失水，百丈有哀音
 tung4 ping4 mei6 sat1 seoi2, baak3 zoeng6 jau5 oi1 jam1
+平平仄仄仄，仄仄仄平平
 -----------------------------------------------------
 側想美人意，應悲寒甃沉
 zak1 soeng2 mei5 jan4 ji3, jing1 bei1 hon4 zau3 cam4
+仄仄仄平仄，平平平仄平
 -----------------------------------------------------
 蛟龍半缺落，猶得折黃金
 gaau1 lung4 bun3 kyut3 lok6, jau4 dak1 zit3 wong4 gam1
+平平仄仄仄，平仄仄平平
 
 【韻部】
 〚3.2.5〛深：侵韻
@@ -14267,7 +14287,7 @@ jip6 hei1 fung1 gang3 lok6, saan1 gwing2 jat6 co1 cam4
 -----------------------------------------------------
 獨鶴歸何晚，昏鴉已滿林
 duk6 hok6 gwai1 ho4 maan5, fan1 aa1 ji5 mun5 lam4
-仄仄平平仄，平平仄仄
+仄仄平平仄，平平仄仄平
 
 【韻部】
 〚3.2.5〛陰：侵韻
@@ -14321,7 +14341,7 @@ joek6 seoi2 jing1 mou4 dei6, joeng4 gwaan1 ji5 gan6 tin1
 -----------------------------------------------------
 今君度沙磧，累月斷人煙
 gam1 gwan1 dou6 saa1 zik1, leoi5 jyut6 dyun6 jan4 jin1
-平平仄仄仄，仄仄仄平平
+平平仄平仄，仄仄仄平平（出句特定平仄）
 -----------------------------------------------------
 好武寧論命，封侯不計年
 hou3 mou5 ning4 leon4 ming6, fung1 hau4 bat1 gai3 nin4
@@ -14380,7 +14400,7 @@ zo3 waan4 saan1 hau6 gei3 saam1 sau2
 
 山晚浮雲合，歸時恐路迷
 saan1 maan5 fau4 wan4 hap6, gwai1 si4 hung2 lou6 mai4
-仄仄平平仄，平平仄仄平
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
 澗寒人欲到，村黑鳥應栖
 gaan3 hon4 jan4 juk6 dou3, cyun1 hak1 niu5 jing1 cai1
@@ -14685,7 +14705,7 @@ cau1 fung1 dung6 gwaan1 coi3, gou1 ngo6 soeng2 ji4 jing4
 
 =====================================================
 
-寄彭州高三十五使君適，虢州岑二十七長史參三十韻
+1629 寄彭州高三十五使君適、虢州岑二十七長史參三十韻
 gei3 paang4 zau1 gou1 saam1 sap6 ng5 si3 gwan1 sik1, gwik1 zau1 sam4 ji6 sap6 cat1 coeng4 si2 sam1 saam1 sap6 wan6
 
 故人何寂寞，今我獨淒涼
@@ -14848,7 +14868,7 @@ wui5 doi6 jiu1 fan1 zing6, leon4 man4 zaam6 gwo2 loeng4
 
 =====================================================
 
-寄岳州賈司馬六丈，巴州嚴八使君兩閣老五十韻
+1642 寄岳州賈司馬六丈、巴州嚴八使君兩閣老五十韻
 gei3 ngok6 zau1 gaa2 si1 maa5 luk6 zoeng6, baa1 zau1 jim4 baat3 si3 gwan1 loeng5 gok3 lou5 ng5 sap6 wan6
 
 衡岳啼猿裏，巴州鳥道邊
