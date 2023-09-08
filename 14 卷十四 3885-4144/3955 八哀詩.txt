@@ -667,7 +667,7 @@ lung4 gung1 taap3 miu6 jung2, hou6 gip3 fau4 wan4 wai6
 zung1 jyu4 zo2 dau6 si6, gu3 lei6 heoi3 si1 gai3
 -----------------------------------------------------
 眄睞已皆虛，跋涉曾不泥
-min5 loi6 ji5 gaai1 heoi1, bat6 sip3 cang4 bat1 nai4
+min5 loi6 ji5 gaai1 heoi1, bat6 sip3 cang4 bat1 nai6
 -----------------------------------------------------
 向來映當時，豈獨勸後世
 hoeng3 loi4 jing2 dong1 si4, hei2 duk6 hyun3 hau6 sai3
@@ -868,73 +868,103 @@ gu3 zyu3 zok3 long4 bin2 toi4 zau1 si1 wu6 jing4 joeng4 zeng6 gung1 kin4
 
 鶢鶋至魯門，不識鐘鼓饗
 jyun4 geoi1 zi3 lou5 mun4, bat1 sik1 zung1 gu2 hoeng2
+-----------------------------------------------------
 孔翠望赤霄，愁思雕籠養
-hung2 ceoi3 mong6 cik3 siu1, sau4 si1 diu1/tiu1 lung4 joeng5
+hung2 ceoi3 mong6 cik3 siu1, sau4 si3 diu1 lung4 joeng5
+-----------------------------------------------------
 滎陽冠眾儒，早聞名公賞
-jing1/wing4/jing4 joeng4 gun1/gun3 zung3 jyu4, zou2 man4 ming4 gung1 soeng2
+jing4 joeng4 gun3 zung3 jyu4, zou2 man4 ming4 gung1 soeng2
+-----------------------------------------------------
 地崇士大夫，況乃氣精爽
 dei6 sung4 si6 daai6 fu1, fong3 naai5 hei3 zing1 song2
+-----------------------------------------------------
 天然生知姿，學立游夏上
-tin1 jin4 sang1 zi1 zi1, hok6 lap6 jau4 haa6 soeng6/soeng5
+tin1 jin4 sang1 zi1 zi1, hok6 lap6 jau4 haa6 soeng5
+-----------------------------------------------------
 神農或闕漏，黃石愧師長
-san4 nung4 waak6 kyut3 lau6, wong4 sek6 kwai3 si1 coeng4
+san4 nung4 waak6 kyut3 lau6, wong4 sek6 kwai3 si1 zoeng2
+-----------------------------------------------------
 藥纂西極名，兵流指諸掌
 joek6 zyun2 sai1 gik6 ming4, bing1 lau4 zi2 zyu1 zoeng2
+-----------------------------------------------------
 貫穿無遺恨，薈蕞何技癢
-gun3 cyun1 mou4 wai4 han6, kui2/wui6/kwui2 cyut3/zeoi3 ho4 gei6 joeng5
+gun3 cyun1 mou4 wai4 han6, wai3 zeoi3 ho4 gei6 joeng5
+-----------------------------------------------------
 圭臬星經奧，蟲篆丹青廣
-gwai1 nip3/nip6/jit3 sing1 ging1 ou3, cung4 syun6 daan1 cing1 gwong2
+gwai1 jit6 sing1 ging1 ou3, cung4 syun6 daan1 cing1 gwong2
+-----------------------------------------------------
 子雲窺未遍，方朔諧太枉
-zi2 wan4 kwai1 mei6 pin3/bin3, fong1 sok3 haai4 taai3 wong2
+zi2 wan4 kwai1 mei6 pin3, fong1 sok3 haai4 taai3 wong2
+-----------------------------------------------------
 神翰顧不一，體變鍾兼兩
 san4 hon6 gu3 bat1 jat1, tai2 bin3 zung1 gim1 loeng5
+-----------------------------------------------------
 文傳天下口，大字猶在牓
 man4 cyun4 tin1 haa6 hau2, daai6 zi6 jau4 zoi6 bong2
+-----------------------------------------------------
 昔獻書畫圖，新詩亦俱往
-sik1 hin3 syu1 waa6/waak6/waa2 tou4, san1 si1 jik6 keoi1 wong5
+sik1 hin3 syu1 waa6 tou4, san1 si1 jik6 keoi1 wong5
+-----------------------------------------------------
 滄洲動玉陛，寡鶴誤一響
 cong1 zau1 dung6 juk6 bai6, gwaa2 hok6 ng6 jat1 hoeng2
+-----------------------------------------------------
 三絕自御題，四方尤所仰
 saam1 zyut6 zi6 jyu6 tai4, sei3 fong1 jau4 so2 joeng5
+-----------------------------------------------------
 嗜酒益疏放，彈琴視天壤
-si3 zau2 jik1 so1 fong3, daan6/taan4/daan2 kam4 si6 tin1 joeng6
+si3 zau2 jik1 so1 fong3, taan4 kam4 si6 tin1 joeng5
+-----------------------------------------------------
 形骸實土木，親近唯几杖
-jing4 haai4/hoi4 sat6 tou2 muk6, can1 gan6 wai4 gei1 zoeng6
+jing4 hoi4 sat6 tou2 muk6, can1 gan6 wai4 gei1 zoeng6
+-----------------------------------------------------
 未曾寄官曹，突兀倚書幌
-mei6 zang1/cang4 gei3 gun1 cou4, dat6 ngat6 ji2 syu1 fong2
+mei6 cang4 gei3 gun1 cou4, dat6 ngat6 ji2 syu1 fong2
+-----------------------------------------------------
 晚就芸香閣，胡塵昏坱莽
-maan5 zau6 wan4 hoeng1 gok3, wu4 can4 fan1 joeng5/joeng2/joeng1 mong5
+maan5 zau6 wan4 hoeng1 gok3, wu4 can4 fan1 joeng5 mong5
+-----------------------------------------------------
 反覆歸聖朝，點染無滌盪
-faan2 fuk1 gwai1 sing3 ziu1/ciu4, dim2 jim5 mou4 dik6 dong6
+faan2 fuk1 gwai1 sing3 ciu4, dim2 jim5 mou4 dik6 dong6
+-----------------------------------------------------
 老蒙台州掾，泛泛浙江槳
-lou5 mung4 toi4 zau1 jyun6/jin6/jyun4, faan3 faan3 zit3 gong1 zoeng2
+lou5 mung4 toi4 zau1 jyun6, faan3 faan3 zit3 gong1 zoeng2
+-----------------------------------------------------
 覆穿四明雪，飢拾楢溪橡
 fuk1 cyun1 sei3 ming4 syut3, gei1 sap6 jau4 kai1 zoeng6
+-----------------------------------------------------
 空聞紫芝歌，不見杏壇丈
 hung1 man4 zi2 zi1 go1, bat1 gin3 hang6 taan4 zoeng6
+-----------------------------------------------------
 天長眺東南，秋色餘魍魎
-tin1 coeng4 tiu3 dung1 naam4, cau1 sik1 jyu4 mong5 loeng2/loeng6/loeng5
+tin1 coeng4 tiu3 dung1 naam4, cau1 sik1 jyu4 mong5 loeng5
+-----------------------------------------------------
 別離慘至今，班白徒懷曩
-bit6 lei4 caam2 zi3 gam1, baan1 baak6 tou4 waai4 nong2/nong5
+bit6 lei4 caam2 zi3 gam1, baan1 baak6 tou4 waai4 nong5
+-----------------------------------------------------
 春深秦山秀，葉墜清渭朗
 ceon1 sam1 ceon4 saan1 sau3, jip6 zeoi6 cing1 wai6 long5
+-----------------------------------------------------
 劇談王侯門，野稅林下鞅
-kek6 taam4 wong4 hau4 mun4, je5 teon3/teon1/teoi3 lam4 haa6 joeng2
+kek6 taam4 wong4 hau4 mun4, je5 seoi3 lam4 haa6 joeng2
+-----------------------------------------------------
 操紙終夕酣，時物集遐想
-cou1/cou3 zi2 zung1 zik6 ham4, si4 mat6 zaap6 haa4 soeng2
+cou1 zi2 zung1 zik6 ham4, si4 mat6 zaap6 haa4 soeng2
+-----------------------------------------------------
 詞場竟疏闊，平昔濫推獎
 ci4 coeng4 ging2 so1 fut3, ping4 sik1 laam6 teoi1 zoeng2
+-----------------------------------------------------
 百年見存沒，牢落吾安放
-baak3 nin4 gin3 cyun4 mut6, lou4 lok6 ng4 on1 fong3
+baak3 nin4 gin3 cyun4 mut6, lou4 lok6 ng4 on1 fong2
+-----------------------------------------------------
 蕭條阮咸在，出處同世網
-siu1 tiu4 jyun2/jyun5 haam4 zoi6, ceot1 cyu3/cyu2 tung4 sai3 mong5
+siu1 tiu4 jyun2/jyun5 haam4 zoi6, ceot1 cyu2 tung4 sai3 mong5
+-----------------------------------------------------
 他日訪江樓，含悽述飄蕩
 taa1 jat6 fong2 gong1 lau4, ham4 cai1 seot6 piu1 dong6
 
 
 故右僕射相國張公九齡
-gu3 jau6 buk6 se6/je6 soeng1 gwok3 zoeng1 gung1 gau2 ling4
-
+gu3 jau6 buk6 je6 soeng1 gwok3 zoeng1 gung1 gau2 ling4
 
 相國生南紀，金璞無留礦
 soeng1 gwok3 sang1 naam4 gei3/gei2, gam1 pok3/pik3 mou4 lau4 kwong3/kong3
