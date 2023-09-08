@@ -351,7 +351,7 @@ tyun4 bing1 fung6 wong4 saan1, zoeng3 din6 ging1 wai6 pik1
 gam1 sing4 caak6 jin1 hau4, ziu3 zan3 hung4 so2 ak1
 -----------------------------------------------------
 禁暴靖無雙，爽氣春淅瀝
-gam3 bou6/buk6 zing6 mou4 soeng1, song2 hei3 ceon1 sik1 lik6
+gam3 bou6 zing6 mou4 soeng1, song2 hei3 ceon1 sik1 lik6
 -----------------------------------------------------
 巷有從公歌，野多青青麥
 hong6 jau5 cung4 gung1 go1, je5 do1 cing1 cing1 mak6
@@ -524,7 +524,7 @@ tong4 soeng6/soeng5 zi2 tou4 waa6, gwan1 zung1 ceoi1 juk6 sang1
 hei2 mou4 sing4 dou1 zau2, jau1 gwok3 zi2 sai3 king1
 -----------------------------------------------------
 時觀錦水釣，問俗終相幷
-si4 gun1 gam2 seoi2 diu3, man6 zuk6 zung1 soeng1 bing6
+si4 gun1 gam2 seoi2 diu3, man6 zuk6 zung1 soeng1 bing1
 -----------------------------------------------------
 意待犬戎滅，人藏紅粟盈
 ji3 doi6 hyun2 jung4 mit6, jan4 cong4 hung4 suk1 jing4
@@ -818,7 +818,7 @@ jau1 fan5 bing6 ji6 cau1, jau5 han6 sek6 ho2 zyun2
 suk1 zung1 fuk6 se5 zik1, dak1 mou4 jik6 seon6 bin6
 -----------------------------------------------------
 范曄顧其兒，李斯憶黃犬
-faan6 sip3/jip6 gu3 kei4 ji4, lei5 si1 jik1 wong4 hyun2
+faan6 jip6 gu3 kei4 ji4, lei5 si1 jik1 wong4 hyun2
 -----------------------------------------------------
 祕書茂松色，再扈祠壇墠
 bei3 syu1 mau6 cung4 sik1, zoi3 wu6 ci4 taan4 sin6
@@ -842,7 +842,7 @@ wong4 wong4 zaai1 fong4 zi1, si6 zyut6 maan6 sau2 hin2
 seoi4 zi1 zi6 loi4 ze2, zing3 ci2 zing1 hyun3 min5
 -----------------------------------------------------
 不要懸黃金，胡爲投乳贙
-bat1 jiu1 jyun4 wong4 gam1, wu4 wai6/wai4 tau4 jyu5 jyun6
+bat1 jiu1 jyun4 wong4 gam1, wu4 wai4 tau4 jyu5 jyun6
 -----------------------------------------------------
 結交三十載，吾與誰遊衍
 git3 gaau1 saam1 sap6 zoi2, ng4 jyu5 seoi4 jau4 jin2
@@ -979,7 +979,7 @@ giu2 jin4 gong1 hoi2 si1, fau6 jyu5 wan4 lou6 wing5
 zik6 mok6 soeng2 tou2 gaai1, mei6 wong4 dang2 gei1 wing5
 -----------------------------------------------------
 上君白玉堂，倚君金華省
-soeng6/soeng5 gwan1 baak6 juk6 tong4, ji2 gwan1 gam1 waa4 saang2
+soeng5 gwan1 baak6 juk6 tong4, ji2 gwan1 gam1 waa4 saang2
 -----------------------------------------------------
 碣石歲崢嶸，天池日蛙黽
 kit3 sek6 seoi3 zang1 wing4, tin1 ci4 jat6 waa1 maang5
@@ -1293,6 +1293,13 @@ zoi3 duk6 ceoi4 jyu4 bei1, jau4 si1 lei5 jin1 teng5
 【體裁】
 五古
 
+【補充說明】
+〚3:91.2.5〛幷，平聲。
+〚5:142.2.5〛泥，去聲。
+〚5:133.2.5〛柢，去聲。
+〚6:182.2.5〛願，詩中唯一去聲韻字。
+〚7:〛押上聲韻。壤、杖、盪、橡、丈、放、蕩，皆上聲韻字。
+〚8:〛押上聲韻。礦、幸、靜、並，皆上聲韻字。
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》7.3955,djvu4132
 
