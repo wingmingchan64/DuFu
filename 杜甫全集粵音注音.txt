@@ -20848,7 +20848,7 @@ ji4 si4 hyun3 saan1 gaan2, tau4 baak6 hung2 fung1 hon4
 
 =====================================================
 
-陪李七司馬皁江上觀造竹橋，卽日成，往來之人免冬寒入水，聊題短作，簡李公二首
+2445 陪李七司馬皁江上觀造竹橋，卽日成，往來之人免冬寒入水，聊題短作，簡李公二首
 pui4 lei5 cat1 si1 maa5 zou6 gong1 soeng6 gun1 zou6 zuk1 kiu4, zik1 jat6 sing4, wong5 loi4 zi1 jan4 min5 dung1 hon4 jap6 seoi2, liu4 tai4 dyun2 zok3, gaan2 lei5 gung1 ji6 sau2
 
 其一
@@ -30360,7 +30360,7 @@ ho4 bou2 caam1 gwan1 fat6, fun1 jyu4 dou3 bok6 gung1
 
 =====================================================
 
-奉觀嚴鄭公廳事岷山沱江畫圖十韻
+3293 奉觀嚴鄭公廳事岷山沱江畫圖十韻
 fung6 gun1 jim4 zeng6 gung1 teng1 si6 man4 saan1 to4 gong1 waa6 tou4 sap6 wan6
 
 
@@ -33858,7 +33858,7 @@ kau5 si6 do1 jan4 mat6, mou4 caam4 kwan3 hat6 seoi4
 
 =====================================================
 
-奉寄李十五祕書二首
+3607 奉寄李十五祕書二首
 fung6 gei3 lei5 sap6 ng5 bei3 syu1 ji6 sau2
 
 其一
@@ -38927,7 +38927,7 @@ naam4 gung1 zoi3 fan1 jip6, faan4 baak3 san6 gaau1 seoi1
 
 =====================================================
 
-送李功曹之荆州充鄭侍御判官重贈
+4180 送李功曹之荆州充鄭侍御判官重贈
 sung3 lei5 gung1 cou4 zi1 ging1 zau1 cung1 zeng6 si6 jyu6 pun3 gun1 cung4 zang6
 
 曾聞宋玉宅，每欲到荆州
@@ -39926,7 +39926,7 @@ hon3 ciu4 pan4 syun2 zoeng3, jing1 baai3 fok3 piu4 jiu4
 
 =====================================================
 
-奉送蜀州柏二別駕將中丞命，赴江陵起居衞尙書太夫人，因示從弟行軍司馬位
+4310 奉送蜀州柏二別駕將中丞命，赴江陵起居衞尙書太夫人，因示從弟行軍司馬位
 fung6 sung3 suk6 zau1 paak3 ji6 bit6 gaa3 zoeng1 zung1 sing4 ming6, fu6 gong1 ling4 hei2 geoi1 wai6 soeng4 syu1 taai3 fu1 jan4, jan1 si6 cung4 dai6 hang4 gwan1 si1 maa5 wai6
 
 中丞問俗畫熊頻，愛弟傳書綵鷁新
@@ -39957,7 +39957,7 @@ jyu5 bou3 wai6 lin4 si1 bat1 sik1, zi1 ng4 baan1 ban3 zung2 jyu4 ngan4
 
 =====================================================
 
-荆南兵馬使太常卿趙公大食刀歌
+4318 荆南兵馬使太常卿趙公大食刀歌
 ging1 naam4 bing1 maa5 si3 taai3 soeng4 hing1 ziu6 gung1 daai6 sik6 dou1 go1
 
 太常樓船聲嗷嘈，問兵刮寇趨下牢
@@ -41690,7 +41690,7 @@ si4 man4 hai6 zau1 zip3, kap6 ci2 man6 ng4 lou4
 
 =====================================================
 
-4536 竪子至
+竪子至
 syu6 zi2 zi3
 
 樝梨且綴碧，梅杏半傳黃
@@ -42435,7 +42435,7 @@ ci2 si4 tung4 jat1 zeoi3, jing1 zoi6 zung6 syun1 lau4
 
 =====================================================
 
-季夏送鄕弟韶陪黃門從叔朝謁
+4614 季夏送鄕弟韶陪黃門從叔朝謁
 gwai3 haa6 sung3 hoeng1 dai6 siu4 pui4 wong4 mun4 cung4 suk1 ciu4 jit3
 
 令弟尙爲蒼水使，名家莫出杜陵人
@@ -43397,7 +43397,7 @@ ming4 nin4 haa6 ceon1 seoi2, dung1 zeon6 baak6 wan4 kau4
 
 =====================================================
 
-贈李八祕書別三十韻
+4725 贈李八祕書別三十韻
 zang6 lei5 baat3 bei3 syu1 bit6 saam1 sap6 wan6
 
 往時中補右，扈蹕上元初
@@ -43560,7 +43560,7 @@ mok6 waa6 cing1 kai1 faat3, siu1 siu1 baak6 jing2 so1
 
 =====================================================
 
-送李八祕書赴杜相公幕
+4743 送李八祕書赴杜相公幕
 sung3 lei5 baat3 bei3 syu1 fu6 dou6 soeng1 gung1 mok6
 
 青簾白舫益州來，巫峽秋濤天地回
@@ -45910,7 +45910,7 @@ ngau4 joeng4 sik1 tung4 buk6, gei3 zik6 jing3 cyun4 fu1
 
 =====================================================
 
-自瀼西荆扉且移居東屯茅屋四首
+5021 自瀼西荆扉且移居東屯茅屋四首
 zi6 joeng5 sai1 ging1 fei1 ce2 ji4 geoi1 dung1 tyun4 maau4 uk1 sei3 sau2
 
 其一
@@ -50292,7 +50292,7 @@ jyu4 hon4 zit3 faa1 wai2, han6 bit6 mun5 gong1 hoeng1
 
 =====================================================
 
-將赴荆南寄別李劍州
+5418 將赴荆南寄別李劍州
 zoeng1 fu6 ging1 naam4 gei3 bit6 lei5 gim3 zau1
 
 使君高義驅今古，寥落三年坐劍州
@@ -50372,7 +50372,7 @@ caan4 sang1 dau6 gong1 hon3, ho4 cyu3 haap6 ciu4 jyu4
 
 =====================================================
 
-巫山縣汾州唐使君十八弟宴別，兼諸公攜酒樂相送，率題小詩，留於屋壁
+5425 巫山縣汾州唐使君十八弟宴別，兼諸公攜酒樂相送，率題小詩，留於屋壁
 mou4 saan1 jyun6 fan4 zau1 tong4 si3 gwan1 sap6 baat3 dai6 jin3 bit6, gim1 zyu1 gung1 kwai4 zau2 ngok6 soeng1 sung3, seot1 tai4 siu2 si1, lau4 jyu1 uk1 bik1
 
 臥病巴東久，今年強作歸
@@ -51733,7 +51733,7 @@ zi6 gung1 do1 haa6 jin4 caam1 zo3, gong1 hon3 fung1 lau4 maan6 gu2 cing4
 
 =====================================================
 
-又作此奉衞王
+5534 又作此奉衞王
 jau6 zok3 ci2 fung6 wai6 wong4
 
 西北樓成雄楚都，遠開山岳散江湖
@@ -51819,7 +51819,7 @@ haak3 sau4 syu4 mei6 ji5, taa1 zik6 ci2 soeng1 sin1
 
 =====================================================
 
-秋日荆南述懷
+5542 秋日荆南述懷
 cau1 jat6 ging1 naam4 seot6 waai4
 
 昔承推獎分，愧匪挺生材
@@ -51979,7 +51979,7 @@ zi6 gu2 gong1 wu4 haak3, ming4 sam1 joek6 sei2 fui1
 
 =====================================================
 
-秋日荆南送石首薛明府辭滿告別，奉寄薛尙書頌德敍懷斐然之作
+5557 秋日荆南送石首薛明府辭滿告別，奉寄薛尙書頌德敍懷斐然之作
 cau1 jat6 ging1 naam4 sung3 sek6 sau2 sit3 ming4 fu2 ci4 mun5 gou3 bit6, fung6 gei3 sit3 soeng4 syu1 zung6 dak1 zeoi6 waai4 fei2 jin4 zi1 zok3
 
 南征爲客久，西侯別君初
@@ -52820,7 +52820,7 @@ lou5 jung1 seoi1 dei6 zyu2, sai3 sai3 zoek3 lau4 haa4
 
 =====================================================
 
-移居公安敬贈衞大郎
+5624 移居公安敬贈衞大郎
 ji4 geoi1 gung1 on1 ging3 zang6 wai6 daai6 long4
 
 衞侯不易得，余病汝知之
