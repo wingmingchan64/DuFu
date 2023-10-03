@@ -33,7 +33,7 @@ syu2 jyu5 lau4 zing1 sap1, gong1 fung1 ze3 zik6 loeng4
 -----------------------------------------------------
 行雲星隱見，疊浪月光芒
 hang4 wan4 sing1 jan2 jin6, dip6 long6 jyut6 gwong1 mong4
-平平平仄仄，仄◯仄平平
+平平平仄仄，仄仄仄平平
 -----------------------------------------------------
 螢鑒緣帷徹，蛛絲罥鬢長
 jing4 gaam3 jyun4 wai4 cit3, zyu1 si1 gyun3 ban3 coeng4
@@ -41,7 +41,7 @@ jing4 gaam3 jyun4 wai4 cit3, zyu1 si1 gyun3 ban3 coeng4
 -----------------------------------------------------
 哀筝猶憑几，鳴笛竟霑裳
 oi1 zang1 jau4 pang4 gei2, ming4 dek6 ging2 zim1 soeng4
-平平◯平◯，平仄仄平平
+平平平仄仄，平仄仄平平
 -----------------------------------------------------
 倚著如秦贅，過逢類楚狂
 ji2 zoek6 jyu4 ceon4 zeoi6, gwo1 fung4 leoi6 co2 kwong4
@@ -83,6 +83,9 @@ baak3 nin4 cung4 maan6 si6, gu3 gwok3 gang2 naan4 mong4
 
 【體裁】
 五排
+
+【補充說明】
+〚8.1.4〛憑，仄聲，徑韻。
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》10.5522,djvu5699
 
