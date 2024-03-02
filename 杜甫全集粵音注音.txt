@@ -3601,7 +3601,7 @@ zi6 dou3 cing1 ming4 leoi5, jau1 hon1 baak6 faat3 sang1
 
 =====================================================
 
-0403 送張二十參軍赴蜀州，因呈楊五侍御
+送張二十參軍赴蜀州，因呈楊五侍御
 sung3 zoeng1 ji6 sap6 caam1 gwan1 fu6 suk6 zau1, jan1 cing4 joeng4 ng5 si6 jyu6
 
 好去張公子，通家別恨添。
@@ -3900,7 +3900,7 @@ bat1 jau5 siu2 zau1 nang4 dong6 zoeng2, baak3 wu4 no4 sung3 zau2 jyu4 cyun4
 
 =====================================================
 
-0438 陪諸貴公子丈八溝攜妓納涼，晚際遇雨二首
+陪諸貴公子丈八溝攜妓納涼，晚際遇雨二首
 pui4 zyu1 gwai3 gung1 zi2 zoeng6 baat3 gau1 kwai4 gei6 naap6 loeng4, maan5 zai3 jyu6 jyu5 ji6 sau2
 
 其一
@@ -4432,7 +4432,7 @@ nim6 zi1 hung1 zoeng2 daai6 zi1 jip6, git3 gan1 sat1 so2 maai4 fung1 soeng1
 
 =====================================================
 
-0494 承沈八丈東美除膳部員外，阻雨未遂馳賀，奉寄此詩
+承沈八丈東美除膳部員外，阻雨未遂馳賀，奉寄此詩
 sing4 sam2 baat3 zoeng6 dung1 mei5 ceoi4 sin6 bou6 jyun4 ngoi6, zo2 jyu5 mei6 seoi6 ci4 ho6, fung6 gei3 ci2 si1
 
 今日西京掾，多除南省郎。
@@ -9411,7 +9411,7 @@ maan6 fong1 pan4 sung3 hei2, mou4 naai5 sing3 gung1 lou4
 
 =====================================================
 
-0989 送鄭十八虔貶台州司戶，傷其臨老陷賊之故，闕爲面別，情見于詩
+送鄭十八虔貶台州司戶，傷其臨老陷賊之故，闕爲面別，情見于詩
 sung3 zeng6 sap6 baat3 kin4 bin2 toi4 zau1 si1 wu6, soeng1 kei4 lam4 lou5 haam6 caak3 zi1 gu3, kyut3 wai4 min6 bit6, cing4 gin3 jyu1 si1
 
 鄭公樗散鬢成絲，酒後常稱老畫師。
@@ -10014,7 +10014,7 @@ seoi4 nang4 gung6 gung1 zi2, bok6 mou6 juk6 keoi1 waan4
 
 =====================================================
 
-1069 送許八拾遺歸江寧覲省，甫昔時嘗客遊此縣，於許生處乞瓦棺寺維摩圖樣，志諸篇末
+送許八拾遺歸江寧覲省，甫昔時嘗客遊此縣，於許生處乞瓦棺寺維摩圖樣，志諸篇末
 sung3 heoi2 baat3 sap6 wai4 gwai1 gong1 ning4 gan6 sing2, fu2 sik1 si4 soeng4 haak3 jau4 ci2 jyun6, jyu1 heoi2 sang1 cyu3 hat1 ngaa5 gun1 zi6 wai4 mo1 tou4 joeng6, zi3 zyu1 pin1 mut6 
 
 詔許辭中禁，慈顏赴北堂
@@ -10631,7 +10631,7 @@ ming4 ziu1 hin1 sai3 mou6, fai1 leoi6 gok3 sai1 dung1
 
 =====================================================
 
-1129 至德二載，甫自京金光門出，間道歸鳳翔。乾元初，從左拾遺移華州掾，與親故別，因出此門，有悲往事
+至德二載，甫自京金光門出，間道歸鳳翔。乾元初，從左拾遺移華州掾，與親故別，因出此門，有悲往事
 zi3 dak1 ji6 zoi2, fu2 zi6 ging1 gam1 gwong1 mun4 ceot1, gaan3 dou6 gwai1 fung6 coeng4, kin4 jyun4 co1, cung4 zo2 sap6 wai4 ji4 waa6 zau1 jyun6, jyu5 can1 gu3 bit6, jan1 ceot1 ci2 mun4, jau5 bei1 wong5 si6
 
 此道昔歸順，西郊胡正繁
@@ -11265,7 +11265,7 @@ zok3 je6 jiu1 fun1 lok6 gang3 mou4, do1 coi4 ji1 gau6 nang4 lou5 dou2
 
 =====================================================
 
-1225 湖城東遇孟雲卿，復歸劉顥宅宿，宴飲散，因爲醉歌
+湖城東遇孟雲卿，復歸劉顥宅宿，宴飲散，因爲醉歌
 wu4 sing4 dung1 jyu6 maang6 wan4 hing1, fau6 gwai1 lau4 hou6 zaak6 suk1, jin3 jam2 saan3, jan1 wai4 zeoi3 go1 
 
 疾風吹塵暗河縣，行子隔手不相見
@@ -13468,7 +13468,7 @@ soeng1 fung4 sing4 je6 suk1, lung5 jyut6 hoeng3 jan4 jyun4
 
 =====================================================
 
-1488 西枝村尋置草堂地，夜宿贊公土室二首
+西枝村尋置草堂地，夜宿贊公土室二首
 sai1 zi1 cyun1 cam4 zi3 cou2 tong4 dei6, je6 suk1 zaan3 gung1 tou2 sat1 ji6 sau2
 
 其一
@@ -14693,7 +14693,7 @@ seoi1 nin4 gwaan1 lik6 laang5, mei6 nyun5 bing3 mou4 jau1
 
 =====================================================
 
-1616 秦州見勅目，薛三璩授司議郎，畢四曜除監察，與二子有故，遠喜遷官，兼述索居，凡三十韻
+秦州見勅目，薛三璩授司議郎，畢四曜除監察，與二子有故，遠喜遷官，兼述索居，凡三十韻
 ceon4 zau1 gin3 cik1 muk6, sit3 saam1 keoi4 sau6 si1 ji5 long4, bat1 sei3 jiu6 ceoi4 gaam1 caat3, jyu5 ji6 zi2 jau5 gu3, jyun5 hei2 cin1 gun1, gim1 seot6 sok3 geoi1, faan4 saam1 sap6 wan6
 
 大雅何寥闊，斯人尙典刑
@@ -14823,7 +14823,7 @@ cau1 fung1 dung6 gwaan1 coi3, gou1 ngo6 soeng2 ji4 jing4
 
 =====================================================
 
-1629 寄彭州高三十五使君適、虢州岑二十七長史參三十韻
+寄彭州高三十五使君適、虢州岑二十七長史參三十韻
 gei3 paang4 zau1 gou1 saam1 sap6 ng5 si3 gwan1 sik1, gwik1 zau1 sam4 ji6 sap6 cat1 coeng4 si2 sam1 saam1 sap6 wan6
 
 故人何寂寞，今我獨淒涼
@@ -14986,7 +14986,7 @@ wui5 doi6 jiu1 fan1 zing6, leon4 man4 zaam6 gwo2 loeng4
 
 =====================================================
 
-1642 寄岳州賈司馬六丈、巴州嚴八使君兩閣老五十韻
+寄岳州賈司馬六丈、巴州嚴八使君兩閣老五十韻
 gei3 ngok6 zau1 gaa2 si1 maa5 luk6 zoeng6, baa1 zau1 jim4 baat3 si3 gwan1 loeng5 gok3 lou5 ng5 sap6 wan6
 
 衡岳啼猿裏，巴州鳥道邊
@@ -18922,7 +18922,7 @@ naam4 si5 zeon1 tau4 jau5 syun4 maai6, mou4 cin4 zik1 maai5 hai6 lei4 pong4
 
 =====================================================
 
-2165 江上値水如海勢，聊短述
+江上値水如海勢，聊短述
 gong1 soeng6 zik6 seoi2 jyu4 hoi2 sai3, liu4 dyun2 seot6
 
 爲人性僻耽佳句，語不驚人死不休
@@ -20778,7 +20778,7 @@ ho4 dong1 hon3 faa1 jeoi5, juk6 faat3 ziu3 gong1 mui4
 
 =====================================================
 
-2432 范二員外邈、吳十侍御郁特枉駕闕展待，聊寄此
+范二員外邈、吳十侍御郁特枉駕闕展待，聊寄此
 faan6 ji6 jyun4 ngoi6 miu5, ng4 sap6 si6 jyu6 juk1 dak6 wong2 gaa3 kyut3 zin2 doi6, liu4 gei3 ci2
 
 暫往比鄰去，空聞二妙歸
@@ -20808,7 +20808,7 @@ leon4 man4 waak6 bat1 kwai3, hang2 zung6 fun2 caai4 fei1
 
 =====================================================
 
-2435 王十七侍御掄許攜酒至草堂，奉寄此詩，便請邀高三十五使君同到
+王十七侍御掄許攜酒至草堂，奉寄此詩，便請邀高三十五使君同到
 wong4 sap6 cat1 si6 jyu6 leon4 heoi2 kwai4 zau2 zi3 cou2 tong4, fung6 gei3 ci2 si1, bin6 cing2 jiu1 gou1 saam1 sap6 ng5 si3 gwan1 tung4 dou3
 
 老夫臥穩朝慵起，白屋寒多暖始開
@@ -20839,7 +20839,7 @@ hei3 gaa2 soeng1 wai1 cuk1 saan1 gaan2, seoi1 sing4 jat1 zeoi3 zaap6 ci4 wui4
 
 =====================================================
 
-2442 王竟攜酒，高亦同過，共用寒字
+王竟攜酒，高亦同過，共用寒字
 wong4 ging2 kwai4 zau2, gou1 jik6 tung4 gwo3, gung6 jung6 hon4 zi6
 
 臥疾荒郊遠，通行小徑難
@@ -20869,7 +20869,7 @@ ji4 si4 hyun3 saan1 gaan2, tau4 baak6 hung2 fung1 hon4
 
 =====================================================
 
-2445 陪李七司馬皁江上觀造竹橋，卽日成，往來之人免冬寒入水，聊題短作，簡李公二首
+陪李七司馬皁江上觀造竹橋，卽日成，往來之人免冬寒入水，聊題短作，簡李公二首
 pui4 lei5 cat1 si1 maa5 zou6 gong1 soeng6 gun1 zou6 zuk1 kiu4, zik1 jat6 sing4, wong5 loi4 zi1 jan4 min5 dung1 hon4 jap6 seoi2, liu4 tai4 dyun2 zok3, gaan2 lei5 gung1 ji6 sau2
 
 其一
@@ -20925,7 +20925,7 @@ ji6 fong1 sing4 ci2 hing3, lok6 baa6 bat1 mou4 bei1
 
 =====================================================
 
-2453 李司馬橋了，承高使君自成都回
+李司馬橋了，承高使君自成都回
 lei5 si1 maa5 kiu4 liu5, sing4 gou1 si3 gwan1 zi6 sing4 dou1 wui4
 
 向來江上手紛紛，三日成功事出羣
@@ -21046,7 +21046,7 @@ wai6 gwan1 gu1 zau2 mun5 ngaan5 gu1, jyu5 nou4 baak6 faan6 maa5 cing1 co1
 
 =====================================================
 
-2472 廣州段功曹到，得楊五長史譚書，功曹卻歸，聊寄此詩
+廣州段功曹到，得楊五長史譚書，功曹卻歸，聊寄此詩
 gwong2 zau1 dyun6 gung1 cou4 dou3, dak1 joeng4 ng5 coeng4 si2 taam4 syu1, gung1 cou4 koek3 gwai1, liu4 gei3 ci2 si1
 
 衞青開幕府，楊僕將樓船
@@ -21076,7 +21076,7 @@ pan4 bing6 taa1 hoeng1 lou5, faan4 gwan1 maan6 lei5 cyun4
 
 =====================================================
 
-2476 得廣州張判官叔卿書，使還，以詩代意
+得廣州張判官叔卿書，使還，以詩代意
 dak1 gwong2 zau1 zoeng1 pun3 gun1 suk1 hing1 syu1, si3 waan4, ji5 si1 doi6 ji3
 
 鄕關胡騎遠，宇宙蜀城偏
@@ -21829,7 +21829,7 @@ zing1 naam4 do1 hing3 seoi5, si6 jip6 am3 soeng1 can1
 
 =====================================================
 
-2565 中丞嚴公雨中垂寄見憶一絕，奉答二絕
+中丞嚴公雨中垂寄見憶一絕，奉答二絕
 zung1 sing4 jim4 gung1 jyu5 zung1 seoi4 gei3 gin3 jik1 jat1 zyut6, fung6 daap3 ji6 zyut6
 
 其一
@@ -23687,7 +23687,7 @@ kwong4 go1 jyu6 jing4 sing3, dak1 zeoi3 zik1 wai4 gaa1
 
 =====================================================
 
-2739 陪王侍御同登東山最高頂，宴姚通泉，晚攜酒泛江
+陪王侍御同登東山最高頂，宴姚通泉，晚攜酒泛江
 pui4 wong4 si6 jyu6 tung4 dang1 dung1 saan1 zeoi3 gou1 ding2, jin3 jiu4 tung1 cyun4, maan5 kwai4 zau2 faan3 gong1
 
 姚公美政誰與儔，不減昔時陳太丘
@@ -24425,7 +24425,7 @@ seoi4 nang4 gaai2 gam1 jan3, siu1 saa2 gung6 on1 sim4
 
 =====================================================
 
-2803 數陪李梓州泛江，有女樂在諸舫，戲爲豔曲二首贈李
+數陪李梓州泛江，有女樂在諸舫，戲爲豔曲二首贈李
 sou3 pui4 lei5 zi2 zau1 faan3 gong1, jau5 neoi5 ngok6 zoi6 zyu1 fong2, hei3 wai4 jim6 kuk1 ji6 sau2 zang6 lei5
 
 其一
@@ -26776,7 +26776,7 @@ fung1 can4 hung6 tung4 hai4 caai4 fu2 ngaau5 jan4, fat1 sat1 soeng1 zoeng6 hai4 
 
 =====================================================
 
-3005 將適吳楚，留別章使君留後兼幕府諸公，得柳字
+將適吳楚，留別章使君留後兼幕府諸公，得柳字
 zoeng1 sik1 ng4 co2, lau4 bit6 zoeng1 si3 gwan1 lau4 hau6 gim1 mok6 fu2 zyu1 gung1, dak1 lau5 zi6
 
 我來入蜀門，歲月亦已久
@@ -26862,7 +26862,7 @@ jau5 si3 zik1 gei3 syu1, mou4 si3 coeng4 wui4 sau2
 
 =====================================================
 
-3011 舍弟占歸草堂檢校，聊示此詩
+舍弟占歸草堂檢校，聊示此詩
 se3 dai6 zim1 gwai1 cou2 tong4 gim2 gaau3, liu4 si6 ci2 si1
 
 久客應吾道，相隨獨爾來
@@ -27308,7 +27308,7 @@ mok6 ling6 wui4 sau2 dei6, dung6 huk1 hei2 bei1 fung1
 
 =====================================================
 
-3052 巴西聞收京，送班司馬入京二首
+巴西聞收京，送班司馬入京二首
 baa1 sai1 man4 sau1 ging1, sung3 baan1 si1 maa5 jap6 ging1 ji6 sau2
 
 其一
@@ -27368,21 +27368,27 @@ sik1 mun6
 
 四海十年不解兵，犬戎也復臨咸京
 sei3 hoi2 sap6 nin4 bat1 gaai2 bing1, hyun2 jung4 jaa5 fau6 lam4 haam4 ging1
+仄仄仄平仄仄平，仄平仄仄平平平
 -----------------------------------------------------
 失道非關出襄野，揚鞭忽是過湖城
 sat1 dou6 fei1 gwaan1 ceot1 soeng1 je5, joeng4 bin1 fat1 si6 gwo3 wu4 sing4
+仄仄平平仄平仄，平平仄仄仄平平
 -----------------------------------------------------
 豺狼塞路人斷絕，烽火照夜屍縱橫
 caai4 long4 coi3 lou6 jan4 dyun6 zyut6, fung1 fo2 ziu3 je6 si1 zung1 waang4
+平平仄仄平仄仄，平仄仄仄平平平
 -----------------------------------------------------
 天子亦應厭奔走，羣公固合思升平
-tin1 zi2 jik6 jing1 jim3 ban1 zau2, kwan4 gung1 gu3 hap6 si1 sing1 ping4
+tin1 zi2 jik6 jing1 jim3 ban1 zau2, kwan4 gung1 gu3 hap6 si3 sing1 ping4
+平仄仄平仄平仄，平平仄仄仄平平
 -----------------------------------------------------
 但恐誅求不改轍，聞道嬖孽能全生
 daan6 hung2 zyu1 kau4 bat1 goi2 cit3, man4 dou6 pei3 jip6 nang4 cyun4 sang1
+仄仄平平仄仄仄，平仄仄仄平平平
 -----------------------------------------------------
 江邊老翁錯料事，眼暗不見風塵清
 gong1 bin1 lou5 jung1 co3 liu6 si6, ngaan5 am3 bat1 gin3 fung1 can4 cing1
+平平仄平仄仄仄，仄仄仄仄平平平
 
 【韻部】
 〚3.1.7〛兵：庚韻
@@ -27394,7 +27400,10 @@ gong1 bin1 lou5 jung1 co3 liu6 si6, ngaan5 am3 bat1 gin3 fung1 can4 cing1
 〚8.2.7〛清：庚韻
 
 【體裁】
-七古
+七排
+
+【補充說明】
+從王嗣奭《杜臆》之說，體裁爲七言排律，然詩句每有不合律者。
 
 =====================================================
 
@@ -28133,7 +28142,7 @@ wai4 gin3 lam4 faa1 lok6, ang1 tai4 sung3 haak3 man4
 
 =====================================================
 
-3124 將赴成都草堂，途中有作，先寄嚴鄭公五首
+將赴成都草堂，途中有作，先寄嚴鄭公五首
 zoeng1 fu6 sing4 dou1 cou2 tong4, tou4 zung1 jau5 zok3, sin1 gei3 jim4 zeng6 gung1 ng5 sau2
 
 其一
@@ -30528,7 +30537,7 @@ mok6 zok3 keoi1 lau4 lok6, coeng4 zim1 kit3 sek6 hung4
 
 =====================================================
 
-3304 別唐十五誡，因寄禮部賈侍郎
+別唐十五誡，因寄禮部賈侍郎
 bit6 tong4 sap6 ng5 gaai3, jan1 gei3 lai5 bou6 gaa2 si6 long4
 
 九載一相逢，百年能幾何
@@ -30951,7 +30960,7 @@ mat6 wan4 keoi1 ji6 wik6, jam2 doek3 gei2 wui4 tung4
 
 =====================================================
 
-3337 正月三日歸溪上有作，簡院內諸公
+正月三日歸溪上有作，簡院內諸公
 zing3 jyut6 saam1 jat6 gwai1 kai1 soeng6 jau5 zok3, gaan2 jyun6 noi6 zyu1 gung1
 
 野外堂依竹，籬邊水向城
@@ -31579,7 +31588,7 @@ on1 ngai4 daai6 san4 zoi6, ho4 bit1 leoi6 coeng4 lau4
 
 =====================================================
 
-3393 宿青溪驛，奉懷張員外十五兄之緒
+宿青溪驛，奉懷張員外十五兄之緒
 suk1 cing1 kai1 jik6, fung6 waai4 zoeng1 jyun4 ngoi6 sap6 ng5 hing1 zi1 seoi5
 
 漾舟千山內，日入泊枉渚
@@ -32122,7 +32131,7 @@ mei6 ci4 tim1 mou6 jyu5, zip3 soeng6 jyu6 ji1 kam1
 
 =====================================================
 
-3447 承聞故房相公靈櫬，自閬州啟殯歸葬東都，有作二首
+承聞故房相公靈櫬，自閬州啟殯歸葬東都，有作二首
 sing4 man4 gu3 fong4 soeng1 gung1 ling4 can3, zi6 long5 zau1 kai2 ban3 gwai1 zong3 dung1 dou1, jau5 zok3 ji6 sau2
 
 其一
@@ -32563,7 +32572,7 @@ zoeng6 lai4 fong4 joek3 maa5, bat1 si6 gu3 lei4 kwan4
 
 =====================================================
 
-3488 水閣朝霽，奉簡嚴雲安
+水閣朝霽，奉簡嚴雲安
 seoi2 gok3 ziu1 zai3, fung6 gaan2 jim4 wan4 on1
 
 東城抱春岑，江閣鄰石面
@@ -33083,7 +33092,7 @@ jyu5 gung1 jiu4 dyun6 sek6, ce2 zau6 tou2 mei4 ping4
 
 =====================================================
 
-3531 船下夔州郭宿，雨濕不得上岸，別王十二判官
+船下夔州郭宿，雨濕不得上岸，別王十二判官
 syun4 haa6 kwai4 zau1 gwok3 suk1, jyu5 sap1 bat1 dak1 soeng5 ngon6, bit6 wong4 sap6 ji6 pun3 gun1
 
 依沙宿舸船，石瀨月娟娟
@@ -34179,7 +34188,7 @@ sap6 nin4 ho2 gaai2 gaap3, wai6 ji5 jat1 zim1 gan1
 
 =====================================================
 
-3633 七月三日亭午已後，校熱退，晚加小涼，穩睡有詩，因論壯年樂事，戲呈元二十一曹長
+七月三日亭午已後，校熱退，晚加小涼，穩睡有詩，因論壯年樂事，戲呈元二十一曹長
 cat1 jyut6 saam1 jat6 ting4 ng5 ji5 hau6, gaau3 jit6 teoi3, maan5 gaa1 siu2 loeng4, wan2 seoi6 jau5 si1, jan1 leon6 zong3 nin4 lok6 si6, hei3 cing4 jyun4 ji6 sap6 jat1 cou4 coeng4
 
 今茲商用事，餘熱亦已末
@@ -39792,7 +39801,7 @@ ping4 sang1 daam1 sing3 si6, heoi1 hoi6 ci2 co1 ging1
 
 =====================================================
 
-4291 覽柏中允兼子姪數人除官制詞，因述父子兄弟四美，載歌絲綸
+覽柏中允兼子姪數人除官制詞，因述父子兄弟四美，載歌絲綸
 laam5 paak3 zung1 wan5 gim1 zi2 zat6 sou3 jan4 ceoi4 gun1 zai3 ci4, jan1 seot6 fu6 zi2 hing1 dai6 sei3 mei5, zoi3 go1 si1 leon4
 
 紛然喪亂際，見此忠孝門
@@ -39947,7 +39956,7 @@ hon3 ciu4 pan4 syun2 zoeng3, jing1 baai3 fok3 piu4 jiu4
 
 =====================================================
 
-4310 奉送蜀州柏二別駕將中丞命，赴江陵起居衞尙書太夫人，因示從弟行軍司馬位
+奉送蜀州柏二別駕將中丞命，赴江陵起居衞尙書太夫人，因示從弟行軍司馬位
 fung6 sung3 suk6 zau1 paak3 ji6 bit6 gaa3 zoeng1 zung1 sing4 ming6, fu6 gong1 ling4 hei2 geoi1 wai6 soeng4 syu1 taai3 fu1 jan4, jan1 si6 cung4 dai6 hang4 gwan1 si1 maa5 wai6
 
 中丞問俗畫熊頻，愛弟傳書綵鷁新
@@ -40136,7 +40145,7 @@ keoi1 ceot1 luk6 hap6 hiu1 lyun4 fan1
 
 =====================================================
 
-4337 見王監兵馬使說，近山有白黑二鷹，羅者久取，竟未能得。王以爲毛骨有異他鷹，恐臘後春生，鶱飛避暖，勁翮思秋之甚，眇不可見，請余賦詩二首
+見王監兵馬使說，近山有白黑二鷹，羅者久取，竟未能得。王以爲毛骨有異他鷹，恐臘後春生，鶱飛避暖，勁翮思秋之甚，眇不可見，請余賦詩二首
 gin3 wong4 gaam1 bing1 maa5 si3 syut3, gan6 saan1 jau5 baak6 hak1 ji6 jing1, lo4 ze2 gau2 ceoi2, ging2 mei6 nang4 dak1, wong4 ji5 wai4 mou4 gwat1 jau5 ji6 taa1 jing1, hung2 laap6 hau6 ceon1 sang1, hin1 fei1 bei6 nyun5, ging6 hat6 si1 cau1 zi1 sam6, miu5 bat1 ho2 gin3, cing2 jyu4 fu3 si1 ji6 sau2
 
 其一
@@ -40444,7 +40453,7 @@ hap6 fan1 soeng1 ci3 bat1, jau4 zok3 jat1 piu1 pung4
 
 =====================================================
 
-4382 崔評事弟許相迎不到，應慮老夫見泥雨怯出，必愆佳期，走筆戲簡
+崔評事弟許相迎不到，應慮老夫見泥雨怯出，必愆佳期，走筆戲簡
 ceoi1 ping4 si6 dai6 heoi2 soeng1 jing4 bat1 dou3, jing1 leoi6 lou5 fu1 gin3 nai4 jyu5 hip3 ceot1, bit1 hin1 gaai1 kei4, zau2 bat1 hei3 gaan2
 
 江閣要賓許馬迎，午時起坐自天明
@@ -41170,7 +41179,7 @@ lou5 san1 seoi1 fu6 tok3, baak6 gwat1 gang3 ho4 jau1
 
 =====================================================
 
-4477 喜觀卽到，復題短篇二首
+喜觀卽到，復題短篇二首
 hei2 gun1 zik1 dou3, fau6 tai4 dyun2 pin1 ji6 sau2
 
 其一
@@ -42945,7 +42954,7 @@ hyun3 kei4 sei2 wong4 ming6, san6 mok6 jyun5 fan5 fei1
 
 =====================================================
 
-4673 暇日小園散病，將種秋菜，督勒耕牛，兼書觸目
+暇日小園散病，將種秋菜，督勒耕牛，兼書觸目
 haa6 jat6 siu2 jyun4 saan3 bing6, zoeng1 zung3 cau1 coi3, duk1 lak6 gaang1 ngau4, gim1 syu1 zuk1 muk6
 
 不愛入州府，畏人嫌我眞
@@ -45193,7 +45202,7 @@ ji4 tung4 gaai2 maan4 jyu5, bat1 bit1 zok3 caam1 gwan1
 
 =====================================================
 
-4934 課小豎鉏斫舍北果林，枝蔓荒穢淨訖，移牀三首
+課小豎鉏斫舍北果林，枝蔓荒穢淨訖，移牀三首
 fo3 siu2 syu6 ceoi4/zeoi2/co4 zoek3 se3/se2 bak1 gwo2 lam4, zi1 maan6 fong1 wai3 zing6 ngat6/gat1, ji4 cong4 saam1 sau2
 
 其一
@@ -48555,7 +48564,7 @@ geoi2 bin1 jyu4 jau5 man6, juk6 bun6 zaap6 ci4 jau4
 
 =====================================================
 
-5247 上卿翁請修武侯廟遺像缺落，時崔卿權夔州
+上卿翁請修武侯廟遺像缺落，時崔卿權夔州
 soeng6 hing1 jung1 cing2 sau1 mou5 hau4 miu6 wai4 zoeng6 kyut3 lok6, si4 ceoi1 hing1 kyun4 kwai4 zau1
 
 大賢爲政卽多聞，刺史眞符不必分
@@ -50078,7 +50087,7 @@ gau6 si4 jyun4 jat6 wui6, hoeng1 dong2 sin6 ng4 lou4
 
 =====================================================
 
-5393 續得觀書，迎就當陽居止，正月中旬定出三峽
+續得觀書，迎就當陽居止，正月中旬定出三峽
 zuk6 dak1 gun1 syu1, jing4 zau6 dong1 joeng4 geoi1 zi2, zing3 jyut6 zung1 ceon4 ding6 ceot1 saam1 haap6
 
 自汝到荆府，書來數喚吾
@@ -50393,7 +50402,7 @@ jung4 maa5 soeng1 fung4 gang3 ho4 jat6, ceon1 fung1 wui4 sau2 zung6 syun1 lau4
 
 =====================================================
 
-5421 將別巫峽，贈南卿兄瀼西果園四十畝
+將別巫峽，贈南卿兄瀼西果園四十畝
 zoeng1 bit6 mou4 haap6, zang6 naam4 hing1 hing1 joeng5 sai1 gwo2 jyun4 sei3 sap6 mau5
 
 苔竹素所好，萍蓬無定居
@@ -50443,7 +50452,7 @@ caan4 sang1 dau6 gong1 hon3, ho4 cyu3 haap6 ciu4 jyu4
 
 =====================================================
 
-5425 巫山縣汾州唐使君十八弟宴別，兼諸公攜酒樂相送，率題小詩，留於屋壁
+巫山縣汾州唐使君十八弟宴別，兼諸公攜酒樂相送，率題小詩，留於屋壁
 mou4 saan1 jyun6 fan4 zau1 tong4 si3 gwan1 sap6 baat3 dai6 jin3 bit6, gim1 zyu1 gung1 kwai4 zau2 ngok6 soeng1 sung3, seot1 tai4 siu2 si1, lau4 jyu1 uk1 bik1
 
 臥病巴東久，今年強作歸
@@ -50577,7 +50586,7 @@ ci2 zi1 wan4 jyu5 haap6, fat1 zeon6 haa6 lou4 bin1
 
 =====================================================
 
-5434 大曆三年春，白帝城放船出瞿塘峽，久居夔府，將適江陵，漂泊有詩，凡四十韻
+大曆三年春，白帝城放船出瞿塘峽，久居夔府，將適江陵，漂泊有詩，凡四十韻
 daai6 lik6 saam1 nin4 ceon1, baak6 dai3 sing4 fong3 syun4 ceot1 keoi4 tong4 haap6, gau2 geoi1 kwai4 fu2, zoeng1 sik1 gong1 ling4, piu1 bok6 jau5 si1, faan4 sei3 sap6 wan6
 
 老向巴人裏，今辭楚塞隅
@@ -50827,7 +50836,7 @@ gam1 siu1 naam4 gik6 ngoi6, gam1 zok3 lou5 jan4 sing1
 
 =====================================================
 
-5455 行次古城店泛江作，不揆鄙拙，奉呈江陵幕府諸公
+行次古城店泛江作，不揆鄙拙，奉呈江陵幕府諸公
 hang4 ci3 gu2 sing4 dim3 faan3 gong1 zok3, bat1 kwai4 pei2 zyut3, fung6 cing4 gong1 ling4 mok6 fu2 zyu1 gung1
 
 老年常道路，遲日復山川
@@ -51776,7 +51785,7 @@ piu1 bok6 naam4 ting4 lou5, zi1 jing1 hok6 seoi2 sin1
 
 =====================================================
 
-5530 江陵節度陽城郡王新樓成，王請嚴侍御判官賦七字句，同作
+江陵節度陽城郡王新樓成，王請嚴侍御判官賦七字句，同作
 gong1 ling4 zit3 dou6 joeng4 sing4 gwan6 wong4 san1 lau4 sing4, wong4 cing2 jim4 si6 jyu6 pun3 gun1 fu3 cat1 zi6 geoi3, tung4 zok3
 
 樓上炎天冰雪生，高飛燕雀賀新成
@@ -52053,7 +52062,7 @@ zi6 gu2 gong1 wu4 haak3, ming4 sam1 joek6 sei2 fui1
 
 =====================================================
 
-5557 秋日荆南送石首薛明府辭滿告別，奉寄薛尙書頌德敍懷斐然之作
+秋日荆南送石首薛明府辭滿告別，奉寄薛尙書頌德敍懷斐然之作
 cau1 jat6 ging1 naam4 sung3 sek6 sau2 sit3 ming4 fu2 ci4 mun5 gou3 bit6, fung6 gei3 sit3 soeng4 syu1 zung6 dak1 zeoi6 waai4 fei2 jin4 zi1 zok3
 
 南征爲客久，西侯別君初
@@ -52498,7 +52507,7 @@ ping4 sang1 sam1 ji5 zit3, hang4 lou6 jat6 fong1 mou4
 
 =====================================================
 
-5593 舟中出江陵南浦，奉寄鄭少尹
+舟中出江陵南浦，奉寄鄭少尹
 zau1 zung1 ceot1 gong1 ling4 naam4 pou2, fung6 gei3 zeng6 siu3 wan5
 
 更欲投何處，飄然去此都
@@ -53375,7 +53384,7 @@ tou4 naam4 mei6 ho2 liu6, bin3 faa3 jau5 kwan1 paang4
 
 =====================================================
 
-5670 纜船苦風，戲題四韻，奉簡鄭十三郎判官
+纜船苦風，戲題四韻，奉簡鄭十三郎判官
 laam6 syun4 fu2 fung1, hei3 tai4 sei3 wan6, fung6 gaan2 zeng6 sap6 saam1 long4 pun3 gun1
 
 楚岸朔風疾，天寒鶬鴰呼
@@ -55529,7 +55538,7 @@ baak3 ling4 mei6 gam2 saan3, fung1 po3 hon4 gong1 ci4
 
 =====================================================
 
-5862 暮秋枉裴道州手札，率爾遣興，寄近呈蘇渙侍御
+暮秋枉裴道州手札，率爾遣興，寄近呈蘇渙侍御
 mou6 cau1 wong2 pui4 dou6 zau1 sau2 zaat3, seot1 ji5 hin2 hing3, gei3 gan6 cing4 sou1 wun6 si6 jyu6
 
 久客多枉友朋書，素書一月凡一束
@@ -56930,7 +56939,7 @@ soeng1 gung1 lau4 lok6 jyu5, hang4 dyun6 bat1 ham1 man4
 
 =====================================================
 
-5989 風雨看舟前落花，戲爲新句
+風雨看舟前落花，戲爲新句
 fung1 jyu5 hon3 zau1 cin4 lok6 faa1, hei3 wai4 san1 geoi3
 
 江上人家桃樹枝，春寒細雨出疏籬
@@ -57410,7 +57419,7 @@ song3 lyun6 sei2 do1 mun4, wu1 fu1 tai3 jyu4 sin3
 
 =====================================================
 
-6039 舟中苦熱遣懷，奉呈陽中丞，通簡臺省諸公
+舟中苦熱遣懷，奉呈陽中丞，通簡臺省諸公
 zau1 zung1 fu2 jit6 hin2 waai4, fung6 cing4 joeng4 zung1 sing4, tung1 gaan2 toi4 saang2 zyu1 gung1
 
 愧爲湖外客，看此戎馬亂
@@ -57609,7 +57618,7 @@ gou1 go1 gik1 jyu5 zau6, faan4 baak3 san6 sat1 zeoi6
 
 =====================================================
 
-6056 聶耒陽以僕阻水，書致酒肉，詩得代懷，至縣呈聶一首
+聶耒陽以僕阻水，書致酒肉，詩得代懷，至縣呈聶一首
 nip6 leoi6 joeng4 ji5 buk6 zo2 seoi2, syu1 zi3 zau2 juk6, si1 dak1 doi6 waai4, zi3 jyun6 cing4 nip6 jat1 sau2
 
 耒陽馳尺素，見訪荒江渺
@@ -57755,7 +57764,7 @@ gou1 si1 faan4 ji5 sung3, zyu1 haa6 kap6 hon4 cyun4
 
 =====================================================
 
-6075 江閣臥病，走筆寄呈崔盧兩侍御
+江閣臥病，走筆寄呈崔盧兩侍御
 gong1 gok3 ngo6 bing6, zau2 bat1 gei3 cing4 ceoi1 lou4 loeng5 si6 jyu6
 
 客子庖廚薄，江樓枕席清
@@ -57785,7 +57794,7 @@ lau6 ci4 gim1 nyun5 fuk1, seoi4 juk6 zi3 bui1 aang1
 
 =====================================================
 
-6079 江閣對雨，有懷行營裴二端公
+江閣對雨，有懷行營裴二端公
 gong1 gok3 deoi3 jyu5, jau5 waai4 hang4 jing4 pui4 ji6 dyun1 gung1
 
 南紀風濤壯，陰晴屢不分
@@ -57845,7 +57854,7 @@ wu4 gwong1 jyu5 tin1 jyun5, zik6 juk6 faan3 sin1 caa4
 
 =====================================================
 
-6087 暮秋將歸秦，留別湖南幕府親友
+暮秋將歸秦，留別湖南幕府親友
 mou6 cau1 zoeng1 gwai1 ceon4, lau4 bit6 wu4 naam4 mok6 fu2 can1 jau5
 
 水闊蒼梧野，天高白帝秋
@@ -57907,7 +57916,7 @@ lei5 dou6 cai4 ming4 zan1 tim2 sit3, sok3 wan4 hon4 guk1 pui5 lei4 jau1
 
 =====================================================
 
-6093 風疾舟中，伏枕書懷三十六韻，奉呈湖南親友
+風疾舟中，伏枕書懷三十六韻，奉呈湖南親友
 fung1 zat6 zau1 zung1, fuk6 zam2/zam3 syu1 waai4 saam1 sap6 luk6 wan6, fung6 cing4 wu4 naam4 can1 jau5
 
 軒轅休製律，虞舜罷彈琴
