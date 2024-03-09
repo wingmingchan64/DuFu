@@ -31468,6 +31468,7 @@ zoeng6 fu1 seoi4 ming4 dung6 maan6 nin4, gei3 jik1 sai3 gu3 fei1 gou1 jin4
 【補充說明】
 一屋、二沃、三覺，鄰韻。
 
+
 =====================================================
 
 3381 三韻三篇
@@ -39506,7 +39507,7 @@ so1 zok6 gung1 seoi1 mei5, tou4 gwan1 lik6 daai6 zoi1
 
 =====================================================
 
-4248 夜宿西閣，曉呈元二十一曹長
+夜宿西閣，曉呈元二十一曹長
 je6 suk1 sai1 gok3, hiu2 cing4 jyun4 ji6 sap6 jat1 cou4 coeng4
 
 城暗更籌急，樓高雨雪微
@@ -41441,7 +41442,7 @@ on1 dak1 ceoi4 niu5 ling4, baak1 ci2 geoi6 zoeng1 hung2
 
 =====================================================
 
-4501 醉爲馬墜，羣公攜酒相看
+醉爲馬墜，羣公攜酒相看
 zeoi3 wai4 maa5 zeoi6, kwan4 gung1 kwai4 zau2 soeng1 hon3
 
 甫也諸侯老賓客，罷酒酣歌拓金戟
@@ -42406,7 +42407,7 @@ gwai1 ciu4 do1 bin6 dou6, bok3 gik1 mong6 cau1 tin1
 
 =====================================================
 
-4607 舍弟觀歸藍田迎新婦，送示兩篇
+舍弟觀歸藍田迎新婦，送示兩篇
 se3 dai6 gun1 gwai1 laam4 tin4 jing4 san1 fu5, sung3 si6 loeng5 pin1
 
 其一
@@ -43371,7 +43372,7 @@ tung4 se3 san4 ceoi1 si6, wu4 wai4 jim1 ci2 lau4
 =====================================================
 
 -----------------------------------------------------
-4718 第五弟豐獨在江左，近三四載寂無消息，覓使寄此二首
+第五弟豐獨在江左，近三四載寂無消息，覓使寄此二首
 dai6 ng5 dai6 fung1 duk6 zoi6 gong1 zo2, gan6 saam1 sei3 zoi2 zik6 mou4 siu1 sik1, mik6 si3 gei3 ci2 ji6 sau2
 
 其一
@@ -43648,7 +43649,7 @@ cai1 ji4 doi6 loi4 ce2 gwai1 heoi3, taa1 jat6 zoeng6 lai4 loi4 sai3 ting1
 
 =====================================================
 
-4754 君不見，簡蘇徯
+君不見，簡蘇徯
 gwan1 bat1 gin3, gaan2 sou1 hai4
 
 君不見道邊廢棄池，君不見前者摧折桐
