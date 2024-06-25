@@ -29,5 +29,5 @@
 主要參考：
 https://jyut.net/
 https://www.zdic.net/
-https://dict.revised.moe.edu.tw/search.jsp?md=1
-https://sou-yun.cn/QR.aspx?ct=%E5%AF%98&c=%E7%9D%A1
+https://dict.revised.moe.edu.tw/search.jsp？md=1
+https://sou-yun.cn/QR.aspx？ct=%E5%AF%98&c=%E7%9D%A1
