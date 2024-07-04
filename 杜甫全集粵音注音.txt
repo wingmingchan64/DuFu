@@ -2711,7 +2711,6 @@ gwan1 hon3 ceoi4 joeng4 ngaan6, gok3 jau5 dou6 loeng4 mau4
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -4398,7 +4397,6 @@ coi2 coi2 wong4 gam1 faa1, ho4 jau4 mun5 ji1 zau6
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -4426,7 +4424,6 @@ nim6 zi1 hung1 zoeng2 daai6 zi1 jip6, git3 gan1 sat1 so2 maai4 fung1 soeng1
 
 【體裁】
 七古
-
 
 =====================================================
 
@@ -4951,7 +4948,7 @@ lung4 mui4 sik1 si6 ak1 waa1 sang1, hon6 hyut3 gam1 cing1 hin3 jyu1 ci2
 jyun2 zung1 loi4 pan5 saam1 cin1 pat1, fung1 cou2 cing1 cing1 hon4 bat1 sei2
 -----------------------------------------------------
 食之豪健西域無，每歲攻駒冠邊鄙。
-sik6 zi1 hou4 gin6 sai1 wik6 mou4, mui5 seoi3 gung1 keoi1 gun3 bin1 pei2
+zi6 zi1 hou4 gin6 sai1 wik6 mou4, mui5 seoi3 gung1 keoi1 gun3 bin1 pei2
 -----------------------------------------------------
 王有虎臣司苑門，入門天廏皆雲屯。
 wong4 jau5 fu2 san4 si1 jyun2 mun4, jap6 mun4 tin1 gau3 gaai1 wan4 tyun4
@@ -6047,7 +6044,6 @@ hou6 go1 luk6 seoi2 kuk1, cing1 zyut6 ting1 ze2 sau4
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -6734,7 +6730,6 @@ geoi2 tau4 hoeng3 cong1 tin1, on1 dak1 kei4 hung4 huk6
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -7012,7 +7007,6 @@ wong4 fan1 wu4 kei3 can4 mun5 sing4, juk6 wong5 sing4 naam4 mong4 naam4 bak1
 
 【體裁】
 七古
-
 
 =====================================================
 
@@ -29485,7 +29479,7 @@ zyut6 geoi3 sei3 sau2
 其一
 
 堂西長筍別開門，塹北行椒卻背村
-tong4 sai1 coeng4 seon2 bit6 hoi1 mun4, cim3 bak1 hang4 ziu1 koek3 bui3 cyun1
+tong4 sai1 coeng4 seon2 bit6 hoi1 mun4, cim3 bak1 hong4 ziu1 koek3 bui3 cyun1
 平平平仄仄平平，仄仄平平仄仄平
 -----------------------------------------------------
 梅熟許同朱老喫，松高擬對阮生論
