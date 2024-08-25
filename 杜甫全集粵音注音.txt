@@ -18899,7 +18899,7 @@ jat1 je6 seoi2 gou1 ji6 cek3 koeng4, sou3 jat6 bat1 ho2 gang3 kam1 dong1
 仄仄仄平仄仄平，仄仄仄仄仄平平
 -----------------------------------------------------
 南市津頭有船賣，無錢卽買繫籬旁
-naam4 si5 zeon1 tau4 jau5 syun4 maai6, mou4 cin4 zik1 maai5 hai6 lei4 pong4
+naam4 si5 zeon1 tau4 jau5 syun4 maai6, mou4 cin4 zik1 maai5 gai3 lei4 pong4
 平仄平平仄平仄，平平仄仄仄平平
 
 【韻部】
@@ -18915,6 +18915,7 @@ naam4 si5 zeon1 tau4 jau5 syun4 maai6, mou4 cin4 zik1 maai5 hai6 lei4 pong4
 〚2:〛七絕
 
 【補充說明】
+〚2:11.2.5〛繫，綁，用本讀。
 此二詩多拗句。
 
 =====================================================
@@ -19756,7 +19757,7 @@ naam4 ging1 gau2 haak3 gaang1 naam4 mau5, bak1 mong6 soeng1 san4 zo6 bak1 coeng1
 zau3 jan5 lou5 cai1 sing4 siu2 ting5, cing4 hon1 zi6 zi2 juk6 cing1 gong1
 仄仄仄平平仄仄，平平仄仄仄平平
 -----------------------------------------------------
-俱飛蛺蝶元相逐，並蒂芙蓉本自雙
+俱飛蛺蝶元相逐，並蔕芙蓉本自雙
 keoi1 fei1 gaap3 dip6 jyun4 soeng1 zuk6, bing6 dai3 fu4 jung4 bun2 zi6 soeng1
 平平仄仄平平仄，仄仄平平仄仄平
 -----------------------------------------------------
@@ -23214,7 +23215,7 @@ fau4 jau6 zung3 saan1 noi6, gam1 waa4 zi2 ceoi1 ngai4
 soeng6 jau5 wai3 laam4 tin1, seoi4 gwong1 pou5 king4 toi4
 -----------------------------------------------------
 繫舟接絕壁，杖策窮縈回
-hai6 zau1 zip3 zyut6 bik1, zoeng6 caak3 kung4 jing4 wui4
+gai3 zau1 zip3 zyut6 bik1, zoeng6 caak3 kung4 jing4 wui4
 -----------------------------------------------------
 四顧俯層巓，淡然川谷開
 sei3 gu3 fu2 cang4 din1, daam6 jin4 cyun1 guk1 hoi1
@@ -26985,7 +26986,7 @@ fan1 jip6 zung1 gwai1 maa5 fuk6 bo1, gung1 cou4 fei1 fau6 hon3 siu1 ho4
 平仄平平仄仄平，平平平仄仄平平
 -----------------------------------------------------
 扁舟繫纜沙邊久，南國浮雲水上多
-pin1 zau1 hai6 laam6 saa1 bin1 gau2, naam4 gwok3 fau4 wan4 seoi2 soeng6 do1
+pin1 zau1 gai3 laam6 saa1 bin1 gau2, naam4 gwok3 fau4 wan4 seoi2 soeng6 do1
 平平仄仄平平仄，平仄平平仄仄平
 -----------------------------------------------------
 獨把漁竿終遠去，難隨鳥翼一相過
@@ -33941,7 +33942,7 @@ jyun4 sing4 fu6 man4 coi2, sai3 jip6 hei2 cam4 leon4
 ji4 waa4 joeng4 lau5 siu2 fu2
 
 繫馬喬木間，問人野寺門
-hai6 maa5 kiu4 muk6 gaan1, man6 jan4 je5 zi6 mun4
+gai3 maa5 kiu4 muk6 gaan1, man6 jan4 je5 zi6 mun4
 -----------------------------------------------------
 柳侯披衣笑，見我顏色溫
 lau5 hau4 pei1 ji1 siu3, gin3 ngo5 ngaan4 sik1 wan1
@@ -35957,10 +35958,9 @@ coi2 bat1 sik1 cang4 gon1 hei3 zoeng6, baak6 tau4 jam4 mong6 fu2 dai1 seoi4
 〚8:〛七律
 
 【補充說明】
+〚1:7.2.4〛繫，心爲賓語，讀 hai6。
 首句入韻。湧，上聲。淚，去聲。尺，入聲。三仄輪用。
 「滄」借「蒼」對「青」。
-
-
 
 =====================================================
 
@@ -37175,7 +37175,7 @@ hung2 geoi6 luk6 wai6 gou1, coeng3 mong6 wong4 tou2 zaak3
 bat1 dak1 gin3 cing1 si4, wu1 fu1 zau6 zeon1 zik6
 -----------------------------------------------------
 永繫五湖舟，悲甚田橫客
-wing5 hai6 ng5 wu4 zau1, bei1 sam6 tin4 waang4 haak3
+wing5 gai3 ng5 wu4 zau1, bei1 sam6 tin4 waang4 haak3
 -----------------------------------------------------
 千秋汾晉間，事與雲水白
 cin1 cau1 fan4 zeon3 gaan1, si6 jyu5 wan4 seoi2 baak6
@@ -38491,7 +38491,7 @@ siu1 tiu4 jik1 ham1 kwai3, duk6 zoi6 tin1 jat1 jyu4
 sing4 wong4 ji5 heoi3 ji5, faan4 maa5 tou4 keoi1 keoi1
 -----------------------------------------------------
 不復見顏鮑，繫舟臥荆巫
-bat1 fau6 gin3 ngaan4 baau6, hai6 zau1 ngo6 ging1 mou4
+bat1 fau6 gin3 ngaan4 baau6, gai3 zau1 ngo6 ging1 mou4
 -----------------------------------------------------
 臨餐吐更食，常恐違撫孤
 lam4 caan1 tou3 gang3 sik6, soeng4 hung2 wai4 fu2 gu1
@@ -41376,7 +41376,7 @@ maan5 dang1 joeng5 soeng6 tong4
 gu3 zai1 joeng5 ngon6 gou1, po2 min5 ngaai4 sek6 jung2
 -----------------------------------------------------
 開襟野堂豁，繫馬林花動
-hoi1 kam1 je5 tong4 kut3, hai6 maa5 lam4 faa1 dung6
+hoi1 kam1 je5 tong4 kut3, gai3 maa5 lam4 faa1 dung6
 -----------------------------------------------------
 雉堞粉似雲，山田麥無隴
 zi6 dip6 fan2 ci5 wan4, saan1 tin4 mak6 mou4 lung5
@@ -41694,7 +41694,7 @@ gwaa3 bik1 ji4 hong1 gwo2, fu1 ji4 man6 zyu2 jyu4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 時聞繫舟楫，及此問吾廬
-si4 man4 hai6 zau1 zip3, kap6 ci2 man6 ng4 lou4
+si4 man4 gai3 zau1 zip3, kap6 ci2 man6 ng4 lou4
 平平仄平仄，仄仄仄平平（出句特定平仄）
 
 【韻部】
@@ -44295,7 +44295,7 @@ piu1 ling4 jing4 baak3 lei5, siu1 hot3 ji5 saam1 nin4
 平平平仄仄，平仄仄平平
 -----------------------------------------------------
 雄劍鳴開匣，羣書滿繫船
-hung4 gim3 ming4 hoi1 hap6, kwan4 syu1 mun5 hai6 syun4
+hung4 gim3 ming4 hoi1 hap6, kwan4 syu1 mun5 gai3 syun4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 亂離心不展，衰謝日蕭然
@@ -45076,7 +45076,7 @@ cau1 je5 jat6 so1 mou4, hon4 gong1 dung6 bik1 heoi1
 平仄仄平平，平平仄仄平
 -----------------------------------------------------
 繫舟蠻井絡，卜宅楚村墟
-hai6 zau1 maan4 zing2 lok3, buk1 zaak6 co2 cyun1 heoi1
+gai3 zau1 maan4 zing2 lok3, buk1 zaak6 co2 cyun1 heoi1
 仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 棗熟從人打，葵荒欲自鋤
@@ -45453,7 +45453,7 @@ ceon4 dei6 jing3 san1 jyut6, lung4 ci4 mun5 gau6 gung1
 平仄仄平仄，平平仄仄平
 -----------------------------------------------------
 繫舟今夜遠，清漏往時同
-hai6 zau1 gam1 je6 jyun5, cing1 lau6 wong5 si4 tung4
+gai3 zau1 gam1 je6 jyun5, cing1 lau6 wong5 si4 tung4
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
 萬里黃山北，園陵白露中
@@ -47160,7 +47160,7 @@ tou4 hai4 lei5 ging3 nin4 seoi1 gu3, zi1 zi2 hung4 ziu1 jim6 fau6 syu4
 so2 sek6 tang4 saau1 jyun4 zi6 lok6, ji2 tin1 cung4 gwat1 gin3 loi4 fu1
 仄仄平平平仄仄，仄平平仄仄平平
 -----------------------------------------------------
-林香出實垂將盡，葉蒂辭枝不重蘇
+林香出實垂將盡，葉蔕辭枝不重蘇
 lam4 hoeng1 ceot1 sat6 seoi4 zoeng1 zeon6, jip6 dai3 ci4 zi1 bat1 cung4 sou1
 平平仄仄平平仄，仄仄平平仄平平
 -----------------------------------------------------
@@ -53603,7 +53603,7 @@ suk1 cing1 cou2 wu4
 dung6 ting4 jau4 zoi6 muk6, cing1 cou2 zuk6 wai4 ming4
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
-宿槳依農事，郵簽報水程
+宿槳依農事，郵籤報水程
 suk1 zoeng2 ji1 nung4 si6, jau4 cim1 bou3 seoi2 cing4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
@@ -54203,7 +54203,7 @@ zung1 ding2 saan1 lam4 gok3 tin1 sing3, zuk6 lou4 cou1 faan6 jam6 ng4 nin4
 ci2 san1 piu1 bok6 fu2 sai1 dung1, jau6 bei3 pin1 fu1 bun3 ji5 lung4
 -----------------------------------------------------
 寂寂繫舟雙下淚，悠悠伏枕左書空
-zik6 zik6 hai6 zau1 soeng1 haa6 leoi6, jau4 jau4 fuk6 zam2 zo2 syu1 hung1
+zik6 zik6 gai3 zau1 soeng1 haa6 leoi6, jau4 jau4 fuk6 zam2 zo2 syu1 hung1
 -----------------------------------------------------
 十年蹴踘將雛遠，萬里鞦韆習俗同
 sap6 nin4 cuk1 guk1 zoeng1 co1 jyun5, maan6 lei5 cau1 cin1 zaap6 zuk6 tung4
@@ -54341,7 +54341,7 @@ suk1 zok6 sek6 pou2
 zou2 suk1 ban1 cung4 lou4, zung6 ceon1 gong1 saan1 lai6
 -----------------------------------------------------
 飄風過無時，舟楫敢不繫
-piu1 fung1 gwo3 mou4 si4, zau1 zip3 gam2 bat1 hai6
+piu1 fung1 gwo3 mou4 si4, zau1 zip3 gam2 bat1 gai3
 -----------------------------------------------------
 回塘淡暮色，日沒眾星嘒
 wui4 tong4 daam6 mou6 sik1, jat6 mut6 zung3 sing1 wai3
@@ -54356,7 +54356,7 @@ kung4 tou4 do1 zeon3 ji6, lyun6 sai3 siu2 jan1 wai6
 pei2 fu1 jik6 fong3 dong6, cou2 cou2 pan4 zeot1 seoi3
 -----------------------------------------------------
 斯文憂患餘，聖哲垂彖繫
-si1 man4 jau1 waan6 jyu4, sing3 zit3 seoi4 deon3 hai6
+si1 man4 jau1 waan6 jyu4, sing3 zit3 seoi4 teon3 hai6
 
 【韻部】
 〚3.2.5〛麗：霽韻
@@ -54369,6 +54369,9 @@ si1 man4 jau1 waan6 jyu4, sing3 zit3 seoi4 deon3 hai6
 
 【體裁】
 五古
+
+【評論】
+王嗣奭《杜臆》特意指出兩「繫」字異讀，非重韻也。
 
 =====================================================
 
@@ -54630,7 +54633,7 @@ sei3 zeoi6 bun2 ping4 fan1, hei3 hau6 ho4 wui4 wu6
 mong4 mong4 tin1 zou6 gaan1, lei5 lyun6 hei2 hang4 sou3
 -----------------------------------------------------
 繫舟盤藤輪，杖策古樵路
-hai6 zau1 pun4 tang4 leon4, zoeng6 caak3 gu2 ciu4 lou6
+gai3 zau1 pun4 tang4 leon4, zoeng6 caak3 gu2 ciu4 lou6
 -----------------------------------------------------
 罷人不在村，野圃泉自注
 baa6 jan4 bat1 zoi6 cyun1, je5 pou2 cyun4 zi6 zyu3
@@ -54719,7 +54722,7 @@ zin6 zi2 juk6 dik1 cung4, ji4 ng6 ci2 ji6 bing3
 
 【補充說明】
 〚8.2.5〛醒，韻典網引《洪武正韻牋》，敬韻。二十四敬、二十五徑，鄰韻。
-〚14.1.4〛適，從王嗣奭《杜臆》讀 dik1。
+〚14.1.4〛適，從王嗣奭《杜臆》讀 dik1。適從，順從。
 
 =====================================================
 
@@ -54839,7 +54842,7 @@ zi2 tung4 jin3 sek6 nang4 sing1 wan5, zi6 dak1 ceoi4 zyu1 gok3 je6 ming4
 仄平仄仄平平仄，仄仄平平仄仄平
 -----------------------------------------------------
 喬口橘洲風浪促，繫帆何惜片時程
-kiu4 hau2 gwat1 zau1 fung1 long6 cuk1, hai6 faan4 ho4 sik1 pin3 si4 cing4
+kiu4 hau2 gwat1 zau1 fung1 long6 cuk1, gai3 faan4 ho4 sik1 pin3 si4 cing4
 平仄仄平平仄仄，仄平平仄仄平平
 
 【韻部】
@@ -55340,7 +55343,7 @@ lo4 mong5 kwan4 maa5 zik6 maa5 do1, hei3 jung6 keoi1 ceoi4 ceot1 gam1 baak6
 lau4 hau4 fung6 si3 gwong1 teoi1 zaak6, tou1 tou1 coi4 loek6 cong1 ming4 zaak3
 -----------------------------------------------------
 杜陵老翁秋繫船，扶病相識長沙驛
-dou6 ling4 lou5 jung1 cau1 hai6 syun4, fu4 bing6 soeng1 sik1 coeng4 saa1 jik6
+dou6 ling4 lou5 jung1 cau1 gai3 syun4, fu4 bing6 soeng1 sik1 coeng4 saa1 jik6
 -----------------------------------------------------
 強梳白髮提胡盧，手兼菊花路旁摘
 koeng5 so1 baak6 faat3 tai4 wu4 lou4, sau2 gim1 guk1 faa1 lou6 pong4 zaak6
