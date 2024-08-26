@@ -1,0 +1,14 @@
+書本頁碼說明:
+
+王嗣奭《杜臆》1,PDF54,8,PDF1.43
+1. 第一組數字（1）代表中華書局1963年10月第一版的頁碼
+2. 第二組數字（PDF54）代表中華書局1963年10月第一版PDF電子書的頁碼
+3. 第三組數字（8）代表上海圖書館藏本的頁碼（頁碼在左頁右下角，右頁無頁碼）
+4. 第四組數字（PDF1.43）代表上海圖書館藏本PDF電子書的頁碼（第一冊頁43）
+https://upload.wikimedia.org/wikipedia/commons/e/ec/Shanghai_%E6%9D%9C%E8%87%86%E5%8D%81%E5%8D%B7%E7%AE%A1%E5%A4%A9%E7%AD%86%E8%A8%98%E4%B8%80%E5%8D%B7.pdf
+https://commons.wikimedia.org/wiki/File:SSID-12358863_%E6%9D%9C%E8%87%86_1.pdf
+https://commons.wikimedia.org/wiki/File:SSID-12358864_%E6%9D%9C%E8%87%86_2.pdf
+https://commons.wikimedia.org/wiki/File:SSID-12358865_%E6%9D%9C%E8%87%86_3.pdf
+https://commons.wikimedia.org/wiki/File:SSID-12358866_%E6%9D%9C%E8%87%86_4.pdf
+https://commons.wikimedia.org/wiki/File:SSID-12358867_%E6%9D%9C%E8%87%86_5.pdf
+https://commons.wikimedia.org/wiki/File:SSID-12358868_%E6%9D%9C%E8%87%86_6.pdf
