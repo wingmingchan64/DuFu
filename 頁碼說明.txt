@@ -22,6 +22,11 @@ https://commons.wikimedia.org/wiki/File:Shanghai_%E6%9D%9C%E8%87%86%E5%8D%81%E5%
 仇兆鰲《杜詩詳註》
 清芸生堂本
 https://commons.wikimedia.org/wiki/Category:%E6%9D%9C%E8%A9%A9%E8%A9%B3%E6%B3%A8
-缺卷十九，源於 http://106.58.214.83:8000/ls/%E6%9D%9C%E8%A9%A9%E8%A9%B3%E6%B3%A8%E4%B8%89%E5%8D%81%E4%B8%80%E5%8D%B7%E9%A6%96%E4%B8%80%E5%8D%B7%E9%99%84%E9%8C%84%E4%BA%8C%E5%8D%B7?rmstId=Jz
-足本見 https://kokusho.nijl.ac.jp/biblio/100105237/1?ln=ja
-
+缺卷十九，源於： http://106.58.214.83:8000/ls/%E6%9D%9C%E8%A9%A9%E8%A9%B3%E6%B3%A8%E4%B8%89%E5%8D%81%E4%B8%80%E5%8D%B7%E9%A6%96%E4%B8%80%E5%8D%B7%E9%99%84%E9%8C%84%E4%BA%8C%E5%8D%B7?rmstId=Jz
+足本見： https://kokusho.nijl.ac.jp/biblio/100105237/1?ln=ja
+仇兆鰲《杜詩詳註》1.29,PDF1.102,芸0078
+1. 第一組數字（1.29）代表中華書局1979年10月第一版的冊次、頁碼（此書共五冊）
+2. 第二組數字（PDF1.102）代表中華書局1979年10月第一版PDF電子書的冊次、頁碼
+3. 第三組數字（芸0078）代表国書データベース第0078圖（該圖的編號是79）
+https://kokusho.nijl.ac.jp/biblio/100105237/1?ln=ja
+四庫本用的是 https://zh.wikisource.org/zh-hant/%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC) 跟 https://www.kanripo.org/text/KR4c0020/ （https://github.com/kanripo/KR4c0020）
