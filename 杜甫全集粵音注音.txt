@@ -9475,7 +9475,7 @@ hau2 zi1 min6 joek6 ceoi4 jan1 zaak6, ceoi3 gun2 ngan4 aang1 haa6 gau2 siu1
 =====================================================
 
 0998 奉和賈至舍人早朝大明宮
-fung6 wo4 gaa2 zi3 se3 jan4 zou2 ciu4 daai6 ming4 gung1
+fung6 wo6 gaa2 zi3 se3 jan4 zou2 ciu4 daai6 ming4 gung1
 
 五夜漏聲催曉箭，九重春色醉仙桃。
 ng5 je6 lau6 sing1 ceoi1 hiu2 zin3, gau2 cung4 ceon1 sik1 zeoi3 sin1 tou4
@@ -34723,9 +34723,9 @@ cing1 loeng4 po3 jim4 duk6, seoi1 ji3 juk6 dang1 toi4
 =====================================================
 
 3686 種萵苣
-zung2 wo1 geoi6
+zung3 wo1 geoi6
 
-旣雨已秋，堂下理小畦，隔種一兩席許萵苣，向二旬矣，而苣不甲坼，獨野莧青青，傷時君子，或晚得微祿，轗軻不進，因作此詩
+旣雨已秋，堂下理小畦，隔種一兩席許萵苣。向二旬矣，而苣不甲坼，獨野莧青青。傷時君子，或晚得微祿，轗軻不進，因作此詩。
 gei3 jyu5 ji5 cau1, tong4 haa6 lei5 siu2 kwai4, gaak3 zung3 jat1 loeng5 zik6 heoi2 wo1 geoi6, hoeng3 ji6 ceon4 ji5, ji4 geoi6 bat1 gaap3 caak3, duk6 je5 jin6 cing1 cing1, soeng1 si4 gwan1 zi2, waak6 maan5 dak1 mei4 luk6, ham2 ho2 bat1 zeon3, jan1 zok3 ci2 si1
 
 陰陽一錯亂，驕蹇不復理
@@ -37088,7 +37088,7 @@ fu3 si1 fan1 hei3 zoeng6, gaai1 geoi3 mok6 pan4 pan4
 3955 八哀詩
 baat3 oi1 si1 unknown bing6/bing1/bing3 zeoi6 unknown
 
-傷時盜賊未息，興起王公，李公，歎舊懷賢，終於張相國，八公前後存歿，遂不詮次焉
+傷時盜賊未息，興起王公、李公，歎舊懷賢，終於張相國。八公前後存歿，遂不詮次焉。
 soeng1 si4 dou6 caak6 mei6 sik1, hing1 hei2 wong4 gung1, lei5 gung1, taan3 gau6 waai4 jin4, zung1 jyu1 zoeng1 soeng1 gwok3, baat3 gung1 cin4 hau6 cyun4 mut6, seoi6 bat1 cyun4 ci3 jin4
 
 贈司空王公思禮
@@ -41804,7 +41804,7 @@ taa1 hoeng1 jyut6 ci4 mou6, bat1 gam2 fai3 si1 pin1
 4546 園官送菜
 jyun4 gun1 sung3 coi3
 
-園官送菜把，本數日闕，矧苦苣，馬齒，掩乎嘉蔬，傷時小人妬害君子，菜不足道也，比而作詩
+園官送菜把，本數日闕。矧苦苣、馬齒，掩乎嘉蔬，傷時小人妬害君子，菜不足道也，比而作詩。
 jyun4 gun1 sung3 coi3 baa2, bun2 sou3 jat6 kyut3, can2 fu2 geoi6, maa5 ci2, jim2 fu4 gaa1 so1, soeng1 si4 siu2 jan4 dou3 hoi6 gwan1 zi2, coi3 bat1 zuk1 dou6 jaa5, bei2 ji4 zok3 si1
 
 清晨蒙菜把，常荷地主恩
@@ -41920,7 +41920,7 @@ jyun4 jan4 fei1 gu3 hau4, zung3 ci2 ho4 cou2 cou2
 4556 課伐木
 fo3 fat6 muk6
 
-課隸人伯夷，幸秀，信行等，入谷斬陰木，人日四根止，維條伊枚，正直挺然，晨征暮返，委積庭內，我有藩籬，是缺是補，載伐篠簜，伊仗支持，則旅次於小安，山有虎，知禁，若恃爪牙之利，必昏黑撐突，夔人屋壁，列樹白菊，鏝爲牆，實以竹，示式遏，爲與虎近，混淪乎無良，賓客憂害馬之徒苟活爲幸，可嘿息已，作詩付宗武誦
+課隸人伯夷、幸秀、信行等，入谷斬陰木，人日四根止，維條伊枚，正直挺然。晨征暮返，委積庭內。我有藩籬，是缺是補，載伐篠簜，伊仗支持，則旅次於小安。山有虎，知禁，若恃爪牙之利，必昏黑撐突。夔人屋壁，列樹白菊，鏝爲牆，實以竹，示式遏。爲與虎近，混淪乎無良。賓客憂害馬之徒苟活爲幸，可嘿息已。作詩付宗武誦。
 fo3 lai6 jan4 baak3 ji4, hang6 sau3, seon3 hang4 dang2, jap6 guk1 zaam2 jam1 muk6, jan4 jat6 sei3 gan1 zi2, wai4 tiu4 ji1 mui4, zing3 zik6 ting5 jin4, san4 zing1 mou6 faan2, wai2 zik1 ting4 noi6, ngo5 jau5 faan4 lei4, si6 kyut3 si6 bou2, zoi3 fat6 siu2 dong6, ji1 zoeng6 zi1 ci4, zak1 leoi5 ci3 jyu1 siu2 on1, saan1 jau5 fu2, zi1 gam3, joek6 ci5 zaau2 ngaa4 zi1 lei6, bit1 fan1 hak1 caang1 dat6, kwai4 jan4 uk1 bik1, lit6 syu6 baak6 guk1, maan6 wai4 coeng4, sat6 ji5 zuk1, si6 sik1 aat3, wai6 jyu5 fu2 gan6, wan6 leon4 fu4 mou4 loeng4, ban1 haak3 jau1 hoi6 maa5 zi1 tou4 gau2 wut6 wai4 hang6, ho2 hei1 sik1 ji5, zok3 si1 fu6 zung1 mou5 zung6
 
 
@@ -44131,7 +44131,7 @@ zou2 gwai1 loi4, wong4 tou2 wu1 ji1 ngaan5 ji6 mai5
 4813 同元使君舂陵行
 tung4 jyun4 si3 gwan1 zung1 ling4 hang4
 
-覽道州元使君結舂陵行兼賊退後示官吏作二首，志之曰，當天子分憂之地，效漢官良吏之目，今盜賊未息，知民疾苦，得結輩十數公，落落然參錯天下爲邦伯，萬物吐氣，天下少安可得矣，不意復見比興體制，微婉頓挫之詞，感而有詩，增諸卷軸，簡知我者，不必寄元
+覽道州元使君結《舂陵行》兼《賊退後示官吏作》二首，志之曰：當天子分憂之地，效漢官良吏之目。今盜賊未息，知民疾苦，得結輩十數公，落落然參錯天下爲邦伯，萬物吐氣，天下少安可得矣！不意復見比興體制，微婉頓挫之詞，感而有詩，增諸卷軸，簡知我者，不必寄元。
 laam5 dou6 zau1 jyun4 si3 gwan1 git3 zung1 ling4 hang4 gim1 caak6 teoi3 hau6 si6 gun1 lei6 zok3 ji6 sau2, zi3 zi1 jyut6, dong1 tin1 zi2 fan1 jau1 zi1 dei6, haau6 hon3 gun1 loeng4 lei6 zi1 muk6, gam1 dou6 caak6 mei6 sik1, zi1 man4 zat6 fu2, dak1 git3 bui3 sap6 sou3 gung1, lok6 lok6 jin4 cam1 cok3 tin1 haa6 wai4 bong1 baak3, maan6 mat6 tou3 hei3, tin1 haa6 siu2 on1 ho2 dak1 ji5, bat1 ji3 fau6 gin3 bei2 hing3 tai2 zai3, mei4 jyun2 deon6 cok3 zi1 ci4, gam2 ji4 jau5 si1, zang1 zyu1 gyun2 zuk6, gaan2 zi1 ngo5 ze2, bat1 bit1 gei3 jyun4
 
 遭亂髮盡白，轉衰病相嬰
@@ -49168,9 +49168,9 @@ ng4 bui3 luk1 luk1 baau2 faan6 hang4, fung1 hau6 lik6 muk6 coeng4 wui4 sau2
 =====================================================
 
 5308 觀公孫大娘弟子舞劍器行
-gun1/gun3 gung1 syun1 daai6 noeng4 dai6 zi2 mou5 gim3 hei3 hang4 unknown bing6/bing1/bing3 zeoi6 unknown
+gun1 gung1 syun1 daai6 noeng4 dai6 zi2 mou5 gim3 hei3 hang4
 
-大曆二年十月十九日，夔府別駕元持宅，見臨潁李十二娘舞劍器，壯其蔚跂，問其所師，曰，余，公孫大娘弟子也，開元五載，余尙童稚，記於郾城觀公孫氏舞劍器渾脫，瀏灕頓挫，獨出冠時，自高頭宜春，梨園二伎坊內人，洎外供奉，曉是舞者，聖文神武皇帝初，公孫一人而已，玉貌錦衣，況余白首，今茲弟子，亦匪盛顏，旣辯其由來，知波瀾莫二，撫事慷慨，聊爲劍器行，往者吳人張旭善草書書帖，數嘗於鄴縣見公孫大娘舞西河劍器，自此草書長進，豪蕩感激，卽公孫可知矣
+大曆二年十月十九日，夔府別駕元持宅，見臨潁李十二娘舞《劍器》，壯其蔚跂。問其所師？曰：「余，公孫大娘弟子也。」開元五載，余尙童稚，記於郾城觀公孫氏舞《劍器渾脫》，瀏灕頓挫，獨出冠時。自高頭宜春、梨園二伎坊內人，洎外供奉，曉是舞者，聖文神武皇帝初，公孫一人而已。玉貌錦衣，況余白首，今茲弟子，亦匪盛顏。旣辯其由來，知波瀾莫二。撫事慷慨，聊爲《劍器行》。往者吳人張旭善草書書帖，數嘗於鄴縣見公孫大娘舞《西河劍器》，自此草書長進，豪蕩感激，卽公孫可知矣！
 daai6 lik6 ji6 nin4 sap6 jyut6 sap6 gau2 jat6, kwai4 fu2 bit6 gaa3 jyun4 ci4 zaak6, gin3 lam4 wing6 lei5 sap6 ji6 noeng4 mou5 gim3 hei3, zong3 kei4 wai3 kei4, man6 kei4 so2 si1, jyut6, jyu4, gung1 syun1 daai6 noeng4 dai6 zi2 jaa5, hoi1 jyun4 ng5 zoi2, jyu4 soeng6 tung4 zi6, gei3 jyu1 jin2 sing4 gun1 gung1 syun1 si6 mou5 gim3 hei3 wan4 tyut3, lau4 lei4 deon6 co3, duk6 ceot1 gun1 si4, zi6 gou1 tau4 ji4 ceon1, lei4 jyun4 ji6 gei6 fong1 noi6 jan4, gei6 ngoi6 gung1 fung6, hiu2 si6 mou5 ze2, sing3 man4 san4 mou5 wong4 dai3 co1, gung1 syun1 jat1 jan4 ji4 ji5, juk6 maau6 gam2 ji1, fong3 jyu4 baak6 sau2, gam1 zi1 dai6 zi2, jik6 fei2 sing6 ngaan4, gei3 bin6 kei4 jau4 loi4, zi1 bo1 laan4 mok6 ji6, fu2 si6 kong2 koi3, liu4 wai4 gim3 hei3 hang4, wong5 ze2 ng4 jan4 zoeng1 juk1 sin6 cou2 syu1 syu1 tip3, sou3 soeng4 jyu1 jip6 jyun6 gin3 gung1 syun1 daai6 noeng4 mou5 sai1 ho4 gim3 hei3, zi6 ci2 cou2 syu1 zoeng2 zeon3, hou4 dong6 gam2 gik1, zik1 gung1 syun1 ho2 zi1 ji5
 
 昔有佳人公孫氏，一舞劍器動四方
@@ -56408,7 +56408,7 @@ jyun6 fan1 zuk1 sat6 kap6 lau4 ngai5, zeon6 si3 ci1 hiu1 soeng1 nou6 hou4
 5941 追酬故高蜀州人日見寄
 zeoi1 cau4 gu3 gou1 suk6 zau1 jan4 jat6 gin3 gei3
 
-開文書帙中，檢所遺忘，因得故高常侍適往居在成都時，高任蜀州刺史，人日相憶見寄詩，淚灑行間，讀終篇末，自枉詩已十餘年，莫記存沒，又六七年矣，老病懷舊，生意可知，今海內忘形故人，獨漢中王瑀與昭州敬使君超先在，愛而不見，情見乎辭，大曆五年正月二十一日，卻追酬高公此作，因寄王及敬弟
+開文書帙中，檢所遺忘，因得故高常侍適往居在成都時，高任蜀州刺史，人日相憶見寄詩。淚灑行間，讀終篇末。自枉詩已十餘年，莫記存沒，又六七年矣。老病懷舊，生意可知。今海內忘形故人，獨漢中王瑀與昭州敬使君超先在。愛而不見，情見乎辭。大曆五年正月二十一日，卻追酬高公此作，因寄王及敬弟。
 hoi1 man4 syu1 dit6 zung1, gim2 so2 wai4 mong4, jan1 dak1 gu3 gou1 soeng4 si6 sik1 wong5 geoi1 zoi6 sing4 dou1 si4, gou1 jam6 suk6 zau1 ci3 si2, jan4 jat6 soeng1 jik1 gin3 gei3 si1, leoi6 saa2 hong4 gaan1, duk6 zung1 pin1 mut6, zi6 wong2 si1 ji5 sap6 jyu4 nin4, mok6 gei3 cyun4 mut6, jau6 luk6 cat1 nin4 ji5, lou5 bing6 waai4 gau6, sang1 ji3 ho2 zi1, gam1 hoi2 noi6 mong4 jing4 gu3 jan4, duk6 hon3 zung1 wong4 jyu5 jyu5 ciu1 zau1 ging3 si3 gwan1 ciu1 sin1 zoi6, oi3 ji4 bat1 gin3, cing4 jin6 fu4 ci4, daai6 lik6 ng5 nin4 zing1 jyut6 ji6 sap6 jat1 jat6, koek3 zeoi1 cau4 gou1 gung1 ci2 zok3, jan1 gei3 wong4 kap6 ging3 dai6
 
 自蒙蜀州人日作，不意清詩久零落
