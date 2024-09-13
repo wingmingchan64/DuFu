@@ -757,7 +757,7 @@ hoi2 jau6 ci2 ting4 gu2, zai2 naam4 ming4 si6 do1
 雲山已發興，玉佩仍當歌。
 wan4 saan1 ji5 faat3 hing3, juk6 pui3 jing4 dong1 go1
 -----------------------------------------------------
-修竹不受暑，交流空湧波。
+修竹不受暑，交流空涌波。
 sau1 zuk1 bat1 sau6 syu2, gaau1 lau4 hung1 jung2 bo1
 -----------------------------------------------------
 蘊眞愜所遇，落日將如何？
@@ -3987,7 +3987,7 @@ jyun2 zoi6 zung1 lau4 but6 haai5 cing1, haa6 gwai1 mou4 gik6 zung1 naam4 hak1
 bun3 bei1 ji5 naam4 seon4 zam3 saan1, dung6 jing2 niu5 tiu5 cung1 jung4 gaan1
 -----------------------------------------------------
 船舷暝戞雲際寺，水面月出藍田關。
-syun4 jin4 ming6 aat3 wan4 zai3 zi6, seoi2 min6 jyut6 ceot1 laam4 tin4 gwaan1
+syun4 jin4 ming4 aat3 wan4 zai3 zi6, seoi2 min6 jyut6 ceot1 laam4 tin4 gwaan1
 -----------------------------------------------------
 此時驪龍亦吐珠，馮夷擊鼓羣龍趨。
 ci2 si4 lei4 lung4 jik6 tou3 zyu1, fung4 ji4 gik1 gu2 kwan4 lung4 ceoi1
@@ -4847,7 +4847,7 @@ faan2 si1 cin4 je6 fung1 jyu5 gap1, naai5 si6 pou4 sing4 gwai2 san4 jap6
 jyun4 hei3 lam4 lei4 zoeng3 jau4 sap1, zan1 zoi2 soeng6 sou3 tin1 jing1 jap1
 -----------------------------------------------------
 野亭春還雜花遠，漁翁暝踏孤舟立。
-je5 ting4 ceon1 waan4 zaap6 faa1 jyun5, jyu4 jung1 ming6 daap6 gu1 zau1 lap6
+je5 ting4 ceon1 waan4 zaap6 faa1 jyun5, jyu4 jung1 ming4 daap6 gu1 zau1 lap6
 -----------------------------------------------------
 滄浪水深青冥闊，攲岸側島秋毫末。
 cong1 long4 seoi2 sam1 cing1 ming4 fut3, ji1 ngon6 zak1 dou2 cau1 hou4 mut6
@@ -16770,7 +16770,7 @@ suk6 dou6 do1 zou2 faa1, gong1 gaan1 jiu4 kei4 sek6
 sek6 gwai6 cang4 bo1 soeng6, lam4 heoi1 dong6 gou1 bik1
 -----------------------------------------------------
 清暉迴羣鷗，暝色帶遠客
-cing1 fai1 wui4 kwan4 au1, ming6 sik1 daai3 jyun5 haak3
+cing1 fai1 wui4 kwan4 au1, ming4 sik1 daai3 jyun5 haak3
 -----------------------------------------------------
 羈栖負幽意，感歎向絕迹
 gei1 cai1 fu6 jau1 ji3, gam2 taan3 hoeng3 zyut6 zik1
@@ -18118,7 +18118,7 @@ dak1 jyu4 ji5 got3 leon4, coi2 ngau5 bat1 sai2 nai4
 jan4 cing4 zuk6 sin1 mei5, mat6 zin6 si6 ji5 kwai4
 -----------------------------------------------------
 吾村靄暝姿，異捨雞亦栖
-ng4 cyun1 oi2 ming6 zi1, ji6 se2 gai1 jik6 cai1
+ng4 cyun1 oi2 ming4 zi1, ji6 se2 gai1 jik6 cai1
 -----------------------------------------------------
 蕭條欲何適，出處庶可齊
 siu1 tiu4 juk6 ho4 sik1, ceot1 cyu2 syu3 ho2 cai4
@@ -22641,7 +22641,7 @@ gwong1 luk6 baan2 hang4
 saan1 hang4 lok6 jat6 haa6 zyut6 bik1, sai1 mong6 cin1 saan1 maan6 saan1 cik3
 -----------------------------------------------------
 樹枝有鳥亂鳴時，暝色無人獨歸客
-syu6 zi1 jau5 niu5 lyun6 ming4 si4, ming6 sik1 mou4 jan4 duk6 gwai1 haak3
+syu6 zi1 jau5 niu5 lyun6 ming4 si4, ming4 sik1 mou4 jan4 duk6 gwai1 haak3
 -----------------------------------------------------
 馬驚不憂深谷墜，草動只怕長弓射
 maa5 ging1 bat1 jau1 sam1 guk1 zeoi6, cou2 dung6 zi2 paa3 coeng4 gung1 jik6
@@ -29791,7 +29791,7 @@ taai3 zi2 zoeng1 se3 jan4 wai4 zik1 sing4 juk6 dyun6
 客從西北來，遺我翠織成
 haak3 cung4 sai1 bak1 loi4, wai4 ngo5 ceoi3 zik1 sing4
 -----------------------------------------------------
-開緘風濤湧，中有掉尾鯨
+開緘風濤涌，中有掉尾鯨
 hoi1 gaam1 fung1 tou4 jung2, zung1 jau5 diu6 mei5 king4
 -----------------------------------------------------
 逶迤羅水族，瑣細不足名
@@ -31946,7 +31946,7 @@ leoi5 je6 syu1 waai4
 sai3 cou2 mei4 fung1 ngon6, ngai4 coeng4 duk6 je6 zau1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-星垂平野闊，月湧大江流。
+星垂平野闊，月涌大江流。
 sing1 seoi4 ping4 je5 fut3, jyut6 jung2 daai6 gong1 lau4
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
@@ -35771,7 +35771,7 @@ cau1 hing3 baat3 sau2
 juk6 lou6 diu1 soeng1 fung1 syu6 lam4, mou4 saan1 mou4 haap6 hei3 siu1 sam1
 仄仄平平平仄平，平平平仄仄平平
 -----------------------------------------------------
-江間波浪兼天湧，塞上風雲接地陰
+江間波浪兼天涌，塞上風雲接地陰
 gong1 gaan1 bo1 long6 gim1 tin1 jung2, coi3 soeng6 fung1 wan4 zip3 dei6 jam1
 平平平仄平平仄，仄仄平平仄仄平
 -----------------------------------------------------
@@ -36142,8 +36142,8 @@ suk1 gong1 bin1 gok3
 
 
 暝色延山徑，高齋次水門
-ming6 sik1 jin4 saan1 ging3, gou1 zaai1 ci3 seoi2 mun4
-仄仄平平仄，平平仄仄平
+ming4 sik1 jin4 saan1 ging3, gou1 zaai1 ci3 seoi2 mun4
+平仄平平仄，平平仄仄平
 -----------------------------------------------------
 薄雲巖際宿，孤月浪中翻
 bok6 wan4 ngaam4 zai3 suk1, gu1 jyut6 long6 zung1 faan1
@@ -37473,7 +37473,7 @@ gok3 mun5 sam1 mong6 waan4, sam1 jin4 hei2 faan4 lai6
 蕭蕭白楊路，洞徹寶珠惠
 siu1 siu1 baak6 joeng4 lou6, dung6 cit3 bou2 zyu1 wai6
 -----------------------------------------------------
-龍宮塔廟湧，浩劫浮雲衞
+龍宮塔廟涌，浩劫浮雲衞
 lung4 gung1 taap3 miu6 jung2, hou6 gip3 fau4 wan4 wai6
 -----------------------------------------------------
 宗儒俎豆事，故吏去思計
@@ -41384,7 +41384,7 @@ hoi1 kam1 je5 tong4 kut3, gai3 maa5 lam4 faa1 dung6
 雉堞粉似雲，山田麥無隴
 zi6 dip6 fan2 ci5 wan4, saan1 tin4 mak6 mou4 lung5
 -----------------------------------------------------
-春氣晚更生，江流靜猶湧
+春氣晚更生，江流靜猶涌
 ceon1 hei3 maan5 gang3 sang1, gong1 lau4 zing6 jau4 jung2
 -----------------------------------------------------
 四序嬰我懷，羣盜久相踵
@@ -43105,7 +43105,7 @@ ng4 coeng4 co2 to5 hin1 baak3 zoeng6, nyun5 hoeng3 san4 dou1 hon4 mei6 waan4
 jiu3 lou6 ho4 jat6 baa6 coeng4 gik1, zin3 zi6 cing1 goeng1 lin4 baak3 maan4
 -----------------------------------------------------
 中巴不曾消息好，暝傳戍鼓長雲間
-zung1 baa1 bat1 cang4 siu1 sik1 hou2, ming6 cyun4 syu3 gu2 coeng4 wan4 gaan1
+zung1 baa1 bat1 cang4 siu1 sik1 hou2, ming4 cyun4 syu3 gu2 coeng4 wan4 gaan1
 
 其二
 
@@ -46104,7 +46104,7 @@ ging1 fei1 deoi3 mei4 luk6, jing1 gung6 ji5 wai4 kwan4
 =====================================================
 
 5032 暝
-ming6
+ming4
 
 日下四山陰，山庭嵐氣侵
 jat6 haa6 sei3 saan1 jam1, saan1 ting4 laam4 hei3 cam1
@@ -46469,7 +46469,7 @@ ming4 jat6 cung4 joeng4 zau2, soeng1 jing4 zi6 but6 pui1
 =====================================================
 
 5063 復愁十二首
-fuk6 sau4 sap6 ji6 sau2
+fau6 sau4 sap6 ji6 sau2
 
 其一
 
@@ -54001,7 +54001,7 @@ zoi3 suk1 faan4 zau1 zi2, seoi1 jung4 man6 buk6 fu1
 gam1 san4 fei1 sing6 nou6, bin6 dou6 zik1 coeng4 keoi1
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
-隱几看帆席，雲山湧坐隅
+隱几看帆席，雲山涌坐隅
 jan2 gei2 hon1 faan4 zik6, wan4 saan1 jung2 zo6 jyu4
 仄仄平平仄，平平仄仄平
 
@@ -55486,7 +55486,7 @@ zou1 lyun6 sat6 piu1 bok6, zai3 si4 zang1 doek3 mo4
 jing4 jung4 ng4 gaau3 lou5, daam2 lik6 ji5 seoi4 gwo3
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
-秋晚岳增翠，風高湖湧波
+秋晚岳增翠，風高湖涌波
 cau1 maan5 ngok6 zang1 ceoi3, fung1 gou1 wu4 jung2 bo1
 平仄仄平仄，平平平仄平（互補對）
 -----------------------------------------------------
@@ -55512,7 +55512,7 @@ hin1 tang4 fong2 zi1 gei2, waai4 hoi2 mok6 co1 to4
 
 =====================================================
 
-5855 蘇大侍御渙靜者也旅於江側凡是不交州府之客人事都絕久矣肩輿江浦忽訪老夫舟楫而已茶酒內余請誦近詩肯吟數首才力素壯詞句動人接對明日憶其湧思雷出書篋几杖之外殷殷留金石聲賦八韻記異亦記老夫傾倒於蘇至矣
+5855 蘇大侍御渙靜者也旅於江側凡是不交州府之客人事都絕久矣肩輿江浦忽訪老夫舟楫而已茶酒內余請誦近詩肯吟數首才力素壯詞句動人接對明日憶其涌思雷出書篋几杖之外殷殷留金石聲賦八韻記異亦記老夫傾倒於蘇至矣
 sou1 daai6 si6 jyu6 wun6 zing6 ze2 jaa5 leoi5 jyu1 gong1 zak1 faan4 si6 bat1 gaau1 zau1 fu2 zi1 haak3 jan4 si6 dou1 zyut6 gau2 ji5 gin1 jyu4 gong1 pou2 fat1 fong2 lou5 fu1 zau1 zip3 ji4 ji5 caa4 zau2 noi6 jyu4 cing2 zung6 gan6 si1 hang2 jam4 sou3 sau2 coi4 lik6 sou3 zong3 ci4 geoi3 dung6 jan4 zip3 deoi3 ming4 jat6 jik1 kei4 jung2 si1 leoi4 ceot1 syu1 haap6 gei2 zoeng6 zi1 ngoi6 jan1 jan1 lau4 gam1 sek6 sing1 fu3 baat3 wan6 gei3 ji6 jik6 gei3 lou5 fu1 king1 dou2 jyu1 sou1 zi3 ji5
 
 龐公不浪出，蘇氏今有之
