@@ -15,7 +15,7 @@
 
 【注音】
 雨過蘇端
-jyu5 gwo3 sou1 dyun1
+jyu5 gwo1 sou1 dyun1
 
 雞鳴風雨交，久旱雨亦好。
 gai1 ming4 fung1 jyu5 gaau1, gau2 hon5 jyu5 jik6 hou2
@@ -27,7 +27,7 @@ zoeng6 lai4 jap6 ceon1 nai4, mou4 sik6 hei2 ngo5 zou2
 zyu1 gaa1 jik1 so2 lik6, jat1 faan6 zik1 bin6 sou2
 -----------------------------------------------------
 蘇侯得數過，歡喜每傾倒。
-sou1 hau4 dak1 sou3 gwo3, fun1 hei2 mui5 king1 dou2
+sou1 hau4 dak1 sok3 gwo1, fun1 hei2 mui5 king1 dou2
 -----------------------------------------------------
 也復可憐人，呼兒具梨棗。
 jaa5 fau6 ho2 lin4 jan4, fu1 ji4 geoi6 lei4 zou2
@@ -63,6 +63,8 @@ cai1 nou4 gaak3 gwan1 leoi5, but6 hei3 bat1 ji5 dou6
 五古
 
 【補充說明】
+〚1〛過，從仇《註》讀平聲。參 https://jyut.net/query?q=過 。〚6.1.5〛同。
+〚6.1.4〛數，從仇《註》讀 sok3。參 https://jyut.net/query?q=數 。
 〚12.2.5〛道，上聲。
 =蕭====================================================
 蕭滌非主編《杜甫全集校注》2.809,djvu986
