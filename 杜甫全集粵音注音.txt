@@ -2351,7 +2351,7 @@ zoeng6 fu1 sei3 fong1 zi3, on1 ho2 ci4 gu3 kung4
 =====================================================
 
 0262 投簡咸華兩縣諸子
-tau4 gaan2 haam4 waa4 loeng5 jyun6 zyu1 zi2
+tau4 gaan2 haam4 waa6 loeng5 jyun6 zyu1 zi2
 
 赤縣官曹擁材傑，軟裘快馬當冰雪。
 cik3 jyun6 gun1 cou4 jung2 coi4 git6, jyun5 kau4 faai3 maa5 dong2 bing1 syut3
@@ -4513,7 +4513,7 @@ cing1 cau1 do1 jin3 wui6, zung1 jat6 kwan3 hoeng1 lou4
 =====================================================
 
 0501 示從孫濟
-si6 cung4 syun1 zai3
+si6 zung6 syun1 zai3
 
 平明跨驢出，未知適誰門。
 ping4 ming4 kwaa3 lou4 ceot1, mei6 zi1 sik1 seoi4 mun4
@@ -4563,6 +4563,9 @@ mat6 sau6 ngoi6 jim4 caai1, tung4 sing3 gu2 so2 deon1
 
 【體裁】
 五古
+
+【補充說明】
+〚1〛從，從仇《註》讀去聲。參 https://jyut.net/query?q=從 。
 
 【其他】
 1. 迤邐（lei5）。又邐迤（le2 he3）。
@@ -7420,7 +7423,7 @@ gan6 gung1 jyu4 baak6 syut3, zap1 jit6 faan4 ho4 jau5
 =====================================================
 
 0809 雨過蘇端
-jyu5 gwo3 sou1 dyun1
+jyu5 gwo1 sou1 dyun1
 
 雞鳴風雨交，久旱雨亦好。
 gai1 ming4 fung1 jyu5 gaau1, gau2 hon5 jyu5 jik6 hou2
@@ -7432,7 +7435,7 @@ zoeng6 lai4 jap6 ceon1 nai4, mou4 sik6 hei2 ngo5 zou2
 zyu1 gaa1 jik1 so2 lik6, jat1 faan6 zik1 bin6 sou2
 -----------------------------------------------------
 蘇侯得數過，歡喜每傾倒。
-sou1 hau4 dak1 sou3 gwo3, fun1 hei2 mui5 king1 dou2
+sou1 hau4 dak1 sok3 gwo1, fun1 hei2 mui5 king1 dou2
 -----------------------------------------------------
 也復可憐人，呼兒具梨棗。
 jaa5 fau6 ho2 lin4 jan4, fu1 ji4 geoi6 lei4 zou2
@@ -7468,6 +7471,8 @@ cai1 nou4 gaak3 gwan1 leoi5, but6 hei3 bat1 ji5 dou6
 五古
 
 【補充說明】
+〚1〛過，從仇《註》讀平聲。參 https://jyut.net/query?q=過 。〚6.1.5〛同。
+〚6.1.4〛數，從仇《註》讀 sok3。參 https://jyut.net/query?q=數 。
 〚12.2.5〛道，上聲。
 
 =====================================================
@@ -7891,7 +7896,7 @@ sai1 gik6 cyu5 jik6 king1, jyu4 ho4 zing3 kung4 hou6
 =====================================================
 
 0853 送從弟亞赴河西判官
-sung3 cung4 dai6 aa3 fu6 ho4 sai1 pun3 gun1
+sung3 zung6 dai6 aa3 fu6 ho4 sai1 pun3 gun1
 
 南風作秋聲，殺氣薄炎熾。
 naam4 fung1 zok3 cau1 sing1, saat3 hei3 bok6 jim4 ci3
@@ -7978,6 +7983,8 @@ lung4 jam4 wui4 kei4 tau4, gaap3 fu6 doi6 so2 zi3
 【體裁】
 五古
 
+【補充說明】
+〚1〛從，從仇《註》讀去聲。參 https://jyut.net/query?q=從 。
 
 =====================================================
 
@@ -8646,7 +8653,7 @@ jim5 jim5 zing1 tou4 gaan1, seoi4 si6 zoeng2 nin4 ze2
 =====================================================
 
 0917 晚行口號
-maan5 hang4 hau2 hou6
+maan5 hang4 hau2 hou4
 
 三川不可到，歸路晚山稠。
 saam1 cyun1 bat1 ho2 dou3, gwai1 lou6 maan5 saan1 cau4
@@ -10162,7 +10169,6 @@ jau4 jau5 leoi6 sing4 ho4, ging1 tin1 fau6 dung1 zyu3
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -10897,7 +10903,6 @@ faa1 mun4 gei3 seoi1 lau4, jyun4 je5 zyun2 siu1 sat1
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -11740,8 +11745,6 @@ sung3 hang4 mat6 jap1 hyut3, buk6 jik6 jyu4 fu6 hing1
 五古
 
 【補充說明】
-
-
 
 =====================================================
 
@@ -11934,7 +11937,6 @@ jan4 si6 do1 co3 ng5, jyu5 gwan1 wing5 soeng1 mong4
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -12012,7 +12014,6 @@ hei3 zyut6 pung4 sat1 geoi1, taap3 jin4 ceoi1 fai3 gon1
 
 【補充說明】
 〚14.2.5〛歎，平聲押韻。
-
 
 =====================================================
 
@@ -12087,7 +12088,6 @@ jan4 sang1 mou4 gaa1 bit6, ho4 ji5 wai4 zing1 lai4
 
 【體裁】
 五古
-
 
 =====================================================
 
