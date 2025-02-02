@@ -1024,6 +1024,7 @@ ho4 si4 jat1 zeon1 zau2, cung4 jyu5 sai3 leon4 man4
 平平仄平仄，平仄仄平平（出句特定平仄）
 
 【韻部】
+上平聲十二文
 〚3.2.5〛羣：文韻
 〚4.2.5〛軍：文韻
 〚5.2.5〛雲：文韻
@@ -1074,6 +1075,7 @@ baa6 kam4 cau4 coeng3 jyut6 ziu3 zik6, gei2 seoi3 gei3 ngo5 hung1 zung1 syu1
 naam4 cam4 jyu5 jyut6 gin3 lei5 baak6, dou6 fu2 man6 seon3 gam1 ho4 jyu4
 
 【韻部】
+去声七遇
 〚3.1.7〛住：遇韻
 〚3.2.7〛霧：遇韻
 〚4.2.7〛樹：遇韻
@@ -1081,6 +1083,7 @@ naam4 cam4 jyu5 jyut6 gin3 lei5 baak6, dou6 fu2 man6 seon3 gam1 ho4 jyu4
 〚6.2.7〛路：遇韻
 〚7.2.7〛故：遇韻
 〚8.2.7〛露：遇韻
+上平聲六魚
 〚9.1.7〛餘：魚韻
 〚9.2.7〛除：魚韻
 〚10.2.7〛書：魚韻
@@ -1350,12 +1353,14 @@ jing1 hung4 jau5 si4 jik6 jyu4 ci2, haai5 hau6 hei2 zik1 fei1 loeng4 tou4
 gwan1 mok6 siu3 lau4 ngai6 cung4 loi4 bou3 ji1 jyun6, gaa1 mou4 daam1 daam3 syu1 baak3 maan6
 
 【韻部】
+上平聲七虞
 〚3.1.7〛徂：虞韻
 〚3.2.7〛孤：虞韻
 〚4.1.7〛無：虞韻
 〚4.2.7〛娛：虞韻
 〚5.2.7〛盧：虞韻
 〚6.2.7〛圖：虞韻
+去聲十四願
 〚7.1.10〛願：願韻
 〚7.2.7〛萬：願韻
 
@@ -36582,7 +36587,6 @@ tin1 haa6 ho4 cang4 jau5 saan1 seoi2, jan4 gaan1 bat1 gaai2 zung6 waa4 lau4
 
 3904 月圓
 jyut6 jyun4
-
 
 孤月當樓滿，寒江動夜扉
 gu1 jyut6 dong1 lau4 mun5, hon4 gong1 dung6 je6 fei1
