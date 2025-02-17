@@ -448,7 +448,7 @@ Stephen Owen, The Poetry of Du Fu 1.4,PDF89
 〖張梨不外求〗These are mentioned in Pan Yue’s (247–300) “Poetic Exposition on Living at Leisure,” but nothing is known about them except that the pear trees were near Luoyang and that there was supposed to be only one tree in the whole world that bore them. Du Fu is playing on his surname and Zhang’s.
 
 【譯文】
-〚1:5〛Without companion in spring mountains I came alone seeking you, the thunk of axes hewing wood, the mountains grew still more  secluded. 〚1:6〛In lingering chill on the road by a torrent I passed through ice and snow, with sinking sunlight on Stonegate Mountain, I reached your wooded hill.
+〚1:5〛Without companion in spring mountains I came alone seeking you, the thunk of axes hewing wood, the mountains grew still more secluded. 〚1:6〛In lingering chill on the road by a torrent I passed through ice and snow, with sinking sunlight on Stonegate Mountain, I reached your wooded hill.
 〚1:7〛Not coveting, by night I recognized the aura of silver and gold, far from harm, at dawn I looked on the deer roaming.
 〚1:8〛Following my whim to the distance, I lose thought of service and 
 retirement — facing you, it seems you are an empty boat adrift.
@@ -458,7 +458,8 @@ retirement — facing you, it seems you are an empty boat adrift.
 〚2:15〛Perilous, the mountain road to the village ahead, yet going home drunk, I am always free of worries.
 
 【按語】
-此詩的翻譯完全無法處理詩中所用典故，如《莊子》的「虛舟」。「杜酒」之「杜」一方面指杜康，但也暗示酒是杜甫帶來的。「張梨」之「張」亦然，梨當出於張氏之園。因此，「偏勞勸」之「偏」就無法準確翻譯出來（particularly 並不準確）。
+1. Wang Huizhi，王徽之（子猷）。
+2. 此詩的翻譯完全無法處理詩中所用典故，如《莊子》的「虛舟」。「杜酒」之「杜」一方面指杜康，但也暗示酒是杜甫帶來的。「張梨」之「張」亦然，梨當出於張氏之園。因此，「偏勞勸」之「偏」就無法準確翻譯出來（particularly 並不準確）。
 =====================================================
 《唐詩鑒賞辭典》20
 =====================================================
