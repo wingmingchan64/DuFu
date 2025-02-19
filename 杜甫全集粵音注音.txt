@@ -2903,21 +2903,21 @@ baak6 si1 hang4
 zou2 si1 seoi1 coeng4 bat1 seoi1 baak6, jyut6 lo4 suk6 gam2 gam1 suk1 cik3/cek3
 -----------------------------------------------------
 象牀玉手亂殷紅，萬草千花動凝碧。
-zoeng6 cong4 juk6 sau2 lyun6 jan1 hung4, maan6 cou2 cin1 faa1 dung6 jing4 bik1
+zoeng6 cong4 juk6 sau2 lyun6 jin1 hung4, maan6 cou2 cin1 faa1 dung6 jing4 bik1
 -----------------------------------------------------
 已悲素質隨時染，裂下鳴機色相射。
 ji5 bei1 sou3 zat1 ceoi4 si4 jim5, lit6 haa6 ming4 gei1 sik1 soeng1 jik6
 -----------------------------------------------------
 美人細意熨帖平，裁縫滅盡針線迹。
-mei5 jan4 sai3 ji3 tong3 tip3 ping4, coi4 fung4 mit6 zeon6 zam1 sin3 zik1
+mei5 jan4 sai3 ji3 wat1 tip3 ping4, coi4 fung4 mit6 zeon6 zam1 sin3 zik1
 -----------------------------------------------------
 春天衣著爲君舞，蛺蝶飛來黃鸝語。
-ceon1 tin1 ji1 zoek3 wai6 gwan1 mou5, gaap3 dip6 fei1 loi4 wong4 lei4 jyu5
+ceon1 tin1 ji3 zoek3 wai6 gwan1 mou5, gaap3 dip6 fei1 loi4 wong4 lei4 jyu5
 -----------------------------------------------------
 落絮遊絲亦有情，隨風照日宜輕舉。
 lok6 seoi5 jau4 si1 jik6 jau5 cing4, ceoi4 fung1 ziu3 jat6 ji4 hing1 geoi2
 -----------------------------------------------------
-香汗清塵污顏色，開新合故置何許。
+香汗清塵汙顏色，開新合故置何許。
 hoeng1 hon6 cing1 can4 wu1 ngaan4 sik1, hoi1 san1 hap6 gu3 zi3 ho4 heoi2
 -----------------------------------------------------
 君不見才士汲引難，恐懼棄捐忍羈旅。
@@ -2941,7 +2941,9 @@ gwan1 bat1 gin3 coi4 si6 kap1 jan5 naan4, hung2 geoi6 hei3 gyun1 jan2 gei1 leoi5
 【補充說明】
 六語、七麌爲鄰韻。
 〚3.2.7〛尺，習讀 cek3。讀音 cik3 比較接近碧、射。
+〚4.1.6〛殷，jin1。此爲罕讀。見粵語審音配詞字庫 https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/
 〚5.2.7〛射，入聲。
+〚7.1.3〛衣，動詞，去聲。
 
 =====================================================
 
@@ -4254,7 +4256,7 @@ lou5 fu1 bat1 ceot1 zoeng2 pung4 hou1, zi6 zi2 mou4 jau1 zau2 fung1 jyu5
 雨聲颼颼催早寒，胡雁翅濕高飛難。
 jyu5 sing1 sau1 sau1 ceoi1 zou2 hon4, wu4 ngaan6 ci3 sap1 gou1 fei1 naan4
 -----------------------------------------------------
-秋來未曾見白日，泥污后土何時乾？
+秋來未曾見白日，泥汙后土何時乾？
 cau1 loi4 mei6 cang4 gin3 baak6 jat6, nai4 wu1 hau6 tou2 ho4 si4 gon1
 
 【韻部】
@@ -7017,7 +7019,7 @@ lin5 cin4 coi4 jan4 daai3 gung1 zin3, baak6 maa5 zoek3 ngit6 wong4 gam1 lak6
 翻身向天仰射雲，一笑正墜雙飛翼。
 faan1 san1 hoeng3 tin1 joeng5 se6 wan4, jat1 siu3 zing3 zeoi6 soeng1 fei1 jik6
 -----------------------------------------------------
-明眸皓齒今何在？血污遊魂歸不得。
+明眸皓齒今何在？血汙遊魂歸不得。
 ming4 mau4 hou6 ci2 gam1 ho4 zoi6, hyut3 wu1 jau4 wan4 gwai1 bat1 dak1
 -----------------------------------------------------
 清渭東流劍閣深，去住彼此無消息！
@@ -7402,7 +7404,7 @@ ng6 jyu5 kai3 sam1 sam1, naa5 nang4 zung2 kim4 hau2
 奉辭還杖策，暫別終回首。
 fung6 ci4 waan4 zoeng6 caak3, zaam6 bit6 zung1 wui4 sau2
 -----------------------------------------------------
-泱泱泥污人，㹞㹞國多狗。
+泱泱泥汙人，㹞㹞國多狗。
 joeng1 joeng1 nai4 wu1 jan4, ngan4 ngan4 gwok3 do1 gau2
 -----------------------------------------------------
 旣未免羈絆，時來憩奔走。
@@ -19429,7 +19431,7 @@ hap1 ci5 ceon1 fung1 soeng1 hei1 dak1, je6 loi4 ceoi1 zit3 sou3 zi1 faa1
 suk6 zi1 maau4 zaai1 zyut6 dai1 siu2, gong1 soeng6 jin3 zi2 gu3 loi4 pan4
 仄平平平仄平仄，平仄仄仄仄平平
 -----------------------------------------------------
-銜泥點污琴書內，更接飛蟲打著人
+銜泥點汙琴書內，更接飛蟲打著人
 haam4 nai4 dim2 wu1 kam4 syu1 noi6, gang3 zip3 fei1 cung4 daa2 zoek6 jan4
 平平仄平平平仄，仄仄平平仄仄平
 
@@ -23368,7 +23370,7 @@ daai6 zyu1 tyut3 dim3 ai3, baak6 jyut6 dong1 hung1 heoi1
 甫也南北人，蕪漫少耘鋤
 fu2 jaa5 naam4 bak1 jan4, mou4 maan6 siu2 wan4 co4
 -----------------------------------------------------
-久遭詩酒污，何事忝簪裾
+久遭詩酒汙，何事忝簪裾
 gau2 zou1 si1 zau2 wu1, ho4 si6 tim2 zaam1 geoi1
 -----------------------------------------------------
 王侯與螻蟻，同盡隨丘墟
@@ -25962,7 +25964,7 @@ jyu4 ho4 bik1 gai1 si3, baa2 ziu3 zi2 mei4 tin1
 ceon4 ling5 sau4 wui4 maa5, fau4 gong1 zeoi3 faan3 syun4
 
 -----------------------------------------------------
-青城漫污雜，吾舅意淒然
+青城漫汙雜，吾舅意淒然
 cing1 sing4 maan6 wu1 zaap6, ng4 kau5 ji3 cai1 jin4
 
 
@@ -29969,7 +29971,7 @@ hyun2 joeng4 cang4 laan6 maan6, gung1 kyut3 soeng6 siu1 tiu4
 maang5 zoeng1 ji4 soeng4 daam2, lung4 cyun4 bit1 zoi6 jiu1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-黃圖遭污辱，月窟可焚燒
+黃圖遭汙辱，月窟可焚燒
 wong4 tou4 zou1 wu3 juk6, jyut6 fat1 ho2 fan4 siu1
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
@@ -30005,7 +30007,7 @@ wan4 toi4 waak6 jing4 zoeng6, gaai1 wai6 sou3 fan1 jiu1
 五排
 
 【補充說明】
-〚8.1.4〛污，去聲。
+〚8.1.4〛汙，去聲。
 
 =====================================================
 
@@ -34118,7 +34120,7 @@ zok3 siu1 jan1 kei4 leoi4, fung1 gwo3 cai4 maan6 nou5
 復吹霾翳散，虛覺神靈聚
 fau6 ceoi1 mai4 ai3 saan3, heoi1 gok3 san4 ling4 zeoi6
 -----------------------------------------------------
-氣暍腸胃融，汗滋衣裳污
+氣暍腸胃融，汗滋衣裳汙
 hei3 hot3 coeng4 wai6 jung4, hon6 zi1 ji1 soeng4 wu1
 -----------------------------------------------------
 吾衰尤拙計，失望築場圃
@@ -34139,7 +34141,7 @@ ng4 seoi1 jau4 zyut3 gai3, sat1 mong6 zuk1 coeng4 pou2
 〚14.2.5〛愈：麌韻
 〚15.2.5〛弩：麌韻
 〚16.2.5〛聚：麌韻
-〚17.2.5〛污：虞韻
+〚17.2.5〛汙：虞韻
 〚18.2.5〛圃：麌韻
 
 【體裁】
@@ -34624,7 +34626,7 @@ bei6 jit6 si4 loi4 gwai1, man6 ji4 so2 wai4 zik1
 織籠曹其內，令入不得擲
 zik1 lung4 cou4 kei4 noi6, ling6 jap6 bat1 dak1 zaak6
 -----------------------------------------------------
-稀間可突過，觜爪還污席
+稀間可突過，觜爪還汙席
 hei1 gaan3 ho2 dat6 gwo3, zeoi2 zaau2 waan4 wu1 zik6
 -----------------------------------------------------
 我寬螻蟻遭，彼免狐貉厄
@@ -44124,7 +44126,7 @@ zoi6 jyu5 gang3 jung6 man4 zoeng1 wai4, coeng4 hing1 baak6 mei4 fau6 tin1 kai2
 汝門請從曾翁說，太后當朝多巧詆
 jyu5 mun4 cing2 cung4 zang1 jung1 syut3, taai3 hau6 dong1 ciu4 do1 haau2 dai2
 -----------------------------------------------------
-狄公執政在末年，濁河終不污清濟
+狄公執政在末年，濁河終不汙清濟
 dik6 gung1 zap1 zing3 zoi6 mut6 nin4, zuk6 ho4 zung1 bat1 wu1 cing1 zai2
 -----------------------------------------------------
 國嗣初將付諸武，公獨廷諍守丹陛
@@ -44154,7 +44156,7 @@ fu2 zi1 gei1, haa6 caam4 ngaam4
 蛟之橫，出清泚
 gaau1 zi1 waang4, ceot1 cing1 zi2
 -----------------------------------------------------
-早歸來，黃土污衣眼易眯
+早歸來，黃土汙衣眼易眯
 zou2 gwai1 loi4, wong4 tou2 wu1 ji1 ngaan5 ji6 mai5
 
 【韻部】
@@ -50547,7 +50549,7 @@ zoi6 gam1 hei3 leoi5 lok6, haau2 ngai6 mok6 gam2 can1
 介立寔吾弟，濟時肯殺身
 gaai3 lap6 sat6 ng4 dai6, zai3 si4 hang2 saat3 san1
 -----------------------------------------------------
-物白諱受玷，行高無污眞
+物白諱受玷，行高無汙眞
 mat6 baak6 wai5 sau6 dim3, hang4 gou1 mou4 wu1 zan1
 -----------------------------------------------------
 得罪永泰末，放之五溪濱
@@ -50937,7 +50939,7 @@ cyu5 gok3 ling4 wan4 baa6, ceon1 sing4 daai3 jyu5 coeng4
 seoi2 faa1 fan1 cim3 joek6, caau4 jin3 dak1 nai4 mong4
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
-令弟雄軍佐，凡才污省郎
+令弟雄軍佐，凡才汙省郎
 ling6 dai6 hung4 gwan1 zo3, faan4 coi4 wu3 saang2 long4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
@@ -52840,7 +52842,7 @@ gu2 loi4 si6 faan2 fuk1, soeng1 gin3 waang4 tai3 si3
 嚮者玉珂人，誰是青雲器
 hoeng3 ze2 juk6 o1 jan4, seoi4 si6 cing1 wan4 hei3
 -----------------------------------------------------
-才盡傷形體，病渴污官位
+才盡傷形體，病渴汙官位
 coi4 zeon6 soeng1 jing4 tai2, bing6 hot3 wu1 gun1 wai6
 -----------------------------------------------------
 故舊獨依然，時危話顚躓
@@ -54521,7 +54523,7 @@ hin1 cin4 gaa1 lou5 bing6, so2 sai3 aai3 zuk6 mou6
 萬古一死生，胡爲足名數
 maan6 gu2 jat1 sei2 sang1, wu4 wai4 zuk1 ming4 sou3
 -----------------------------------------------------
-多憂污桃源，拙計泥銅柱
+多憂汙桃源，拙計泥銅柱
 do1 jau1 wu1 tou4 jyun4, zyut3 gai3 nai4 tung4 cyu5
 -----------------------------------------------------
 未辭炎瘴毒，擺落跋涉懼
