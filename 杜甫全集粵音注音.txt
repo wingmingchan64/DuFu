@@ -2134,6 +2134,7 @@ san1 gwai2 faan4 jyun1 gau6 gwai2 huk1, tin1 jam1 jyu5 sap1 seng1 zau1 zau1
 〚4.1.7〛腰：蕭韻
 〚5.2.7〛橋：蕭韻
 〚6.2.7〛霄：蕭韻
+
 〚7.1.7〛人：眞韻
 〚7.2.7〛頻：眞韻
 〚8.2.7〛田：先韻
@@ -2144,6 +2145,7 @@ san1 gwai2 faan4 jyun1 gau6 gwai2 huk1, tin1 jam1 jyu5 sap1 seng1 zau1 zau1
 〚12.1.7〛犂：齊韻
 〚12.2.7〛西：齊韻
 〚13.2.7〛雞：齊韻
+
 〚14.1.5〛問：問韻
 〚14.2.5〛恨：願韻
 〚15.2.5〛卒：質韻
@@ -2304,7 +2306,7 @@ sin4 jyu4 kau3 ngo5 leoi5, baak3 lei5 fung1 can4 fan1
 hung4 gim3 sei3 ng5 dung6, bei2 gwan1 wai4 ngo5 ban1
 -----------------------------------------------------
 虜其名王歸，繫頸授轅門。
-lou5 kei4 ming4 wong4 gwai1, hai6 geng2 sau6 jyun4 mun4
+lou5 kei4 ming4 wong4 gwai1, gai3 ging2 sau6 jyun4 mun4
 -----------------------------------------------------
 潛身備行列，一勝何足論。
 cim4 san1 bei6 hong4 lit6, jat1 sing3 ho4 zuk1 leon4
@@ -2993,7 +2995,7 @@ ci2 gin3 zoeng1 ging1 siu6, ji4 geoi1 hon3 gan6 san4
 waa4 lau4 hoi1 dou6 lou6, diu1 ngok6 lei6 fung1 can4
 平平平仄仄，平仄仄平平
 -----------------------------------------------------
-侯伯知何筭，文章實致身。
+侯伯知何算，文章實致身。
 hau4 baak3 zi1 ho4 syun3, man4 zoeng1 sat6 zi3 san1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
@@ -3526,7 +3528,7 @@ ci2 hang4 gei3 dak6 daat6, zuk1 ji5 wai3 so2 si1
 naam4 ji4 gung1 ming4 seoi6, jik6 zoi6 lou5 daai6 si4
 -----------------------------------------------------
 常恨結歡淺，各在天一涯。
-soeng4 han6 git3 fun1 cin2, gok3 zoi6 tin1 jat1 ngaai4/ji4
+soeng4 han6 git3 fun1 cin2, gok3 zoi6 tin1 jat1 ji4
 -----------------------------------------------------
 又如參與商，慘慘中腸悲。
 jau6 jyu4 sam1 jyu5 soeng1, caam2 caam2 zung1 coeng4 bei1
@@ -33240,7 +33242,7 @@ soeng6/soeng5 gung1 jau5 gei3 ze2, leoi5 zau3 zi1 bok6 luk6
 主憂豈濟時，身遠彌曠職
 zyu2 jau1 hei2 zai3 si4, san1 jyun5 mei4 kwong3 zik1
 -----------------------------------------------------
-循文廟筭正，獻可天衢直
+循文廟算正，獻可天衢直
 ceon4 man4 miu6 syun3 zing3, hin3 ho2 tin1 keoi4 zik6
 -----------------------------------------------------
 尙想趨朝廷，毫髮裨社稷
@@ -38889,7 +38891,7 @@ bat1 bit1 pui4 jyun4 pou2, ciu1 jin4 doi6 geoi6 ci4
 hung1 bing1 zyu3 nung4 hei3, gong2 din6 pik1 syu1 wai4
 平平仄平仄，仄仄仄平平
 -----------------------------------------------------
-廟筭高難測，天憂實在茲
+廟算高難測，天憂實在茲
 miu6 syun3 gou1 naan4 cak1, tin1 jau1 sat6 zoi6 zi1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
