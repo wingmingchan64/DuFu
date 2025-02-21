@@ -3178,7 +3178,7 @@ sai1 zyu6 jim3 jyu3 gau2 mei6 haa6, lyun4 dou1 leoi5 cit3 hung1 fan1 leon4
 wong4 mun4 fei1 hung3 bat1 dung6 can4, jyu6 cyu4 lok3 jik6 sung3 baat3 zan1
 -----------------------------------------------------
 簫鼓哀吟感鬼神，賓從雜遝實要津。
-siu1 gu2 oi1 jam4 gam2 gwai2 san4, ban1 cung4/zung3 zaap6 daap6 sat6 jiu3 zeon1
+siu1 gu2 oi1 jam4 gam2 gwai2 san4, ban1 zung3 zaap6 daap6 sat6 jiu3 zeon1
 -----------------------------------------------------
 後來鞍馬何逡巡，當軒下馬入錦茵。
 hau6 loi4 on1 maa5 ho4 seon1 ceon4, dong1 hin1 haa6 maa5 jap6 gam2 jan1
@@ -3341,7 +3341,7 @@ hing3 ji4 mou4 saa2 sou3, ceoi4 ji3 zo6 mui4 toi4
 其六
 
 風磴吹陰雪，雲門吼瀑泉。
-fung1 dang3 ceoi1 jam1 syut3, wan4 mun4 hau2 buk6 cyun4
+fung1 dang3 ceoi1 jam1 syut3, wan4 mun4 hau3 buk6 cyun4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
 酒醒思臥簟，衣冷得裝綿。
@@ -3483,13 +3483,15 @@ zi1 jing1 jyu5 pang4 hou2, fung1 jyu5 jik6 loi4 gwo1
 〚10:〛五律
 
 【補充說明】
-〚4:26.1.1〛「旁舍」與「疏籬」對，「旁」、「疏」俱爲形容詞，「旁」當讀平聲。
+〚4:26.1.1〛「旁舍」與「疏籬」對，「旁」、「疏」俱爲形容詞，「旁」當讀平聲。首聯對仗。
+〚5:33〛首聯對仗。滄江（平聲），碣石（入聲），部首對。剩水（船母、式母），類雙聲；殘山（十四寒、十五刪），類疊韻。
 〚6:40.2.3〛吼，按詩律讀仄聲。
 〚6:41.1.2〛醒，按詩律讀平聲。
 〚8:54.1.2〛過，按詩律讀平聲。
 〚9:63.1.1〛醒，可平可仄。
 〚10:71.1.1〛祇，按詩律讀平聲。
 十首詩首聯出句無一押韻。
+〚2:13〛卑、枝，四支；接、葉，十六葉。
 
 =====================================================
 
@@ -3599,7 +3601,7 @@ maan5 loi4 gou1 hing3 zeon6, jiu4 dong6 guk1 faa1 kei4
 五律
 
 【補充說明】
-首聯對仗。
+首聯對仗。茱萸，七虞；菡萏，二十七感；疊韻對。
 
 =====================================================
 
@@ -35820,7 +35822,7 @@ gong1 gaan1 bo1 long6 gim1 tin1 jung2, coi3 soeng6 fung1 wan4 zip3 dei6 jam1
 平平平仄平平仄，仄仄平平仄仄平
 -----------------------------------------------------
 叢菊兩開他日淚，孤舟一繫故園心
-cung4 guk1 loeng5 hoi1 taa1 jat6 leoi6, gu1 zau1 jat1 hai6 gu3 jyun4 sam1
+cung4 guk1 loeng5 hoi1 taa1 jat6 leoi6, gu1 zau1 jat1 gai3 gu3 jyun4 sam1
 平仄仄平平仄仄，平平仄仄仄平平
 -----------------------------------------------------
 寒衣處處催刀尺，白帝城高急暮砧
