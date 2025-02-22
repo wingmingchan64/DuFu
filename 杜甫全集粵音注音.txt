@@ -3710,7 +3710,7 @@ zyu1 gung1 gwan2 gwan2 dang1 toi4 saang2, gwong2 man4 sin1 sang1 gun1 duk6 laang
 gaap3 dai6 fan1 fan1 jim3 loeng4 juk6, gwong2 man4 sin1 sang1 faan6 bat1 zuk1
 -----------------------------------------------------
 先生有道出羲皇，先生有才過屈宋。
-sin1 sang1 jau5 dou6 ceot1 hei1 wong4, sin1 sang1 jau5 coi4 gwo3 wat1 sung3
+sin1 sang1 jau5 dou6 ceot1 hei1 wong4, sin1 sang1 jau5 coi4 gwo1 wat1 sung3
 -----------------------------------------------------
 德尊一代常轗軻，名垂萬古知何用。
 dak1 zyun1 jat1 doi6 soeng4 ham2 ho2, ming4 seoi4 maan6 gu2 zi1 ho4 jung6
@@ -3853,7 +3853,7 @@ hon1 gwan1 jung6 jau1 ji3, baak6 jat6 dou3 hei1 wong4
 其五
 
 到此應常宿，相留可判年。
-dou3 ci2 jing1 soeng4 suk1, soeng1 lau4 ho2 pun3 nin4
+dou3 ci2 jing1 soeng4 suk1, soeng1 lau4 ho2 pun2 nin4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 蹉跎暮容色，悵望好林泉。
@@ -3900,7 +3900,8 @@ si1 jau4 hung2 bat1 seoi6, baa2 zau2 ji3 mong4 jin4
 【補充說明】
 〚2:12.1〛山雨尊仍在，沙沉榻未移，對仗工整。「沉」爲動詞，故「雨」亦當爲動詞，讀去聲。
 〚2:14〛「翠微寺」、「皇子陂」作對有兩層：一，地名對；二：仇註謂「翠」、「皇」爲借對，卽「皇」借「黃」作顏色對。
-〚3:21.1.5〛桁，按詩律爲仄聲字。衣桁，衣架。
+〚3:21.1.5〛「桁」，按詩律爲仄聲字。衣桁，衣架。
+〚5:33.2.4〛「判」，據朱鶴齡注，訓半義之「判」讀平聲，訓棄義之「判」（同「𢬵」）讀去聲。演變至粵語，「判」讀去聲，「𢬵」讀上聲，pun2。
 
 【其他】
 笴，go2，箭杆。
@@ -3938,6 +3939,7 @@ bat1 jau5 siu2 zau1 nang4 dong6 zoeng2, baak3 wu4 no4 sung3 zau2 jyu4 cyun4
 
 【補充說明】
 〚6.2.3〛那，平聲。
+〚4〛仇註指出，「次聯宜用仄承」。首聯出句第二字「蛾」爲平聲字，次聯出句第二字當爲仄聲字。頸鏈出句第二字「吹」、末聯出句第二字「有」則合律。
 
 =====================================================
 
@@ -3973,7 +3975,7 @@ jyut6 neoi5 hung4 kwan4 sap1, jin1 gei1 ceoi3 doi6 sau4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
 纜侵隄柳繫，幔卷浪花浮。
-laam6 cam1 tai4 lau5 hai6, maan6 gyun2 long6 faa1 fau4
+laam6 cam1 tai4 lau5 gai3, maan6 gyun2 long6 faa1 fau4
 仄平平仄仄，仄仄仄平平
 -----------------------------------------------------
 歸路翻蕭颯，陂塘五月秋。
@@ -3993,7 +3995,6 @@ gwai1 lou6 faan1 siu1 saap3, bei1 tong4 ng5 jyut6 cau1
 【體裁】
 〚1:〛五律
 〚2:〛五律
-
 
 =====================================================
 
@@ -4027,11 +4028,11 @@ jyun2 zoi6 zung1 lau4 but6 haai5 cing1, haa6 gwai1 mou4 gik6 zung1 naam4 hak1
 半陂已南純浸山，動影裊窕沖融間。
 bun3 bei1 ji5 naam4 seon4 zam3 saan1, dung6 jing2 niu5 tiu5 cung1 jung4 gaan1
 -----------------------------------------------------
-船舷暝戞雲際寺，水面月出藍田關。
+船舷暝戛雲際寺，水面月出藍田關。
 syun4 jin4 ming4 aat3 wan4 zai3 zi6, seoi2 min6 jyut6 ceot1 laam4 tin4 gwaan1
 -----------------------------------------------------
 此時驪龍亦吐珠，馮夷擊鼓羣龍趨。
-ci2 si4 lei4 lung4 jik6 tou3 zyu1, fung4 ji4 gik1 gu2 kwan4 lung4 ceoi1
+ci2 si4 lei4 lung4 jik6 tou3 zyu1, pang4 ji4 gik1 gu2 kwan4 lung4 ceoi1
 -----------------------------------------------------
 湘妃漢女出歌舞，金支翠旗光有無。
 soeng1 fei1 hon3 neoi5 ceot1 go1 mou5, gam1 zi1 ceoi3 kei4 gwong1 jau5 mou4
@@ -6160,7 +6161,7 @@ ling4 san4 gwo3 lei4 saan1, jyu6 taap3 zoi6 dit6 jit6
 蚩尤塞寒空，蹴踏崖谷滑。
 ci1 jau4 sak1 hon4 hung1, cuk1 daap6 ngaai4 guk1 waat6
 -----------------------------------------------------
-瑤池氣鬱律，羽林相摩戞。
+瑤池氣鬱律，羽林相摩戛。
 jiu4 ci4 hei3 wat1 leot6, jyu5 lam4 soeng1 mo1 aat3
 -----------------------------------------------------
 君臣留歡娛，樂動殷膠葛。
@@ -6269,7 +6270,7 @@ jau1 dyun1 cai4 zung1 naam4, hung6 tung4 bat1 ho2 zyut3
 〚21.2.5〛結：屑韻
 〚22.2.5〛嵲：屑韻
 〚23.2.5〛滑：月韻
-〚24.2.5〛戞：黠韻
+〚24.2.5〛戛：黠韻
 〚25.2.5〛葛：曷韻
 〚26.2.5〛褐：曷韻
 〚27.2.5〛出：質韻
