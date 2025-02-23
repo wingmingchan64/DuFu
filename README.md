@@ -20,7 +20,7 @@
 
 <p><a href="https://github.com/wingmingchan64/Dufu-Analysis">杜甫詩分析、資料庫</a></p>
 
-<h2>重要文件下載</h2>
+<h2>重要文件一覽</h2>
 <h3>杜詩白文</h3>
 <ul>
 <li><a href="https://github.com/wingmingchan64/DuFu/blob/master/%E6%9D%9C%E7%94%AB%E5%85%A8%E9%9B%86.txt">杜甫全集（默認版本）</a></li>
