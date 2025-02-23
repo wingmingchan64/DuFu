@@ -30,7 +30,7 @@
 <h3>杜詩注音</h3>
 <ul>
 <li><a href="https://github.com/wingmingchan64/DuFu/blob/master/%E6%9D%9C%E7%94%AB%E5%85%A8%E9%9B%86%E7%B2%B5%E9%9F%B3%E6%B3%A8%E9%9F%B3.txt">杜甫全集粵音注音</a></li>
-<li>
+
 </ul>
 <h3>杜注目錄</h3>
 <ul>
