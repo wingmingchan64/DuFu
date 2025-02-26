@@ -131,13 +131,13 @@ cin4 cyun1 saan1 lou6 him2, gwai1 zeoi3 mui5 mou4 sau4
 平平平仄仄，平仄仄平平
 
 【韻部】
-下平聲十一尤
+〚1:〛下平聲十一尤
 〚1:5.1.7〛求：尤韻
 〚1:5.2.7〛幽：尤韻
 〚1:6.2.7〛丘：尤韻
 〚1:7.2.7〛遊：尤韻
 〚1:8.2.7〛舟：尤韻
-下平聲十一尤
+〚2:〛下平聲十一尤
 〚2:12.2.5〛留：尤韻
 〚2:13.2.5〛呦：尤韻
 〚2:14.2.5〛求：尤韻
@@ -57220,7 +57220,7 @@ dung6 ting4 ceon1 sik1 bei1 gung1 zi2, haa1 coi3 mong4 gwai1 faan6 lai5 syun4
 =====================================================
 
 6014 奉酬寇十侍御錫見寄四韻復寄寇
-fung6 cau4 kau3 sap6 si6 jyu6 sek3/sik3 gin3 gei3 sei3 wan6 fau6 gei3 kau3
+fung6 cau4 kau3 sap6 si6 jyu6 ci3 gin3 gei3 sei3 wan6 fau6 gei3 kau3
 
 
 往別郇瑕地，於今四十年
