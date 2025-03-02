@@ -5554,7 +5554,7 @@ suk1 sik1 cyun4 man4 si1 jat1 gin3, hin1 loi4 zo2 jau6 san4 gaai1 sung2
 雄姿逸態何𡺚崒，顧影驕嘶自矜寵。
 hung4 zi1 jat6 taai3 ho4 cau4 zeot1, gu3 jing2 giu1 sai1 zi6 ging1 cung2
 -----------------------------------------------------
-隅目青熒夾鏡懸，肉𩦲碨礧連錢動。
+隅目青熒夾鏡懸，肉騣碨礧連錢動。
 jyu4 muk6 cing1 jing4 gaap3 geng3 jyun4, juk6 zung1 wai2 leoi5 lin4 cin4 dung6
 -----------------------------------------------------
 朝來久試華軒下，未覺千金滿高價。
@@ -15425,7 +15425,6 @@ gou1 hing3 zi1 lung4 niu5, si1 man4 hei2 wok6 leon4
 kung4 cau1 zing3 jiu4 lok6, wui4 sau2 mong6 cung4 wan4
 平平仄平仄，平仄仄平平（出句特定平仄）
 
-【韻部】
 【韻部】
 〚3.2.5〛春：眞韻
 〚4.2.5〛人：眞韻
@@ -30184,6 +30183,7 @@ ji5 jan2 ling4 ping1 sap6 nin4 si6, koeng5 ji4 cai1 sik1 jat1 zi1 on1
 【補充說明】
 四聯皆對仗，唯首、尾二聯不甚工整、半對不對。
 〚4〛[[永夜]角聲悲][自語]，[[中天]月色好][誰看]，五（二、三）、二句法。
+〚5〛「荏苒」（日母），雙聲；「蕭條」（下二蕭），疊韻。
 〚6〛[已忍][[伶俜]十年事]，[強移][[栖息]一枝安]，二、五（二、三）句法。
 
 =====================================================
