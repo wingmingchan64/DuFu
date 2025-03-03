@@ -63,6 +63,8 @@
 <p>這裏儲存了一千多個文檔，集中展示搜集來的各家注釋、評論等。隨著新資料的增加，這些文檔也會不斷更新。</p>
 <ul>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/%E8%B3%87%E6%96%99%E5%8C%AF%E7%B8%BD">資料匯總</a></li>
+<li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E8%B3%87%E6%96%99%E5%8C%AF%E7%B8%BD/3789.txt">《秋興八首》</a></li>
+
 </ul>
 <!--
 <li><a href=""></a></li>
