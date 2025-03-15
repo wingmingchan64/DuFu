@@ -1091,6 +1091,11 @@ Stephen Owen, The Poetry of Du Fu 2,PDF87
 〖西望瑤池降王母〗Emperor Wu of the Han was once visited by the goddess known as the Queen Mother of the West. During her visit she gave him various magic herbs and told him all about the world of the gods. "That night, when the waterclock had reached the third mark, there were no clouds in the sky, but there was a rumbling like thunder, and at last the sky turned lavender. In a short while the Queen Mother arrived, riding a lavender coach, with Jade Maidens attending on either side; she wore seven kinds of hair ornaments and black obsidian, phoenix patterned boots, green vapors like clouds, and there were two bluebirds, as large as ravens, attending at the Queen Mother’s sides. When she descended from her coach, His Majesty greeted her bowing, and invited the Queen Mother to sit, asking for the herbs that conferred immortality" (The Tales of  Emperor Wu).
 〖東來紫氣滿函關〗Laozi, the Taoist sage and supposed ancestor of the Tang royal house, went through Han Pass off westward to become immortal. The attendant of the pass, seeing a purple vapor coming from the east, knew it was the sage coming and hurried out to greet him. Laozi gave him the Daode jing.
 〖幾迴青瑣點朝班〗The reference here is to the palace gates which were painted with a pattern of blue chain-links. Beneath these gates the court officials assembled for the dawn audience with the emperor.
+〖瞿塘峽口曲江頭〗That is, the distance from Kuizhou to Chang'an.
+〖芙蓉小苑入邊愁〗Calyx Manor was part of the Xingqing Palace complex in the eastern part of the city. Between there and Lotus Park by Twisting River directly to the south there was a walled passageway through which the emperor could pass privately.
+〖石鯨鱗甲動秋風〗At Kunming Pool there was a statue of the Weaver Woman constellation and of a stone Leviathan whose fins moved in the wind.
+〖佳人拾翠春相問〗Perhaps referring to foliage or flowers to be strung from the sash.
+〖綵筆昔曾干氣象〗Once the poet Jiang Yan dreamed that the earlier poet Guo Pu (276–324) appeared to him and asked for the return of his colored writing brush, which he claimed to have left with Jiang for many years. When Jiang Yan woke up, he found that his poetic talent had completely left him.
 
 【譯文】
 〚1:5〛Jade-white dew withers and harms forests of maple trees, on Wu Mountain and in Wu Gorges, the atmosphere, bleak and dreary.
@@ -1109,47 +1114,21 @@ Stephen Owen, The Poetry of Du Fu 2,PDF87
 〚4:27〛Mansions of counts and princes all have new masters, those in civil and army uniforms differ from olden times.
 〚4:28〛Straight north past fortified mountains kettledrums are thundering; from wagon and horse on western campaigns winged dispatches rush.
 〚4:29〛Fish and dragons grow silent now, autumn rivers grow cold, the life I used to have at home is the longing in my heart.
-
-
-
-
-〚30〛
-〚31〛
-〚32〛
-〚5:33〛蓬萊宮闕對南山。承露金莖霄漢間。
-〚5:34〛西望瑤池降王母。東來紫氣滿函關。
-〚5:35〛雲移雉尾開宮扇。日繞龍鱗識聖顏。
-〚5:36〛一臥滄江驚歲晚。幾迴青瑣點朝班。
-Palace towers of  Penglai stand facing South Mountain,1
- the metal stalk that catches the dew is high in the Milky Way.2
- Gazing west to Onyx Pool the Queen Mother is descending,3
- 4 from the east come purple vapors and fill Han Pass.4
- Pheasant tails shift in clouds, palace fans open
- sunlight circles dragon scales, I see the Emperor’s face.
- By the gray river I lay once and woke, alarmed that the year had grown 
-late — 
-8 how often did I, by the gates’ blue rings, take my humble place in dawn 
-court’s ranks?5
-〚37〛
-〚38〛
-〚39〛
-〚40〛瞿塘峽口曲江頭。萬里風煙接素秋。
-〚41〛花萼夾城通御氣。芙蓉小苑入邊愁。
-〚42〛珠簾繡柱圍黃鵠。錦纜牙檣起白鷗。
-〚43〛回首可憐歌舞地。秦中自古帝王州。
-〚44〛
-〚45〛
-〚46〛
-〚47〛昆明池水漢時功。武帝旌旗在眼中。
-〚48〛織女機絲虛夜月。石鯨鱗甲動秋風。
-〚49〛波漂菰米沉雲黑。露冷蓮房墜粉紅。
-〚50〛關塞極天唯鳥道。江湖滿地一漁翁。
-〚51〛
-〚52〛
-〚53〛
-〚54〛昆吾御宿自逶迤。紫閣峯陰入渼陂。
-〚55〛香稻啄餘鸚鵡粒。碧梧栖老鳳凰枝。
-〚56〛佳人拾翠春相問。仙侶同舟晚更移。
-〚57〛綵筆昔曾干氣象。白頭吟望苦低垂。
+〚5:33〛Palace towers of Penglai stand facing South Mountain, the metal stalk that catches the dew is high in the Milky Way.
+〚5:34〛Gazing west to Onyx Pool the Queen Mother is descending, from the east come purple vapors and fill Han Pass.
+〚5:35〛Pheasant tails shift in clouds, palace fans open sunlight circles dragon scales, I see the Emperor's face.
+〚5:36〛By the gray river I lay once and woke, alarmed that the year had grown late — how often did I, by the gates' blue rings, take my humble place in dawn court's ranks？
+〚6:40〛From the mouth of the Qutang Gorge to the Twisting River's side, thousands of miles of wind-blown fog connect pale autumn.
+〚6:41〛Through the walled passage to Calyx Manor the royal aura passed, and into tiny Lotus Park the frontier's sorrows entered.
+〚6:42〛Beaded hangings and sculpted pillars surrounded brown swans, from brocade cables and ivory mast rose a white gull.
+〚6:43〛The head turns with pity and love for those places of song and the dance: Qin since ancient times has been land of emperors.
+〚7:47〛The waters of Kunming Pool are a deed of the days of Han, pennons and banners of Emperor Wu are right before my eyes.
+〚7:48〛Loom threads of the Weaver Woman lie empty in the moonlit night, stone Leviathan's fins and scales stir the autumn wind.
+〚7:49〛Waves toss wild grass seed sinking in cloudy black, dew is chill on the lotus pod shedding powdery red.
+〚7:50〛Fortified passes stretch to the skies, a way for only birds, lakes and rivers fill the earth, and one old man, fishing.
+〚8:54〛At Kunwu Hill the Yusu Brook winds around and away, where the shadow of Purple Tower's crest falls into Lake Meipi.
+〚8:55〛Sweet-smelling rice, pecked the last, for parrots, the grains; sapphire tung trees, perch of old, the phoenix's branches.
+〚8:56〛Fair maidens gathered kingfisher plumes, as gentle gifts in spring, sharing a boat, undying companions moved further on that evening.
+〚8:57〛My colored brush in former outings ventured upon the atmosphere, now white-haired, I sing and gaze, head hanging in bitterness.
 =====================================================
 講3/521,仇4/1484,校7/3789,虎3/626,全824,新2/1248,今3/1487,趙2/1138,臆443,心3/651,鏡643,銭2/504,洙1563,唐7/2509,8/155
