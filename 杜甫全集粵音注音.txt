@@ -617,7 +617,7 @@ mun4 laan4 do1 hei2 sik1, neoi5 sai3 gan6 sing4 lung4
 waa4 gun2 ceon1 fung1 hei2, gou1 sing4 jin1 mou6 hoi1
 平仄平平仄，平平平仄平
 -----------------------------------------------------
-雜花分戶映，嬌燕入簷迴。
+雜花分戶映，嬌燕入檐迴。
 zaap6 faa1 fan1 wu6 jing2, giu1 jin3 jap6 jim4 wui4
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
@@ -1210,7 +1210,7 @@ zeon1 leoi4 lam4 gik6 pou2, fu4 ngaan6 suk1 zoeng1 dang1
 faa1 jyut6 kung4 jau4 jin3, jim4 tin1 bei6 wat1 zing1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
-硯寒金井水，簷動玉壺冰。
+硯寒金井水，檐動玉壺冰。
 jin6 hon4 gam1 zing2 seoi2, jim4 dung6 juk6 wu4 bing1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
@@ -3733,7 +3733,7 @@ dak1 cin4 zik1 soeng1 mik6, gu1 zau2 bat1 fau6 ji4
 忘形到爾汝，痛飲眞吾師。
 mong4 jing4 dou3 ji5 jyu5, tung3 jam2 zan1 ng4 si1
 -----------------------------------------------------
-清夜沉沉動春酌，燈前細雨簷花落。
+清夜沉沉動春酌，燈前細雨檐花落。
 cing1 je6 cam4 cam4 dung6 ceon1 zoek3, dang1 cin4 sai3 jyu5 jim4 faa1 lok6
 -----------------------------------------------------
 但覺高歌有鬼神，焉知餓死塡溝壑。
@@ -4454,7 +4454,7 @@ coi2 coi2 wong4 gam1 faa1, ho4 jau4 mun5 ji1 zau6
 0490 歎庭前甘菊花
 taan3 ting4 cin4 gam1 guk1 faa1
 
-簷前甘菊移時晚，青蕊重陽不堪摘。
+檐前甘菊移時晚，青蕊重陽不堪摘。
 jim4 cin4 gam1 guk1 ji4 si4 maan5, cing1 jeoi5 cung4 joeng4 bat1 ham1 zaak6
 -----------------------------------------------------
 明日蕭條醉盡醒，殘花爛漫開何益。
@@ -7371,7 +7371,7 @@ zi6 gu3 zyun2 mou4 ceoi3, gaau1 cing4 ho4 soeng6 san1
 道林才不世，惠遠德過人。
 dou6 lam4 coi4 bat1 sai3, wai6 jyun5 dak1 gwo3 jan4
 -----------------------------------------------------
-雨瀉暮簷竹，風吹春井芹。
+雨瀉暮檐竹，風吹春井芹。
 jyu5 se3 mou6 jim4 zuk1, fung1 ceoi1 ceon1 zing2 kan4
 -----------------------------------------------------
 天陰對圖畫，最覺潤龍鱗。
@@ -13221,7 +13221,7 @@ coi2 joek6 ng4 zoeng1 lou5, ji4 tung4 mei6 hin2 man4
 bin1 cau1 jam1 ji6 zik6, bat1 fau6 bin6 san4 gwong1
 平平平仄仄，仄仄仄平平
 -----------------------------------------------------
-簷雨亂淋幔，山雲低度牆
+檐雨亂淋幔，山雲低度牆
 jim4 jyu5 lyun6 lam4 maan6, saan1 wan4 dai1 dou6 coeng4
 平仄仄平仄，平平平仄平（仄平仄對平仄平）
 -----------------------------------------------------
@@ -18653,7 +18653,7 @@ tai4 san1 zeon1 bak1 kiu4 lau4
 mong6 gik6 ceon1 sing4 soeng6, hoi1 jin4 gan6 niu5 caau4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-白花簷外朵，青柳檻前梢
+白花檐外朵，青柳檻前梢
 baak6 faa1 jim4 ngoi6 do2, cing1 lau5 laam6 cin4 saau1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
@@ -18850,7 +18850,7 @@ zim6 hei2 gaau1 jau4 zyut6, jau1 geoi1 bat1 jung6 ming4
 
 其二
 
-簷影微微落，津流脈脈斜
+檐影微微落，津流脈脈斜
 jim4 jing2 mei4 mei4 lok6, zeon1 lau4 mak6 mak6 ce4
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
@@ -25390,7 +25390,7 @@ bun2 mou4 daan1 zou3 seot6, no4 min5 baak6 tau4 jung1
 kau3 dou6 kwong4 go1 ngoi6, jing4 hoi4 tung3 jam2 zung1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-野雲低渡水，簷雨細隨風
+野雲低渡水，檐雨細隨風
 je5 wan4 dai1 dou6 seoi2, jim4 jyu5 sai3 ceoi4 fung1
 仄平平仄仄，平仄仄平平
 -----------------------------------------------------
@@ -28335,7 +28335,7 @@ gung6 syut3 zung2 jung4 wan4 niu5 zan6, bat1 fong4 jau4 zi2 gei6 ho4 ji1
 3135 春歸
 ceon1 gwai1
 
-苔徑臨江竹，茅簷覆地花
+苔徑臨江竹，茅檐覆地花
 toi4 ging3 lam4 gong1 zuk1, maau4 jim4 fuk1 dei6 faa1
 -----------------------------------------------------
 別來頻甲子，歸到忽春華
@@ -29494,7 +29494,7 @@ gap1 jyu5 saau1 kai1 zuk1, ce4 fai1 zyun2 syu6 jiu1
 gaak3 caau4 wong4 niu5 bing6, faan1 zou2 baak6 jyu4 tiu1
 仄平平仄仄，平仄仄平平
 
-舍下筍穿壁，庭中藤刺簷
+舍下筍穿壁，庭中藤刺檐
 se3 haa6 seon2 cyun1 bik1, ting4 zung1 tang4 ci3 jim4
 仄仄仄平仄，平平平仄平（拗救）
 -----------------------------------------------------
@@ -29519,7 +29519,7 @@ niu5 cai1 zi1 gu3 dou6, faan4 gwo3 suk1 seoi4 gaa1
 〚3:16.2.5〛村：元韻
 〚4:20.2.5〛腰：蕭韻
 〚4:21.2.5〛跳：蕭韻
-〚5:25.2.5〛簷：鹽韻
+〚5:25.2.5〛檐：鹽韻
 〚5:26.2.5〛纖：鹽韻
 〚6:30.2.5〛花：麻韻
 〚6:31.2.5〛家：麻韻
@@ -30319,7 +30319,7 @@ sai3 sing1 man4 juk6 zoeng3, so1 ceoi3 gan6 zyu1 lim4
 mei6 gin3 zi2 jin1 zaap6, heoi1 mung4 cing1 lou6 zim1
 仄仄仄平仄，平平平仄平
 -----------------------------------------------------
-何當一百丈，攲蓋擁高簷
+何當一百丈，攲蓋擁高檐
 ho4 dong1 jat1 baak3 zoeng6, kei1 goi3 jung2 gou1 jim4
 平平仄仄仄，平仄仄平平
 
@@ -30327,7 +30327,7 @@ ho4 dong1 jat1 baak3 zoeng6, kei1 goi3 jung2 gou1 jim4
 〚3.2.5〛瞻：鹽韻
 〚4.2.5〛簾：鹽韻
 〚5.2.5〛霑：鹽韻
-〚6.2.5〛簷：鹽韻
+〚6.2.5〛檐：鹽韻
 
 【體裁】
 五律
@@ -35810,7 +35810,7 @@ so1 dang1 zi6 ziu3 gu1 faan4 suk1, san1 jyut6 jau4 jyun4 soeng1 cyu5 ming4
 naam4 guk1 zoi3 fung4 jan4 ngo6 bing6, bak1 syu1 bat1 zi3 ngaan6 mou4 cing4
 平仄仄平平仄仄，仄平仄仄仄平平
 -----------------------------------------------------
-步簷倚仗看牛斗，銀漢遙應接鳳城
+步檐倚仗看牛斗，銀漢遙應接鳳城
 bou6 jim4 ji2 zoeng6 hon1 ngau4 dau2, ngan4 hon3 jiu4 jing1 zip3 fung6 sing4
 仄平仄仄平平仄，平仄平平仄仄平
 
@@ -36272,7 +36272,7 @@ ging3 tim1 saa1 min6 ceot1, teon1 gaam2 sek6 ling4 sang1
 guk1 jeoi5 cai1 so1 fong3, cung4 lam4 zyu3 jyun5 cing4
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
-滂沱朱檻濕，萬慮倚簷楹
+滂沱朱檻濕，萬慮倚檐楹
 pong4 to4 zyu1 laam6 sap1, maan6 leoi6 ji2 jim4 jing4
 平平平仄仄，仄仄仄平平
 
@@ -38786,7 +38786,7 @@ gam2 gong1 jyun4 gwo3 co2, gim3 gok3 fau6 tung1 ceon4
 舊俗存祠廟，空山立鬼神
 gau6 zuk6 cyun4 ci4 miu6, hung1 saan1 lap6 gwai2 san4
 -----------------------------------------------------
-虛簷交鳥道，枯木半龍鱗
+虛檐交鳥道，枯木半龍鱗
 heoi1 jim4 gaau1 niu5 dou6, fu1 muk6 bun3 lung4 leon4
 -----------------------------------------------------
 竹送清溪月，苔移玉座春
@@ -40013,7 +40013,7 @@ gei2 si4 loi4 ceoi3 zit3, dak6 dei6 jan5 hung4 zong1
 
 其二
 
-繡段裝簷額，金花帖鼓腰
+繡段裝檐額，金花帖鼓腰
 sau3 dyun6 zong1 jim4 ngaak6, gam1 faa1 tip3 gu2 jiu1
 仄仄平平仄，平平仄仄平
 -----------------------------------------------------
@@ -43238,7 +43238,7 @@ gin3 jing4 fo2
 mou4 saan1 cau1 je6 jing4 fo2 fei1, lim4 so1 haau2 jap6 zo6 jan4 ji1
 平平平仄平仄平，平平仄仄仄平平
 -----------------------------------------------------
-忽驚屋裏琴書冷，復亂簷邊星宿稀
+忽驚屋裏琴書冷，復亂檐邊星宿稀
 fat1 ging1 uk1 leoi5 kam4 syu1 laang5, fau6 lyun6 jim4 bin1 sing1 sau3 hei1
 仄平仄仄平平仄，仄仄平平平仄平
 -----------------------------------------------------
@@ -48594,7 +48594,7 @@ mou4 cin4 cung4 zai6 haak3, jau5 geng3 haau2 ceoi1 ngaan4
 5243 寄杜位
 gei3 dou6 wai6
 
-寒日經簷短，窮猿失木悲
+寒日經檐短，窮猿失木悲
 hon4 jat6 ging1 jim4 dyun2, kung4 jyun4 sat1 muk6 bei1
 平仄平平仄，平平仄仄平
 -----------------------------------------------------
@@ -49646,7 +49646,7 @@ taa1 hoeng1 zau6 ngo5 sang1 ceon1 sik1, gu3 gwok3 ji4 geoi1 gin3 haak3 sam1
 sing6 juk6 tai4 kwai4 jyu4 ji3 mou5, hei2 do1 hang4 zo6 baak6 tau4 jam4
 仄仄平平平仄仄，仄平平仄仄平平
 -----------------------------------------------------
-巡簷索共梅花笑，冷蕊疏枝半不禁
+巡檐索共梅花笑，冷蕊疏枝半不禁
 ceon4 jim4 sok3 gung6 mui4 faa1 siu3, laang5 jeoi5 so1 zi1 bun3 bat1 gam1
 平平仄仄平平仄，仄仄平平仄仄平
 
