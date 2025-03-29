@@ -1103,6 +1103,7 @@ naam4 cam4 jyu5 jyut6 gin3 lei5 baak6, dou6 fu2 man6 seon3 gam1 ho4 jyu4
 
 【其他】
 1. 徂徠（cou4 loi4）
+2. 旃，zin1。
 
 =====================================================
 
@@ -2765,6 +2766,9 @@ gwan1 hon3 ceoi4 joeng4 ngaan6, gok3 jau5 dou6 loeng4 mau4
 
 【體裁】
 五古
+
+【其他】
+盬，gu2，河東鹽池。
 
 =====================================================
 
@@ -4025,7 +4029,7 @@ gwai1 lou6 faan1 siu1 saap3, bei1 tong4 ng5 jyut6 cau1
 mei5 bei1 hang4
 
 岑參兄弟皆好奇，攜我遠來遊渼陂。
-sam4 sam1 hing1 dai6 gaai1 hou3 kei4, kwai4 ngo5 jyun5 loi4 jau4 mei5 bei1
+sam4 caam1 hing1 dai6 gaai1 hou3 kei4, kwai4 ngo5 jyun5 loi4 jau4 mei5 bei1
 -----------------------------------------------------
 天地黤慘忽異色，波濤萬頃堆瑠璃。
 tin1 dei6 jim2 caam2 fat1 ji6 sik1, bo1 tou4 maan6 king2 deoi1 lau4 lei1
@@ -4094,6 +4098,7 @@ siu3 zong3 gei2 si4 noi6 lou5 ho4, hoeng3 loi4 oi1 lok6 ho4 kei4 do1
 七古
 
 【補充說明】
+〚3.1.2〛岑參之「參」讀 caam1，理由很簡單：在廖行之《書懷》、劉克莊《又和感舊四首》之二等詩中，岑參之「參」一律押覃韻，不押侵韻。
 〚9.1.7〛測、〚10.2.7〛黑，因屬職韻，只讀 cak1、hak1,不讀 caak1、haak1。
 
 =====================================================
@@ -4414,7 +4419,7 @@ bin2 zau1 ng4 ji5 geoi6, baa2 diu3 doi6 cau1 fung1
 =====================================================
 
 0484 九日寄岑參
-gau2 jat6 gei3 sam4 sam1
+gau2 jat6 gei3 sam4 caam1
 
 出門復入門，雨腳但如舊。
 ceot1 mun4 fau6 jap6 mun4, jyu5 goek3 daan6 jyu4 gau6
@@ -9582,7 +9587,7 @@ juk6 zi1 sai3 zoeng2 si1 leon4 mei5, ci4 soeng6 jyu1 gam1 jau5 fung6 mou4
 =====================================================
 
 1006 奉答岑參補闕見贈
-fung6 daap3 sam4 sam1 bou2 kyut3 gin3 zang6
+fung6 daap3 sam4 caam1 bou2 kyut3 gin3 zang6
 
 窈窕清禁闥，罷朝歸不同。
 miu5 tiu5 cing1 gam3 taat3, baa6 ceoi4 gwai1 bat1 tung4
