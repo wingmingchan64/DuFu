@@ -5476,6 +5476,28 @@ gwan1 ji3 jan4 mok6 zi1, jan4 gaan1 je6 liu4 gwik1
 【補充說明】
 十一陌、十二錫爲鄰韻。
 〚8.1.5〛鉤，本讀 gau1,後轉音爲 ngau1,再俗讀成 au1。
+趙注指出，「公此篇雖云古詩，自首兩句而下，每每用對，而句眼平側相連」，如：
+許生：仄平
+業白：仄仄
+余亦：平仄
+身猶：平平
+何階：平平
+謬引：仄仄
+離索：平仄
+包蒙：平平
+誦詩：仄平
+四座：仄仄
+應手：仄仄
+清心：平平
+精微：平平
+飛動：平仄
+陶謝：平仄
+風騷：平平
+紫鸞：仄平
+翠駮：仄仄
+君意：平仄
+人間：平平
+所謂「句眼」，指每句第二字；所謂「平側相連」，指「平平仄仄」兩兩相間。「紫鸞」若作「紫燕」，則與此格不合，因「燕」爲仄聲字。
 
 =====================================================
 
@@ -6079,7 +6101,7 @@ mei6 jyu4 gam1 lou6 zoeng1, fai1 lung6 waat6 ce2 jau4
 ceoi3 kei4 daam6 jin2 gin2, wan4 ce1 fan1 siu2 lau4
 -----------------------------------------------------
 簫鼓盪四溟，異香泱莽浮。
-siu1 gu2 dong6 sei3 ming4, ji6 hoeng1 joeng1 mong5 fau4
+siu1 gu2 dong6 sei3 ming4, ji6 hoeng1 ong2 mong5 fau4
 -----------------------------------------------------
 鮫人獻微綃，曾祝沉豪牛。
 gaau1 jan4 hin3 mei4 siu1, zang1 zuk1 cam4 hou4 ngau4
@@ -6126,6 +6148,8 @@ hou6 go1 luk6 seoi2 kuk1, cing1 zyut6 ting1 ze2 sau4
 
 【體裁】
 五古
+
+〚15.2.3-4〛泱莽，疊韻，二十二養。
 
 =====================================================
 
@@ -6340,6 +6364,7 @@ jau1 dyun1 cai4 zung1 naam4, hung6 tung4 bat1 ho2 zyut3
 【補充說明】
 1. 四質、五物、六月、七曷、八黠、九屑。
 〚22.2.4-5〛嵽嵲，疊韻詞。
+〚25.2.3〛趙云：殷，讀從「殷其雷」之殷。此讀之殷爲上聲，jan2。
 
 【其他】
 
@@ -6632,7 +6657,7 @@ zo6 gau2 fung1 po2 sau4, maan5 loi4 saan1 gang3 bik1
 soeng1 deoi3 sap6 zoeng6 gaau1, fat1 faan1 pun4 wo1 caak3
 -----------------------------------------------------
 何得空裏雷，殷殷尋地脈。
-ho4 dak1 hung1 leoi5 leoi4, jan1 jan1 cam4 dei6 mak6
+ho4 dak1 hung1 leoi5 leoi4, jan2 jan2 cam4 dei6 mak6
 -----------------------------------------------------
 煙氛藹𡺚崒，魍魎森慘戚。
 jin1 fan1 oi2 cau4 zeot1, mong5 loeng5 sam1 caam2 cik1
@@ -34160,7 +34185,7 @@ soeng6 tin1 soek3 gam1 sek6, kwan4 dou6 lyun6 caai4 fu2
 ji6 ze2 cyun4 jat1 dyun1, hin1 joeng4 bat1 jau4 jyu6
 -----------------------------------------------------
 昨宵殷其雷，風過齊萬弩
-zok3 siu1 jan1 kei4 leoi4, fung1 gwo3 cai4 maan6 nou5
+zok3 siu1 jan2 kei4 leoi4, fung1 gwo3 cai4 maan6 nou5
 -----------------------------------------------------
 復吹霾翳散，虛覺神靈聚
 fau6 ceoi1 mai4 ai3 saan3, heoi1 gok3 san4 ling4 zeoi6
@@ -34924,7 +34949,7 @@ haap6 wan4 hang4 cing1 hiu2, jin1 mou6 soeng1 pui4 wui4
 fung1 ceoi1 cong1 gong1 syu6, jyu5 saa2 sek6 bik1 loi4
 -----------------------------------------------------
 淒淒生餘寒，殷殷兼出雷
-cai1 cai1 sang1 jyu4 hon4, jan1 jan1 gim1 ceot1 leoi4
+cai1 cai1 sang1 jyu4 hon4, jan2 jan2 gim1 ceot1 leoi4
 -----------------------------------------------------
 白谷變氣候，朱炎安在哉
 baak6 guk1 bin3 hei3 hau6, zyu1 jim4 on1 zoi6 zoi1
@@ -55639,7 +55664,7 @@ hin1 tang4 fong2 zi1 gei2, waai4 hoi2 mok6 co1 to4
 =====================================================
 
 5855 蘇大侍御渙靜者也旅於江側凡是不交州府之客人事都絕久矣肩輿江浦忽訪老夫舟楫而已茶酒內余請誦近詩肯吟數首才力素壯詞句動人接對明日憶其涌思雷出書篋几杖之外殷殷留金石聲賦八韻記異亦記老夫傾倒於蘇至矣
-sou1 daai6 si6 jyu6 wun6 zing6 ze2 jaa5 leoi5 jyu1 gong1 zak1 faan4 si6 bat1 gaau1 zau1 fu2 zi1 haak3 jan4 si6 dou1 zyut6 gau2 ji5 gin1 jyu4 gong1 pou2 fat1 fong2 lou5 fu1 zau1 zip3 ji4 ji5 caa4 zau2 noi6 jyu4 cing2 zung6 gan6 si1 hang2 jam4 sou3 sau2 coi4 lik6 sou3 zong3 ci4 geoi3 dung6 jan4 zip3 deoi3 ming4 jat6 jik1 kei4 jung2 si1 leoi4 ceot1 syu1 haap6 gei2 zoeng6 zi1 ngoi6 jan1 jan1 lau4 gam1 sek6 sing1 fu3 baat3 wan6 gei3 ji6 jik6 gei3 lou5 fu1 king1 dou2 jyu1 sou1 zi3 ji5
+sou1 daai6 si6 jyu6 wun6 zing6 ze2 jaa5 leoi5 jyu1 gong1 zak1 faan4 si6 bat1 gaau1 zau1 fu2 zi1 haak3 jan4 si6 dou1 zyut6 gau2 ji5 gin1 jyu4 gong1 pou2 fat1 fong2 lou5 fu1 zau1 zip3 ji4 ji5 caa4 zau2 noi6 jyu4 cing2 zung6 gan6 si1 hang2 jam4 sou3 sau2 coi4 lik6 sou3 zong3 ci4 geoi3 dung6 jan4 zip3 deoi3 ming4 jat6 jik1 kei4 jung2 si1 leoi4 ceot1 syu1 haap6 gei2 zoeng6 zi1 ngoi6 jan2 jan2 lau4 gam1 sek6 sing1 fu3 baat3 wan6 gei3 ji6 jik6 gei3 lou5 fu1 king1 dou2 jyu1 sou1 zi3 ji5
 
 龐公不浪出，蘇氏今有之
 pong4 gung1 bat1 long6 ceot1, sou1 si6 gam1 jau5 zi1
@@ -58003,6 +58028,9 @@ jyu5 loi4 tung4 cyu5 bak1, jing1 sai2 fuk6 bo1 gwan1
 
 【體裁】
 五律
+
+【補充說明】
+〚5.1.5〛此例明確顯示「雷殷」之「殷」必爲仄聲字。
 
 =====================================================
 
