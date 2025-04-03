@@ -6793,7 +6793,7 @@ wai3 zuk6 syu4 mei6 cing1, fung1 tou4 nou6 jau4 cuk1
 ho4 si4 tung1 zau1 geoi1, jam1 hei3 bat1 caam2 duk6
 -----------------------------------------------------
 浮生有蕩汩，吾道正羈束。
-fau4 sang1 jau5 dong6 gwat1, ng4 dou6 zing3 gei1 cuk1
+fau4 sang1 jau5 dong6 wat6, ng4 dou6 zing3 gei1 cuk1
 -----------------------------------------------------
 人寰難容身，石壁滑側足。
 jan4 waan4 naan4 jung4 san1, sek6 bik1 waat6 zak1 zuk1
@@ -6837,6 +6837,9 @@ geoi2 tau4 hoeng3 cong1 tin1, on1 dak1 kei4 hung4 huk6
 
 【體裁】
 五古
+
+【補充說明】
+〚20.1.5〛據趙注，「汩」有二音，一爲古忽切，本義爲治水；別一音爲越律切。據段玉裁《說文解字注》十一篇下，越律切之「汩」，其本字爲「𡿯」，水流也。「蕩汩」，亦水流也。故此「汩」讀越律切，粵音讀 wat6。
 
 =====================================================
 
@@ -6902,7 +6905,7 @@ dou1 jan4 wui4 min6 hoeng3 bak1 tai4, jat6 je6 gang3 mong6 gun1 gwan1 zi3
 bei1 cing1 baan2
 
 我軍青坂在東門，天寒飲馬太白窟。
-ngo5 gwan1 cing1 baan2 zoi6 dung1 mun4, tin1 hon4 jam2 maa5 taai3 baak6 fat1
+ngo5 gwan1 cing1 baan2 zoi6 dung1 mun4, tin1 hon4 jam3 maa5 taai3 baak6 fat1
 -----------------------------------------------------
 黃頭奚兒日向西，數騎彎弓敢馳突。
 wong4 tau4 hai4 ji4 jat6 hoeng3 sai1, sou3 kei3 waan1 gung1 gam2 ci4 dat6
@@ -7442,7 +7445,7 @@ tin1 hak1 bai3 ceon1 jyun6, dei6 cing1 cai1 am3 fong1
 juk6 sing4 wui4 tyun5 zyut6, tit3 fung6 sam1 ngou4 coeng4
 -----------------------------------------------------
 梵放時出寺，鐘殘仍殷牀。
-faan6 fong3 si4 ceot1 zi6, zung1 caan4 jing4 jan1 cong4
+faan6 fong3 si4 ceot1 zi6, zung1 caan4 jing4 jan2 cong4
 -----------------------------------------------------
 明朝在沃野，苦見塵沙黃。
 ming4 ziu1 zoi6 juk1 je5, fu2 gin3 can4 saa1 wong4
@@ -9066,7 +9069,7 @@ so2 jyu6 do1 pei1 soeng1, san1 jam4 gang3 lau4 hyut3
 wui4 sau2 fung6 coeng4 jyun6, zing1 kei4 maan5 ming4 mit6
 -----------------------------------------------------
 前登寒山重，屢得飲馬窟。
-cin4 dang1 hon4 saan1 cung4, leoi5 dak1 jam2 maa5 fat1
+cin4 dang1 hon4 saan1 cung4, leoi5 dak1 jam3 maa5 fat1
 -----------------------------------------------------
 邠郊入地底，涇水中蕩潏。
 ban1 gaau1 jap6 dei6 dai2, ging1 seoi2 zung1 dong6 wat1
