@@ -8689,10 +8689,10 @@ fung6 coeng4 cin1 gun1 ce2 baau2 faan6, ji1 maa5 bat1 fuk6 nang4 hing1 fei4
 cing1 pou4 ciu4 si6 zeoi3 kwan3 ze2, baak6 tau4 sap6 wai4 tou4 bou6 gwai1
 -----------------------------------------------------
 人生交契無老少，論交何必先同調。
-jan4 sang1 gaau1 kai3 mou4 lou5 siu3, leon6 gaau1 ho4 bit1 sin1 tung4 tiu4
+jan4 sang1 gaau1 kai3 mou4 lou5 siu3, leon6 gaau1 ho4 bit1 sin1 tung4 diu6
 -----------------------------------------------------
 妻子山中哭向天，須公櫪上追風驃。
-cai1 zi2 saan1 zung1 huk1 hoeng3 tin1, seoi1 gung1 lik1 soeng6 zeoi1 fung1 biu1
+cai1 zi2 saan1 zung1 huk1 hoeng3 tin1, seoi1 gung1 lik1 soeng6 zeoi1 fung1 piu3
 
 【韻部】
 〚3.1.7〛危：支韻
@@ -8700,14 +8700,12 @@ cai1 zi2 saan1 zung1 huk1 hoeng3 tin1, seoi1 gung1 lik1 soeng6 zeoi1 fung1 biu1
 〚4.2.7〛誰：支韻
 〚5.2.7〛肥：微韻
 〚6.2.7〛歸：微韻
-〚7.2.7〛調：蕭韻
-〚8.2.7〛驃：蕭韻
+〚7.1.7〛少：嘯韻
+〚7.2.7〛調：嘯韻
+〚8.2.7〛驃：嘯韻
 
 【體裁】
 七古
-
-【補充說明】
-調，平聲、押韻。
 
 =====================================================
 
