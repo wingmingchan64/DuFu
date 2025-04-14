@@ -2057,6 +2057,7 @@ lou5 maa5 wai4 keoi1 seon3 bat1 heoi1, dong1 si4 dak1 ji3 fong3 sam1 gyun3
 daan6 si2 caan4 nin4 baau2 hek3 faan6, zi2 jyun6 mou4 si6 coeng4 soeng1 gin3
 
 【韻部】
+〚〛去声十四願、十七霰
 〚3.2.7〛見：霰韻
 〚4.2.7〛羨：霰韻
 〚5.2.7〛賤：霰韻
@@ -2521,6 +2522,9 @@ tit3 so2 gou1 seoi4 bat1 ho2 paan1, zi3 san1 fuk1 dei6 ho4 siu1 song2
 【補充說明】
 十三元、十四寒爲鄰韻。
 〚7-8〛最後兩聯，第一、三、四句押韻。
+
+【其他】
+斜，je4。
 
 =====================================================
 
@@ -6464,7 +6468,7 @@ zoeng6 lai4 fuk6 zi3 ji3, min5 zik6 gung1 jyu5 hau4
 maan5 ding6 ceoi1 lei5 gaau1, wui6 sam1 zan1 hon2 cau4
 -----------------------------------------------------
 每過得酒傾，二宅可淹留。
-mui5 gwo3 dak1 zau2 king1, ji6 zaak6 ho2 jim1 lau4
+mui5 gwo1 dak1 zau2 king1, ji6 zaak6 ho2 jim1 lau4
 -----------------------------------------------------
 喜結仁里歡，況因令節求。
 hei2 git3 jan4 lei5 fun1, fong3 jan1 ling6 zit3 kau4
@@ -6532,6 +6536,9 @@ zuk6 lou4 jau5 miu6 lei5, syu3 jung6 wai3 cam4 fau4
 
 【補充說明】
 〚14.2.5〛不，平聲，尤韻。
+
+【其他】
+翛然，jau5。
 
 =====================================================
 
@@ -6572,7 +6579,7 @@ sou3 si1 kit3 coeng4 jyu4, bik1 zau2 ceoi4 juk6 lap1
 tou4 kung4 gin3 gaau1 taai3, sai3 gang2 bei1 lou6 sap1
 -----------------------------------------------------
 東風吹春冰，泱莽后土濕。
-dung1 fung1 ceoi1 ceon1 bing1, joeng1 mong5 hau6 tou2 sap1
+dung1 fung1 ceoi1 ceon1 bing1, ong2 mong5 hau6 tou2 sap1
 -----------------------------------------------------
 念君惜羽翮，旣飽更思戢。
 nim6 gwan1 sik1 jyu5 hat6, gei3 baau2 gang3 si1 cap1
@@ -6602,6 +6609,9 @@ mok6 zok3 faan1 wan4 gwat1, man4 fu1 hoeng3 kam4 gap1
 【補充說明】
 〚8.2.5〛蟄，從虫執聲，直立切。古音的韻尾應該是 -p，不是 -t。粵語沒保留這個韻尾。
 〚13.2.5〛澀，緝韻，讀 sap1/saap3,不讀 gip3。
+
+【其他】
+澹泞，daam6 cyu5，澄澈；水停貌。「泞」，《集韻》丈呂切，非「濘」之簡體字。
 
 =====================================================
 
@@ -7644,6 +7654,8 @@ jin1 nang4 hok6 zung3 hau2, deot1 deot1 hung1 zi1 ze1
 【體裁】
 五古
 
+【其他】
+甪里，luk6。
 
 =====================================================
 
@@ -7848,7 +7860,6 @@ ngo5 mou4 hong1 fuk6 zi1, liu4 juk6 cung4 ci2 sai6
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -8088,6 +8099,7 @@ lung4 jam4 wui4 kei4 tau4, gaap3 fu6 doi6 so2 zi3
 
 【補充說明】
 〚1〛從，從仇《註》讀去聲。參 https://jyut.net/query?q=從 。
+〚12〛「瘡痍」、「烽燧」，部首對。
 
 =====================================================
 
@@ -8194,7 +8206,6 @@ tai4 si1 dak1 sau3 geoi3, zaat3 hon6 si4 soeng1 tau4
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -10355,7 +10366,7 @@ lou5 ngaan6 ceon1 jan2 gei1, oi1 hou4 doi6 fu1 mak6
 si4 zoi1 gou1 fei1 jin3, hyun3 lin6 san1 jyu5 hat6
 -----------------------------------------------------
 長雲濕襃斜，漢水饒巨石
-coeng4 wan4 sap1 bou1 ce4, hon3 seoi2 jiu4 geoi6 sek6
+coeng4 wan4 sap1 bou1 je4, hon3 seoi2 jiu4 geoi6 sek6
 -----------------------------------------------------
 無令軒車遲，衰疾悲宿昔
 mou4 ling6 hin1 geoi1 ci4, seoi1 zat6 bei1 suk1 sik1
@@ -10391,6 +10402,8 @@ mou4 ling6 hin1 geoi1 ci4, seoi1 zat6 bei1 suk1 sik1
 【體裁】
 五古
 
+【其他】
+斜，je4。https://jyut.net/query?q=%E6%96%9C
 
 =====================================================
 
@@ -10886,7 +10899,6 @@ naam4 mong6 cing1 cung4 gaa3 dyun2 kok3, on1 dak1 cik3 goek3 daap6 cang4 bing1
 
 【體裁】
 七律
-
 
 =====================================================
 
@@ -11126,7 +11138,6 @@ seoi4 gaa1 ce2 joeng5 jyun6 zung1 wai6, gang3 si3 ming4 nin4 ceon1 cou2 coeng4
 
 【體裁】
 七古
-
 
 =====================================================
 
@@ -11415,7 +11426,6 @@ jan4 sang1 wui6 hap6 bat1 ho2 soeng4, ting4 syu6 gai1 ming4 leoi6 jyu4 sin3
 
 【體裁】
 七古
-
 
 =====================================================
 
@@ -11460,7 +11470,6 @@ fung6 jik1 lung4 kei4 mei6 ji6 sik1, zak1 san1 zyu3 muk6 coeng4 fung1 sang1
 
 【體裁】
 七古
-
 
 =====================================================
 
