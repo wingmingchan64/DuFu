@@ -2598,6 +2598,7 @@ soeng4 ji5 bou3 jat1 faan6, fong3 waai4 ci4 daai6 san4
 baak6 au1 mut6 hou6 dong6, maan6 lei5 seoi4 nang4 seon4
 
 【韻部】
+〚〛上平聲十一眞
 〚3.2.5〛身：眞韻
 〚4.2.5〛陳：眞韻
 〚5.2.5〛賓：眞韻
@@ -2651,6 +2652,12 @@ baak6 au1 mut6 hou6 dong6, maan6 lei5 seoi4 nang4 seon4
 4. 闓，hoi2。
 5. 恚，wai6。
 6. 攄，syu1。
+
+【其他】
+1. 斿，jau4。
+2. 酈食其，lik6 ji6 kei4。
+3. 郅惲，zat6 wan6。
+4. 皛，hiu3。
 
 =====================================================
 
@@ -6031,7 +6038,6 @@ ok3 ming4 hang6 tyut3 min5, kung4 lou5 mou4 ji4 syun1
 〚3:〛五古
 〚4:〛五古
 〚5:〛五古
-
 
 =====================================================
 
@@ -9325,6 +9331,8 @@ wong4 wong4 taai3 zung1 jip6, syu6 lap6 sam6 wang4 daat6
 【補充說明】
 〚5.2.4〛暇，去聲。
 〚6.2.1〛詔，粵音讀陰去（第三聲），不讀陽去（第六聲）。
+〚9.1.3-4〛中興，韻書如《洪武正韻》謂此「中」讀去聲。(《四庫全書》239-140）
+https://ytenx.org/zim?dzih=%E4%B8%AD&dzyen=1&jtkb=1&jtkd=1&jtdt=1&jtgt=1
 〚22〛一四句法：[或][紅如[丹砂]][或][黑如[點漆]]。
 〚54.1.3〛「少爲貴」之「少」有歧義，多少之少讀 siu2，少壯之少讀 siu3。
 〚71.2.3〛數，王嗣奭《杜臆》引劉辰翁說，音「朔」（sok3）。
@@ -12495,6 +12503,9 @@ daan6 ngaa6 luk6 pei4 jung1, mong4 gei1 deoi3 fong1 cou2
 〚1:〛五古
 〚2:〛五古
 〚3:〛五古
+
+【其他】
+旃，zin1。
 
 =====================================================
 
@@ -13640,7 +13651,7 @@ daai6 si1 ging1 gwok3 gau6, dak1 jip6 tin1 gei1 bing2
 cung4 loi4 zi1 heoi2 jau4, hing3 ceoi3 gong1 wu4 gwing2
 -----------------------------------------------------
 數奇謫關塞，道廣存箕潁
-sou3 kei4 zaak6 gwaan1 coi3, dou6 gwong2 cyun4 gei1 wing5
+sou3 gei1 zaak6 gwaan1 coi3, dou6 gwong2 cyun4 gei1 wing5
 -----------------------------------------------------
 何知戎馬間，復接塵事屛
 ho4 zi1 jung4 maa5 gaan1, fau6 zip3 can4 si6 bing2
@@ -13679,6 +13690,7 @@ san4 gwong1 saau2 mung4 lung4, gang3 jyut6 sai1 naam4 ding2
 
 【補充說明】
 二十三梗、二十四迥，鄰韻。
+〚2:24.1.1-2〛數奇，師古注《漢書·李廣蘇建傳第二十四》卷五十四云：「數音所角反。奇音居宜反。」（8.2448）然趙注引李善注云：「數所具切。」
 
 =====================================================
 
@@ -13729,7 +13741,6 @@ jyu5 zi2 sing4 ji6 lou5, loi4 wong5 jik6 fung1 lau4
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -14774,7 +14785,6 @@ zuk1 ming4 gei1 wing6 haak3, wing4 gwai3 jyu4 fan3 tou2
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -15703,7 +15713,6 @@ soeng1 hon1 keoi1 seoi1 nin4, ceot1 cyu2 gok3 nou5 lik6
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -16463,7 +16472,6 @@ ho4 si6 jim4 tin1 gwo3, faai3 ji3 fung1 jyu5 wui6
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -54041,7 +54049,7 @@ sok3 cin4 do1 mun4 wu6, song3 lyun6 fan1 ngou4 ngou4
 noi6 ho4 kit3 lei6 tou4, jyu4 dyut6 sing4 bou1 tou4
 -----------------------------------------------------
 自喜遂生理，花時甘縕袍
-zi6 hei2 seoi6 sang1 lei5, faa1 si4 gam1 wan1 pou4
+zi6 hei2 seoi6 sang1 lei5, faa1 si4 gam1 wan3 pou4
 
 【韻部】
 〚3.2.5〛濤：豪韻
