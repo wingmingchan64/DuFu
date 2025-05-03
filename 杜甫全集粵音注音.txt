@@ -790,7 +790,7 @@ wan5 zan1 hip3 so2 jyu6, lok6 jat6 zoeng1 jyu4 ho4
 gwai3 zin6 keoi1 mat6 jik6, cung4 gung1 naan4 cung4 gwo1
 
 【韻部】
-下平聲五歌
+〚〛下平聲五歌
 〚3.2.5〛荷：歌韻
 〚4.2.5〛多：歌韻
 〚5.2.5〛歌：歌韻
@@ -1374,7 +1374,7 @@ gwan1 mok6 siu3 lau4 ngai6 cung4 loi4 bou3 ji1 jyun6, gaa1 mou4 daam1 daam3 syu1
 七古
 
 【按語】
-樗，syu1。
+樗，syu1。樗蒲，古代一種賭博遊戲。
 
 =====================================================
 
@@ -2167,6 +2167,13 @@ san1 gwai2 faan4 jyun1 gau6 gwai2 huk1, tin1 jam1 jyu5 sap1 seng1 zau1 zau1
 〚19.2.7〛收：尤韻
 〚20.2.7〛啾：尤韻
 
+【對仗】
+車轔轔。馬蕭蕭
+或從十五北防河。便至四十西營田。
+長者雖有問。役夫敢伸恨。
+信知生男惡。反是生女好。
+生女猶是嫁比鄰。生男埋沒隨百草。
+
 【體裁】
 七古
 
@@ -2487,7 +2494,7 @@ seoi4 nang4 gang3 keoi1 cuk1, laan6 zeoi3 si6 sang1 ngaa4
 jyun4 dou1 taan4 go1 gei3 jyun4 jat6 jan4
 
 故人昔隱東蒙峯，已佩含景蒼精龍。
-gu3 jan4 sik1 jan2 dung1 mung4 fung1, ji5 pui3 ham4 ging2 cong1 zing1 lung4
+gu3 jan4 sik1 jan2 dung1 mung4 fung1, ji5 pui3 ham4 jing2 cong1 zing1 lung4
 -----------------------------------------------------
 故人今居子午谷，獨在陰崖結茅屋。
 gu3 jan4 gam1 geoi1 zi2 ng5 guk1, duk6 zoi6 jam1 ngaai4 git3 maau4 uk1
@@ -16012,7 +16019,7 @@ zok3 jik1 jyu4 lung5 baan2, gou1 cau1 si6 ng4 ngok6
 dung1 siu3 lin4 faa1 bei1, bak1 zi1 hung1 tung4 bok6
 -----------------------------------------------------
 超然侔壯觀，已謂殷寥廓
-ciu1 jin4 mau4 zong3 gun1, ji5 wai6 jan1 liu4 kwok3
+ciu1 jin4 mau4 zong3 gun1, ji5 wai6 jan2 liu4 kwok3
 -----------------------------------------------------
 突兀猶趁人，及茲歎冥寞
 dat6 ngat6 jau4 can3 jan4, kap6 zi1 taan3 ming4 mok6
@@ -16031,6 +16038,9 @@ dat6 ngat6 jau4 can3 jan4, kap6 zi1 taan3 ming4 mok6
 
 【體裁】
 五古
+
+【補充說明】
+〚11.2.3〛殷，從趙注讀上聲。
 
 =====================================================
 
@@ -16249,7 +16259,6 @@ sam1 cung1 zing3 wai6 ci2, kwan4 dou6 ho4 jim1 lau4
 
 【體裁】
 五古
-
 
 =====================================================
 
@@ -17801,6 +17810,9 @@ on1 dak1 zong3 si6 zaak6 tin1 ngoi6, si3 jan4 bat1 ji4 gin3 bun2 gan1
 
 【體裁】
 七古
+
+【其他】
+1. 瘞，ji3，埋也。
 
 =====================================================
 
@@ -17811,7 +17823,7 @@ sek6 sai1 hang4
 gwan1 bat1 gin3 ceon4 si4 suk6 taai3 sau3, hak1 sek6 lap6 zok3 saam1 sai1 ngau4
 -----------------------------------------------------
 自古雖有厭勝法，天生江水向東流
-zi6 gu2 seoi1 jau5 jim3 sing3 faat3, tin1 sang1 gong1 seoi2 hoeng3 dung1 lau4
+zi6 gu2 seoi1 jau5 aat3 sing3 faat3, tin1 sang1 gong1 seoi2 hoeng3 dung1 lau4
 -----------------------------------------------------
 蜀人矜誇一千載，泛溢不近張儀樓
 suk6 jan4 ging1 kwaa1 jat1 cin1 zoi2, faan3 jat6 bat1 gan6 zoeng1 ji4 lau4
