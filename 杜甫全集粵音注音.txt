@@ -1612,7 +1612,7 @@ ng5 faa1 saan3 zok3 wan4 mun5 san1, maan6 lei5 fong1 hon1 hon6 lau4 hyut3
 coeng4 on1 zong3 ji4 bat1 gam2 kei4, zau2 gwo3 zai3 din6 king1 sing4 zi1
 -----------------------------------------------------
 青絲絡頭爲君老，何由卻出橫門道。
-cing1 si1 lok3 tau4 wai6 gwan1 lou5, ho4 jau4 koek3 ceot1 waang4 mun4 dou6
+cing1 si1 lok3 tau4 wai6 gwan1 lou5, ho4 jau4 koek3 ceot1 gwong1 mun4 dou6
 
 【韻部】
 〚3.1.7〛驄：東韻
@@ -2439,7 +2439,6 @@ gwan1 bat1 gin3 hung1 coeng4 jat6 sik1 maan5, ci2 lou5 mou4 seng1 leoi6 seoi4 hy
 
 【體裁】
 七古
-
 
 =====================================================
 
@@ -4301,7 +4300,7 @@ sing4 zung1 dau2 mai5 wun6 kam1 cau4, soeng1 heoi2 ning4 leon4 loeng5 soeng1 zik
 其三
 
 長安布衣誰比數，反鎖衡門守環堵。
-coeng4 on1 bou3 ji1 seoi4 bei2 sou3, faan2 so2 hang4 mun4 sau2 waan4 dou2
+coeng4 on1 bou3 ji1 seoi4 bei2 sou2, faan2 so2 hang4 mun4 sau2 waan4 dou2
 -----------------------------------------------------
 老夫不出長蓬蒿，稚子無憂走風雨。
 lou5 fu1 bat1 ceot1 zoeng2 pung4 hou1, zi6 zi2 mou4 jau1 zau2 fung1 jyu5
@@ -4324,6 +4323,7 @@ cau1 loi4 mei6 cang4 gin3 baak6 jat6, nai4 wu1 hau6 tou2 ho4 si4 gon1
 〚2:14.1.7〛黑：職韻
 〚2:14.2.7〛息：職韻
 〚2:15.2.7〛直：職韻
+〚3:19.1.7〛數：麌韻
 〚3:19.2.7〛堵：麌韻
 〚3:21.1.1〛雨：麌韻
 〚3:21.1.7〛寒：寒韻
@@ -4337,7 +4337,6 @@ cau1 loi4 mei6 cang4 gin3 baak6 jat6, nai4 wu1 hau6 tou2 ho4 si4 gon1
 
 【補充說明】
 〚2:12.2〛趙注云：一本作四海萬里，則聲律不穩，而萬里字卻小矣。「四海萬里」，四字皆仄聲，故云不穩。四海遠過萬里，八荒又在四海之外，故云萬里字卻小矣。
-〚3:19.1.6-7〛「比數」之「數」讀去聲。上聲之「數」屬麌韻，可能只是巧合。第一首首句「秋爛死」〚1:5.1.5-7〛不入韻，故「誰比數」亦不必入韻。
 
 =====================================================
 
@@ -10274,7 +10273,6 @@ coeng3 mong6 liu4 go1 zi2 zi1 kuk1, si4 ngai4 caam2 daam6 loi4 bei1 fung1
 
 【體裁】
 七古
-
 
 =====================================================
 
@@ -18258,7 +18256,7 @@ dak1 jyu4 ji5 got3 leon4, coi2 ngau5 bat1 sai2 nai4
 人情逐鮮美，物賤事已睽
 jan4 cing4 zuk6 sin1 mei5, mat6 zin6 si6 ji5 kwai4
 -----------------------------------------------------
-吾村靄暝姿，異捨雞亦栖
+吾村靄暝姿，異舍雞亦栖
 ng4 cyun1 oi2 ming4 zi1, ji6 se2 gai1 jik6 cai1
 -----------------------------------------------------
 蕭條欲何適，出處庶可齊
@@ -20161,7 +20159,7 @@ min4 zau1 fu3 si3 zoek6 ze3 wong4, ngo5 hing1 sou3 ceoi4 zik1 jat6 ping4
 zi2 zoeng1 duk6 lau4 hyut3 mou4 wu4, sau2 tai4 zaak6 waan4 ceoi1 daai6 fu1
 -----------------------------------------------------
 李侯重有此節度，人道我卿絕世無
-lei5 hau4 zung6 jau5 ci2 zit3 dou6, jan4 dou6 ngo5 hing1 zyut6 sai3 mou4
+lei5 hau4 cung4 jau5 ci2 zit3 dou6, jan4 dou6 ngo5 hing1 zyut6 sai3 mou4
 -----------------------------------------------------
 旣稱絕世無，天子何不喚取守京都
 gei3 cing1 zyut6 sai3 mou4, tin1 zi2 ho4 bat1 wun6 ceoi2 sau2 ging1 dou1
