@@ -335,13 +335,23 @@ juk6 gaau3 man4 san4 zung1, ling6 jan4 faat3 sam1 sing2
 醒來時聽見清晨的鐘聲，心中深切的感慨油然而生。[晨鐘乍聞於初醒，深情默湧於心頭。]
 
 【日語筆記】
-以下有很多來自 ChatGPT 的資料。
+以下資料多來自 ChatGPT、JapanDict。
 以降[い\こう]
+    それ以降彼は辛い一生を送った。
+	送る[お/くる]: to spend (time), to lead (a life)
+	辛い[か/ら\い] difficult, tough
 宿泊[しゅ/くはく]
+    ６人宿泊させて欲しい。
+	宿泊する[しゅ/くはくする]
+	宿泊させる causative
+	宿泊させて て-form of the causative
+	欲しい[ほ/し\い]
+	〜させて欲しい = “I want you to let me (or someone else) do X”
+	〜てもらいたい: もらう (to receive – in this case, a favor); 〜たい (want to) You want someone else to do something for you.
 石窟[せ/っくつ]
 情景[じょ/うけい]
-心持ち[こ/ころもち]
-寺院[じ\いん]
+心持ち[こ/ころもち] feeling, mood
+寺院[じ\いん] 寺[て/ら\]
 異名[い/みょう]
 梵語[ぼ/んご]
 由来する[ゆ/らいする]
@@ -371,13 +381,13 @@ juk6 gaau3 man4 san4 zung1, ling6 jan4 faat3 sam1 sing2
 悟り[さ/とり]
 迷[ま/よい\]
 目覚める[め/ざめ\る]
-寺[て/ら\]
+寺[て/ら\] 清水寺[き/よみずでら]
 充分[ぢゅ/うぶ\ん]
 楽しみ[た/のし\み]：連用形（未然形 + み），連接下一句
 構式：【Xで Yし、Zする】的並列構文（て形的簡化）
-更に[さ\らに]
+更に[さ\らに] furthermore
 境内[け\いだい]
-泊める[と/める]
+泊める[と/める] to give shelter to => 泊[と\まり] stay;泊まる[と/まる] to stay at
 「てもらう」：授受動詞結構 → 得到對方為我做某事
 過去形「もらった」：被讓住了／得到讓住的幫助；【V-てもらう】＝「受益構文」，主語得益於他人行動
 響き[ひ/びき\] echo；響き渡る[わ/たる] to echo
