@@ -376,7 +376,7 @@ juk6 gaau3 man4 san4 zung1, ling6 jan4 faat3 sam1 sing2
 横たわる[よ/こたわ\る] liegen; sich legen
 湧く[わ/く]
 宿る[や/ど\る]
-こと:名詞化整個句子（句末のこと）
+こと:名詞化整個句子（句末のこと） norminalization of verb
 深い[ふ/か\い]
 悟り[さ/とり]
 迷[ま/よい\]
