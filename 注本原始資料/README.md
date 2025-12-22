@@ -99,6 +99,15 @@ OCR： 〇〇四八<br />
 <li><a href="https://www.shidianguji.com/zh/book/SDZJ0295?page_from=searching_page&version=16">劉辰翁</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/SBCK133?page_from=searching_page&version=29">《分門集注杜工部詩》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/SDZJ0294?page_from=searching_page&version=11">《集千家注杜工部集》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/SK2230?page_from=searching_page&version=5">唐元竑《杜詩攟》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/CADAL02106927?page_from=searching_page&version=5">鍾惺、譚元春《唐詩歸》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/CADAL02060500?page_from=searching_page&version=2">單復《讀杜詩愚得》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/CADAL02060513?page_from=searching_page&version=4">張綖《杜工部詩通》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/CADAL02060519?page_from=searching_page&version=2">林兆珂《杜詩鈔述注》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/HY2221?page_from=searching_page&version=16">盧世㴶《杜詩胥鈔》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/NA10936?page_from=searching_page&version=11">謝杰《杜律詹言》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/NA11098?page_from=searching_page&version=4">顏廷榘《杜律意箋》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/CADAL02060518?page_from=searching_page&version=2">趙統《杜律意注》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/HY1080/chapter/1km2ewswhyhvk?page_from=searching_page&version=25">黃生《杜詩說》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/HY1072/chapter/1kvmdp1dtct9h?page_from=searching_page&version=10">錢謙益《錢注杜詩》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/CADAL02099531/chapter/1l5hk3e9pexx2?page_from=searching_page&version=9>錢謙益《錢注杜詩》</a></li>
