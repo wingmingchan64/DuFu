@@ -83,3 +83,13 @@ OCR： 〇〇四八<br />
 <li><a href=""></a></li>
 </ul>
 -->
+<h2>部分資料來源</h2>
+<ul>
+<li><a href="https://www.shidianguji.com/ens/book/SDZJ0718?page_from=searching_page&version=7">郭知達《新刊校定集注杜詩》</a></li>
+<li><a href="https://www.shidianguji.com/ens/book/SK2231?page_from=searching_page&version=16">仇兆鰲《杜詩詳註》</a></li>
+<li><a href="https://www.shidianguji.com/ens/book/HY1071?page_from=searching_page&version=40">浦起龍《讀杜心解》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/HY1074/chapter/1koiofzsslsln?version=12">朱鶴齡《杜詩輯注》</a></li>
+<!--
+<li><a href=""></a></li>
+-->
+</ul>
