@@ -6,9 +6,76 @@
 <ul>
 <li>蕭滌非《杜甫全集校注》</li>
 <li>謝思煒《杜甫集校注》</li>
-<li>下定雅弘、松原_朗《杜甫全詩訳注》</li>
+<li>下定雅弘、松原 朗《杜甫全詩訳注》</li>
 </ul>
 <p>在這三大套書之後，我想加入一些宋、清的注本；但這可能要等個十年八年了。</p>
+<h2>資料輸入的進度</h2>
+<ul>
+<li>《杜甫全集校注》杜詩白文<br />
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E8%95%AD%E6%BB%8C%E9%9D%9E%E4%B8%BB%E7%B7%A8%E3%80%8A%E6%9D%9C%E7%94%AB%E5%85%A8%E9%9B%86%E6%A0%A1%E6%B3%A8%E3%80%8B/%E6%9D%9C%E7%94%AB%E5%85%A8%E9%9B%86.txt">《杜甫全集校注》杜詩白文</a></li>
+<li>默認版本白文<br />
+<a href="https://github.com/wingmingchan64/DuFu/blob/master/%E6%9D%9C%E7%94%AB%E5%85%A8%E9%9B%86.txt">杜甫全集</a>
+</li>
+<li>《全唐詩》杜甫部分<br />
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/%E6%9D%9C%E7%94%AB%E5%85%A8%E9%9B%86%E7%84%A1%E5%A4%BE%E6%B3%A8.txt">《全唐詩》杜甫部分</a>
+</li>
+<li>陳永明《杜甫全集粵音注音》（修訂中）<br />
+<a href="https://github.com/wingmingchan64/DuFu/blob/master/%E6%9D%9C%E7%94%AB%E5%85%A8%E9%9B%86%E7%B2%B5%E9%9F%B3%E6%B3%A8%E9%9F%B3.txt">陳永明《杜甫全集粵音注音》</a>
+</li>
+<li>鄒德金整理《名家注評全唐詩》（第483頁）</li>
+<li>王嗣奭《杜臆》完成二校（2025/02/12)<br />
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E7%8E%8B%E5%97%A3%E5%A5%AD%E3%80%8A%E6%9D%9C%E8%87%86%E3%80%8B/%E7%8E%8B%E5%97%A3%E5%A5%AD%E3%80%8A%E6%9D%9C%E8%87%86%E3%80%8B_%E5%B8%B6%E8%A9%A9%E6%96%87.txt">王嗣奭《杜臆》_帶詩文.txt</a><br />
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E7%8E%8B%E5%97%A3%E5%A5%AD%E3%80%8A%E6%9D%9C%E8%87%86%E3%80%8B/%E7%8E%8B%E5%97%A3%E5%A5%AD%E3%80%8A%E6%9D%9C%E8%87%86%E3%80%8B%E9%A0%81%E7%A2%BC%E7%B4%A2%E5%BC%95.php">王嗣奭《杜臆》頁碼索引</a>
+</li>
+<li>郭知達《新刊校定集注杜詩》卷一至卷九（2025/05）；聶巧平點校本已購，待校</li>
+
+<li>蕭滌非《杜甫全集校注》（2025/09）<br />
+OCR： 3151<br />
+初步整理： 0934<br />
+初校： 0013<br />
+</li>
+
+<li>謝思煒《杜甫集校注》<br />
+OCR： 0003<br />
+初步整理： 0003<br />
+初校： <br />
+</li>
+
+
+<li>下定雅弘、松原朗《杜甫全詩訳注》（2025/07）<br />
+OCR： 〇〇四八<br />
+初校： 〇〇四八
+</li>
+
+<li>仇兆鰲《杜詩詳註》卷之二（2025/02）<br />
+
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B/%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E5%8D%B7%E4%B9%8B%E4%B8%80.txt">杜詩詳註卷之一</a> （用電腦程式生成，尚待校對）<br />
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B/%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E5%8D%B7%E4%B9%8B%E4%BA%8C.txt">杜詩詳註卷之二</a><br />
+
+<!--<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B/%E6%9D%9C%E7%94%AB%E5%85%A8%E9%9B%86.txt">仇兆鰲《杜詩詳註》詩文帶夾住</a>
+<br />-->
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B%E5%A4%A7%E6%84%8F.php">仇兆鰲《杜詩詳註》大意</a><br />
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B%E6%B3%A8%E9%87%8B.php">仇兆鰲《杜詩詳註》注釋</a><br />
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B%E8%A9%95%E8%AB%96.php">仇兆鰲《杜詩詳註》評論</a><br />
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B/%E4%BB%87%E5%85%86%E9%B0%B2%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB%E3%80%8B%E9%A0%81%E7%A2%BC%E7%B4%A2%E5%BC%95.php">仇兆鰲《杜詩詳註》頁碼索引</a>
+</li>
+<li>2025/02/12 加入 Stephen Owen, The Poetry of Du Fu 的目錄及相關資料；由於可以直接從電子書中拷貝文字，輸入此書的資料相對簡單；資料開始出現於<a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/%E8%B3%87%E6%96%99%E5%8C%AF%E7%B8%BD">資料匯總</a></li>
+
+<li>2024/09/10 加入謝思煒《杜甫集校注》的目錄及相關資料<br />
+<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E8%AC%9D%E6%80%9D%E7%85%92%E3%80%8A%E6%9D%9C%E7%94%AB%E9%9B%86%E6%A0%A1%E6%B3%A8%E3%80%8B/%E9%A0%81%E7%A2%BC_%E8%AC%9D%E9%A0%81%E7%A2%BC.php">頁碼_謝頁碼</a><br />
+<!--
+<a href=""></a><br />
+<a href=""></a><br />
+<a href=""></a><br />
+-->
+</li>
+<li>楊倫《杜詩鏡銓》（暫緩）</li>
+<li>張志烈主編《杜詩全集（今注本）》（暫緩）</li>
+<li>韓成武、張志民《杜甫詩全譯》（暫緩）</li>
+<li>浦起龍《讀杜心解》（暫緩）</li>
+<!--<li></li>-->
+</ul>
+
 <!--
 <li><a href=""></a></li>
 <li><a href=""></a></li>
