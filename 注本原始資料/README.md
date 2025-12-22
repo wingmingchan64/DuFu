@@ -84,11 +84,24 @@ OCR： 〇〇四八<br />
 </ul>
 -->
 <h2>部分資料來源</h2>
+<p>這個書單的設立，只是爲了方便而已，沒有別的想法。</p>
 <ul>
 <li><a href="https://www.shidianguji.com/ens/book/SDZJ0718?page_from=searching_page&version=7">郭知達《新刊校定集注杜詩》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/CADAL02099528?page_from=searching_page&version=6">《黄氏集千家注杜工部詩史補遺》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/SDZJ0295?page_from=searching_page&version=16">劉辰翁</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/SBCK133?page_from=searching_page&version=29">《分門集注杜工部詩》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/SDZJ0294?page_from=searching_page&version=11">《集千家注杜工部集》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/HY1080/chapter/1km2ewswhyhvk?page_from=searching_page&version=25">黃生《杜詩說》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/HY1072/chapter/1kvmdp1dtct9h?page_from=searching_page&version=10">錢謙益《錢注杜詩》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/CADAL02099531/chapter/1l5hk3e9pexx2?page_from=searching_page&version=9>錢謙益《錢注杜詩》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/HY1094/chapter/1kdv97pc0nj1u?page_from=searching_page&version=37">張溍《讀書堂杜工部詩集註解》</a></li>
 <li><a href="https://www.shidianguji.com/ens/book/SK2231?page_from=searching_page&version=16">仇兆鰲《杜詩詳註》</a></li>
 <li><a href="https://www.shidianguji.com/ens/book/HY1071?page_from=searching_page&version=40">浦起龍《讀杜心解》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/HY1074/chapter/1koiofzsslsln?version=12">朱鶴齡《杜詩輯注》</a></li>
+<li><a href="https://www.shidianguji.com/zh/book/HY1254/chapter/1kiiy6xpud2k4?page_from=searching_page&version=10">沈德潛《杜詩偶評》</a></li>
+
+<li><a href="https://www.shidianguji.com/zh/book/HY0611/chapter/1kiiu429us304?page_from=searching_page&version=42">譯文</a></li>
+
 <!--
 <li><a href=""></a></li>
 -->
