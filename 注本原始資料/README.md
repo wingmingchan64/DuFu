@@ -109,6 +109,8 @@ OCR： 〇〇四八<br />
 <li><a href="https://www.shidianguji.com/zh/book/NA11098?page_from=searching_page&version=4">顏廷榘《杜律意箋》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/CADAL02060518?page_from=searching_page&version=2">趙統《杜律意注》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/HY1080/chapter/1km2ewswhyhvk?page_from=searching_page&version=25">黃生《杜詩說》</a></li>
+<li><a href="https://www.shidianguji.com/ens/book/HY1076/chapter/1krd36rbhp1cq?version=11">張縉彥《杜詩分類全集》</a></li>
+
 <li><a href="https://www.shidianguji.com/zh/book/HY1072/chapter/1kvmdp1dtct9h?page_from=searching_page&version=10">錢謙益《錢注杜詩》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/CADAL02099531/chapter/1l5hk3e9pexx2?page_from=searching_page&version=9>錢謙益《錢注杜詩》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/HY1094/chapter/1kdv97pc0nj1u?page_from=searching_page&version=37">張溍《讀書堂杜工部詩集註解》</a></li>
@@ -116,7 +118,9 @@ OCR： 〇〇四八<br />
 <li><a href="https://www.shidianguji.com/ens/book/HY1071?page_from=searching_page&version=40">浦起龍《讀杜心解》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/HY1074/chapter/1koiofzsslsln?version=12">朱鶴齡《杜詩輯注》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/HY1254/chapter/1kiiy6xpud2k4?page_from=searching_page&version=10">沈德潛《杜詩偶評》</a></li>
-
+<li><a href="https://www.shidianguji.com/ens/book/HY1078?page_from=searching_page&version=14">盧元昌《杜詩闡》</a></li>
+<li><a href="https://www.shidianguji.com/ens/book/HY1077?page_from=searching_page&version=45">張遠《杜詩會稡》</a></li>
+<li><a href="https://www.shidianguji.com/ens/book/HY1079?page_from=searching_page&version=14">吳見思《杜詩論文》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/HY0611/chapter/1kiiu429us304?page_from=searching_page&version=42">譯文</a></li>
 
 <!--
