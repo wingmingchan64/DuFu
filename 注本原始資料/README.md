@@ -112,8 +112,10 @@ OCR： 〇〇四八<br />
 <li><a href="https://www.shidianguji.com/zh/book/CADAL02060518?page_from=searching_page&version=2">趙統《杜律意注》</a></li>
 <li><a href="https://www.shidianguji.com/zh/book/HY1080/chapter/1km2ewswhyhvk?page_from=searching_page&version=25">黃生《杜詩說》</a></li>
 <li><a href="https://www.shidianguji.com/ens/book/CADAL02060519?page_from=searching_page&version=2">林兆珂《杜詩鈔述注》</a></li>
+<li><a href="https://zh.wikisource.org/wiki/%E5%8F%A4%E8%A9%A9%E9%8F%A1_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)">陸時雍《古詩鏡》</a></li>
+<!--
 <li><a href=""></a></li>
-
+-->
 <li><a href="https://www.shidianguji.com/ens/book/CADAL02068649?page_from=searching_page&version=5">楊愼《李杜詩選》</a></li>
 <li><a href="https://www.shidianguji.com/ens/book/HY1076/chapter/1krd36rbhp1cq?version=11">張縉彥《杜詩分類全集》</a></li>
 <li><a href="https://www.shidianguji.com/ens/book/CADAL02109832?page_from=searching_page&version=6">《杜詩言志》</a></li>
