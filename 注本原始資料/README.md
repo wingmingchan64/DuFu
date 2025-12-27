@@ -35,7 +35,9 @@
 <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E7%8E%8B%E5%97%A3%E5%A5%AD%E3%80%8A%E6%9D%9C%E8%87%86%E3%80%8B/%E7%8E%8B%E5%97%A3%E5%A5%AD%E3%80%8A%E6%9D%9C%E8%87%86%E3%80%8B_%E5%B8%B6%E8%A9%A9%E6%96%87.txt">王嗣奭《杜臆》_帶詩文.txt</a><br />
 <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/%E7%8E%8B%E5%97%A3%E5%A5%AD%E3%80%8A%E6%9D%9C%E8%87%86%E3%80%8B/%E7%8E%8B%E5%97%A3%E5%A5%AD%E3%80%8A%E6%9D%9C%E8%87%86%E3%80%8B%E9%A0%81%E7%A2%BC%E7%B4%A2%E5%BC%95.php">王嗣奭《杜臆》頁碼索引</a>
 </li>
-<li>郭知達《新刊校定集注杜詩》卷一至卷九（2025/05）；聶巧平點校本已購，待校</li>
+<li>郭知達《新刊校定集注杜詩》卷一至卷九（2025/05）
+初校： 卷一 0276<br />
+</li>
 
 <li>蕭滌非《杜甫全集校注》（2025/12）<br />
 OCR： 3151<br />
