@@ -43,7 +43,7 @@
 -->
 </ul>
 
-
+<!--
 <h2>重要文件一覽</h2>
 <h3>杜詩白文</h3>
 <ul>
@@ -95,6 +95,7 @@
 <li><a href="https://raw.githubusercontent.com/wingmingchan64/Dufu-Analysis/refs/heads/main/%E8%B3%87%E6%96%99%E5%8C%AF%E7%B8%BD/3789.txt">《秋興八首》（Raw view）</a></li>
 
 </ul>
+-->
 <!--
 <li><a href=""></a></li>
 <li><a href=""></a></li>
