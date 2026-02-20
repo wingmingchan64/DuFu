@@ -1,22 +1,18 @@
-<h1>杜甫全集、杜甫資料庫</h1>
-<h2>兩個關於杜甫詩的儲存庫</h2>
-<p>
-在 Github 這裏，我提供了兩個關於杜甫詩的儲存庫（Repositories）：</p>
+<h1>杜甫全集注本、杜甫資料庫</h1>
+<h2>兩個關於杜甫詩文的儲存庫（Repositories）</h2>
 <ul>
-<li>杜甫全集</li>
-<li>杜甫詩分析、資料庫</li>
+<li>杜甫全集、注本之原始資料</li>
+<li>杜甫詩分析、資料庫（JSON)</li>
 </ul>
-<p>
-這裏的資料，可以分成五大部分：
-</p>
+<h2>指導原則</h2>
 <ul>
-<li>杜甫全集（默認版本）、杜詩注本等原始資料</li>
-<li>分析、統計、搜索杜詩默認版本資料的 PHP 程式</li>
-<li>用 PHP 程式生成的、儲存各種資料的 JSON 文檔（一個以 JSON 文檔爲儲存形式的資料庫）</li>
-<li>各種 PHP、 Python 搜索界面、功能的展示（程式、結果）</li>
-<li>儲存各種搜索索引（JSON 格式）</li>
+<li>MVC 模式</li>
+<li>只儲存原始資料、基於原始資料而生成的 JSON 資料庫（model），以及生成資料、生成面貌（views）的 PHP、 Python 程式 （controller），而不儲存面貌文檔</li>
+<li>以基底正文樹（base-text trees）生成面貌（views）</li>
+<li>原始資料附帶後設資料標記</li>
+<li>杜甫詩文搜索用樹搜索算法</li>
+<li>樹路徑表現爲坐標</li>
 </ul>
-<p><a href="https://github.com/wingmingchan64/Dufu-Analysis">杜甫詩分析、資料庫</a></p>
 
 <h2>坐標</h2>
 <p>貫穿整個資料庫的搜索鍵是我設計的一個坐標系統。例子：</p>
@@ -25,10 +21,11 @@
 <li>默認版本： <code>〚3789:2:〛</code>指《秋興八首》其二</li>
 <li>默認版本： <code>〚0003:3.1.2〛</code>指《望嶽》中第三行第一句第二字「宗」</li>
 <li>注本：<code>〚郭0001:〛</code>指郭知達《新刊校定集注杜詩》的《奉贈韋左丞丈二十二韻》</li>
-<li>注本次版本：<code>〚郭⸨聶⸩ 0001:〛</code>指《新刊校定集注杜詩》聶巧平點校本《奉贈韋左丞丈二十二韻》</li>
+<li>注本子版本：<code>〚郭⸨聶⸩ 0001:〛</code>指《新刊校定集注杜詩》聶巧平點校本《奉贈韋左丞丈二十二韻》</li>
 </ul>
 
 <h2>版本目錄（JSON）</h2>
+<p>這裏也提供了重要注本的索引，包括注本的子版本的實體書、電子書頁碼、下載鏈接等。</p>
 <ul>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/%E5%85%A8%E7%9B%AE%E9%8C%84.json">《全唐詩》</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E6%9E%97%E7%B9%BC%E4%B8%AD%E8%BC%AF%E6%A0%A1%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%B6%99%E6%AC%A1%E5%85%AC%E5%85%88%E5%BE%8C%E8%A7%A3%E8%BC%AF%E6%A0%A1%E3%80%8B/%E8%B6%99%E7%9B%AE%E9%8C%84.json">林繼中輯校《杜詩趙次公先後解輯校》</a></li>
