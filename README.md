@@ -7,10 +7,12 @@
 <h2>指導原則</h2>
 <ul>
 <li>MVC 模式</li>
-<li>只儲存原始資料、基於原始資料而生成的 JSON 資料庫（model），以及生成資料、生成面貌（views）的 PHP、 Python 程式 （controller），而不儲存面貌文檔</li>
+<li>只儲存原始資料、基於原始資料而生成之 JSON 資料庫（model），以及生成資料、生成面貌（views）之 PHP、 Python 程式 （controller），而不儲存面貌文檔</li>
 <li>以基底正文樹（base-text trees）生成面貌（views）</li>
+<li>還原某版本、某注本原來之模樣，如《全唐詩》的杜甫部分，屬於面貌（views）的產物</li>
 <li>原始資料附帶後設資料標記</li>
-<li>杜甫詩文搜索用樹搜索算法</li>
+<li>後設資料標記爲復原注本之橋梁，亦爲原始資料之分類、統計、分析標簽（tags）之容器</li>
+<li>杜甫詩文搜索采用樹搜索算法</li>
 <li>樹路徑表現爲坐標</li>
 </ul>
 
