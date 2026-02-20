@@ -8,7 +8,7 @@
 <ul>
 <li>MVC 模式</li>
 <li>只儲存原始資料、基於原始資料而生成之 JSON 資料庫（model），以及生成資料、生成面貌（views）之 PHP、 Python 程式 （controller），而不儲存面貌文檔（少量樣本除外）</li>
-<li>以基底正文樹（base-text trees）生成面貌（views）</li>
+<li>以基底正文樹（base-text trees）、後設資料，共同生成面貌（views）</li>
 <li>還原某版本、某注本原來之模樣，如《全唐詩》的杜甫部分，屬於生成面貌（views）之層次</li>
 <li>原始資料附帶後設資料（metadata）標記</li>
 <li>Controller 亦生成 meta-metadata：後設資料標記之索引、分類</li>
