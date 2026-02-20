@@ -17,7 +17,7 @@
 </ul>
 
 <h2>基底正文樹</h2>
-<p>基底正文樹爲儲存杜詩之樹結構，基底正文指規範化後之杜詩默認版本。例：</p>
+<p>基底正文樹爲儲存杜詩之樹結構，基底正文指規範化後之杜詩默認版本。例（0013《題張氏隱居二首》其一）：</p>
 <pre>
 "0013-1":
 	"副題": "其一"
@@ -91,6 +91,21 @@
 			"7": "舟"
 </pre>
 
+<h2>後設資料標記</h2>
+<p>後設資料標記指附於原始資料後之標記，內含坐標、類別、注者姓名、引書出處等資料。例（0001《全唐詩》）：</p>
+<pre>
+奉贈韋左丞丈二十二韻[韋濟。天寶七載爲河南尹。遷尙書左丞。]〘{"cat":"異","a":"1"}〙
+少[一作妙]〘{"cat":"異","a":"少"}〙
+卜[一作爲]〘{"cat":"異","a":"卜"}〙
+出[一作生。一作特]〘{"cat":"異","a":"出"}〙
+食[一作客]〘{"cat":"異","a":"食"}〙
+歘〘{"cat":"異","a":"欻"}〙
+鱗[天寶中。詔徵天下士有一藝者。皆得詣京師就選。李林甫抑之。奏令考試。遂無一人得第者。]〘{"cat":"異","a":"鱗"}〙
+祗〘{"cat":"異","a":"祇"}〙
+沒[一作波]〘{"cat":"異","a":"沒"}〙
+</pre>
+<p>利用基底正文樹、後設資料，可生成《全唐詩》之《奉贈韋左丞丈二十二韻》。</p>
+
 <h2>坐標</h2>
 <p>貫穿整個資料庫的搜索鍵是我設計的一個坐標系統。例子：</p>
 <ul>
@@ -109,6 +124,7 @@
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E9%83%AD%E7%9F%A5%E9%81%94%E3%80%8A%E6%96%B0%E5%88%8A%E6%A0%A1%E5%AE%9A%E9%9B%86%E6%B3%A8%E6%9D%9C%E8%A9%A9%E3%80%8B/%E9%83%AD%E7%9B%AE%E9%8C%84.json">郭知達《新刊校定集注杜詩》</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E8%95%AD%E6%BB%8C%E9%9D%9E%E4%B8%BB%E7%B7%A8%E3%80%8A%E6%9D%9C%E7%94%AB%E5%85%A8%E9%9B%86%E6%A0%A1%E6%B3%A8%E3%80%8B/%E8%95%AD%E7%9B%AE%E9%8C%84.json">蕭滌非主編《杜甫全集校注》</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E7%89%88%E6%9C%AC%E7%9B%AE%E9%8C%84%E5%B0%8D%E7%85%A7%E8%A1%A8.json">版本目錄對照表</a></li>
+<li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/versions/%E5%85%A8%E7%89%88%E6%9C%AC%E8%B3%87%E6%96%99.json">《全唐詩》之版本資料</a></li>
 <!--
 <li><a href=""></a></li>
 <li></li>
