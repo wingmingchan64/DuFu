@@ -10,8 +10,8 @@
 <li>只儲存原始資料、基於原始資料而生成之 JSON 資料庫（model），以及生成資料、生成面貌（views）之 PHP、 Python 程式 （controller），而不儲存面貌文檔（少量樣本除外）</li>
 <li>以基底正文樹（base-text trees）、評注原始資料、後設資料，共同生成面貌（views）</li>
 <li>還原某版本、某注本原來之模樣，如《全唐詩》之杜甫部分，屬於生成面貌（views）之層次</li>
-<li>原始資料附帶後設資料（metadata）標記</li>
-<li>Controller 亦生成 meta-metadata：後設資料標記之索引、分類</li>
+<li>評注原始資料附帶後設資料（metadata）標記</li>
+<li>Controller 亦生成 meta-metadata：後設資料標記之索引、分類、統計資料</li>
 <li>杜甫詩文搜索采用樹路徑算法</li>
 <li>樹路徑體現爲坐標；坐標集乃一封閉系統，可盡數羅列</li>
 </ul>
@@ -119,6 +119,7 @@
 <li>注本子版本：<code>〚郭⸨聶⸩ 0001:〛</code>指《新刊校定集注杜詩》聶巧平點校本《奉贈韋左丞丈二十二韻》</li>
 </ul>
 <p>每個後設資料標記，均內嵌版本簡稱、版本文檔碼、錨値（轉換成坐標）、版本所在處。</p>
+<p>與杜詩默認版本配套之坐標，共四十多萬個。（<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/coords/%E9%BB%98%E8%AA%8D%E8%A9%A9%E6%96%87%E6%AA%94%E7%A2%BC_%E5%AE%8C%E6%95%B4%E5%9D%90%E6%A8%99%E8%A1%A8.json">默認詩文檔碼_完整坐標表</a>）
 
 <h2>版本目錄（JSON）</h2>
 <p>這裏亦提供重要注本之索引，包括注本之子版本之實體書、電子書頁碼、下載鏈接等。</p>
