@@ -138,6 +138,7 @@
 </a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E4%B8%8B%E5%AE%9A%E9%9B%85%E5%BC%98%E3%80%81%E6%9D%BE%E5%8E%9F_%E6%9C%97%E3%80%8A%E6%9D%9C%E7%94%AB%E5%85%A8%E8%A9%A9%E8%A8%B3%E6%B3%A8%E3%80%8B/catalog/%E8%A8%B3%E7%9B%AE%E9%8C%84.json">下定雅弘、松原_朗《杜甫全詩訳注》</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E7%89%88%E6%9C%AC%E7%9B%AE%E9%8C%84%E5%B0%8D%E7%85%A7%E8%A1%A8.json">版本目錄對照表</a></li>
+<li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E9%BB%98%E8%A9%A9%E7%A2%BC_%E7%89%88%E6%9C%AC%E8%A9%A9%E7%A2%BC%E5%B0%8D%E7%85%A7%E8%A1%A8.json">默詩碼_版本詩碼對照表</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/versions/%E5%85%A8%E7%89%88%E6%9C%AC%E8%B3%87%E6%96%99.json">《全唐詩》之版本資料</a></li>
 <!--
 <li><a href=""></a></li>
