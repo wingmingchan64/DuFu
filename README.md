@@ -112,7 +112,10 @@
 
 <h2>杜注本之還原</h2>
 <p>基準正文樹、評注原始資料+後設資料標記可支持某杜注本之還原，卽此注本原書之生成。此模式最大之優點：同一基準正文樹，結合不同注本、版本之原始資料、後設資料，可生成無數之注本、版本，亦可同時展示、幷列不同注本、版本之資料。限於版權問題，只提供不受版權保護之原始資料及其後設資料。受保護之注本，如蕭滌非主編《杜甫全集校注》，則單提供後設資料。</p>
-<p>注本還原亦爲面貌（view）層次之產物。例：<a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/samples">《全唐詩》/samples/</a></p>
+<p>注本還原亦爲面貌（view）層次之產物。以下是幾個例子（例子均以程式生成）：</p>
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/samples/0002.md">《全唐詩·送高三十五書記》</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E9%83%AD%E7%9F%A5%E9%81%94%E3%80%8A%E6%96%B0%E5%88%8A%E6%A0%A1%E5%AE%9A%E9%9B%86%E6%B3%A8%E6%9D%9C%E8%A9%A9%E3%80%8B/samples/0001.md">郭知達《新刊校定集注杜詩·奉贈韋左丞丈二十二韻》</a>
 
 <h2>面貌之多元</h2>
 <p>基準正文樹、評注原始資料+後設資料標記之二元分離，可支持同一版本（如仇兆鰲之《杜詩詳註》）之五個不同面貌：</p>
