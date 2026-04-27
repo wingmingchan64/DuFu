@@ -1,0 +1,5 @@
+{"cat":"異文","content":"一作吾。","scope":"0388,3,2,1","op":"insert"}
+{"cat":"異文","content":"一作宜。","scope":"0388,10,2,5","op":"insert"}
+{"cat":"異文","content":"一作旗。","scope":"0388,11,2,5","op":"insert"}
+{"cat":"異文","content":"一云亦足慰遠思。","scope":"0388,12,2,5","op":"insert"}
+{"cat":"異文","content":"一作飄。","scope":"0388,16,1,3","op":"insert"}
