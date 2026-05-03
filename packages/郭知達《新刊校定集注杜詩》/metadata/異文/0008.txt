@@ -1,0 +1,2 @@
+{"cat":"異文","content":"一作並。","scope":"0271,4,2,2","op":"insert"}
+{"cat":"異文","content":"一作白。","scope":"0271,4,2,5","op":"insert"}

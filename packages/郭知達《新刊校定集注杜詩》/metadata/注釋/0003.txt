@@ -1,0 +1,8 @@
+{"cat":"注釋","scope":"0076,詩題,a","src_path":"GUOZHU,0003,1","op":"insert"}
+{"cat":"注釋","scope":"0076,3,1-2","src_path":"GUOZHU,0003,2","op":"insert"}
+{"cat":"注釋","scope":"0076,4,1-2","src_path":"GUOZHU,0003,3","op":"insert"}
+{"cat":"注釋","scope":"0076,5,1-2","src_path":"GUOZHU,0003,4","op":"insert"}
+{"cat":"注釋","scope":"0076,6,1-2","src_path":"GUOZHU,0003,5","op":"insert"}
+{"cat":"注釋","scope":"0076,7,1-2","src_path":"GUOZHU,0003,6","op":"insert"}
+{"cat":"注釋","scope":"0076,8,1,1-5","src_path":"GUOZHU,0003,7","op":"insert"}
+{"cat":"注釋","scope":"0076,8,2,1-5","src_path":"GUOZHU,0003,8","op":"insert"}

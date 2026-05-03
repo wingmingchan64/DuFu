@@ -1,4 +1,4 @@
-# 杜甫全集注本、杜甫資料庫
+# 杜甫全集、控制器、注本、引書來源
 
 ## 如何「玩」杜甫詩？
 
@@ -11,31 +11,52 @@
 - 杜詩詞典之編纂：如何用程式自動編纂一本集諸注本注文之杜詩詞典？
 - 如何以同一套原始資料、後設資料，同時回答以上所有問題？
 
-<h2>兩個關於杜甫詩文的儲存庫（Repositories）</h2>
-<ul>
-<li>杜甫全集、注本之原始資料</li>
-<li>杜甫詩分析、資料庫（JSON)</li>
-</ul>
-<h2>指導原則</h2>
-<ul>
-<li>MVC 模式</li>
-<li>只儲存原始資料、基於原始資料而生成之 JSON 資料庫（model），以及生成資料、生成面貌（views）之 PHP、 Python 程式 （controller），而不儲存面貌文檔本身（少量樣本除外）</li>
-<li>以基準正文樹（base-text trees）、評注原始資料、後設資料，共同生成面貌（views）</li>
-<li>還原某版本、某注本原來之模樣，如《全唐詩》之杜甫部分，屬於生成面貌（views）之層次</li>
-<li>評注原始資料附帶後設資料（metadata）標記</li>
-<li>Controller 亦生成 meta-metadata：後設資料標記之索引、分類、統計資料</li>
-<li>杜甫詩文搜索采用樹路徑算法</li>
-<li>樹路徑體現爲坐標；坐標集乃一封閉系統，可盡數羅列</li>
-<li>此模式只負責原始資料之有機分解（model）；重新組合，則屬於面貌（views）生成之層次，責任交給組合程式（controller）</li>
-</ul>
+---
 
-<h2>基準正文樹</h2>
-<p>基準正文樹爲儲存杜詩之樹結構，基準正文指規範化後之杜詩默認版本。例：<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/base_text/0013-1.json">0013《題張氏隱居二首》其一</a></p>
+## 三個關於杜甫詩文的儲存庫（Repositories）
 
-<p>基準正文樹之最大特點：此樹僅爲一容器；樹中之葉子（端節點），卽樹中之任何一字，均可被刪除，亦可以任何不限字數、不限語言之文字替換。（試想象以圖像、音頻之鏈接取代之。）</p>
+- 模型（Model）： `DuFu`，杜甫全集（默認版本）
+- 控制器（Controller）： `Dufu-Analysis`，PHP、Python 程式
+- 模型（Model）、面貌（View）： `CanonicalTextTrees`，杜著述文本、JSON 資料庫、以控制器生成的面貌文檔樣本
 
-<h2>後設資料標記</h2>
-<p>後設資料標記指附於原始資料後之標記，內含坐標、類別、注者姓名、引書出處等資料。例：<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/metadata/by_doc_id/0098.json">《全唐詩》0098</a></p>
+---
+
+## 指導原則
+
+- MVC 模式
+- 只儲存原始資料、基於原始資料而生成之 JSON 資料庫（model），以及生成資料、生成面貌（views）之 PHP、 Python 程式 （controller），而不儲存面貌文檔本身（少量樣本除外）
+- 模型部分主要以 JSON 樹（trees）、JSON/JSONL 後設資料（metadata）爲主
+- 以基準正文樹（canonical text trees）、評注原始資料、後設資料，共同生成面貌（views）
+- 各種杜著述（注本、評本）原文亦儲存於 JSON 樹中
+- 還原某版本、某注本原來之模樣，如《全唐詩》之杜甫部分，屬於生成面貌（views）之層次
+- 評注原始資料附帶後設資料（metadata）標記
+- Controller 亦生成 meta-metadata：後設資料標記之索引、分類、統計資料
+- 杜甫詩文搜索采用樹路徑算法
+- 樹路徑可體現爲坐標；坐標集乃一封閉系統，可盡數羅列
+- 此模式只負責原始資料之有機分解（model）；而重新組合則屬於面貌（views）生成之層次，責任交給組合程式（controller）
+
+---
+
+## 基準正文樹
+
+基準正文樹有兩種：
+
+- 儲存杜詩、文之樹結構，基準正文指規範化後之杜詩默認版本；例：<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/base_text/0013-1.json">0013《題張氏隱居二首》其一</a>
+- 儲存杜著述、引用書籍之文本
+
+基準正文樹之特點：
+
+- 此樹乃一有層級性（hierarchical）之容器
+- 樹中之終端節點（terminal nodes），卽樹中之任何一字，均可被刪除，亦可用任何不限字數、不限語言之文字替換
+- 樹中可隨意添加儲存資料的錨（anchors）
+- 以路徑（paths）提取任何節點下的文字
+- 以遞歸遍歷（recursive traversal）可以壓扁樹結構以提取文字、搜集樹中的資料
+
+---
+
+## 後設資料標記
+
+後設資料標記指附於原始資料後之標記，內含坐標、類別、注者姓名、引書出處等資料。例：<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/metadata/by_doc_id/0098.json">《全唐詩》0098</a></p>
 
 <p>利用基準正文樹、後設資料，可生成《全唐詩》之<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/samples/0098.md">《遣興五首》</a>。</p>
 <p>後設資料之最大優點：注本之注文與杜甫原文完全分離，所有注本共用一套基準正文，卻能生成無數版本；注文基本不帶基準正文，亦無號碼聯係，且不同注者之注文可同時混雜一處，互不干擾。</p>
