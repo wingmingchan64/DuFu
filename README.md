@@ -1,5 +1,7 @@
 # 杜甫全集、控制器、注本、引書來源
 
+Status: Draft
+
 ## 如何「玩」杜甫詩？
 
 讀了一輩子的杜詩，同時作爲一個電腦科學工程師，我一直嘗試回答以下幾類問題：
@@ -17,7 +19,7 @@
 
 - 模型（Model）： `DuFu`，杜甫全集（默認版本）
 - 控制器（Controller）： `Dufu-Analysis`，PHP、Python 程式
-- 模型（Model）、面貌（View）： `CanonicalTextTrees`，杜著述文本、JSON 資料庫、以控制器生成的面貌文檔樣本
+- 模型（Model）、面貌（View）： `CanonicalTextTrees`，杜著述文本樹、JSON 資料庫、以控制器生成的面貌文檔樣本
 
 ---
 
@@ -49,7 +51,7 @@
 - 此樹乃一有層級性（hierarchical）之容器
 - 樹中之終端節點（terminal nodes），卽樹中之任何一字，均可被刪除，亦可用任何不限字數、不限語言之文字替換
 - 樹中可隨意添加儲存資料的錨（anchors）
-- 以路徑（paths）提取任何節點下的文字
+- 以樹爲基礎，可生成路徑→文字（以路徑提取文字）、文字→路徑（以文字搜索路徑）之各種索引
 - 以遞歸遍歷（recursive traversal）可以壓扁樹結構以提取文字、搜集樹中的資料
 
 ---
