@@ -21,7 +21,7 @@ Status: Draft
 
 - 模型（Model）： `DuFu`，杜甫全集（默認版本）
 - 控制器（Controller）： `Dufu-Analysis`，PHP、Python 程式
-- 模型（Model）、面貌（View）： `CanonicalTextTrees`，杜著述文本樹、JSON 資料庫、以控制器生成的面貌文檔樣本
+- 模型（Model）、面貌（View）： `CanonicalTextTrees`，杜著述文本樹、JSON 資料庫、以控制器生成的面貌文檔樣本、杜著述引用書籍（《史記》、《論語》等）文本樹
 
 ---
 
