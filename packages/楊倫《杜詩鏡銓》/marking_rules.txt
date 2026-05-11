@@ -1,0 +1,20 @@
+1. separate each type and create .txt in each semantic folders
+2. use "0042,詩題,a" for 詩題
+3. when the scope is 行, use 句範圍 1-2 in scope
+4. when both replace and insert are involved, separate them in two markers:
+
+闚
+一作闕。一作閱。
+
+{"scope":"0042,5,1,2","src_path":"JINGQUAN,0001,6,15","op":"replace"}
+{"scope":"0042,5,1,2","src_path":"JINGQUAN,0001,6,16"}
+
+5. use "0003,a" for 眉批, use 〖4〗 for number of <br />
+
+劉須溪云：只五字，雄蓋一世。〖4〗又云：盪胸句不必可解，登高意豁，自見其趣。〖2〗
+
+one marker per <td>:
+
+{"scope":"0003,a","src_path":"JINGQUAN,0002,10"}
+
+6. use "a" for 評論
