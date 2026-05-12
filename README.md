@@ -193,6 +193,8 @@ Status: Draft
 
 負責生成面貌之展示單元（presentational component）可把 `〈注釋*0668,5,2,4-5*《詩注》：契闊，勤苦也。〉` 變成 `<span class="注釋">《詩注》：契闊，勤苦也。</span>`，而含範圍標記之路徑 `0668,5,2,4-5`（指向「契闊」之區間）亦可用於 style 或 JavaScript 中。
 
+從手編基準正文到面貌生成的整個流程的說明，參看<a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs/workflow">workflow</a>。
+
 ---
 
 <h2>版本目錄（JSON）</h2>
