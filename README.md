@@ -24,6 +24,8 @@ Status: Draft
 - 控制器（Controller）： `Dufu-Analysis`，PHP、Python 程式
 - 模型（Model）、面貌（View）： `CanonicalTextTrees`，杜著述正文樹、JSON/JSONL、後設資料樹、以控制器生成的面貌文檔樣本、杜著述引用書籍（《論語》、《史記》等）正文樹
 
+**重要信息：** 我正在重新設計、建立後設資料單元，這部分正處於「動蕩期」。
+
 ---
 
 ## 指導原則
@@ -189,14 +191,14 @@ Status: Draft
             },
 </pre>
 
-負責生成面貌之 rendering component 可把 `〈注釋*0668,5,2,4-5*《詩注》：契闊，勤苦也。〉` 變成 `<span class="注釋">《詩注》：契闊，勤苦也。</span>`，而路徑 `0668,5,2,4-5` （指向「契闊」）亦可用於 style 或 JavaScript 中。
+負責生成面貌之展示單元（presentational component）可把 `〈注釋*0668,5,2,4-5*《詩注》：契闊，勤苦也。〉` 變成 `<span class="注釋">《詩注》：契闊，勤苦也。</span>`，而含範圍標記之路徑 `0668,5,2,4-5`（指向「契闊」之區間）亦可用於 style 或 JavaScript 中。
 
 ---
 
 <h2>版本目錄（JSON）</h2>
 <p>這裏亦提供重要注本頁碼之索引，包括注本之子版本之實體書、電子書頁碼、下載鏈接等。</p>
 <ul>
-<li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/catalog/%E5%85%A8%E7%9B%AE%E9%8C%84.json">《全唐詩》</a></li>
+<li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/catalog/%E5%85%A8%E7%9B%AE%E9%8C%84.json">《全唐詩》杜甫部分</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E6%9E%97%E7%B9%BC%E4%B8%AD%E8%BC%AF%E6%A0%A1%E3%80%8A%E6%9D%9C%E8%A9%A9%E8%B6%99%E6%AC%A1%E5%85%AC%E5%85%88%E5%BE%8C%E8%A7%A3%E8%BC%AF%E6%A0%A1%E3%80%8B/catalog/%E8%B6%99%E7%9B%AE%E9%8C%84.json">林繼中輯校《杜詩趙次公先後解輯校》</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E9%83%AD%E7%9F%A5%E9%81%94%E3%80%8A%E6%96%B0%E5%88%8A%E6%A0%A1%E5%AE%9A%E9%9B%86%E6%B3%A8%E6%9D%9C%E8%A9%A9%E3%80%8B/catalog/%E9%83%AD%E7%9B%AE%E9%8C%84.json">郭知達《新刊校定集注杜詩》</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E7%8E%8B%E5%97%A3%E5%A5%AD%E3%80%8A%E6%9D%9C%E8%87%86%E3%80%8B/catalog/%E5%A5%AD%E7%9B%AE%E9%8C%84.json">王嗣奭《杜臆》</a></li>
@@ -209,6 +211,7 @@ Status: Draft
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E7%89%88%E6%9C%AC%E7%9B%AE%E9%8C%84%E5%B0%8D%E7%85%A7%E8%A1%A8.json">版本目錄對照表</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E9%BB%98%E8%A9%A9%E7%A2%BC_%E7%89%88%E6%9C%AC%E8%A9%A9%E7%A2%BC%E5%B0%8D%E7%85%A7%E8%A1%A8.json">默詩碼_版本詩碼對照表</a></li>
 <li><a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%85%A8%E5%94%90%E8%A9%A9%E3%80%8B/versions/%E5%85%A8%E7%89%88%E6%9C%AC%E8%B3%87%E6%96%99.json">《全唐詩》之版本資料</a></li>
+- 整理中：錢謙益《錢注杜詩》目錄、楊倫《杜詩鏡銓》目錄
 <!--
 <li><a href=""></a></li>
 <li></li>
