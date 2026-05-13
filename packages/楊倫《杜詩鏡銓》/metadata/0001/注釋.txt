@@ -1,4 +1,0 @@
-{"scope":"0042,3,1-2","src_path":"JINGQUAN,0001,3"}
-{"scope":"0042,4,1,4-5","src_path":"JINGQUAN,0001,5"}
-{"scope":"0042,5,1-2","src_path":"JINGQUAN,0001,8"}
-{"scope":"0042,6,1-2","src_path":"JINGQUAN,0001,9"}

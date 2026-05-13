@@ -1,3 +1,0 @@
-{"scope":"0042,4,1,4","src_path":"JINGQUAN,0001,4","op":"insert"}
-{"scope":"0042,5,1,2","src_path":"JINGQUAN,0001,6,15"}
-{"scope":"0042,5,1,2","src_path":"JINGQUAN,0001,6,16","op":"insert"}
