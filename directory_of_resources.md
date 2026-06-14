@@ -20,9 +20,41 @@ Status: Draft
 - <a href="https://github.com/wingmingchan64/DuFu/tree/master/默認版本/詩">詩</a>
 - <a href="https://github.com/wingmingchan64/DuFu/tree/master/默認版本/文賦">文賦</a>
 
-基準正文樹：
+基準正文樹（詩）：
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/base_text">基準正文樹</a>
+
+---
+
+## 杜著述
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/dufu">正文、正文樹、後設資料、後設資料、後設資料指令樹</a>
+
+---
+
+## 引用古籍
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/classical">正文、正文樹、後設資料（測試用）</a>
+
+---
+
+## 索引文檔
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/registry">registry</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/coords">坐標</a>
+
+---
+
+## 控制器 Controller
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/tools">tools</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/tests/php">tests/php</a>
+
+---
+
+## 搜索界面
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/tools/php/bin/views">tools/php/bin/views/</a>
 
 ---
 
