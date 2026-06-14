@@ -6,7 +6,7 @@ Status: Draft
 
 ## 說明文件 Documentation
 
-系統說名主要分佈在 CanonicalTextTrees 跟 Dufu-Analysis 兩個存儲庫的 docs 文件夾裏：
+系統說明主要分佈在 CanonicalTextTrees 跟 Dufu-Analysis 兩個存儲庫的 docs 文件夾裏：
 
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/docs">CanonicalTextTrees/docs</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs">Dufu-Analysis/docs</a>
