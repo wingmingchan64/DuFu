@@ -42,6 +42,7 @@ Status: Draft
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/registry">registry</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/coords">坐標</a>
+- 目錄：見 Dufu-Analysis/packages/ 各書目下之 catalog 文件夾
 
 ---
 
