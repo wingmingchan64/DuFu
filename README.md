@@ -20,6 +20,18 @@ Status: Draft
 
 ---
 
+## 系統宣言
+
+這裏推介的是一套以樹結構爲基石的理論框架（a tree-based theoretical framework）：
+- 適用於任何語言的文學資料（globally applicable to any literature）
+- 展示如何儲存、組織資料（a way of storing and organizing data）
+- 展示如何辨認、定位資料（way of identifying and locating data）
+- 多種顯示同一資料的方式（multiple ways of presenting data）
+
+The system is a theoretical framework for storing, organizing, identifying, locating, and presenting textual data. Although developed through the study of Du Fu and the vast body of related commentaries, its underlying principles are not limited to Chinese literature. The framework is designed to be applicable to any textual tradition. Texts are represented as trees, relationships are expressed through metadata, and different presentations are generated from the same underlying data structures.
+
+---
+
 ## 三個關於杜甫詩文的儲存庫（Repositories）
 
 - 模型（Model）： `DuFu`，杜甫全集（默認版本）、杜詩文基準正文樹
@@ -69,10 +81,8 @@ Status: Draft
 
 ## 基準正文樹
 
-基準正文樹有兩種：
-
-- 儲存杜詩、文之樹結構，基準正文指規範化後之杜詩默認版本；例：<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/base_text/0013-1.json">0013《題張氏隱居二首》其一</a>
-- 儲存杜著述、引用書籍之文本資料
+- 基準正文指規範化後之杜詩文默認版本的內容
+- 儲存杜詩文之樹結構爲基準正文樹；例：<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/base_text/0013-1.json">0013《題張氏隱居二首》其一</a>
 
 基準正文樹之特點：
 
@@ -84,23 +94,32 @@ Status: Draft
 
 基準正文樹：爲甚麼
 
-- 所有文本（杜詩文、杜著述、引用古籍），都只有一個來源
+- 杜詩文默認版本只有一個來源
 - 以路徑提取樹中文字
-- 所有面貌（views）之生成，均用樹路徑提取文字（杜詩文、杜著述、引用古籍），不另儲存拷貝之文字
+- 所有面貌（views）之生成，均用樹路徑提取文字，不另儲存拷貝之文字
 - 樹路徑可用作索引、交叉參考之媒介
-- 同一帶注文、評論之正文樹，可按需要生成各種格式之面貌文檔（XML、HTML、`.md`、簡單文字檔）
+- 以一基準正文樹爲基礎，樹結構可以擴充爲資料樹
 
 ---
 
-## 後設資料樹
+## 引用古籍正文樹、杜著述正文樹
 
-後設資料指獨立於杜甫詩文、杜著述、引用典籍之外的、描述原始資料的第二級、甚至第三級的資料。第二級之後設資料負責聯係杜詩文基準正文樹、杜著書/引書用之正文樹。第三級後設資料（後設後設資料）可修改儲存第二級資料之後設資料樹，幷提供爲第二級後設資料之分類、統計而設立之機制。
+- 杜著述指出現於是杜甫之後，討論杜甫或他的作品的任何文獻
+- 引用古籍指在某杜著述中被引用的、成書於杜甫之前或與之同時的典籍，像《詩經》、《論語》、《史記》等
+- 引用古籍正文樹爲儲存引用古籍內容的樹結構
+- 杜著述正文樹爲儲存某杜著述不含基準正文的著述內容的樹結構
 
-後設資料樹爲一指令樹，每條樹路徑均爲一特定指令，負責聯係前述之兩種正文樹。
+---
 
-後設資料樹路勁之三大用途：
+## 後設資料指令樹
 
-- 路勁含著述、引書之路徑（資料之來源），以及基準正文樹之錨（資料之去處）
+後設資料指獨立於杜甫詩文、杜著述、引用典籍之外的、描述原始資料的第二級、甚至第三級的資料。第二級之後設資料負責聯係基準正文樹、杜著述正文樹/引用古籍正文樹。第三級後設資料（後設後設資料）可修改儲存第二級資料之後設資料指令樹，幷提供爲第二級後設資料之分類、統計而設立之機制。
+
+後設資料指令樹爲具層級結構的指令集，每條樹路徑均爲一特定指令，負責聯係前述之三種正文樹。
+
+後設資料指令樹路勁之三大用途：
+
+- 路勁含杜著述、引用古籍之路徑（資料之來源），以及基準正文樹之錨（資料之去處）
 - 路勁含格式（style）資料
 - 杜著述內容之分類（異文、夾注、旁注、眉批、評論等）
 
