@@ -8,26 +8,37 @@ Status: Draft
 
 讀了一輩子的杜詩，同時作爲一個電腦科學工程師，我一直在嘗試回答以下幾類問題：
 
-- 杜詩正文：如何擁有一杜甫全集數碼文本，其中不含任何錯字（如「迴」誤作「回」）、拆字（如「𡿒」拆成「山」「孽」）、簡體字（如「云」「雲」不分，「后」「後」相混，「乾」「干」顚倒，「幺」「麼」合一）？
+- 杜詩正文：如何擁有一杜甫全集數碼文本，其中不含任何錯字（如「迴」誤作「回」）、拆字（如「𡿒」拆成「山」「孽」）、簡體字（如「云」「雲」不分，「后」「後」相混，「干」「乾」顚倒，「幺」「麼」合一）？
 - 杜詩搜索：如何從杜甫的一句詩，或者只有零星、不相連的幾個字開始，有效地找到杜甫之全詩？
 - 生成注本：如何在不儲存有固定格式、固定內容的個別注本文本之前提下，生成、顯示某注本的原書原貌
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0097.html">《杜詩鏡詮》之《自京赴奉先縣詠懷五百字》 HTML</a>
 - 眾多注本的顯示：如何於某杜詩下，幷列數個注本（如仇兆鰲的《杜詩詳註》、浦起龍《讀杜心解》、楊倫《杜詩鏡銓》、蕭滌非主編《杜甫全集校注》、謝思煒《杜甫集校注》）之注文、評論？
 - 一對多：如何以同一組資料，生成數以千計的、內容各自不同的幷列注本、幷列版本、詩文與注文、評論的部分分列的文檔（如只有《北征》的頭十句及其注釋，或只有《北征》的詩文以及各家對《北征》的評論）？
 - 眾多全集：如何生成杜甫全集帶各詩的白話文翻譯（或英譯、日譯）、杜甫全集帶王嗣奭《杜臆》的評論、杜甫全集帶平仄、韻部說明？
-- 注本注文之分類、統計：如何不必把某書從頭到尾翻閱一遍，卽可回答「在趙次公注中，有多少條引用了《論語》」、「在仇兆鰲的《杜詩詳註》中，有多少條王嗣奭《杜臆》原書所缺的引文」、「蕭滌非主編《杜甫全集校注》全書（十二冊）共有多少條注文」一類之問題？
+- 注本注文之分類、統計：如何不必把某書從頭到尾翻閱一遍，卽可回答「在趙次公注中，有多少條引用了《論語》」、「在仇兆鰲的《杜詩詳註》中，有多少條王嗣奭《杜臆》原書所缺的引文」、「蕭滌非主編《杜甫全集校注》全書（頭十一冊）共有多少條注文」一類之問題？
 - 杜詩詞典之編纂：如何用程式自動編纂一本集諸注本注文之杜詩詞典？
 - 如何在某杜詩注文之下，自動列出注文所引用之典籍（如《論語》、《史記》）之原文？
 - 如何以同一套原始資料、各杜著述資料，以及相關之後設資料，同時回答以上所有問題？
 
 ---
 
+## 關鍵的頭三步
+
+要回答上述的各類問題，關鍵的第一步是把杜甫詩文與各家關於杜甫詩文的文字內容完全、徹底、乾淨地分隔開。
+
+關鍵的第二步是采用樹結構來儲存各種資料，以達到任何文字內容均有層次結構、可快速作內容搜索、定位的操作。
+
+關鍵的第三步是生成一棵專屬於某詩的資料樹，其內容視乎需要可多可少，少則只有一句詩，多則可包含該詩全文、十數個杜著述關於該詩的所有內容（異文、注釋、評論、備考等）。
+
+---
+
 ## 系統宣言
 
-這裏推介的是一套以樹結構爲基石的理論框架（a tree-based theoretical framework）：
+這裏推介的是一套以樹結構爲基礎的理論框架（a tree-based theoretical framework）：
 - 適用於任何語言的文學資料（globally applicable to any literature）
 - 展示如何儲存、組織資料（a way of storing and organizing data）
 - 展示如何辨認、定位資料（way of identifying and locating data）
+- 展示如何生成資料樹（creating data trees）
 - 多種顯示同一資料的方式（multiple ways of presenting data）
 
 The system is a theoretical framework for storing, organizing, identifying, locating, and presenting textual data. Although developed through the study of Du Fu and the vast body of related commentaries, its underlying principles are not limited to Chinese literature. The framework is designed to be applicable to any textual tradition. Texts are represented as trees, relationships are expressed through metadata, and different presentations are generated from the same underlying data structures.
