@@ -57,12 +57,8 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 
 - MVC 模式
 - 只儲存原始資料、基於原始資料而生成之 JSON 資料庫，以及生成資料、生成面貌（views）之 PHP、 Python 程式 （controller），而不儲存面貌文檔本身（少量樣本除外）
-- 模型（model）有三個主要部分：
-  - 儲存杜詩文之基準正文樹（canonical text trees）
-  - 儲存各種杜著述（注本、評本）原文之正文樹、引用典籍之正文樹
-  - 儲存聯係前二者之後設資料指令樹
-- 此三部分均爲樹結構
-- 以基準正文樹、杜著述正文樹、後設資料指令樹，共同生成無所不包的資料樹
+- 模型（model）主要爲樹結構
+- 以模型生成無所不包的資料樹
 - 以一展示層（presentational layer）生成各種面貌（views）
 - 還原某版本、某注本原來之模樣，如《全唐詩》之杜甫部分，屬於生成面貌（views）之層次
 - Controller 亦生成 meta-metadata：後設資料標記之索引、分類、統計資料
@@ -82,7 +78,7 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 
 終點：資料樹
 
-- 以前三樹爲輸入，生成一棵內容可多可少的資料樹
+- 以前三樹爲輸入材料，生成一棵內容可多可少的資料樹
 - 利用資料樹的內容，生成各種各樣的面貌文檔
 
 ---
@@ -109,8 +105,8 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 
 ## 基準正文樹
 
-- 基準正文指規範化後之杜詩文默認版本的內容
-- 儲存杜詩文之樹結構爲基準正文樹；例：<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/base_text/0013-1.json">0013《題張氏隱居二首》其一</a>
+- **基準正文**指規範化後之杜詩文默認版本的內容
+- 儲存默認版本杜詩文之樹結構爲**基準正文樹**；例：<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/base_text/0013-1.json">0013《題張氏隱居二首》其一</a>
 
 基準正文樹之特點：
 
@@ -126,7 +122,7 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 - 以路徑提取樹中文字
 - 所有面貌（views）之生成，均用樹路徑提取文字，不另儲存拷貝之文字
 - 樹路徑可用作索引、交叉參考之媒介
-- 以一基準正文樹爲基礎，樹結構可以擴充爲資料樹
+- 從基準正文樹開始，該樹可以擴充爲內容豐富的資料樹
 
 ---
 
