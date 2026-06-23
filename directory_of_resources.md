@@ -13,6 +13,22 @@ Status: Draft
 
 ---
 
+## Registry
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/registry/書目簡稱.json">書目簡稱</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/registry/異體字.json">異體字</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/registry/簡稱_著述碼.json">簡稱_著述碼</a>
+-<a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/schemas/json/registry/registry.json">registry.json</a> in CanonicalTextTrees
+
+---
+
+## IDs and Mapping
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/ids">ids</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/mapping">mapping</a>
+
+---
+
 ## 杜甫全集
 
 基準正文：
@@ -69,3 +85,8 @@ Status: Draft
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/AI貢獻記錄（ChatGPT）">AI貢獻記錄（ChatGPT）</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/AI貢獻記錄（Gemini）">AI貢獻記錄（Gemini）</a>
+
+<!--
+- <a href=""></a>
+- <a href=""></a>
+-->
