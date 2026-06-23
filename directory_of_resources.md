@@ -42,6 +42,14 @@ Status: Draft
 
 ---
 
+## 坐標
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/coords">coords</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/coords/默認詩文檔碼_完整坐標表.json">默認詩文檔碼_完整坐標表.json</a> （more than 600,000 lines）
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/coords/默認詩文檔碼_詩文_坐標.json">默認詩文檔碼_詩文_坐標.json</a> （more than a million lines!）
+
+---
+
 ## 杜著述
 
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/dufu">正文、正文樹、後設資料、後設資料、後設資料指令樹</a>
