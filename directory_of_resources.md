@@ -38,6 +38,12 @@ Status: Draft
 
 ---
 
+## 杜著述後設資料
+
+- <a href="https://github.com/wingmingchan64/DuFu/tree/master/packages">杜著述後設資料</a>
+
+---
+
 ## 索引文檔
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/registry">registry</a>
