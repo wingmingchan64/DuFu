@@ -52,7 +52,7 @@ Status: Draft
 
 ## 杜著述
 
-- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/dufu">正文、正文樹、後設資料、後設資料、後設資料指令樹</a>
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/dufu">正文、正文樹、後設資料指令樹</a>
 
 ---
 
@@ -86,6 +86,12 @@ Status: Draft
 ## 搜索界面
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/tools/php/bin/views">tools/php/bin/views/</a>
+
+---
+
+## 面貌樣本
+
+<a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0141.html">楊倫《杜詩鏡詮·北征》</a>
 
 ---
 
