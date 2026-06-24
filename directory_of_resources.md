@@ -101,6 +101,12 @@ Status: Draft
 
 ---
 
+## 生成數據結構
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/tools/php/bin/生成數據結構.php">tools/php/bin/生成數據結構.php</a>
+
+---
+
 ## 搜索界面
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/tools/php/bin/views">tools/php/bin/views/</a>
