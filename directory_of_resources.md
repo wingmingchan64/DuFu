@@ -120,9 +120,21 @@ Status: Draft
 
 ---
 
+## 生成後設資料指令樹
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/metadata/生成後設資料樹.php">bin/metadata/生成後設資料樹.php</a>
+
+---
+
 ## 面貌樣本
 
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0141.html">楊倫《杜詩鏡詮·北征》</a>
+
+---
+
+## 包含多個杜著述的資料樹
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/資料匯總/views/仇楊.json">corpus/dufu/資料匯總/views/仇楊.json</a>
 
 ---
 
