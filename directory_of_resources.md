@@ -80,7 +80,9 @@ Status: Draft
 
 ## 資料樹樣本
 
-- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0141.json">楊倫《杜詩鏡詮·北征》</a>
+0141： 楊倫《杜詩鏡詮·北征》
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0141.json">杜詩鏡詮/views/0141.json</a>
 
 ---
 
