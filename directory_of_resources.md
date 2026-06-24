@@ -64,7 +64,23 @@ Status: Draft
 
 ## 杜著述後設資料
 
-- <a href="https://github.com/wingmingchan64/DuFu/tree/master/packages">杜著述後設資料</a>
+0141： 楊倫《杜詩鏡詮·北征》
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/dufu/杜詩鏡詮/metadata/0141">杜詩鏡詮/metadata/0141</a>
+
+---
+
+## 杜著述後設資料指令樹
+
+0141： 楊倫《杜詩鏡詮·北征》
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/metadata/trees/0141.json">杜詩鏡詮/metadata/trees/0141.json</a>
+
+---
+
+## 資料樹樣本
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0141.json">楊倫《杜詩鏡詮·北征》</a>
 
 ---
 
