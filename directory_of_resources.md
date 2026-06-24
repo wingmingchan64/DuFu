@@ -126,6 +126,12 @@ Status: Draft
 
 ---
 
+## 生成杜詩鏡銓面貌
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/tools/php/bin/views/生成杜詩鏡銓面貌.php">生成杜詩鏡銓面貌.php</a>
+
+---
+
 ## AI貢獻記錄
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/AI貢獻記錄（ChatGPT）">AI貢獻記錄（ChatGPT）</a>
