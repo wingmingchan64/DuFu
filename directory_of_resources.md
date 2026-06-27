@@ -13,6 +13,13 @@ Status: Draft
 
 ---
 
+## 流程、示範程式
+
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs/workflow">流程</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs/workflow/demo_php_program">示範程式</a>
+
+---
+
 ## Registry
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/registry/書目簡稱.json">書目簡稱</a>
