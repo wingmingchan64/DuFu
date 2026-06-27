@@ -268,6 +268,9 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 <li></li>
 -->
 </ul>
+
+---
+
 <h2>杜詩（默認版本）之搜索</h2>
 <p>以坐標爲主鍵，支持各種搜索。例：</p>
 <ul>
