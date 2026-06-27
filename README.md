@@ -101,6 +101,8 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 - 後設資料指令樹之樹路徑可用後設-後設資料修改、操作
 - 後設資料單元（metadata component)輸出資料樹，成爲展示單元（presentational component）之輸入材料；資料樹儲存各種關於範圍、格式等資料
 - 同一資料樹，可按需要生成各種不同之最終面貌文本
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs/workflow">樹結構生成流程</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs/workflow/demo_php_program">示範程式</a>
 
 ---
 
