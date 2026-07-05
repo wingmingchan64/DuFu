@@ -9,7 +9,7 @@ Status: Draft
 讀了一輩子的杜詩，同時作爲一個電腦科學工程師，我一直在嘗試回答以下幾類問題：
 
 - 杜詩正文：如何擁有一杜甫全集數碼文本，其中不含任何錯字、拆字（如「𡿒」拆成「山」「孽」）、簡體字（如「云」「雲」不分，「后」「後」相混，「干」「乾」顚倒，「幺」「麼」合一）？（<a href="https://github.com/wingmingchan64/DuFu/tree/master/默認版本">默認版本</a>）
-- 杜詩定位：如何從杜甫的一句詩，或者只有零星、不相連的幾個字開始，有效地找到杜甫之全詩之所在位置？（<a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs/views/默認版本定位">默認版本定位</a>）
+- 杜詩定位：如何從杜甫的一句詩，或者只有零星、不相連的幾個字開始，有效地找到杜甫之全詩之所在位置？（<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/docs/terminology/搜索、定位.md">搜索、定位</a>、<a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs/views/默認版本定位">默認版本定位</a>）
 - 生成注本：如何在不儲存有固定格式、固定內容的個別注本文本之前提下，生成、顯示某注本的原書原貌
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0097.html">《杜詩鏡詮》之《自京赴奉先縣詠懷五百字》 HTML</a>
 - 眾多注本的顯示：如何於某杜詩下，幷列數個注本（如仇兆鰲的《杜詩詳註》、浦起龍《讀杜心解》、楊倫《杜詩鏡銓》、蕭滌非主編《杜甫全集校注》、謝思煒《杜甫集校注》）之注文、評論？
