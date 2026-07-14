@@ -52,8 +52,8 @@ Status: Draft
 ## 坐標
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/coords">coords</a>
-- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/coords/默認詩文檔碼_完整坐標表.json">默認詩文檔碼_完整坐標表.json</a> （more than 600,000 lines）
-- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/coords/默認詩文檔碼_詩文_坐標.json">默認詩文檔碼_詩文_坐標.json</a> （more than a million lines!）
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/coords/默認詩文檔碼_完整坐標表.json">默認詩文檔碼_完整坐標表.json</a> （超過六十萬行）
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/schemas/json/coords/默認詩文檔碼_詩文_坐標.json">默認詩文檔碼_詩文_坐標.json</a> （超過一百萬行）
 
 ---
 
@@ -77,6 +77,12 @@ Status: Draft
 
 ---
 
+## 手編後設資料的規則
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/README.md">杜著述</a>
+
+---
+
 ## 杜著述後設資料指令樹
 
 0141： 楊倫《杜詩鏡詮·北征》
@@ -93,7 +99,7 @@ Status: Draft
 
 ---
 
-## 索引文檔
+## 定位文檔
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/registry">registry</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/coords">坐標</a>
@@ -115,7 +121,7 @@ Status: Draft
 
 ---
 
-## 搜索界面
+## 定位、搜索界面
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/tools/php/bin/views">tools/php/bin/views/</a>
 
