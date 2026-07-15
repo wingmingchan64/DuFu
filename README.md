@@ -12,7 +12,7 @@ Status: Draft
 - 杜詩定位：如何從杜甫的一句詩，或者只有零星、不相連的幾個字開始，有效地找到杜甫之全詩之所在位置？（<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/docs/terminology/搜索、定位.md">搜索、定位</a>、<a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs/views/默認版本定位">默認版本定位</a>）
 - 生成注本：如何在不儲存有固定格式、固定內容的個別注本文本之前提下，生成、顯示某注本的原書原貌
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0097.html">《杜詩鏡詮》之《自京赴奉先縣詠懷五百字》 HTML</a>
-- 眾多注本的顯示：如何於某杜詩下，幷列數個注本（如仇兆鰲的《杜詩詳註》、浦起龍《讀杜心解》、楊倫《杜詩鏡銓》、蕭滌非主編《杜甫全集校注》、謝思煒《杜甫集校注》）之注文、評論？
+- 眾多注本的顯示：如何於某杜詩下，幷列數個、乃至數十個注本（如仇兆鰲的《杜詩詳註》、浦起龍《讀杜心解》、楊倫《杜詩鏡銓》、蕭滌非主編《杜甫全集校注》、謝思煒《杜甫集校注》）之注文、評論？
 	- 樣本： 《北征》 <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/資料匯總/views/0943.json">corpus/dufu/資料匯總/views/0943.json</a>
 	- 幷列的杜著述：
 		- 錢謙益《錢注杜詩》
