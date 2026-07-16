@@ -16,6 +16,7 @@ Status: Draft
 	- 樣本： 《北征》 <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/資料匯總/views/0943.json">corpus/dufu/資料匯總/views/0943.json</a>
 	- 《北征》一詩幷列的杜著述：
 		- 林繼中輯校《杜詩趙次公先後解輯校》
+		- 王嗣奭《杜臆》
 		- 錢謙益《錢注杜詩》
 		- 仇兆鰲《杜詩詳註》
 		- 楊倫《杜詩鏡銓》
