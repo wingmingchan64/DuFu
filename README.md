@@ -26,6 +26,7 @@ Status: Draft
 		- 陳永明《杜甫全集粵音注音》
 		- 下定雅弘、松原朗《杜甫全詩訳注》之日譯
 		- Stephen Owen: The Poetry of Du Fu 之英譯
+		- 張忠綱輯錄《杜甫年譜簡編》
 - 一對多：如何以同一組資料，生成數以萬億計的、內容各自不同的幷列杜著述、幷列版本、詩文與注釋、評論的部分分列的文檔（如只有《北征》的頭十句及其注釋，或只有《北征》的詩文以及各家對《北征》的評論）？
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/建立《資料匯總》的目的.md">建立《資料匯總》的目的.md</a>
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/自由組合背後的數學含義.md">自由組合背後的數學含義.md</a>
