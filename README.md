@@ -14,11 +14,12 @@ Status: Draft
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0097.html">《杜詩鏡詮》之《自京赴奉先縣詠懷五百字》 HTML</a>
 - 眾多杜著述的顯示：如何於某杜詩下，以程式幷列數個、乃至數十個杜著述（如仇兆鰲的《杜詩詳註》、浦起龍《讀杜心解》、楊倫《杜詩鏡銓》、蕭滌非主編《杜甫全集校注》、謝思煒《杜甫集校注》）之注釋、評論、校記？
 	- 樣本： 《北征》 <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/資料匯總/views/0943.json">corpus/dufu/資料匯總/views/0943.json</a> （一棵以程式生成的資料樹）
-	- 《北征》一詩幷列的杜著述：
+	- 《北征》一詩下幷列的杜著述：
 		- 林繼中輯校《杜詩趙次公先後解輯校》
 		- 王嗣奭《杜臆》
 		- 錢謙益《錢注杜詩》
 		- 仇兆鰲《杜詩詳註》
+		- 浦起龍《讀杜心解》
 		- 楊倫《杜詩鏡銓》
 		- 《唐詩鑒賞辭典·杜甫·北征》
 		- 陳貽焮主編《增訂注釋全唐詩》
@@ -31,7 +32,7 @@ Status: Draft
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/建立《資料匯總》的目的.md">建立《資料匯總》的目的.md</a>
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/自由組合背後的數學含義.md">自由組合背後的數學含義.md</a>
 - 眾多全集：如何生成杜甫全集帶各詩的白話文翻譯（或英譯、日譯）、杜甫全集帶王嗣奭《杜臆》的評論、杜甫全集帶平仄、韻部說明，或者一部極具規模的杜甫全集匯注、匯校、匯評？
-- 局部視窗（zooming in using a viewport）：如何以一視窗，只顯示如《北征》中關於「不聞夏殷衰，中自誅襃妲」一行的各家注釋或校記？只顯示蕭滌非主編《杜甫全集校注》一書的注釋？
+- 局部視窗（zooming in using a viewport）：如何以一視窗，只顯示如《北征》中關於「不聞夏殷衰，中自誅襃妲」一行的各家注釋或校記？只顯示蕭滌非主編《杜甫全集校注》一書關於這行的注釋？
 - 杜著述注釋之分類、統計：如何不必把某書從頭到尾翻閱一遍，卽可回答「在趙次公注中，有多少條引用了《論語》」、「在仇兆鰲的《杜詩詳註》中，有多少條王嗣奭《杜臆》原書所缺的引文」、「蕭滌非主編《杜甫全集校注》全書（頭十一冊）共有多少條注文」一類之問題？
 - 杜詩詞典之編纂：如何用程式編纂一本集諸杜著述注釋之杜詩詞典？
 - 如何在某杜詩注釋之下，用程式列出注文所引用之典籍（如《論語》、《史記》）之原文？
