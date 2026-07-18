@@ -13,7 +13,7 @@ Status: Draft
 - 生成杜著述：如何在不儲存有固定格式、固定內容的個別杜著述文本之前提下，生成、顯示某杜著述的原書原貌
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0097.html">《杜詩鏡詮》之《自京赴奉先縣詠懷五百字》 HTML</a>
 - 眾多杜著述的顯示：如何於某杜詩下，以程式幷列數個、乃至數十個杜著述（如仇兆鰲的《杜詩詳註》、浦起龍《讀杜心解》、楊倫《杜詩鏡銓》、蕭滌非主編《杜甫全集校注》、謝思煒《杜甫集校注》）之注釋、評論、校記？
-	- 樣本： 《北征》 <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/資料匯總/views/0943.json">corpus/dufu/資料匯總/views/0943.json</a> （一棵以程式生成的資料樹）
+	- 樣本： 《北征》資料樹 <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/資料匯總/views/0943.json">corpus/dufu/資料匯總/views/0943.json</a> （一棵以程式生成的資料樹）
 	- 《北征》一詩下幷列的杜著述：
 		- 林繼中輯校《杜詩趙次公先後解輯校》
 		- 王嗣奭《杜臆》
