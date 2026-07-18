@@ -16,6 +16,7 @@ Status: Draft
 	- 樣本： 《北征》資料樹 <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/資料匯總/views/0943.json">corpus/dufu/資料匯總/views/0943.json</a> （一棵以程式生成的資料樹）
 	- 《北征》一詩下幷列的杜著述：
 		- 林繼中輯校《杜詩趙次公先後解輯校》
+		- 郭知達《新刊校定集注杜詩》
 		- 王嗣奭《杜臆》
 		- 錢謙益《錢注杜詩》
 		- 金聖歎《唱經堂杜詩解》
