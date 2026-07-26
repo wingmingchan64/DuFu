@@ -8,11 +8,11 @@ Status: Draft
 
 讀了一輩子的杜詩，同時作爲一個電腦科學工程師，我一直在嘗試回答以下幾類問題：
 
-- 杜詩正文：如何擁有一杜甫全集數碼文本，其中不含任何錯字、拆字（如「𡿒」拆成「山」「孽」）、簡體字（如「云」「雲」不分，「后」「後」相混，「干」「乾」顚倒，「幺」「麼」合一）？（<a href="https://github.com/wingmingchan64/DuFu/tree/master/默認版本">默認版本</a>）
+- 杜詩正文：如何擁有一部杜甫全集數碼文本，其中不含任何錯字、拆字（如「𡿒」拆成「山」「孽」）、簡體字（如「云」「雲」不分，「后」「後」相混，「干」「乾」顚倒，「幺」「麼」合一）？（<a href="https://github.com/wingmingchan64/DuFu/tree/master/默認版本">默認版本</a>）
 - 杜詩定位：如何從杜甫的一句詩，或者只有零星、不相連的幾個字開始，有效地找到杜甫之全詩之所在位置？（<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/docs/terminology/搜索、定位.md">搜索、定位</a>、<a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/docs/views/默認版本定位">默認版本定位</a>）
 - 生成杜著述：如何在不儲存有固定格式、固定內容的個別杜著述文本之前提下，生成、顯示某杜著述的原書原貌
 	- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0097.html">《杜詩鏡詮》之《自京赴奉先縣詠懷五百字》 HTML</a>
-- 眾多杜著述的顯示：如何於某杜詩下，以程式幷列數個、乃至數十個杜著述（如仇兆鰲的《杜詩詳註》、浦起龍《讀杜心解》、楊倫《杜詩鏡銓》、蕭滌非主編《杜甫全集校注》、謝思煒《杜甫集校注》）之注釋、評論、校記？
+- 眾多杜著述的同時顯示：如何於某杜詩下，以程式幷列數個、乃至數十個杜著述（如仇兆鰲的《杜詩詳註》、浦起龍《讀杜心解》、楊倫《杜詩鏡銓》、蕭滌非主編《杜甫全集校注》、謝思煒《杜甫集校注》）之注釋、評論、校記？
 	- 樣本： 《北征》資料樹 <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/資料匯總/views/0943.json">corpus/dufu/資料匯總/views/0943.json</a> （一棵以**程式生成**的資料樹）
 	- 《北征》一詩下幷列的杜著述：
 		- 林繼中輯校《杜詩趙次公先後解輯校》
@@ -31,6 +31,7 @@ Status: Draft
 		- 《唐詩鑒賞辭典·杜甫·北征》
 		- 陳貽焮主編《增訂注釋全唐詩》
 		- 蕭滌非主編《杜甫全集校注》
+		- 謝思煒《杜甫集校注》
 		- 陳永明《杜甫全集粵音注音》
 		- 下定雅弘、松原朗《杜甫全詩訳注》之日譯
 		- Stephen Owen: The Poetry of Du Fu 之英譯
