@@ -347,6 +347,14 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 
 <p>由於這種分離性，一棵《北征》之基準正文樹，配合恰當、配套之原始資料，加上對應之後設資料，可生成《北征》之英譯、日譯，甚至可以生成李白之《將進酒》，或 Harry Potter 七書中之某段文字。</p>
 
+---
+
+## 從杜甫到巴赫
+
+這裏推介的理論框架可以用在杜甫的詩文上，也可以用在巴赫（Bach）的清唱劇（cantatas）上：
+
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/others/bach_cantatas">bach_cantatas</a>
+
 
 <!--
 <h2>重要文件一覽</h2>
