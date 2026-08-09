@@ -349,11 +349,12 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 
 ---
 
-## 從杜甫到巴赫
+## 從杜甫到巴赫、外語學習
 
-這裏推介的理論框架可以用在杜甫的詩文上，也可以用在巴赫（Bach）的清唱劇（cantatas）上：
+這裏推介的理論框架可以用在杜甫的詩文上，也可以用在巴赫（Bach）的清唱劇（cantata BWV140）上：
 
-- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/others/bach_cantatas">bach_cantatas</a>
+- 多語言版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140.json">140.json</a>
+- 雙語、詞條版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140_dic.json">140_dic.json</a>
 
 
 <!--
