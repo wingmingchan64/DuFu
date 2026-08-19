@@ -136,7 +136,7 @@ Status: Draft
 
 ## 生成後設資料指令樹
 
-- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/views/%E8%B3%87%E6%96%99%E5%8C%AF%E7%B8%BD/%E7%94%9F%E6%88%90%E5%BE%8C%E8%A8%AD%E8%B3%87%E6%96%99%E6%A8%B9.php">bin/metadata/生成後設資料樹.php</a>
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/views/%E8%B3%87%E6%96%99%E5%8C%AF%E7%B8%BD/%E7%94%9F%E6%88%90%E5%BE%8C%E8%A8%AD%E8%B3%87%E6%96%99%E6%A8%B9.php">bin/views/資料匯總/生成後設資料樹.php</a>
 
 ---
 
