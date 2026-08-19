@@ -4,6 +4,12 @@ Status: Draft
 
 ---
 
+## 杜詩注本、巴赫馬太受難曲的交匯點
+
+本文討論如何建立一個理論系統，爲整理杜詩注本、李善注《文選》、生成巴赫馬太受難曲的德語、英語、漢語歌詞，再加上生詞表、國際音標等資料，或者爲 Harry Potter 作注釋，並生成數以億萬計的、可供閱讀的資料樹，甚至再進一步生成 HTML、.md 等文檔。
+
+---
+
 ## 如何「玩」杜甫詩？
 
 讀了一輩子的杜詩，同時作爲一個電腦科學工程師，我一直在嘗試回答以下幾類問題：
@@ -351,10 +357,12 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 
 ## 從杜甫到巴赫、外語學習
 
-這裏推介的理論框架可以用在杜甫的詩文上，也可以用在巴赫（Bach）的清唱劇（cantata BWV140）上：
+這裏推介的理論框架可以用在杜甫的詩文上，也可以用在巴赫（Bach）的清唱劇（cantata BWV140）、馬太受難曲上：
 
 - 多語言版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140.json">140.json</a>
 - 雙語、詞條版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140_dic.json">140_dic.json</a>
+- 德語、英語，並帶生詞表、國際音標的<a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/244_dic.json">馬太受難曲</a>
+- 限於版權問題，不能顯示 Harry Potter: der Stein der Weisen 第一章的資料樹
 
 
 <!--
