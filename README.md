@@ -365,7 +365,7 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 - 多語言版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140.json">140.json</a>
 - 雙語、生詞表版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140_dic.json">140_dic.json</a>
 - 德語、英語，並帶生詞表、國際音標的<a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/244_dic.json">馬太受難曲</a>
-- 限於版權問題，不能顯示 Harry Potter: der Stein der Weisen 第一章的資料樹
+- 限於版權問題，不能顯示 Harry Potter und der Stein der Weisen 第一章的資料樹
 
 ---
 
@@ -373,7 +373,7 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 
 - 設置後設資料的目的，是要說明正文、附加資料之間的投射、對應關係
 - 如果不用後設資料，則正文中的每個詞都可被視爲生詞
-- 系統可以把某段文字，如 Harry Potter: der Stein der Weisen 中的某段文字列出來，然後爲每個詞生成詞條定義、國際音標注音、語法說明等等
+- 系統可以把某段文字，如 Harry Potter und der Stein der Weisen 中的某段文字列出來，然後爲每個詞生成詞條定義、國際音標注音、語法說明等等
 - 這樣的文檔的內容可能有大量的重複（可以程式過濾重複部分），但不需要人手干預
 
 <!--
