@@ -8,6 +8,8 @@ Status: Draft
 
 本文討論如何建立一個理論架構，用以整理杜詩注本、李善注《文選》、生成巴赫馬太受難曲的德語、英語、漢語歌詞，再加上生詞表、國際音標等資料，或者爲 Harry Potter、 Le Comte de Monte-Cristo 作注釋，並生成數以億萬計的、可供閱讀的資料樹，甚至再進一步生成 HTML、.md 等文檔。
 
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E8%87%AA%E7%94%B1%E7%B5%84%E5%90%88%E8%83%8C%E5%BE%8C%E7%9A%84%E6%95%B8%E5%AD%B8%E5%90%AB%E7%BE%A9.md">自由組合背後的數學含義</a>
+
 ---
 
 ## 如何「玩」杜甫詩？
