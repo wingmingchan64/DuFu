@@ -74,7 +74,7 @@ Status: Draft
 
 0141： 楊倫《杜詩鏡詮·北征》
 
-- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/dufu/杜詩鏡詮/metadata/0141">杜詩鏡詮/metadata/0141</a>
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/dufu/%E6%9D%9C%E8%A9%A9%E9%8F%A1%E9%8A%93/metadata">杜詩鏡詮/metadata/0141</a>
 
 ---
 
