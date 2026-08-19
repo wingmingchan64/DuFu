@@ -360,7 +360,7 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 這裏推介的理論框架可以用在杜甫的詩文上，也可以用在巴赫（Bach）的清唱劇（cantata BWV140）、馬太受難曲上：
 
 - 多語言版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140.json">140.json</a>
-- 雙語、詞條版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140_dic.json">140_dic.json</a>
+- 雙語、生詞表版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140_dic.json">140_dic.json</a>
 - 德語、英語，並帶生詞表、國際音標的<a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/244_dic.json">馬太受難曲</a>
 - 限於版權問題，不能顯示 Harry Potter: der Stein der Weisen 第一章的資料樹
 
