@@ -142,7 +142,7 @@ Status: Draft
 
 ## 面貌樣本
 
-- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/杜詩鏡詮/views/0141.html">楊倫《杜詩鏡詮·北征》</a>
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%9D%9C%E8%A9%A9%E9%8F%A1%E9%8A%93/views/0141.html">楊倫《杜詩鏡詮·北征》</a> HTML
 
 ---
 
