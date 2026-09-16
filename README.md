@@ -4,9 +4,9 @@ Status: Draft
 
 ---
 
-## 杜詩注本、巴赫馬太受難曲的交匯點
+## 杜詩注本、《紅樓夢》、巴赫馬太受難曲的交匯點
 
-本文討論如何建立一個理論架構，用以整理杜詩注本、李善注《文選》、生成巴赫馬太受難曲的德語、英語、漢語歌詞，再加上生詞表、國際音標等資料，或者爲 Harry Potter、 Le Comte de Monte-Cristo 作注釋，並生成數以億萬計的、可供閱讀的資料樹，甚至再進一步生成 HTML、.md 等文檔。
+本文討論如何建立一個理論架構，用以整理杜詩注本、李善注《文選》、脂系《紅樓夢》與程系《紅樓夢》的對應關係、生成巴赫馬太受難曲的德語、英語、漢語歌詞，再加上生詞表、國際音標等資料，或者爲 Harry Potter、 Le Comte de Monte-Cristo 作注釋，並生成數以億萬計的、可供閱讀的資料樹，甚至再進一步生成 HTML、.md 等文檔。
 
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/tree/main/corpus/dufu/%E6%9D%9C%E8%A9%A9%E9%8F%A1%E9%8A%93/views">杜詩鏡銓/views/</a>
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E8%87%AA%E7%94%B1%E7%B5%84%E5%90%88%E8%83%8C%E5%BE%8C%E7%9A%84%E6%95%B8%E5%AD%B8%E5%90%AB%E7%BE%A9.md">自由組合背後的數學含義</a>
@@ -355,6 +355,12 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 這些呈現面貌，可用 HTML，.md，plain text 或者其他的形式來呈現。
 
 <p>由於這種分離性，一棵《北征》之基準正文樹，配合恰當、配套之原始資料，加上對應之後設資料，可生成《北征》之英譯、日譯，甚至可以生成李白之《將進酒》，或 Harry Potter 七書中之某段文字。</p>
+
+---
+
+## 《紅樓夢》
+
+杜甫的文賦與杜甫詩不同，需要建立一套特殊的處理方法。這裏推介的理論框架在資料樹之前，加了一層一元的樹結構、樹骨架，以便文字修改、樹結構修改。同時，如果正文與版本文字內容有巨大的差異，如脂系《紅樓夢》與程系《紅樓夢》的差異，不同的版本可以各自有不同的樹結構。細節見<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/docs/workflow/11%20%E6%96%87%E8%B3%A6.md">11 文賦.md</a>。
 
 ---
 
