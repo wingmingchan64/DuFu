@@ -76,9 +76,9 @@ Status: Draft
 
 ---
 
-## 關鍵的頭三步
+## 處理杜詩關鍵的頭三步
 
-要回答上述的各類問題，關鍵的第一步是把杜甫詩文與各家關於杜甫詩文的文字內容完全、徹底、乾淨地分隔開。
+先從杜詩入手。要回答上述的各類問題，關鍵的第一步是把杜甫詩文與各家關於杜甫詩文的文字內容完全、徹底、乾淨地分隔開。
 
 關鍵的第二步是采用樹結構來儲存各種資料，以達到任何文字內容均有層次結構、可快速作內容定位的操作。
 
@@ -370,7 +370,7 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 
 ---
 
-## 從杜甫到《紅樓夢》
+## 從杜甫文賦到《紅樓夢》
 
 杜甫的文賦與杜甫詩不同，需要建立一套特殊的處理方法。這裏推介的理論框架在資料樹之前，加了一層一元的樹結構、樹骨架，以便文字修改、樹結構修改。同時，如果正文與版本文字內容有巨大的差異，如脂系《紅樓夢》與程系《紅樓夢》的差異，不同的版本可以各自有不同的樹結構。細節見<a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/docs/workflow/11%20%E6%96%87%E8%B3%A6.md">11 文賦.md</a>。
 
@@ -385,7 +385,8 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 - 多語言版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140.json">140.json</a>
 - 雙語、生詞表版本： <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/140_dic.json">140_dic.json</a>
 - 德語、英語，並帶生詞表、國際音標的<a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/bach_cantatas/views/244_dic.json">馬太受難曲</a>
-- 限於版權問題，不能顯示 Harry Potter und der Stein der Weisen 第一章的資料樹
+- 限於版權問題，不能顯示 Harry Potter und der Stein der Weisen 第一章、 Project Hail Mary 的英、法對照資料樹
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/others/le_comte_de_monte_cristo/views/001_dic.json">Le comte de Monte-Cristo 第一章</a>
 
 ---
 
@@ -394,7 +395,7 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 - 設置後設資料的目的，是要說明正文、附加資料之間的投射、對應關係
 - 如果不用後設資料，則正文中的每個詞都可被視爲生詞
 - 系統可以把某段文字，如 Harry Potter und der Stein der Weisen 中的某段文字列出來，然後爲每個詞生成詞條定義、國際音標注音、語法說明等等
-- 這樣的文檔的內容可能有大量的重複（可以程式過濾重複部分），但不需要人手干預
+- 這樣的文檔的內容可能有大量的重複（可以程式過濾重複部分），且需要先建立動、名詞變格、變形的對照表；但一旦所有的詞典、對照表都準備就緒，就不需要人手干預，可以爲任何語言、任何文件作注釋
 
 <!--
 <h2>重要文件一覽</h2>
