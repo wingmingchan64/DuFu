@@ -396,6 +396,7 @@ The system is a theoretical framework for storing, organizing, identifying, loca
 - 如果不用後設資料，則正文中的每個詞都可被視爲生詞
 - 系統可以把某段文字，如 Harry Potter und der Stein der Weisen 中的某段文字列出來，然後爲每個詞生成詞條定義、國際音標注音、語法說明等等
 - 這樣的文檔的內容可能有大量的重複（可以程式過濾重複部分），且需要先建立動、名詞變格、變形的對照表；但一旦所有的詞典、對照表都準備就緒，就不需要人手干預，可以爲任何語言、任何文件作注釋
+- 也可以加一個基礎詞匯表，凡是在表裏的詞都可以跳過、不加注釋
 
 <!--
 <h2>重要文件一覽</h2>
