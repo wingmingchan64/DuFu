@@ -44,7 +44,7 @@ Status: Draft
 - <a href="https://github.com/wingmingchan64/DuFu/tree/master/默認版本/詩">詩</a>
 - <a href="https://github.com/wingmingchan64/DuFu/tree/master/默認版本/文賦">文賦</a>
 
-基準正文樹（詩）：
+基準正文樹（詩、文、賦）：
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/schemas/json/base_text">基準正文樹</a>
 
