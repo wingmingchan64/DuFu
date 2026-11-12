@@ -69,7 +69,7 @@ Status: Draft
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%9D%9C%E5%B7%A5%E9%83%A8%E9%9B%86/%E7%9B%AE%E9%8C%84.txt">王洙本《杜工部集》</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/catalog/%E5%85%A8%E7%9B%AE%E9%8C%84.txt">《全唐詩》（杜甫）</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/catalog/%E8%B6%99%E7%9B%AE%E9%8C%84.txt">林繼中輯校《杜詩趙次公先後解輯校》</a>
-
+- <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/catalog/%E9%83%AD%E7%9B%AE%E9%8C%84.txt">郭知達《新刊校定集注杜詩》</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/packages/%E3%80%8A%E5%88%86%E9%96%80%E9%9B%86%E8%A8%BB%E6%9D%9C%E5%B7%A5%E9%83%A8%E8%A9%A9%E3%80%8B/%E5%88%86%E7%9B%AE%E9%8C%84.txt">《分門集註杜工部詩》</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/catalog/%E5%A5%AD%E7%9B%AE%E9%8C%84.txt">王嗣奭《杜臆》</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/catalog/%E4%BB%87%E7%9B%AE%E9%8C%84.txt">仇兆鰲《杜詩詳註》</a>
@@ -77,7 +77,6 @@ Status: Draft
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/catalog/%E8%AC%9D%E7%9B%AE%E9%8C%84.txt">謝思煒《杜甫集校注》</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/catalog/%E8%A8%B3%E7%9B%AE%E9%8C%84.txt">下定雅弘、松原_朗《杜甫全詩訳注》</a>
 
-- <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
 
