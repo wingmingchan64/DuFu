@@ -74,6 +74,7 @@ Status: Draft
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E5%88%86%E9%96%80%E9%9B%86%E8%A8%BB%E6%9D%9C%E5%B7%A5%E9%83%A8%E8%A9%A9/%E7%9B%AE%E9%8C%84.txt">《分門集註杜工部詩》</a>
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%9D%9C%E8%87%86/%E7%9B%AE%E9%8C%84.txt">王嗣奭《杜臆》</a>
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB/%E7%9B%AE%E9%8C%84.txt">仇兆鰲《杜詩詳註》</a>
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%9D%9C%E8%A9%A9%E9%8F%A1%E9%8A%93/%E7%9B%AE%E9%8C%84.txt">楊倫《杜詩鏡詮》</a>
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E5%8F%97%E7%89%88%E6%AC%8A%E4%BF%9D%E8%AD%B7%E7%9A%84%E6%9D%9C%E8%91%97%E8%BF%B0%E7%9B%AE%E9%8C%84/%E8%95%AD%E7%9B%AE%E9%8C%84.txt">蕭滌非主編《杜甫全集校注》</a>
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E5%8F%97%E7%89%88%E6%AC%8A%E4%BF%9D%E8%AD%B7%E7%9A%84%E6%9D%9C%E8%91%97%E8%BF%B0%E7%9B%AE%E9%8C%84/%E8%AC%9D%E7%9B%AE%E9%8C%84.txt">謝思煒《杜甫集校注》</a>
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E5%8F%97%E7%89%88%E6%AC%8A%E4%BF%9D%E8%AD%B7%E7%9A%84%E6%9D%9C%E8%91%97%E8%BF%B0%E7%9B%AE%E9%8C%84/%E8%A8%B3%E7%9B%AE%E9%8C%84.txt">下定雅弘、松原_朗《杜甫全詩訳注》</a>
