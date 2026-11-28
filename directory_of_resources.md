@@ -68,7 +68,7 @@ Status: Draft
 
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%9D%9C%E7%94%AB%E8%A9%A9%E9%9B%86%E5%9B%9B%E5%8D%81%E7%A8%AE%E7%B4%A2%E5%BC%95/%E7%9B%AE%E9%8C%84.txt">黃永武主編《杜甫詩集四十種索引》</a>
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%9D%9C%E5%B7%A5%E9%83%A8%E9%9B%86/%E7%9B%AE%E9%8C%84.txt">王洙本《杜工部集》</a>
-- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E5%94%90%E4%BA%94%E4%BB%A3%E8%A9%A9%E5%85%A8%E7%B7%A8/%E7%9B%AE%E9%8C%84.txt">陳尚君主編《唐五代詩全編》（杜甫部分）</a>
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E5%8F%97%E7%89%88%E6%AC%8A%E4%BF%9D%E8%AD%B7%E7%9A%84%E6%9D%9C%E8%91%97%E8%BF%B0%E7%9B%AE%E9%8C%84/%E9%99%B3%E7%9B%AE%E9%8C%84.txt">陳尚君主編《唐五代詩全編》（杜甫部分）</a>
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/blob/main/tools/php/bin/catalog/%E5%85%A8%E7%9B%AE%E9%8C%84.txt">《全唐詩》（杜甫）</a>
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E5%8F%97%E7%89%88%E6%AC%8A%E4%BF%9D%E8%AD%B7%E7%9A%84%E6%9D%9C%E8%91%97%E8%BF%B0%E7%9B%AE%E9%8C%84/%E8%B6%99%E7%9B%AE%E9%8C%84.txt">林繼中輯校《杜詩趙次公先後解輯校》</a>
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%96%B0%E5%88%8A%E6%A0%A1%E5%AE%9A%E9%9B%86%E6%B3%A8%E6%9D%9C%E8%A9%A9/%E7%9B%AE%E9%8C%84.txt">郭知達《新刊校定集注杜詩》</a>
