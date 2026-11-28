@@ -185,7 +185,7 @@ Status: Draft
 
 - 屬性：一個只屬於我自己的杜甫集，形式爲資料樹
 - 輸出文檔：可以用資料樹生成各種不同格式的文檔
-- 資料來源：內容可以無所不包，只要存在於 CanonicalTextTrees 裏的（年譜、詞典、校記、注釋、評論等等），都可以用後設標記導入資料樹中
+- 資料來源：內容可以無所不包，只要存在於 CanonicalTextTrees 裏的（年譜、詞典、校記、注釋、引典、評論等等），都可以用後設標記導入資料樹中
 - 選擇性：只導入我挑選的資料，而不是盡數羅列
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%B0%B8%E6%98%8E%E7%9A%84%E6%9D%9C%E7%94%AB%E9%9B%86/views/0943.json">《北征》樣本</a>
 
