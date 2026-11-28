@@ -184,7 +184,7 @@ Status: Draft
 ## 《永明的杜甫集》
 
 - 一個只屬於我自己的杜甫集
-- 內容可以無所不包，只要存在於 CanonicalTextTrees 裏的（年譜、詞典、校記、注釋、評論等等），都可以引用
+- 內容可以無所不包，只要存在於 CanonicalTextTrees 裏的（年譜、詞典、校記、注釋、評論等等），都可以用後設標記導入資料樹中
 - <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%B0%B8%E6%98%8E%E7%9A%84%E6%9D%9C%E7%94%AB%E9%9B%86/views/0943.json">《北征》樣本</a>
 
 ---
