@@ -181,6 +181,14 @@ Status: Draft
 
 ---
 
+## 《永明的杜甫集》
+
+- 一個只屬於我自己的杜甫集
+- 內容可以無所不包，只要存在於 CanonicalTextTrees 裏，都可以引用
+- <a href="https://github.com/wingmingchan64/CanonicalTextTrees/blob/main/corpus/dufu/%E6%B0%B8%E6%98%8E%E7%9A%84%E6%9D%9C%E7%94%AB%E9%9B%86/views/0943.json">《北征》樣本</a>
+
+---
+
 ## AI貢獻記錄
 
 - <a href="https://github.com/wingmingchan64/Dufu-Analysis/tree/main/AI貢獻記錄（ChatGPT）">AI貢獻記錄（ChatGPT）</a>
